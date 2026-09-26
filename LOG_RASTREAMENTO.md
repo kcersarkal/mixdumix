@@ -295,5 +295,6 @@
 - `sitemap.xml` — Todas as URLs atualizadas para `?artigo=ASIN`.
 - `produtos.js` — Todas as 200 imagens limpas: remoção de parâmetros de widget e upgrade para alta resolução permanente na CDN (`_AC_SL800_`).
 - `adicionar_produto_amazon.py` / `adicionar_produto_amazon.js` — Scripts de automação criados para extrair dados limpos da Amazon (título, foto HD e tag de afiliado) e cadastrar no blog automaticamente.
+- `index.html` — Correção de exibição da busca mobile, SEO dinâmico completo (canonical, Open Graph, Twitter cards), enriquecimento da página Sobre (metodologia e critérios E-E-A-T), formulário interativo de contato e seção de Guias Recomendados ao final de cada artigo.
 - `LOG_RASTREAMENTO.md` — Registro desta etapa.
 

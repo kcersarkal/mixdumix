@@ -999,6 +999,7 @@ a { text-decoration: none; color: inherit; }
   .hero-banner { grid-template-columns: 1fr; padding: 28px; }
   .hero-image-wrap { order: -1; height: 180px; }
 }
+.mobile-search-row { display: none; }
 @media (max-width: 640px) {
   .site-header .container { padding: 12px 16px; }
   .header-nav { display: none; }
@@ -1051,7 +1052,7 @@ a { text-decoration: none; color: inherit; }
     </button>
   </div>
 
-  <div class="mobile-search-row" style="display:none;" id="mobile-search-bar">
+  <div class="mobile-search-row" id="mobile-search-bar">
     <div class="search-wrap">
       <input class="search-input" id="search-input-mobile" type="text" placeholder="Buscar guias e produtos..." oninput="onSearchInput(this.value)" autocomplete="off">
       <button class="search-btn" onclick="onSearchInput(document.getElementById('search-input-mobile').value)" aria-label="Pesquisar">
@@ -1133,12 +1134,25 @@ a { text-decoration: none; color: inherit; }
   <section data-view="sobre">
     <div class="static-page">
       <h1>Sobre o Mix Du Mix</h1>
-      <p>O <strong>Mix Du Mix</strong> é um portal e blog independente de curadoria, guias de compras e avaliações práticas de produtos de tecnologia, casa, eletroportáteis, cuidados pessoais e saúde.</p>
-      <p>Nossa missão é economizar o seu tempo e o seu dinheiro através de conteúdos claros, detalhados e diretos ao ponto, ajudando você a entender especificações técnicas e fazer escolhas inteligentes.</p>
+      <p>O <strong>Mix Du Mix</strong> é um portal e blog independente dedicado a produzir guias de compra, análises aprofundadas e resumos práticos sobre produtos de beleza, cuidados pessoais, tecnologia, casa, eletroportáteis e nutrição.</p>
       
-      <h2>Transparência e Afiliados</h2>
-      <p>Acreditamos em transparência total com nossos leitores. Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</p>
-      <p>Isso significa que quando você clica em um link de recomendação no nosso blog e adquire o item na Amazon, recebemos uma pequena comissão oficial da plataforma. Esse processo <strong>não altera nem encarece em nenhum centavo</strong> o valor do produto para você e financia a manutenção e geração de novos guias de compra.</p>
+      <h2>Nossa Metodologia Editorial (Como Avaliamos)</h2>
+      <p>Nossos guias são elaborados com base em rigorosos critérios editoriais para garantir que cada recomendação seja genuinamente útil:</p>
+      <ul style="color:#334155;line-height:1.8;margin-bottom:20px;">
+        <li><strong>Análise de Reputação e Procedência:</strong> Selecionamos apenas marcas com distribuição oficial no Brasil, garantia de autenticidade e histórico consistente de qualidade.</li>
+        <li><strong>Avaliações Reais de Consumidores:</strong> Cruzamos especificações de fábrica com relatos verificados de clientes que compraram e utilizam o produto na rotina.</li>
+        <li><strong>Checagem Técnica:</strong> Identificamos pontos de atenção que o consumidor costuma ignorar (voltagem, compatibilidade, rendimento e facilidade de limpeza).</li>
+        <li><strong>Independência:</strong> Não aceitamos pagamentos de fabricantes para posicionar produtos em primeiro lugar. Todas as análises expressam a visão editorial da nossa equipe.</li>
+      </ul>
+
+      <h2>Transparência e Programa de Associados Amazon</h2>
+      <div class="affiliate-disclosure-box">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+        <div>
+          <strong>Aviso de Transparência:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.
+        </div>
+      </div>
+      <p>Quando você acessa a Amazon através dos links do nosso blog e conclui uma compra, a Amazon nos repassa uma pequena comissão. Esse valor <strong>não aumenta em nada o preço do produto</strong> para você e financia o trabalho contínuo de pesquisa da nossa equipe.</p>
     </div>
   </section>
 
@@ -1146,31 +1160,50 @@ a { text-decoration: none; color: inherit; }
   <section data-view="privacidade">
     <div class="static-page">
       <h1>Política de Privacidade</h1>
-      <p>A sua privacidade é fundamental para nós. Esta política descreve como o site <strong>Mix Du Mix</strong> trata as informações de navegação.</p>
+      <p>A transparência com o leitor é a prioridade do <strong>Mix Du Mix</strong>. Esta política detalha como tratamos seus dados e como funcionam as interações em nosso portal.</p>
 
       <h2>Links de Afiliados Amazon</h2>
       <p>Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</p>
-      <p>Ao clicar nos botões de recomendação para a Amazon, você é direcionado diretamente para os servidores seguros da Amazon.com.br, onde a sua navegação e compra seguem as diretrizes e termos de segurança da própria Amazon.</p>
+      <p>Ao clicar nos botões para conferir um produto, você é redirecionado diretamente para os servidores seguros da Amazon.com.br, onde toda a transação, entrega e proteção de pagamento ocorrem sob a responsabilidade e criptografia da própria Amazon.</p>
 
       <h2>Cookies e Rastreamento</h2>
-      <p>Este site não instala cookies invasivos, não faz coleta oculta de dados nem comercializa informações de visitantes com terceiros.</p>
+      <p>Este site não utiliza ferramentas invasivas de rastreamento de terceiros nem comercializa dados com corretores de informação.</p>
 
-      <h2>Seus Direitos (LGPD)</h2>
-      <p>Caso tenha qualquer dúvida sobre a nossa política de dados ou queira entrar em contato, utilize nossa <a href="?view=contato" onclick="navigate('contato');return false;" style="color:var(--primary);font-weight:600;">página de contato</a>.</p>
+      <h2>Seus Direitos e LGPD</h2>
+      <p>Se tiver qualquer dúvida sobre nossa política de transparência, entre em contato direto pelo nosso canal editorial na <a href="?view=contato" onclick="navigate('contato');return false;" style="color:var(--primary);font-weight:600;">página de contato</a>.</p>
     </div>
   </section>
 
   <!-- CONTATO -->
   <section data-view="contato">
     <div class="static-page">
-      <h1>Contato & Sugestões</h1>
-      <p>Tem alguma dúvida sobre uma análise, sugestão de produto para testarmos ou deseja indicar um item para os <em>Pedidos da Comunidade</em>? Fale diretamente com nossa equipe:</p>
-      <div style="background:#F8FAFC;border:1px solid var(--border-card);padding:24px;border-radius:var(--radius-md);margin-top:24px;">
-        <span style="font-size:13px;color:var(--text-muted);text-transform:uppercase;font-weight:700;">E-mail Editorial</span>
-        <p style="font-size:20px;font-weight:700;color:var(--primary);margin:6px 0 0;">
+      <h1>Fale com a Redação Editorial</h1>
+      <p>Tem dúvidas sobre algum guia, sugestão de análise de produto ou quer indicar um item para os <em>Pedidos da Comunidade</em>? Entre em contato diretamente:</p>
+      
+      <div style="background:#F8FAFC;border:1px solid var(--border-card);padding:24px;border-radius:var(--radius-md);margin:24px 0;">
+        <span style="font-size:12px;color:var(--text-muted);text-transform:uppercase;font-weight:700;letter-spacing:0.5px;">Canal Direto por E-mail</span>
+        <p style="font-size:19px;font-weight:700;color:var(--primary);margin:6px 0 14px;">
           <a href="mailto:mix.dumixof@gmail.com" style="color:inherit;">mix.dumixof@gmail.com</a>
         </p>
+        <p style="font-size:13.5px;color:var(--text-muted);margin:0;">Respondemos habitualmente em até 24 a 48 horas úteis.</p>
       </div>
+
+      <h2>Enviar Mensagem Rápida</h2>
+      <form onsubmit="enviarMensagemContato(event)" style="display:flex;flex-direction:column;gap:16px;margin-top:16px;">
+        <div style="display:flex;flex-direction:column;gap:6px;">
+          <label style="font-size:13.5px;font-weight:700;color:var(--text-main);" for="contato-nome">Seu Nome</label>
+          <input id="contato-nome" type="text" required placeholder="Como podemos te chamar?" style="padding:12px 14px;border:1px solid var(--border-card);border-radius:var(--radius-sm);font-family:var(--font-body);font-size:14px;outline:none;">
+        </div>
+        <div style="display:flex;flex-direction:column;gap:6px;">
+          <label style="font-size:13.5px;font-weight:700;color:var(--text-main);" for="contato-assunto">Assunto</label>
+          <input id="contato-assunto" type="text" required placeholder="Ex: Sugestão de análise / Dúvida sobre guia" style="padding:12px 14px;border:1px solid var(--border-card);border-radius:var(--radius-sm);font-family:var(--font-body);font-size:14px;outline:none;">
+        </div>
+        <div style="display:flex;flex-direction:column;gap:6px;">
+          <label style="font-size:13.5px;font-weight:700;color:var(--text-main);" for="contato-msg">Mensagem</label>
+          <textarea id="contato-msg" rows="4" required placeholder="Escreva sua mensagem ou sugestão de produto..." style="padding:12px 14px;border:1px solid var(--border-card);border-radius:var(--radius-sm);font-family:var(--font-body);font-size:14px;outline:none;resize:vertical;"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:fit-content;">Enviar Mensagem por E-mail →</button>
+      </form>
     </div>
   </section>
 
@@ -1699,13 +1732,28 @@ function renderArtigo(asin) {
         </div>
       </div>
 
+      <!-- OUTROS GUIAS RECOMENDADOS -->
+      <div style="margin:44px 0 28px;">
+        <h2 style="font-family:var(--font-heading);font-size:21px;font-weight:800;color:var(--text-main);margin:0 0 18px;">Outros Guias Recomendados</h2>
+        <div class="blog-grid" style="margin-bottom:0;">
+          ${allProducts.filter(item => item.asin !== p.asin && (item.category === p.category || !p.category)).slice(0, 3).map(blogCardHtml).join("") || allProducts.filter(item => item.asin !== p.asin).slice(0, 3).map(blogCardHtml).join("")}
+        </div>
+      </div>
+
       <button class="back-link" onclick="navigate('home')">
         ← Voltar a todos os guias
       </button>
     </article>
   `;
 
-  document.title = `${p.title} | Análise & Ficha Técnica - Mix Du Mix`;
+  updateSeo({
+    title: `${p.title} | Análise & Ficha Técnica - Mix Du Mix`,
+    description: `Confira a análise aprofundada sobre ${p.title}. Veja prós, pontos de atenção, especificações e como comprar na Amazon com segurança.`,
+    canonicalUrl: `${window.location.origin}${window.location.pathname}?artigo=${encodeURIComponent(p.asin)}`,
+    imageUrl: imagem,
+    ogType: "article"
+  });
+
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
@@ -1827,7 +1875,14 @@ function renderPedido(id) {
     </article>
   `;
 
-  document.title = `${p.titulo} | Pedido - Mix Du Mix`;
+  updateSeo({
+    title: `${p.titulo} | Pedido da Comunidade - Mix Du Mix`,
+    description: `Detalhes e informações sobre ${p.titulo}, solicitado pela comunidade Mix Du Mix.`,
+    canonicalUrl: `${window.location.origin}${window.location.pathname}?pedido=${encodeURIComponent(p.asin || p.id)}`,
+    imageUrl: imagem,
+    ogType: "article"
+  });
+
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
@@ -1854,6 +1909,48 @@ function compartilharArtigo(titulo, botao) {
   } else {
     window.prompt("Copie o link do artigo:", urlAtual);
   }
+}
+
+/* ===========================================================
+   SISTEMA DE SEO DINÂMICO & REDES SOCIAIS
+   =========================================================== */
+function updateSeo({ title, description, canonicalUrl, imageUrl, ogType }) {
+  if (title) document.title = title;
+
+  function setMeta(selector, attr, val) {
+    if (!val) return;
+    let el = document.querySelector(selector);
+    if (!el) {
+      el = document.createElement("meta");
+      const parts = selector.replace(/[\[\]"]/g, "").split("=");
+      el.setAttribute(parts[0], parts[1]);
+      document.head.appendChild(el);
+    }
+    el.setAttribute(attr, val);
+  }
+
+  setMeta('meta[name="description"]', 'content', description);
+  setMeta('meta[property="og:title"]', 'content', title);
+  setMeta('meta[property="og:description"]', 'content', description);
+  setMeta('meta[property="og:url"]', 'content', canonicalUrl);
+  setMeta('meta[property="og:type"]', 'content', ogType || "website");
+  if (imageUrl) setMeta('meta[property="og:image"]', 'content', imageUrl);
+  setMeta('meta[name="twitter:title"]', 'content', title);
+  setMeta('meta[name="twitter:description"]', 'content', description);
+  if (imageUrl) setMeta('meta[name="twitter:image"]', 'content', imageUrl);
+
+  let linkCan = document.querySelector('link[rel="canonical"]');
+  if (linkCan && canonicalUrl) linkCan.setAttribute("href", canonicalUrl);
+}
+
+function enviarMensagemContato(event) {
+  event.preventDefault();
+  const nome = document.getElementById("contato-nome").value.trim();
+  const assunto = document.getElementById("contato-assunto").value.trim();
+  const msg = document.getElementById("contato-msg").value.trim();
+  
+  const corpo = `Olá Equipe Mix Du Mix,%0D%0A%0D%0AMeu nome: ${encodeURIComponent(nome)}%0D%0A%0D%0AMensagem:%0D%0A${encodeURIComponent(msg)}`;
+  window.location.href = `mailto:mix.dumixof@gmail.com?subject=${encodeURIComponent("[Mix Du Mix] " + assunto)}&body=${corpo}`;
 }
 
 /* ===========================================================
@@ -1917,10 +2014,36 @@ function showView(view, id) {
     renderPedido(id);
   } else if (view === "pedidos") {
     renderPedidos();
-    document.title = "Pedidos da Comunidade | Mix Du Mix";
+    updateSeo({
+      title: "Pedidos da Comunidade | Mix Du Mix",
+      description: "Produtos e itens específicos recomendados e solicitados pelos leitores do portal Mix Du Mix.",
+      canonicalUrl: window.location.origin + window.location.pathname + "?view=pedidos"
+    });
   } else if (view === "home") {
     renderHome();
-    document.title = "Mix Du Mix | Guia de Compras, Avaliações e Informação";
+    updateSeo({
+      title: "Mix Du Mix | Guia de Compras, Avaliações e Informação",
+      description: "Blog editorial com guias práticos, análises honestas e informações detalhadas sobre os melhores produtos para você tomar decisões de compra seguras.",
+      canonicalUrl: window.location.origin + window.location.pathname
+    });
+  } else if (view === "sobre") {
+    updateSeo({
+      title: "Sobre Nós & Metodologia Editorial | Mix Du Mix",
+      description: "Conheça a missão do Mix Du Mix, nossa metodologia independente de avaliação e conformidade com o Programa de Associados da Amazon.",
+      canonicalUrl: window.location.origin + window.location.pathname + "?view=sobre"
+    });
+  } else if (view === "contato") {
+    updateSeo({
+      title: "Contato & Sugestões | Mix Du Mix",
+      description: "Entre em contato com a redação editorial do Mix Du Mix para dúvidas, sugestões e pedidos de novos guias de compras.",
+      canonicalUrl: window.location.origin + window.location.pathname + "?view=contato"
+    });
+  } else if (view === "privacidade") {
+    updateSeo({
+      title: "Política de Privacidade | Mix Du Mix",
+      description: "Conheça nossas práticas de transparência, privacidade e aviso legal sobre compras qualificadas de associados da Amazon.",
+      canonicalUrl: window.location.origin + window.location.pathname + "?view=privacidade"
+    });
   } else {
     document.title = `${view[0].toUpperCase() + view.slice(1)} | Mix Du Mix`;
   }
@@ -1931,6 +2054,15 @@ function showView(view, id) {
 function toggleMenu() {
   document.getElementById("mobile-menu").classList.toggle("open");
 }
+
+// Fechar menu mobile se clicar fora
+document.addEventListener("click", (e) => {
+  const menu = document.getElementById("mobile-menu");
+  const burger = document.querySelector(".hamburger");
+  if (menu && menu.classList.contains("open") && !menu.contains(e.target) && !burger.contains(e.target)) {
+    menu.classList.remove("open");
+  }
+});
 
 window.addEventListener("popstate", () => {
   const r = currentRoute();
