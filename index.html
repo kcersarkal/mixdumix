@@ -255,52 +255,55 @@ a { text-decoration: none; color: inherit; }
   background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
   border-radius: var(--radius-lg);
   color: #FFFFFF;
-  padding: 36px 40px;
-  margin: 32px 0 36px;
+  padding: 38px 42px;
+  margin: 28px 0 36px;
   display: grid;
   grid-template-columns: 1.2fr 0.8fr;
   align-items: center;
   gap: 36px;
-  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.2);
+  box-shadow: 0 12px 30px -6px rgba(15, 23, 42, 0.25);
   position: relative;
   overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
 }
 .hero-banner::after {
   content: '';
   position: absolute;
-  top: -50px;
-  right: -50px;
-  width: 250px;
-  height: 250px;
-  background: radial-gradient(circle, rgba(234,88,12,0.25) 0%, transparent 70%);
+  top: -60px;
+  right: -60px;
+  width: 280px;
+  height: 280px;
+  background: radial-gradient(circle, rgba(234,88,12,0.22) 0%, transparent 70%);
   pointer-events: none;
 }
 .hero-tag {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  background: rgba(234, 88, 12, 0.2);
-  border: 1px solid rgba(234, 88, 12, 0.4);
+  background: rgba(234, 88, 12, 0.16);
+  border: 1px solid rgba(234, 88, 12, 0.35);
   color: #FB923C;
   font-size: 11.5px;
   font-weight: 700;
   letter-spacing: 0.8px;
   text-transform: uppercase;
-  padding: 4px 10px;
+  padding: 5px 12px;
   border-radius: var(--radius-full);
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
+.hero-tag svg { flex-shrink: 0; color: #EA580C; }
 .hero-title {
   font-family: var(--font-heading);
-  font-size: 27px;
+  font-size: 28px;
   font-weight: 800;
   line-height: 1.25;
   margin: 0 0 14px;
+  letter-spacing: -0.3px;
 }
 .hero-desc {
   font-size: 15px;
   line-height: 1.65;
-  color: #CBD5E1;
+  color: #94A3B8;
   margin-bottom: 24px;
   max-width: 520px;
 }
@@ -308,17 +311,18 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.04);
   border-radius: var(--radius-md);
   padding: 24px;
-  backdrop-filter: blur(8px);
-  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.08);
   height: 240px;
+  transition: transform .3s ease;
 }
 .hero-image-wrap img {
   max-height: 200px;
   object-fit: contain;
-  filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));
+  filter: drop-shadow(0 10px 20px rgba(0,0,0,0.35));
 }
 
 /* CATEGORY PILLS */
@@ -327,8 +331,8 @@ a { text-decoration: none; color: inherit; }
   align-items: center;
   gap: 10px;
   overflow-x: auto;
-  padding-bottom: 12px;
-  margin-bottom: 28px;
+  padding-bottom: 8px;
+  margin-bottom: 30px;
   scrollbar-width: none;
 }
 .category-filter::-webkit-scrollbar { display: none; }
@@ -338,22 +342,25 @@ a { text-decoration: none; color: inherit; }
   color: var(--text-muted);
   font-size: 13.5px;
   font-weight: 600;
-  padding: 8px 18px;
+  padding: 9px 20px;
   border-radius: var(--radius-full);
   cursor: pointer;
   white-space: nowrap;
-  transition: all .15s ease;
+  transition: all .2s cubic-bezier(0.16, 1, 0.3, 1);
   user-select: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.02);
 }
 .cat-pill:hover {
   border-color: var(--primary);
-  color: var(--text-main);
+  color: var(--primary);
   background: #FFF;
+  transform: translateY(-1px);
 }
 .cat-pill.active {
-  background: var(--text-main);
+  background: var(--dark-bg);
   color: #FFFFFF;
-  border-color: var(--text-main);
+  border-color: var(--dark-bg);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15);
 }
 
 /* BLOG FEED GRID */
@@ -361,7 +368,7 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 .blog-feed-header h2 {
   font-family: var(--font-heading);
@@ -369,11 +376,12 @@ a { text-decoration: none; color: inherit; }
   font-weight: 800;
   margin: 0;
   color: var(--text-main);
+  letter-spacing: -0.3px;
 }
 .blog-feed-header .post-count {
   font-size: 13px;
   color: var(--text-muted);
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .blog-grid {
@@ -390,31 +398,32 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   flex-direction: column;
   box-shadow: var(--shadow-card);
-  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  transition: transform .25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow .25s cubic-bezier(0.16, 1, 0.3, 1), border-color .25s ease;
   cursor: pointer;
 }
 .blog-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-hover);
+  transform: translateY(-5px);
+  box-shadow: 0 16px 30px -8px rgba(15, 23, 42, 0.08), 0 6px 12px -4px rgba(15, 23, 42, 0.04);
   border-color: #CBD5E1;
 }
 .blog-card-media {
-  background: #F8FAFC;
+  background: linear-gradient(180deg, #F8FAFC 0%, #F1F5F9 100%);
   height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  padding: 22px;
   position: relative;
   border-bottom: 1px solid var(--border-light);
 }
 .blog-card-media img {
   max-height: 100%;
   object-fit: contain;
-  transition: transform .25s ease;
+  transition: transform .3s cubic-bezier(0.16, 1, 0.3, 1);
+  filter: drop-shadow(0 4px 6px rgba(0,0,0,0.06));
 }
 .blog-card:hover .blog-card-media img {
-  transform: scale(1.04);
+  transform: scale(1.05);
 }
 .blog-card-badge {
   position: absolute;
@@ -424,15 +433,16 @@ a { text-decoration: none; color: inherit; }
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(255, 255, 255, 0.94);
   color: var(--primary);
-  padding: 4px 9px;
+  padding: 4px 10px;
   border-radius: var(--radius-sm);
   border: 1px solid rgba(234, 88, 12, 0.2);
-  backdrop-filter: blur(4px);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
 }
 .blog-card-content {
-  padding: 20px;
+  padding: 20px 22px;
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -453,7 +463,7 @@ a { text-decoration: none; color: inherit; }
   font-size: 13.5px;
   color: var(--text-muted);
   line-height: 1.55;
-  margin: 0 0 16px;
+  margin: 0 0 18px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
@@ -471,10 +481,10 @@ a { text-decoration: none; color: inherit; }
 .read-time {
   font-size: 12px;
   color: var(--text-subtle);
-  font-weight: 500;
+  font-weight: 600;
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 5px;
 }
 .btn-read-more {
   display: inline-flex;
@@ -488,7 +498,7 @@ a { text-decoration: none; color: inherit; }
   border-radius: var(--radius-sm);
   border: none;
   cursor: pointer;
-  transition: all .15s ease;
+  transition: all .2s ease;
 }
 .blog-card:hover .btn-read-more {
   background: var(--primary);
@@ -508,7 +518,7 @@ a { text-decoration: none; color: inherit; }
   border-radius: var(--radius-sm);
   border: none;
   cursor: pointer;
-  transition: all .15s ease;
+  transition: all .2s ease;
 }
 .btn-primary {
   background: var(--primary);
@@ -517,7 +527,7 @@ a { text-decoration: none; color: inherit; }
 .btn-primary:hover {
   background: var(--primary-hover);
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(234, 88, 12, 0.25);
+  box-shadow: 0 4px 14px rgba(234, 88, 12, 0.28);
 }
 .btn-block { width: 100%; }
 .btn-outline {
@@ -543,6 +553,7 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   align-items: flex-start;
   gap: 12px;
+  box-shadow: 0 1px 2px rgba(146, 64, 14, 0.04);
 }
 .affiliate-disclosure-box svg { flex-shrink: 0; margin-top: 2px; }
 
@@ -1368,7 +1379,10 @@ function renderHome() {
     heroContainer.innerHTML = `
       <div class="hero-banner">
         <div class="hero-content">
-          <span class="hero-tag">⭐ Guia em Destaque da Semana</span>
+          <span class="hero-tag">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            Guia em Destaque da Semana
+          </span>
           <h1 class="hero-title">${escapeHtml(featured.title)}</h1>
           <p class="hero-desc">${escapeHtml(featured.summary)} Descubra tudo o que você precisa avaliar antes de comprar.</p>
           <button type="button" class="btn btn-primary" onclick="navigate('artigo', '${escapeHtml(featured.asin)}')">
@@ -1602,9 +1616,9 @@ function renderArtigo(asin) {
         <span class="article-category">Guia Editorial de Compra • ${escapeHtml(categoria)}</span>
         <h1 class="article-headline">${escapeHtml(p.title)}: Análise Completa, Ficha Técnica e Avaliação</h1>
         <div class="article-meta">
-          <span>✍️ Redação Editorial Mix Du Mix</span>
-          <span>📅 Revisão Periódica e Verificada</span>
-          <span>⏱️ 5 min de leitura aprofundada</span>
+          <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg> Redação Editorial Mix Du Mix</span>
+          <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> Revisão Periódica e Verificada</span>
+          <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 5 min de leitura</span>
         </div>
       </div>
 
@@ -1692,7 +1706,10 @@ function renderArtigo(asin) {
 
           <!-- BOX OFICIAL DE OFERTA AMAZON -->
           <div class="official-cta-card">
-            <span class="cta-badge">🛍️ Opção de Compra Recomendada</span>
+            <span class="cta-badge">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+              Opção de Compra Recomendada
+            </span>
             <h3 class="cta-title">Consultar Produto na Amazon</h3>
             <p class="cta-subtext">Acesse com segurança a página oficial do produto para verificar preço atualizado, opções de parcelamento e estimativa de frete para seu endereço.</p>
             
@@ -1741,7 +1758,8 @@ function renderArtigo(asin) {
       </div>
 
       <button class="back-link" onclick="navigate('home')">
-        ← Voltar a todos os guias
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Voltar a todos os guias
       </button>
     </article>
   `;
@@ -1832,7 +1850,7 @@ function renderPedido(id) {
         <span class="article-category">Pedidos da Comunidade</span>
         <h1 class="article-headline">${escapeHtml(p.titulo)}</h1>
         <div class="article-meta">
-          <span>📦 Item checado e validado para a comunidade</span>
+          <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg> Item checado e validado para a comunidade</span>
         </div>
       </div>
 
@@ -1853,7 +1871,10 @@ function renderPedido(id) {
           <p>${escapeHtml(p.descricao || "Este produto foi solicitado por leitores do Mix Du Mix. Verificamos a procedência e a oferta ativa na Amazon.")}</p>
 
           <div class="official-cta-card">
-            <span class="cta-badge">🛒 Link Oficial Verificado</span>
+            <span class="cta-badge">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+              Link Oficial Verificado
+            </span>
             <h3 class="cta-title">Acessar oferta do pedido</h3>
             <p class="cta-subtext">Acesse com segurança a página oficial deste item diretamente na Amazon.</p>
             
@@ -1870,7 +1891,8 @@ function renderPedido(id) {
       </div>
 
       <button class="back-link" onclick="navigate('pedidos')">
-        ← Voltar aos pedidos
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Voltar aos pedidos
       </button>
     </article>
   `;
