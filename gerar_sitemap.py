@@ -23,7 +23,7 @@ import json
 from pathlib import Path
 from xml.sax.saxutils import escape  # garante XML valido mesmo se um ASIN tiver chars especiais
 
-BASE = "https://kcersarkal.github.io/mixdumix-store/"
+BASE = "https://kcersarkal.github.io/mixdumix/"
 VIEWS_INDEXAVEIS = ["sobre", "contato", "privacidade"]
 
 

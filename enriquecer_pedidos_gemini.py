@@ -23,9 +23,9 @@ from amazon.amazon import ARQUIVO, GITHUB_API, REPO, _config, _requisicao_github
 ESPERA_APOS_PUBLICACAO = 300
 INTERVALO_CONFIRMACAO = 15
 MAX_CONFIRMACOES = 20
-URL_PUBLICA = "https://kcersarkal.github.io/mixdumix-store/pedidos.js"
+URL_PUBLICA = "https://kcersarkal.github.io/mixdumix/pedidos.js"
 ESTADO = Path(__file__).with_name("estado_descricoes_gemini.json")
-PROIBIDOS = ("tag=", "ref_", "linkcode=", "creativeasin", "mdm0a40-20")
+PROIBIDOS = ("tag=", "ref_", "linkcode=", "creativeasin", "mdm0c7-20")
 
 
 def source_url(asin):

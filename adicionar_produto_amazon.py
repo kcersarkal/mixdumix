@@ -25,7 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # CONFIGURAÇÃO DA SUA TAG DE AFILIADO AMAZON
-AFFILIATE_TAG = "mdm0a40-20"
+AFFILIATE_TAG = "mdm0c7-20"
 
 
 def extrair_asin(entrada):
@@ -137,7 +137,7 @@ def atualizar_sitemap(asin):
     if not caminho.exists():
         return
     conteudo = caminho.read_text(encoding="utf-8")
-    nova_url = f"https://kcersarkal.github.io/mixdumix-store/?artigo={asin}"
+    nova_url = f"https://kcersarkal.github.io/mixdumix/?artigo={asin}"
     if nova_url not in conteudo:
         item_xml = f"  <url><loc>{nova_url}</loc></url>\n</urlset>"
         conteudo = conteudo.replace("</urlset>", item_xml)

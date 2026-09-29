@@ -10,7 +10,7 @@ const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-const AFFILIATE_TAG = "mdm0a40-20";
+const AFFILIATE_TAG = "mdm0c7-20";
 
 function extrairAsin(entrada) {
   const match = entrada.match(/\/(?:dp|gp\/product|d)\/([A-Z0-9]{10})/i);
@@ -100,7 +100,7 @@ async function main() {
     const sitemapPath = path.join(__dirname, "sitemap.xml");
     if (fs.existsSync(sitemapPath)) {
       let sitemap = fs.readFileSync(sitemapPath, "utf8");
-      const urlArtigo = `https://kcersarkal.github.io/mixdumix-store/?artigo=${asin}`;
+      const urlArtigo = `https://kcersarkal.github.io/mixdumix/?artigo=${asin}`;
       if (!sitemap.includes(urlArtigo)) {
         sitemap = sitemap.replace("</urlset>", `  <url><loc>${urlArtigo}</loc></url>\n</urlset>`);
         fs.writeFileSync(sitemapPath, sitemap, "utf8");
