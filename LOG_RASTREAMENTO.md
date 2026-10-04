@@ -391,6 +391,40 @@
   - **Direita**: Botão de compra informando o destino.
 - Aplicado com harmonia nos guias de compras editoriais e nas páginas de Pedidos da Comunidade.
 
+---
+
+# Log de Rastreamento - Correção de Sobreposição de Badge e Auditoria de Preços dos Pedidos
+
+## Data: 2026-10-03
+
+### Ação Realizada
+1. **Correção de Sobreposição Visual do Badge de Pedido da Comunidade**:
+   - Adicionado `z-index: 10` com `box-shadow` e fundo sólido `#FFFFFF` em `.article-badge`.
+   - Ajustado o espaçamento superior de `.article-card-thumb` para `padding: 40px 20px 16px` e `height: 230px`, garantindo que produtos altos (como geladeira e air fryer) não disputem espaço ou fiquem por cima da etiqueta.
+   - Definido `z-index: 1` e `max-width: 100%` nas imagens dos cards para assegurar ordem de empilhamento perfeita.
+
+2. **Auditoria de Existência e Atualização de Preços na Amazon**:
+   - Verificados todos os 16 produtos cadastrados em `pedidos.js` diretamente na Amazon Brasil.
+   - Todos os 16 itens continuam ativos e disponíveis (HTTP 200). Nenhum produto descontinuado.
+   - Valores atualizados com base nos preços vigentes em tempo real:
+     - `B0FVP6KRP4` (Geladeira Electrolux 320L): R$ 2.949,00 (anteriormente `null`).
+     - `B0GYGFRXSY` (Air Fryer Octo Fry Elgin 8L): R$ 338,00 (era R$ 279,91).
+     - `B0FJMHMCBZ` (Headphone Bluetooth Philips TAH2300BK): R$ 129,00 (era R$ 125,90).
+     - `B0FPT7HB8G` (Carrinho Organizador 3 Prateleiras): R$ 113,90 (era R$ 96,79).
+     - `B0DVMQVVDY` (Fone TWS Philips TAT1109BK): R$ 129,00 (era R$ 99,99).
+     - `B0FQFH5PJS` (Apple Watch SE 3): R$ 2.399,00 (confirmado).
+     - `B0755PV4H7` (Repetidor Wi-Fi TP-Link RE200): R$ 173,53 (era R$ 170,91).
+     - `B0FRJV1B75` (Smart TV 43 LG 4K): R$ 1.690,05 (era R$ 1.604,55).
+     - `B0BL5CSRBM` (Creatina Soldiers Nutrition 1kg): R$ 68,90 (era R$ 68,89).
+     - `B0DCM31SDG` (Fogão Elétrico Elgin Double Cook): R$ 79,00 (anteriormente `null`).
+     - `B0GLTJ4MYM` (Smartphone Motorola Edge 70 5G): R$ 2.249,10 (confirmado).
+     - `B0CVSJFMFN` (Paçoca Rolha Ricco 1,5kg): R$ 26,50 (confirmado).
+     - `B0GS79683R` (Kit Doces Aniversário 25 Crianças): R$ 85,49 (era R$ 89,99).
+     - `B0H7FLPHPQ` (Kit Elástico Cabelo Infantil 875 peças): R$ 37,90 (confirmado).
+     - `B096YGN1QF` (Jogo Totó Super Craque DM Toys): R$ 98,70 (era R$ 93,90).
+     - `B0GX57BFD1` (Garrafa Térmica 750ml): R$ 41,70 (era R$ 39,90).
+
+
 
 
 
