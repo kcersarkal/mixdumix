@@ -481,6 +481,27 @@
 - **Responsividade Aperfeiçoada**:
   - Em telas menores que 820px (`@media (max-width: 820px)`), o bloco se reorganiza verticalmente, posicionando a imagem maior com respiro no topo e os botões em largura total abaixo.
 
+---
+
+# Log de Rastreamento - Inclusão Editorial: Ar-Condicionado LG Dual Inverter +AI Voice 9.000 BTUs
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- **Cadastro do Ar-Condicionado LG Dual Inverter +AI Voice 9.000 BTUs Frio 127V**:
+  - Slug: `ar-condicionado-lg-dual-inverter-voice-9000-btus`
+  - Categoria: *Casa & Eletro*
+  - Link de afiliado:
+    - **Mercado Livre**: `https://meli.la/1b9phq3` (Destaque: Envio Rápido / Frete Grátis com Full)
+  - Ficha técnica aprofundada:
+    - Economia de até 70% de energia e refrigeração 40% mais rápida com compressor de rotor duplo.
+    - Operação ultra silenciosa a partir de 19 dB no modo sono.
+    - Conectividade Wi-Fi nativa via aplicativo LG ThinQ com comandos de voz por Alexa e Google Assistente.
+    - Serpentina 100% de cobre com aletas anticorrosivas GoldFin e 10 anos de garantia no compressor.
+    - Tensão 127V (versão altamente demandada no mercado).
+- `sitemap.xml` regenerado com 8 URLs indexáveis.
+
+
 
 
 

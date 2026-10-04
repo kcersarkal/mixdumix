@@ -254,6 +254,96 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Proprietários de casas, garagens, quintais e proprietários de veículos que necessitam de limpeza rápida, potente e econômica sem esforço manual excessivo.",
     "para_quem_nao_e": "Empresas de lavagem profissional contínua de 8 horas diárias, que exigem lavadoras com motor de indução profissional trifásico."
+  },
+  {
+    "asin": "ar-condicionado-lg-dual-inverter-voice-9000-btus",
+    "id": "ar-condicionado-lg-dual-inverter-voice-9000-btus",
+    "titulo": "Ar-Condicionado LG Dual Inverter +AI Voice 9.000 BTUs Frio 127V",
+    "subtitulo": "Análise técnica completa: compressor Dual Inverter duplo, economia de até 70% de energia, serpentina de cobre GoldFin e comando por voz via Wi-Fi",
+    "categoria": "Casa & Eletro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923812-MLB111825780794_062026-O.webp",
+    "data_revisao": "2026-10-03",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O LG Dual Inverter Voice 9.000 BTUs é amplamente reconhecido como a referência de excelência em ar-condicionado residencial no Brasil. Combinando o compressor de duplo rotor para economia de até 70% de energia, refrigeração 40% mais rápida e nível de ruído imperceptível a partir de 19 dB, ele se integra ao ecossistema de casa inteligente com controle por voz pela Alexa e Google Assistente.",
+    "links_compra": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1b9phq3",
+        "destaque": "Envio Rápido / Frete Grátis com Full",
+        "tipo": "mercadolivre"
+      }
+    ],
+    "visao_geral": [
+      "A linha LG Dual Inverter Voice redefine o conforto térmico residencial ao empregar um compressor de rotor duplo que estabiliza a temperatura sem os picos de consumo elétrico característicos dos aparelhos tradicionais liga-desliga.",
+      "Graças à sua tecnologia de inteligência artificial (+AI), o ar-condicionado monitora os hábitos dos ocupantes e a oscilação de temperatura externa para ajustar a curva de climatização ideal de forma autônoma, maximizando a eficiência sem desperdício.",
+      "O controle via aplicativo LG ThinQ (com conectividade Wi-Fi nativa) permite ligar e climatizar o quarto ou escritório antes de chegar em casa, além de possibilitar comandos de voz diretos em português através da Alexa e do Google Assistente.",
+      "Construído com serpentina 100% de cobre e revestimento protetor GoldFin, o trocador de calor é resistente à corrosão por maresia e intempéries, garantindo durabilidade estendida mesmo em regiões litorâneas e de alta umidade."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "LG Electronics"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Dual Inverter +AI Voice (S4-Q09AA31A)"
+      },
+      {
+        "chave": "Capacidade de Refrigeração",
+        "valor": "9.000 BTUs/h"
+      },
+      {
+        "chave": "Ciclo de Climatização",
+        "valor": "Frio"
+      },
+      {
+        "chave": "Tecnologia do Compressor",
+        "valor": "LG Dual Inverter (duplo rotor com 10 anos de garantia no compressor)"
+      },
+      {
+        "chave": "Eficiência Energética",
+        "valor": "Classificação A com selo Procel (economia de até 70% de energia)"
+      },
+      {
+        "chave": "Gás Refrigerante",
+        "valor": "Ecológico R-32 (baixo impacto de aquecimento global e maior rendimento)"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "Ultra silencioso, a partir de 19 dB(A) no modo sono"
+      },
+      {
+        "chave": "Conectividade",
+        "valor": "Wi-Fi integrado com suporte a LG ThinQ, Alexa e Google Assistente"
+      },
+      {
+        "chave": "Material da Serpentina",
+        "valor": "100% Cobre com aletas anticorrosivas GoldFin"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (versão rara e muito procurada para tomadas convencionais)"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano total e 10 anos no compressor pela LG Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Economia drástica na conta de luz graças ao compressor Dual Inverter com selo Procel A",
+      "Operação silenciosa a partir de 19 dB, ideal para quartos de dormir e escritórios silenciosos",
+      "Conectividade Wi-Fi de fábrica para controle pelo smartphone ou comandos de voz (Alexa / Google)",
+      "Serpentina 100% em cobre com proteção GoldFin contra maresia e corrosão prematura",
+      "Gás R-32 moderno, mais eficiente termicamente e menos nocivo à camada de ozônio",
+      "Versão em 127V, ideal para imóveis e residências sem rede bifásica 220V",
+      "10 anos de garantia de fábrica no compressor assegurados pela LG Brasil"
+    ],
+    "pontos_atencao": [
+      "Requer instalação por técnico credenciado LG para preservação integral do período de garantia contratual",
+      "Capacidade de 9.000 BTUs é voltada para cômodos de até 12 a 15 m² (para ambientes maiores, recomendamos 12.000 BTUs)"
+    ],
+    "para_quem_e": "Pessoas que buscam climatizar quartos de até 12 a 15 m² com máxima economia na conta de luz, silêncio absoluto para dormir e controle inteligente por voz na comodidade do padrão 127V.",
+    "para_quem_nao_e": "Salas integradas ou cômodos grandes com mais de 20 m² com alta incidência solar, para os quais modelos de 12.000 ou 18.000 BTUs são mais indicados."
   }
 ];
 
