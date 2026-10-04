@@ -464,6 +464,24 @@
 3. **Sitemap Atualizado**:
    - `sitemap.xml` regenerado com as novas páginas editoriais indexáveis.
 
+---
+
+# Log de Rastreamento - Layout de Compra Unificado com Imagem Única Maior
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- **Eliminação de Repetições de Miniaturas**:
+  - Em produtos com múltiplos marketplaces (como a Lavadora WAP com 3 lojas e as Creatinas com 2 lojas), a imagem pequena não é mais repetida em cada linha.
+- **Estrutura Unificada (`.purchase-unified-box`)**:
+  - **Lado Esquerdo (`.purchase-unified-media`)**: Uma única imagem fotográfica de destaque, consideravelmente maior (220px de largura e expansão vertical elástica `align-items: stretch` para preencher toda a altura do bloco).
+  - **Lado Direito (`.purchase-unified-content`)**:
+    - Título oficial do produto exibido de forma limpa uma única vez no topo.
+    - Lista de lojas parceiras com seus selos/benefícios de entrega e botões de compra padronizados com exatamente 280px de largura.
+- **Responsividade Aperfeiçoada**:
+  - Em telas menores que 820px (`@media (max-width: 820px)`), o bloco se reorganiza verticalmente, posicionando a imagem maior com respiro no topo e os botões em largura total abaixo.
+
+
 
 
 
