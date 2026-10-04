@@ -340,5 +340,19 @@
 - Ficha técnica detalhada com pureza, rendimento de 200 doses, prós, contras, veredito da redação e perfis de indicação de compra.
 - Sitemap regenerado.
 
+---
+
+# Log de Rastreamento - Restauração da Identidade Visual Laranja Oficial (#EA580C)
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- Restaurada a cor laranja oficial da identidade visual do **Mix Du Mix** (`#EA580C` / hover `#C2410C` / claro `#FFEDD5`):
+  - `theme-color` atualizado para `#EA580C`.
+  - Inclusão do logotipo oficial `assets/logo.png` no cabeçalho e rodapé do portal.
+  - Botões de navegação, abas ativas, filtros de categoria, caixas de veredito e badges com o laranja característico da marca.
+  - Destaques de preço e selo dos **Pedidos da Comunidade** padronizados no tom laranja oficial.
+
+
 
 
