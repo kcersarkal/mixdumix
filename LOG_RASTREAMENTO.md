@@ -292,9 +292,38 @@
 ### Arquivos Modificados
 - `index.html` — Novo layout responsivo estilo portal/revista com Hero Banner de destaque, filtros por categoria, cards de artigos com resumo de 2 linhas, páginas de artigos ricas com aviso obrigatório da Amazon e botões diretos seguros.
 - `gerar_sitemap.py` — Rota atualizada para `?artigo=ASIN`.
-- `sitemap.xml` — Todas as URLs atualizadas para `?artigo=ASIN`.
-- `produtos.js` — Todas as 200 imagens limpas: remoção de parâmetros de widget e upgrade para alta resolução permanente na CDN (`_AC_SL800_`).
-- `adicionar_produto_amazon.py` / `adicionar_produto_amazon.js` — Scripts de automação criados para extrair dados limpos da Amazon (título, foto HD e tag de afiliado) e cadastrar no blog automaticamente.
-- `index.html` — Correção de exibição da busca mobile, SEO dinâmico completo (canonical, Open Graph, Twitter cards), enriquecimento da página Sobre (metodologia e critérios E-E-A-T), formulário interativo de contato e seção de Guias Recomendados ao final de cada artigo.
-- `LOG_RASTREAMENTO.md` — Registro desta etapa.
+
+---
+
+# Log de Rastreamento - Transição para Cloudflare Pages e Redesign Editorial de Alto Padrão
+
+## Data: 2026-10-03
+
+### Objetivo da Alteração
+- Mudar totalmente o design do site para um padrão **Editorial Clean & Elegante** (inspirado em The Wirecutter / NYT / Monocle), focado em fichas técnicas detalhadas, análises práticas, prós e contras e decisões conscientes de compra.
+- **Preservação Integral dos Pedidos da Comunidade**: o esquema de pedidos da comunidade (`pedidos.js`, rota `?view=pedidos` e página individual `?pedido=ID`) permanece 100% ativo e intocado em sua regra de negócio e funcionamento.
+- **Preparação e Otimização para Cloudflare Pages**:
+  - Eliminação de qualquer dependência de runtime externo/Vercel.
+  - Criação de `_headers` com regras de cache para assets estáticos e cabeçalhos de segurança (X-Frame-Options, X-Content-Type-Options, Referrer-Policy).
+  - Criação de `_redirects` com fallback SPA (`/* /index.html 200`).
+  - Criação de `404.html` resiliente.
+- **Fim da Coleta Automática em Massa**:
+  - Interrompida a raspagem automática em lote de centenas de produtos.
+  - Limpeza do catálogo de promoções antigas em `produtos.js`, abrindo espaço para análises ricas e aprofundadas.
+  - Criação de `adicionar_analise_editorial.py` para permitir que o usuário envie o link de um produto e a análise completa (ficha técnica, prós, contras e veredito) seja cadastrada individualmente com alta precisão editorial.
+
+### Backups Criados
+- `index.html.backup.before-cloudflare-editorial.txt`
+- `produtos.js.backup.before-clean.txt`
+
+### Arquivos Modificados / Criados
+- `index.html` — Novo layout editorial responsivo com tipografia Newsreader + Plus Jakarta Sans, navegação simplificada, busca universal, conformidade Amazon Associates permanente, renderização das análises em abas claras e preservação da experiência de pedidos.
+- `produtos.js` — Base reformulada para suportar fichas técnicas completas com subtítulos, especificações em tabela, prós, contras e perfis de indicação ("Para quem é / Para quem não é").
+- `_headers` — Cabeçalhos de segurança e cache para Cloudflare Pages.
+- `_redirects` — Fallback SPA para Cloudflare Pages.
+- `404.html` — Fallback HTML amigável para Cloudflare.
+- `adicionar_analise_editorial.py` — Script especializado no fluxo sob demanda: recebe o link da Amazon e adiciona a análise completa ao portal.
+- `gerar_sitemap.py` / `sitemap.xml` — Sitemap atualizado.
+- `LOG_RASTREAMENTO.md` — Este registro.
+
 
