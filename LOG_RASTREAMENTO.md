@@ -368,6 +368,30 @@
 - Aplicado também na página individual de cada **Pedido da Comunidade**.
 - Layout 100% responsivo para dispositivos móveis com empilhamento natural do botão.
 
+---
+
+# Log de Rastreamento - Caixa de Compra Neutra com Identificação de Destino Exclusiva no Botão
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- **Remoção de referências a lojas específicas no cabeçalho ou corpo do card**:
+  - Título do card padronizado de forma neutra: **"Opções de Compra"** (e "Acessar Oferta do Pedido" nos pedidos da comunidade).
+  - Texto explicativo neutro: *"Acesse com segurança a página oficial deste produto para conferir avaliações de outros compradores, disponibilidade de entrega e valores atualizados."*
+  - O nome do marketplace/loja de destino não aparece no título ou texto da caixa, evitando vincular o produto a uma única loja.
+- **Identificação da Loja Exclusivamente no Botão de Ação**:
+  - Cada botão informa com precisão para onde o usuário será direcionado:
+    - **[ Conferir no Mercado Livre ↗ ]** (Mercado Livre)
+    - **[ Conferir na Shopee ↗ ]** (Shopee)
+    - **[ Conferir na Amazon ↗ ]** (Amazon)
+    - **[ Conferir Oferta ↗ ]** (Demais lojas parceiras)
+- **Estrutura Visual da Linha de Compra**:
+  - **Esquerda**: Miniatura fotográfica do produto (`purchase-item-thumb`).
+  - **Centro**: Nome do produto e benefícios (ex: Envio Full / Frete Grátis / Cupons).
+  - **Direita**: Botão de compra informando o destino.
+- Aplicado com harmonia nos guias de compras editoriais e nas páginas de Pedidos da Comunidade.
+
+
 
 
 
