@@ -424,6 +424,20 @@
      - `B096YGN1QF` (Jogo Totó Super Craque DM Toys): R$ 98,70 (era R$ 93,90).
      - `B0GX57BFD1` (Garrafa Térmica 750ml): R$ 41,70 (era R$ 39,90).
 
+---
+
+# Log de Rastreamento - Padronização de Largura e Alinhamento dos Botões de Compra
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- **Largura Unificada e Alinhamento Vertical dos Botões**:
+  - Definida largura fixa e alinhamento do contêiner `.purchase-item-right` / `.buy-box-action` para `width: 250px`.
+  - Definido `width: 100%`, `min-width: 240px`, `justify-content: center` e `box-sizing: border-box` para todos os botões (`.btn-dest-meli`, `.btn-dest-shopee`, `.btn-dest-amazon`, `.btn-dest-default`, `.btn-store-go`, etc.).
+  - As bordas esquerdas e direitas dos botões empilhados ficam 100% alinhadas verticalmente em todas as linhas, independentemente do comprimento do texto ("Conferir no Mercado Livre" ou "Conferir na Shopee").
+  - Em telas móveis (`@media (max-width: 680px)`), os botões ocupam `width: 100%` com toque confortável e alinhamento centralizado.
+
+
 
 
 
