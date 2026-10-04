@@ -437,6 +437,34 @@
   - O botão da Shopee e o botão do Mercado Livre agora possuem rigorosamente o mesmo tamanho e proporção.
   - Em telas menores que 680px (`@media (max-width: 680px)`), ambos ocupam `width: 100% !important` com centralização automática.
 
+---
+
+# Log de Rastreamento - Inclusão Editorial: Creatina Dark Lab 1kg e Lavadora WAP Ousada Plus 2200
+
+## Data: 2026-10-03
+
+### Ação Realizada
+1. **Cadastro da Creatina Monohidratada 100% Pura 1Kg - Dark Lab**:
+   - Slug: `creatina-dark-lab-1kg`
+   - Categoria: *Saúde & Nutrição*
+   - Links afiliados vinculados:
+     - **Mercado Livre**: `https://meli.la/2nMQg1S` (Destaque: Envio Rápido / Frete Grátis com Full)
+     - **Shopee**: `https://s.shopee.com.br/9V1y7OkvUe` (Destaque: Loja Oficial / Cupons de Frete e Moedas)
+   - Conteúdo: Análise técnica com laudos de pureza acima de 99%, rendimento de 200 doses, ficha técnica e prós/contras.
+
+2. **Cadastro da Lavadora de Alta Pressão WAP Ousada Plus 2200 (1500W - 1750 PSI)**:
+   - Slug: `lavadora-alta-pressao-wap-ousada-plus-2200`
+   - Categoria: *Casa & Eletro*
+   - Links afiliados vinculados:
+     - **Amazon**: `https://www.amazon.com.br/dp/B077PT41YL?tag=mdm0c7-20` (Garantia e Entrega Prime)
+     - **Mercado Livre**: `https://meli.la/2UH78j8` (Envio Rápido / Frete Grátis com Full)
+     - **Shopee**: `https://s.shopee.com.br/30oUNp9FTs` (Loja Oficial / Cupons de Frete e Moedas)
+   - Conteúdo: Ficha técnica completa com motor 1500W, vazão 342 L/h, sistema Stop Total, bomba de cabeçote em alumínio e guia de decisão.
+
+3. **Sitemap Atualizado**:
+   - `sitemap.xml` regenerado com as novas páginas editoriais indexáveis.
+
+
 
 
 
