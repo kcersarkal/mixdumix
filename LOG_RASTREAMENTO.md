@@ -426,16 +426,16 @@
 
 ---
 
-# Log de Rastreamento - Padronização de Largura e Alinhamento dos Botões de Compra
+# Log de Rastreamento - Padronização Rigorosa de Largura (280px) para Botões Shopee e Mercado Livre
 
 ## Data: 2026-10-03
 
 ### Ação Realizada
-- **Largura Unificada e Alinhamento Vertical dos Botões**:
-  - Definida largura fixa e alinhamento do contêiner `.purchase-item-right` / `.buy-box-action` para `width: 250px`.
-  - Definido `width: 100%`, `min-width: 240px`, `justify-content: center` e `box-sizing: border-box` para todos os botões (`.btn-dest-meli`, `.btn-dest-shopee`, `.btn-dest-amazon`, `.btn-dest-default`, `.btn-store-go`, etc.).
-  - As bordas esquerdas e direitas dos botões empilhados ficam 100% alinhadas verticalmente em todas as linhas, independentemente do comprimento do texto ("Conferir no Mercado Livre" ou "Conferir na Shopee").
-  - Em telas móveis (`@media (max-width: 680px)`), os botões ocupam `width: 100%` com toque confortável e alinhamento centralizado.
+- **Ajuste Milimétrico de Largura Idêntica**:
+  - Como o texto do botão do Mercado Livre ("Conferir no Mercado Livre") possui 25 caracteres e demanda ~275px somando padding e ícone, a largura padrão de 250px estava permitindo que o botão do Mercado Livre ficasse ligeiramente maior que o da Shopee.
+  - A largura de ambos os botões foi fixada com precisão absoluta em **`280px`** tanto nas regras de CSS (`width: 280px; min-width: 280px; max-width: 280px;`) quanto inline (`style="width: 280px;"`) e no contêiner `.purchase-item-right` (`flex: 0 0 280px; width: 280px;`).
+  - O botão da Shopee e o botão do Mercado Livre agora possuem rigorosamente o mesmo tamanho e proporção.
+  - Em telas menores que 680px (`@media (max-width: 680px)`), ambos ocupam `width: 100% !important` com centralização automática.
 
 
 

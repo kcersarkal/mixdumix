@@ -828,13 +828,13 @@ a { text-decoration: none; color: inherit; }
 
 .purchase-item-right,
 .buy-box-action {
-  flex-shrink: 0;
+  flex: 0 0 280px;
+  width: 280px;
   display: flex;
   justify-content: flex-end;
-  width: 250px;
 }
 
-/* BOTÕES QUE INFORMAM PARA ONDE VAI - LARGURA UNIFORME E ALINHADA */
+/* BOTÕES QUE INFORMAM PARA ONDE VAI - LARGURA RIGOROSAMENTE IDÊNTICA (280PX) */
 .btn-dest-meli,
 .btn-dest-shopee,
 .btn-dest-amazon,
@@ -844,8 +844,9 @@ a { text-decoration: none; color: inherit; }
 .btn-store-mercadolivre,
 .btn-store-shopee,
 .btn-store-amazon {
-  width: 100%;
-  min-width: 240px;
+  width: 280px;
+  min-width: 280px;
+  max-width: 280px;
   box-sizing: border-box;
   display: inline-flex;
   align-items: center;
@@ -854,7 +855,7 @@ a { text-decoration: none; color: inherit; }
   gap: 8px;
   font-weight: 700;
   font-size: 14px;
-  padding: 12px 20px;
+  padding: 12px 16px;
   border-radius: 8px;
   transition: all .2s ease;
   white-space: nowrap;
@@ -987,7 +988,8 @@ a { text-decoration: none; color: inherit; }
   }
   .purchase-item-right,
   .buy-box-action {
-    width: 100%;
+    width: 100% !important;
+    flex: 1 1 auto !important;
   }
   .purchase-item-right a,
   .buy-box-action a,
@@ -995,10 +997,14 @@ a { text-decoration: none; color: inherit; }
   .btn-dest-shopee,
   .btn-dest-amazon,
   .btn-dest-default,
-  .btn-store-go {
-    width: 100%;
-    min-width: 0;
-    justify-content: center;
+  .btn-store-go,
+  .btn-store-mercadolivre,
+  .btn-store-shopee,
+  .btn-store-amazon {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    justify-content: center !important;
   }
 }
 
@@ -1788,7 +1794,7 @@ function renderBuyBoxesHtml(p, img, linkOficial) {
               </div>
             </div>
             <div class="purchase-item-right">
-              <a class="${store.btnClass}" href="${escapeHtml(opt.url)}" target="_blank" rel="nofollow sponsored noopener">
+              <a class="${store.btnClass}" style="width:280px;box-sizing:border-box;justify-content:center;" href="${escapeHtml(opt.url)}" target="_blank" rel="nofollow sponsored noopener">
                 ${escapeHtml(store.btnText)}
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
               </a>
@@ -2116,7 +2122,7 @@ function renderPedido(id) {
               </div>
             </div>
             <div class="purchase-item-right">
-              <a class="${getStoreInfo(linkOficial).btnClass}" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
+              <a class="${getStoreInfo(linkOficial).btnClass}" style="width:280px;box-sizing:border-box;justify-content:center;" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
                 ${escapeHtml(getStoreInfo(linkOficial).btnText)}
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
               </a>
