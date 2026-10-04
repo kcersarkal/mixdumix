@@ -7,42 +7,60 @@
 
 window.PRODUTOS_INFORMATIVOS = [
   {
-    "asin": "B0BL5CSRBM",
+    "asin": "creatina-soldiers-nutrition-1kg",
+    "id": "creatina-soldiers-nutrition-1kg",
     "titulo": "Creatina Monohidratada 100% Pura 1Kg - Soldiers Nutrition",
-    "subtitulo": "Análise completa sobre pureza da matéria-prima, rendimento por dose e solubilidade",
+    "subtitulo": "Análise aprofundada: pureza laboratorial atestada, solubilidade fina sem resíduos e opções de compra oficiais no Mercado Livre e Shopee",
     "categoria": "Saúde & Nutrição",
-    "imagem": "https://m.media-amazon.com/images/I/71uAR2j20vL._AC_SL1500_.jpg",
-    "link_amazon": "https://www.amazon.com.br/dp/B0BL5CSRBM?tag=mdm0c7-20",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-O.webp",
     "data_revisao": "2026-10-03",
     "tempo_leitura": "4 min de leitura",
-    "veredito_resumo": "Excelente custo por dose para uso contínuo, com laudos independentes de pureza frequentes e solubilidade rápida sem sabor residual.",
+    "veredito_resumo": "Uma das creatinas mais vendidas e respeitadas do mercado brasileiro. Com laudos de pureza recorrentes acima de 99%, matéria-prima 100% monohidratada sem aditivos e rendimento de até 200 doses no pacote de 1kg, é a campeã indiscutível em custo-benefício.",
+    "links_compra": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2LS8xt7",
+        "destaque": "Envio Rápido / Frete Grátis com Full",
+        "tipo": "mercadolivre"
+      },
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/2VsDk00PDr",
+        "destaque": "Loja Oficial / Cupons de Frete e Moedas",
+        "tipo": "shopee"
+      }
+    ],
     "visao_geral": [
-      "A Creatina Monohidratada da Soldiers Nutrition se consolidou como uma das líderes de recomendação no Brasil para quem busca aumento de força e ganho de massa magra sem pagar o ágio de marcas com alto custo de marketing.",
-      "Composta exclusivamente por creatina monohidratada pura sem qualquer adição de carboidratos, aromatizantes ou aditivos químicos, o produto entrega 5g de creatina por dosador e passa por testes laboratoriais regulares para atestar ausência de contaminantes."
+      "A Creatina Monohidratada da Soldiers Nutrition se consolidou como uma das líderes de venda e preferência no Brasil, sendo recomendada tanto por nutricionistas quanto por praticantes de esportes de alto rendimento.",
+      "O suplemento é composto exclusivamente por creatina monohidratada de grau alimentício puro, sem qualquer adição de maltodextrina, corantes ou conservantes químicos. Cada porção de 5g entrega 5g de creatina ativa pura para saturação e manutenção muscular.",
+      "A marca destaca-se pela transparência: laudos laboratoriais de controle de qualidade são divulgados publicamente de maneira contínua, atestando conformidade com as normas sanitárias e ausência de metais pesados.",
+      "Além da musculação e esportes de explosão, a suplementação com creatina tem sido amplamente respaldada por pesquisas recentes como um excelente suporte para a saúde mitocondrial e função cognitiva em idosos e adultos saudáveis."
     ],
     "especificacoes": [
-      { "chave": "Marca", "valor": "Soldiers Nutrition" },
-      { "chave": "Peso Líquido", "valor": "1 kg (1000g)" },
-      { "chave": "Dose Padrão", "valor": "5g diárias (rende cerca de 200 doses)" },
-      { "chave": "Ingredientes", "valor": "100% Creatina Monohidratada pura" },
-      { "chave": "Alérgenos & Glúten", "valor": "Não contém glúten, lactose ou açúcares" },
-      { "chave": "Procedência", "valor": "Matéria-prima importada auditada conforme normas Anvisa" },
-      { "chave": "Garantia / Devolução", "valor": "Garantia oficial do fabricante + devolução garantida Amazon em até 30 dias" }
+      { "chave": "Marca / Fabricante", "valor": "Soldiers Nutrition" },
+      { "chave": "Peso Líquido", "valor": "1 kg (1.000g)" },
+      { "chave": "Ingredientes", "valor": "100% Creatina Monohidratada Pura" },
+      { "chave": "Sabor / Textura", "valor": "Sem sabor (sabor natural do princípio ativo) / Granulometria ultrafina" },
+      { "chave": "Rendimento", "valor": "200 doses de 5g diárias ou cerca de 333 doses de 3g" },
+      { "chave": "Alérgenos e Restrições", "valor": "Não contém glúten, lactose, açúcar ou derivados de soja" },
+      { "chave": "Dosador Incluso?", "valor": "Sim, acompanha dosador padrão (scoop)" },
+      { "chave": "Registro / Regularização", "valor": "Suplemento alimentar dispensado de registro conforme RDC nº 240/2018 (Anvisa)" }
     ],
     "pontos_fortes": [
-      "Rendimento imbatível: o pacote de 1kg dura de 6 a 7 meses em uso contínuo",
-      "Granulometria fina com dissolução rápida em água, suco ou shakes sem resíduos arenosos",
-      "Histórico confiável de laudos periódicos com teor de pureza superior a 99%",
-      "Excelente custo-benefício comprovado por milhares de avaliações verificadas na Amazon"
+      "Custo por dose extremamente econômico: o pacote de 1kg dura cerca de 6 a 7 meses em uso contínuo individual",
+      "Solubilidade rápida: dissolve facilmente em água, suco ou shake de proteínas sem ficar no fundo do copo",
+      "Laudos independentes de pureza frequentemente renovados e amplamente auditados",
+      "Sabor 100% neutro, permitindo misturar em qualquer bebida sem alterar o paladar",
+      "Disponibilidade oficial em lojas verificadas no Mercado Livre (Envio Full) e Shopee"
     ],
     "pontos_atencao": [
-      "Requer vedação cuidadosa após o uso para não absorver umidade do ar",
-      "Sabor 100% neutro característico do princípio ativo (sem saborizantes)"
+      "Como é um pó fino e hidrofílico, mantenha a embalagem sempre bem fechada e em local seco para não empedrar com a umidade do ar",
+      "Não possui saborizantes adicionais (para quem procura versões com sabor artificial como uva ou limão, esta é a versão pura)"
     ],
-    "para_quem_e": "Praticantes de musculação, praticantes de corrida e pessoas que buscam suplementação diária de alta pureza com o menor custo por grama do mercado.",
-    "para_quem_nao_e": "Quem busca sachês pré-dosados para viagem ou formulações com saborizantes prontos."
+    "para_quem_e": "Praticantes de musculação, crossfit, esportes de corrida e pessoas que buscam a creatina mais pura e com o menor custo por grama do Brasil.",
+    "para_quem_nao_e": "Pessoas que preferem apresentações em cápsulas ou sachês individuais pré-fracionados para transporte em viagens."
   }
 ];
 
-// Compatibilidade com possíveis scripts legados
+// Compatibilidade
 window.PRODUCTS = window.PRODUTOS_INFORMATIVOS;

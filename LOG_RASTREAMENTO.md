@@ -326,4 +326,19 @@
 - `gerar_sitemap.py` / `sitemap.xml` — Sitemap atualizado.
 - `LOG_RASTREAMENTO.md` — Este registro.
 
+---
+
+# Log de Rastreamento - Cadastro da Creatina Soldiers Nutrition 1kg (Mercado Livre + Shopee)
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- Cadastrada a análise editorial aprofundada da **Creatina Monohidratada 100% Pura 1Kg - Soldiers Nutrition** em `produtos.js`.
+- Configurado suporte a botões multiloja:
+  - **Mercado Livre**: `https://meli.la/2LS8xt7` (com destaque de envio rápido Full).
+  - **Shopee**: `https://s.shopee.com.br/2VsDk00PDr` (com destaque de cupons de frete e moedas).
+- Ficha técnica detalhada com pureza, rendimento de 200 doses, prós, contras, veredito da redação e perfis de indicação de compra.
+- Sitemap regenerado.
+
+
 
