@@ -751,50 +751,87 @@ a { text-decoration: none; color: inherit; }
 .store-buttons-wrap {
   display: flex;
   flex-direction: column;
-  gap: 14px;
-  max-width: 600px;
+  gap: 16px;
+  max-width: 680px;
   margin: 0 auto;
 }
-.store-option-card {
+
+/* BUY BOX HORIZONTAL (IMAGEM PEQUENA NA ESQUERDA + BOTÃO NA DIREITA) */
+.product-buy-box {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  background: #F8FAFC;
+  gap: 18px;
+  background: #FFFFFF;
   border: 1px solid var(--border-card);
-  border-radius: var(--radius-sm);
-  padding: 14px 18px;
+  border-radius: var(--radius-md);
+  padding: 16px 20px;
+  box-shadow: var(--shadow-sm);
   transition: all .2s ease;
   text-align: left;
 }
-.store-option-card:hover {
-  border-color: #CBD5E1;
-  background: #FFFFFF;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+.product-buy-box:hover {
+  border-color: var(--primary-border);
+  box-shadow: 0 4px 16px rgba(234, 88, 12, 0.08);
 }
-.store-info-title {
+.buy-box-thumb {
+  width: 78px;
+  height: 78px;
+  flex-shrink: 0;
+  background: #F8FAFC;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+}
+.buy-box-thumb img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.buy-box-content {
+  flex: 1;
+  min-width: 0;
+}
+.buy-box-store {
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--primary);
+  margin-bottom: 3px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.buy-box-title {
   font-size: 15px;
   font-weight: 700;
   color: var(--text-main);
-  display: flex;
-  align-items: center;
-  gap: 8px;
+  line-height: 1.35;
+  margin: 0 0 4px;
 }
-.store-info-sub {
+.buy-box-perk {
   font-size: 12.5px;
   color: var(--text-muted);
-  margin-top: 2px;
 }
+.buy-box-action {
+  flex-shrink: 0;
+}
+
 .btn-store-go {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 10px 18px;
-  border-radius: 6px;
+  gap: 8px;
+  padding: 12px 22px;
+  border-radius: 8px;
   font-weight: 700;
-  font-size: 13.5px;
+  font-size: 14px;
   transition: all .2s ease;
   white-space: nowrap;
   flex-shrink: 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
 }
 
 .btn-store-mercadolivre {
@@ -803,7 +840,8 @@ a { text-decoration: none; color: inherit; }
 }
 .btn-store-mercadolivre:hover {
   background: #F2D800;
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 230, 0, 0.4);
 }
 
 .btn-store-shopee {
@@ -813,17 +851,19 @@ a { text-decoration: none; color: inherit; }
 .btn-store-shopee:hover {
   background: #D73C1E;
   color: #FFFFFF;
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(238, 77, 45, 0.35);
 }
 
 .btn-store-amazon {
-  background: var(--primary-navy);
+  background: var(--primary);
   color: #FFFFFF;
 }
 .btn-store-amazon:hover {
   background: var(--primary-hover);
   color: #FFFFFF;
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(234, 88, 12, 0.3);
 }
 
 .btn-amazon-official {
@@ -831,26 +871,51 @@ a { text-decoration: none; color: inherit; }
   align-items: center;
   justify-content: center;
   gap: 10px;
-  background: var(--primary-navy);
+  background: var(--primary);
   color: #FFFFFF;
   font-family: var(--font-sans);
   font-weight: 700;
-  font-size: 16px;
-  padding: 14px 32px;
-  border-radius: var(--radius-sm);
+  font-size: 15px;
+  padding: 12px 24px;
+  border-radius: 8px;
   transition: all .2s ease;
-  box-shadow: 0 4px 14px rgba(15, 41, 66, 0.2);
+  box-shadow: 0 4px 12px rgba(234, 88, 12, 0.25);
 }
 .btn-amazon-official:hover {
   background: var(--primary-hover);
   transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(15, 41, 66, 0.25);
+  box-shadow: 0 6px 16px rgba(234, 88, 12, 0.35);
   color: #FFFFFF;
 }
 .amazon-terms-note {
   font-size: 11.5px;
   color: var(--text-subtle);
   margin-top: 14px;
+}
+
+@media (max-width: 640px) {
+  .product-buy-box {
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 14px;
+    gap: 12px;
+  }
+  .buy-box-thumb {
+    width: 64px;
+    height: 64px;
+  }
+  .buy-box-content {
+    flex: 1;
+    min-width: calc(100% - 82px);
+  }
+  .buy-box-action {
+    width: 100%;
+  }
+  .buy-box-action .btn-store-go,
+  .buy-box-action .btn-amazon-official {
+    width: 100%;
+    justify-content: center;
+  }
 }
 
 /* BOTÕES DE COMPARTILHAMENTO */
@@ -1597,6 +1662,58 @@ function limparFiltros() {
 /* ==========================================================================
    RENDERIZAÇÃO DA PÁGINA DO ARTIGO INFORMATIVO (?artigo=ASIN)
    ========================================================================== */
+function renderBuyBoxesHtml(p, img, linkOficial) {
+  if (p.links_compra && p.links_compra.length > 0) {
+    return `
+      <div class="store-buttons-wrap">
+        ${p.links_compra.map(opt => {
+          const isMeli = /mercadolivre|meli/i.test(opt.tipo || opt.loja || "");
+          const isShopee = /shopee/i.test(opt.tipo || opt.loja || "");
+          const btnClass = isMeli ? 'btn-store-mercadolivre' : (isShopee ? 'btn-store-shopee' : 'btn-store-amazon');
+          const storeName = opt.loja || (isMeli ? 'Mercado Livre' : (isShopee ? 'Shopee' : 'Loja Parceira'));
+          return `
+            <div class="product-buy-box">
+              <div class="buy-box-thumb">
+                <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+              </div>
+              <div class="buy-box-content">
+                <div class="buy-box-store">${escapeHtml(storeName)}</div>
+                <div class="buy-box-title">${escapeHtml(p.titulo)}</div>
+                ${opt.destaque ? `<div class="buy-box-perk">${escapeHtml(opt.destaque)}</div>` : ''}
+              </div>
+              <div class="buy-box-action">
+                <a class="btn-store-go ${btnClass}" href="${escapeHtml(opt.url)}" target="_blank" rel="nofollow sponsored noopener">
+                  Comprar no ${escapeHtml(storeName)}
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+                </a>
+              </div>
+            </div>
+          `;
+        }).join("")}
+      </div>
+    `;
+  } else {
+    return `
+      <div class="product-buy-box">
+        <div class="buy-box-thumb">
+          <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+        </div>
+        <div class="buy-box-content">
+          <div class="buy-box-store">Oferta Oficial Verificada</div>
+          <div class="buy-box-title">${escapeHtml(p.titulo)}</div>
+          <div class="buy-box-perk">Disponibilidade com envio seguro e garantia de procedência</div>
+        </div>
+        <div class="buy-box-action">
+          <a class="btn-amazon-official" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
+            Conferir Oferta
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+          </a>
+        </div>
+      </div>
+    `;
+  }
+}
+
 function renderArtigo(asin) {
   const container = document.getElementById("article-detail-container");
   const lista = getListaProdutosInformativos();
@@ -1642,7 +1759,7 @@ function renderArtigo(asin) {
     <div class="amazon-disclosure-box">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
       <div>
-        <strong>Transparência Editorial:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas. Nossos guias são independentes e expressam a análise técnica da equipe sem influência de fabricantes.
+        <strong>Transparência Editorial:</strong> Como participante de programas de afiliados oficiais, sou remunerado pelas compras qualificadas efetuadas através dos links recomendados, sem nenhum custo adicional para você.
       </div>
     </div>
 
@@ -1659,6 +1776,11 @@ function renderArtigo(asin) {
         <p class="verdict-text">${escapeHtml(p.veredito_resumo)}</p>
       </div>
     ` : ""}
+
+    <!-- OPÇÃO DE COMPRA RÁPIDA (FOTO PEQUENA NA ESQUERDA + BOTÃO NA DIREITA) -->
+    <div style="margin:24px 0 32px;">
+      ${renderBuyBoxesHtml(p, img, linkOficial)}
+    </div>
 
     <!-- VISÃO GERAL -->
     ${visaoGeral.length > 0 ? `
@@ -1743,33 +1865,7 @@ function renderArtigo(asin) {
       <h3>Onde Encontrar com Garantia & Oferta Verificada</h3>
       <p>Consulte as opções de compra oficiais nos nossos parceiros homologados para verificar valores atualizados, disponibilidade de estoque e prazos de entrega para o seu CEP:</p>
       
-      ${(p.links_compra && p.links_compra.length > 0) ? `
-        <div class="store-buttons-wrap">
-          ${p.links_compra.map(opt => {
-            const isMeli = /mercadolivre|meli/i.test(opt.tipo || opt.loja || "");
-            const isShopee = /shopee/i.test(opt.tipo || opt.loja || "");
-            const btnClass = isMeli ? 'btn-store-mercadolivre' : (isShopee ? 'btn-store-shopee' : 'btn-store-amazon');
-            const storeName = opt.loja || (isMeli ? 'Mercado Livre' : (isShopee ? 'Shopee' : 'Loja Parceira'));
-            return `
-              <div class="store-option-card">
-                <div>
-                  <div class="store-info-title">${escapeHtml(storeName)}</div>
-                  ${opt.destaque ? `<div class="store-info-sub">${escapeHtml(opt.destaque)}</div>` : ''}
-                </div>
-                <a class="btn-store-go ${btnClass}" href="${escapeHtml(opt.url)}" target="_blank" rel="nofollow sponsored noopener">
-                  Conferir no ${escapeHtml(storeName)}
-                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
-                </a>
-              </div>
-            `;
-          }).join("")}
-        </div>
-      ` : `
-        <a class="btn-amazon-official" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
-          Conferir Oferta Oficial
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
-        </a>
-      `}
+      ${renderBuyBoxesHtml(p, img, linkOficial)}
 
       <div class="amazon-terms-note">
         * Informação de transparência: Preços, cupons e estoque são geridos diretamente pelos marketplaces parceiros e podem variar a qualquer momento.
@@ -1909,17 +2005,20 @@ function renderPedido(id) {
         <div class="pedido-desc-box">${escapeHtml(desc)}</div>
       </div>
 
-      <div class="amazon-action-card" style="margin:28px 0;">
-        <h3>Acessar Oferta Oficial na Amazon</h3>
-        <p>Acesse com segurança a página oficial deste item solicitado diretamente no catálogo seguro da Amazon Brasil.</p>
-        
-        <a class="btn-amazon-official" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
-          Conferir na Amazon
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
-        </a>
-
-        <div class="amazon-terms-note">
-          * Preços e disponibilidade sujeitos a alteração pela Amazon sem aviso prévio.
+      <div class="product-buy-box" style="margin:28px 0;">
+        <div class="buy-box-thumb">
+          <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+        </div>
+        <div class="buy-box-content">
+          <div class="buy-box-store">Acesso Oficial ao Produto</div>
+          <div class="buy-box-title">${escapeHtml(p.titulo)}</div>
+          ${preco ? `<div class="buy-box-perk" style="color:var(--primary);font-weight:700;font-size:14px;">${escapeHtml(preco)}</div>` : `<div class="buy-box-perk">Disponibilidade e entrega verificadas</div>`}
+        </div>
+        <div class="buy-box-action">
+          <a class="btn-amazon-official" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
+            Conferir Oferta
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+          </a>
         </div>
       </div>
 

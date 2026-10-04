@@ -353,6 +353,22 @@
   - Botões de navegação, abas ativas, filtros de categoria, caixas de veredito e badges com o laranja característico da marca.
   - Destaques de preço e selo dos **Pedidos da Comunidade** padronizados no tom laranja oficial.
 
+---
+
+# Log de Rastreamento - Layout Buy Box Horizontal (Imagem na Esquerda + Botão na Direita)
+
+## Data: 2026-10-03
+
+### Ação Realizada
+- Implementado o padrão **Buy Box Horizontal** para as opções de compra:
+  - **Lado Esquerdo**: Miniatura nítida e enquadrada do produto (78x78px com padding e fundo neutro).
+  - **Centro**: Nome do marketplace/loja oficial, título do produto e destaque de benefício (ex: Envio Full / Cupons).
+  - **Lado Direito**: Botão de compra destacado ("Comprar no Mercado Livre", "Comprar na Shopee", "Conferir Oferta").
+- Disponibilizado tanto no topo da análise (após o Veredito da Redação) quanto na caixa de oferta ao final do artigo.
+- Aplicado também na página individual de cada **Pedido da Comunidade**.
+- Layout 100% responsivo para dispositivos móveis com empilhamento natural do botão.
+
+
 
 
 
