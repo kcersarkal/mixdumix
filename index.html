@@ -1080,6 +1080,107 @@ a { text-decoration: none; color: inherit; }
   margin: 0;
 }
 
+
+/* HERO BANNER - DESTAQUE DO ULTIMO PEDIDO */
+.pedido-hero-card {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 32px;
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 28px;
+  margin-bottom: 36px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.pedido-hero-card:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+}
+.pedido-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #FFF7ED;
+  color: #C2410C;
+  border: 1px solid #FFEDD5;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+  width: fit-content;
+}
+.pedido-hero-media {
+  position: relative;
+  width: 100%;
+  height: 260px;
+  background: #F8FAFC;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  cursor: pointer;
+}
+.pedido-hero-media img {
+  max-width: 85%;
+  max-height: 85%;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+.pedido-hero-media:hover img {
+  transform: scale(1.05);
+}
+.pedido-hero-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.pedido-hero-title {
+  font-family: var(--font-serif);
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--editorial-navy);
+  margin: 0 0 12px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.pedido-hero-title:hover {
+  color: var(--primary);
+}
+.pedido-hero-desc {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #4B5563;
+  margin-bottom: 22px;
+}
+.pedido-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+@media (max-width: 860px) {
+  .pedido-hero-card {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
+  .pedido-hero-media {
+    height: 220px;
+  }
+  .pedido-hero-title {
+    font-size: 21px;
+  }
+}
+
 .pedido-detail-card {
   background: #FFFFFF;
   border: 1px solid var(--border-card);
@@ -1298,7 +1399,108 @@ a { text-decoration: none; color: inherit; }
   .article-hero-title { font-size: 28px; }
   .static-editorial-wrap { padding: 24px; }
   .footer-grid { grid-template-columns: 1fr; gap: 32px; }
-  .pedido-detail-card { padding: 24px; }
+  
+/* HERO BANNER - DESTAQUE DO ULTIMO PEDIDO */
+.pedido-hero-card {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 32px;
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 28px;
+  margin-bottom: 36px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.pedido-hero-card:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+}
+.pedido-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #FFF7ED;
+  color: #C2410C;
+  border: 1px solid #FFEDD5;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+  width: fit-content;
+}
+.pedido-hero-media {
+  position: relative;
+  width: 100%;
+  height: 260px;
+  background: #F8FAFC;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  cursor: pointer;
+}
+.pedido-hero-media img {
+  max-width: 85%;
+  max-height: 85%;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+.pedido-hero-media:hover img {
+  transform: scale(1.05);
+}
+.pedido-hero-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.pedido-hero-title {
+  font-family: var(--font-serif);
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--editorial-navy);
+  margin: 0 0 12px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.pedido-hero-title:hover {
+  color: var(--primary);
+}
+.pedido-hero-desc {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #4B5563;
+  margin-bottom: 22px;
+}
+.pedido-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+@media (max-width: 860px) {
+  .pedido-hero-card {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
+  .pedido-hero-media {
+    height: 220px;
+  }
+  .pedido-hero-title {
+    font-size: 21px;
+  }
+}
+
+.pedido-detail-card { padding: 24px; }
 }
 </style>
 </head>
@@ -1408,6 +1610,8 @@ a { text-decoration: none; color: inherit; }
         <div style="font-size:13px;color:var(--text-subtle);font-weight:600;" id="pedidos-counter-wrap"></div>
       </div>
     </div>
+
+    <div id="pedido-hero-container"></div>
 
     <div class="articles-grid" id="pedidos-grid"></div>
 
@@ -2045,6 +2249,7 @@ function getListaPedidos() {
 
 function renderPedidos() {
   const lista = getListaPedidos();
+  const heroContainer = document.getElementById("pedido-hero-container");
   const grid = document.getElementById("pedidos-grid");
   const empty = document.getElementById("empty-pedidos");
   const counterWrap = document.getElementById("pedidos-counter-wrap");
@@ -2064,13 +2269,54 @@ function renderPedidos() {
   }
 
   if (!filtrados.length) {
+    if (heroContainer) heroContainer.innerHTML = "";
     grid.innerHTML = "";
     empty.style.display = "block";
     return;
   }
   empty.style.display = "none";
 
-  grid.innerHTML = filtrados.map(p => {
+  // Se nao houver busca ativa, o 1o item (mais recente) vira o Hero Banner em destaque
+  let itensGrid = filtrados;
+  if (!termoBusca.trim() && filtrados.length > 0) {
+    const hero = filtrados[0];
+    itensGrid = filtrados.slice(1);
+    const heroId = hero.id || hero.asin;
+    const heroImg = safeUrl(hero.imagem);
+    const heroLink = ensureAmazonTag(hero.link || `https://www.amazon.com.br/dp/${hero.asin || hero.id}?tag=${AFFILIATE_TAG}`);
+    const heroDesc = hero.descricao || hero.descricao_profissional || "Ficha técnica e especificações completas em curadoria editorial.";
+
+    if (heroContainer) {
+      heroContainer.innerHTML = `
+        <div class="pedido-hero-card">
+          <div class="pedido-hero-media" onclick="navigate('pedido', '${escapeHtml(heroId)}')">
+            <img src="${escapeHtml(heroImg)}" alt="${escapeHtml(hero.titulo)}" loading="lazy">
+          </div>
+          <div class="pedido-hero-content">
+            <div class="pedido-hero-badge">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              Último Pedido em Destaque
+            </div>
+            <h2 class="pedido-hero-title" onclick="navigate('pedido', '${escapeHtml(heroId)}')">${escapeHtml(hero.titulo)}</h2>
+            <p class="pedido-hero-desc">${escapeHtml(heroDesc)}</p>
+            <div class="pedido-hero-actions">
+              <a class="btn-dest-amazon" style="display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:var(--radius-sm);text-decoration:none;font-weight:700;font-size:14px;" href="${escapeHtml(heroLink)}" target="_blank" rel="nofollow sponsored noopener">
+                Ver Preço na Amazon
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+              </a>
+              <button class="btn-secondary" style="padding:12px 20px;font-size:14px;" onclick="navigate('pedido', '${escapeHtml(heroId)}')">
+                Ver Ficha Completa
+              </button>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+  } else {
+    if (heroContainer) heroContainer.innerHTML = "";
+  }
+
+  grid.innerHTML = itensGrid.map(p => {
     const pid = p.id || p.asin;
     const img = safeUrl(p.imagem);
     const preco = formatarPreco(p.preco);
@@ -2084,7 +2330,7 @@ function renderPedidos() {
         <div class="article-card-content">
           ${preco ? `<div style="font-size:15px;font-weight:700;color:var(--primary);margin-bottom:8px;">${escapeHtml(preco)}</div>` : ""}
           <h3 class="article-card-title">${escapeHtml(p.titulo)}</h3>
-          <p class="article-card-summary">${escapeHtml(p.descricao || p.descricao_profissional || "Item solicitado por leitores com checagem de oferta disponível na Amazon.")}</p>
+          <p class="article-card-summary">${escapeHtml(p.descricao || p.descricao_profissional || "Ficha técnica e especificações completas em curadoria editorial.")}</p>
           <div class="article-card-footer">
             <span class="read-label">Guia & Ficha Técnica</span>
             <span class="btn-read-cta">
