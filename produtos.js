@@ -1,11 +1,84 @@
 // =============================================================================
-// MIX DU MIX — BASE DE PRODUTOS INFORMATIVOS & GUIAS DE COMPRA
+// MIX DU MIX • BASE DE PRODUTOS INFORMATIVOS & GUIAS DE COMPRA
 // =============================================================================
 // Este arquivo armazena os produtos analisados editorialmente para o portal.
 // As atualizações são adicionadas conforme novos links são enviados e analisados.
 // =============================================================================
 
 window.PRODUTOS_INFORMATIVOS = [
+  {
+    "asin": "B0C2ZNDWK6",
+    "id": "conjunto-bowls-tigelas-inox-electrolux",
+    "titulo": "Conjunto de Bowls e Tigelas de Inox com Tampa Plástica Electrolux (3 Peças)",
+    "subtitulo": "Ficha técnica completa: aço inoxidável durável, tampas plásticas herméticas, tamanhos práticos e link oficial de compra na Amazon",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "https://m.media-amazon.com/images/I/51hUmO15FhL._AC_SL1500_.jpg",
+    "data_revisao": "2026-10-07",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O Conjunto de Bowls de Inox da Electrolux é um dos kits de preparação e armazenamento mais práticos e versáteis para a cozinha. Fabricados em aço inoxidável resistente que não absorve odores ou manchas de alimentos, os três recipientes contam com tampas plásticas de vedação segura, permitindo preparar receitas, marinar carnes e conservar ingredientes diretamente na geladeira com máxima higiene.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=mdm0c7-20",
+        "destaque": "Produto Oficial Electrolux / Entrega Prime e Devolução Garantida",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "O Conjunto de Tigelas e Bowls da Electrolux foi desenvolvido para resolver duas necessidades fundamentais da cozinha moderna: agilidade durante o preparo culinário e conservação higiênica de alimentos.",
+      "O grande diferencial do aço inoxidável é a sua superfície não porosa. Ao contrário de recipientes plásticos convencionais que acumulam gordura, desbotam e retêm cheiros fortes (como alho, cebola e temperos fortes), o inox preserva o sabor genuíno dos alimentos e é extremamente fácil de desengordurar.",
+      "Cada tigela é acompanhada por uma tampa plástica flexível com encaixe sob pressão, proporcionando uma vedação segura para armazenar sobras, saladas lavadas ou carnes marinando na geladeira sem ressecar e sem passar odores para o ambiente interno do refrigerador.",
+      "Outro ponto positivo é a ergonomia de armazenamento: os três bowls possuem tamanhos gradativos perfeitamente compatíveis, permitindo que sejam guardados um dentro do outro com as tampas sobrepostas, ocupando espaço mínimo em armários e gaveteiros."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "Conjunto de Bowls Inox com Tampa (A23282201)"
+      },
+      {
+        "chave": "Identificador / ASIN",
+        "valor": "B0C2ZNDWK6"
+      },
+      {
+        "chave": "Material das Tigelas",
+        "valor": "Aço inoxidável de grau alimentício higiênico"
+      },
+      {
+        "chave": "Material das Tampas",
+        "valor": "Polipropileno livre de BPA (atóxico e flexível)"
+      },
+      {
+        "chave": "Quantidade de Peças",
+        "valor": "3 bowls e 3 tampas plásticas (6 peças no total)"
+      },
+      {
+        "chave": "Compatibilidade",
+        "valor": "Seguro para geladeira e lava-louças (tigelas de inox)"
+      },
+      {
+        "chave": "Procedência e Garantia",
+        "valor": "Produto original com nota fiscal e garantia oficial Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Material em aço inoxidável que não retém cheiros, não mancha com molhos e oferece alta durabilidade",
+      "Tampas plásticas com encaixe vedado que mantêm o frescor e dispensam o uso de plástico filme descartável",
+      "Três tamanhos funcionais para misturar massas, temperar carnes, bater claras ou servir saladas à mesa",
+      "Design empilhável inteligente: os três recipientes se encaixam perfeitamente para economizar espaço",
+      "Fácil higienização com acabamento liso e compatibilidade com lava-louças",
+      "Acabamento acetinado elegante com a confiabilidade e padrão de qualidade Electrolux"
+    ],
+    "pontos_atencao": [
+      "Não deve ser utilizado em forno micro-ondas por se tratar de recipiente metálico de aço inox",
+      "Para maior durabilidade das tampas plásticas, recomenda-se lavá-las na prateleira superior da lava-louças ou manualmente"
+    ],
+    "para_quem_e": "Cozinheiros domésticos, adeptos de marmitas e qualquer pessoa que busca praticidade, organização e higiene no preparo diário, substituindo potes plásticos por peças duráveis em inox.",
+    "para_quem_nao_e": "Pessoas que precisam de recipientes destinados exclusivamente ao aquecimento de alimentos no forno micro-ondas."
+  },
   {
     "asin": "creatina-soldiers-nutrition-1kg",
     "id": "creatina-soldiers-nutrition-1kg",
@@ -347,5 +420,5 @@ window.PRODUTOS_INFORMATIVOS = [
   }
 ];
 
-// Compatibilidade
+// Compatibilidade com possíveis scripts legados
 window.PRODUCTS = window.PRODUTOS_INFORMATIVOS;
