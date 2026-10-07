@@ -1797,7 +1797,7 @@ function getStoreInfo(url, loja) {
     return { name: "Shopee", btnText: "Conferir na Shopee", btnClass: "btn-dest-shopee" };
   }
   if (u.includes("amazon") || u.includes("amzn.to") || l.includes("amazon")) {
-    return { name: "Amazon", btnText: "Consultar na Amazon", btnClass: "btn-dest-amazon" };
+    return { name: "Amazon", btnText: "Ver Preço na Amazon", btnClass: "btn-dest-amazon" };
   }
   return { name: loja || "Loja Oficial", btnText: loja ? `Conferir na ${loja}` : "Conferir Oferta", btnClass: "btn-dest-default" };
 }
