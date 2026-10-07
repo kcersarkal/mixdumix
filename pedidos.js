@@ -1,5 +1,15 @@
 window.PEDIDOS = [
   {
+    "id": "B0C2J8DQC1",
+    "asin": "B0C2J8DQC1",
+    "titulo": "Philips OneBlade Barbeador e Aparador Elétrico QP1424",
+    "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=mdm0c7-20",
+    "descricao": "Aparador e barbeador elétrico híbrido desenvolvido para aparar, contornar e raspar pelos de qualquer comprimento sem agredir a pele. Sua lâmina exclusiva realiza 200 movimentos por segundo e conta com sistema de proteção dupla com revestimento deslizante e pontas arredondadas, prevenindo cortes e irritações. É 100% à prova d'água para uso a seco ou no banho, além de oferecer lâmina de longa durabilidade e recarga prática via USB.",
+    "descricao_profissional": "Aparador e barbeador elétrico híbrido desenvolvido para aparar, contornar e raspar pelos de qualquer comprimento sem agredir a pele. Sua lâmina exclusiva realiza 200 movimentos por segundo e conta com sistema de proteção dupla com revestimento deslizante e pontas arredondadas, prevenindo cortes e irritações. É 100% à prova d'água para uso a seco ou no banho, além de oferecer lâmina de longa durabilidade e recarga prática via USB."
+  },
+  {
     "id": "B0FVP6KRP4",
     "asin": "B0FVP6KRP4",
     "titulo": "Geladeira Electrolux Frost Free 320L Duplex Inox (TF38S)",
@@ -179,14 +189,5 @@ window.PEDIDOS = [
     "link": "https://www.amazon.com.br/dp/B0DVK166SV?tag=mdm0c7-20",
     "descricao": "Dispositivo de streaming portátil que se conecta diretamente à entrada HDMI de qualquer televisor para transformá-lo em uma central inteligente. Oferece reprodução em resolução Full HD fluida, interface simplificada com acesso aos principais serviços de streaming e controle remoto dedicado com busca por voz pela assistente Alexa.",
     "descricao_profissional": "Dispositivo de streaming portátil que se conecta diretamente à entrada HDMI de qualquer televisor para transformá-lo em uma central inteligente. Oferece reprodução em resolução Full HD fluida, interface simplificada com acesso aos principais serviços de streaming e controle remoto dedicado com busca por voz pela assistente Alexa."
-  },
-  {
-    "id": "B0C2J8DQC1",
-    "asin": "B0C2J8DQC1",
-    "titulo": "Philips OneBlade Barbeador e Aparador Elétrico: Raspa, Apara e Contorna",
-    "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1500_.jpg",
-    "preco": null,
-    "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=mdm0c7-20",
-    "descricao": ""
   }
 ];
