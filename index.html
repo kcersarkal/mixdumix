@@ -2304,8 +2304,9 @@ function renderPedidos() {
                 Ver Preço na Amazon
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
               </a>
-              <button class="btn-secondary" style="padding:12px 20px;font-size:14px;" onclick="navigate('pedido', '${escapeHtml(heroId)}')">
-                Ver Ficha Completa
+              <button type="button" class="btn-secondary" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;font-size:14px;cursor:pointer;" onclick="compartilharPedidoHero('${escapeHtml(heroId)}', '${escapeHtml(hero.titulo)}', this)">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+                Compartilhar Pedido
               </button>
             </div>
           </div>
@@ -2453,6 +2454,28 @@ function renderPedido(id) {
 /* ==========================================================================
    COMPARTILHAMENTO & HELPERS
    ========================================================================== */
+function compartilharPedidoHero(id, titulo, btn) {
+  const url = `${window.location.origin}${window.location.pathname}?pedido=${encodeURIComponent(id)}`;
+  const texto = `Olha esse pedido que encontrei no Mix Du Mix:\n*${titulo}*\n\nConfira aqui: ${url}`;
+
+  if (navigator.share) {
+    navigator.share({ title: titulo, text: texto, url: url }).catch(() => {});
+    return;
+  }
+
+  const originalHtml = btn.innerHTML;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(url).then(() => {
+      btn.innerHTML = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20 6L9 17l-5-5"/></svg> Link Copiado!`;
+      setTimeout(() => { btn.innerHTML = originalHtml; }, 2500);
+    }).catch(() => {
+      window.prompt("Copie o link do pedido:", url);
+    });
+  } else {
+    window.prompt("Copie o link do pedido:", url);
+  }
+}
+
 function compartilharPagina(titulo, btn) {
   const urlAtual = window.location.href;
   const texto = `${titulo}\nConfira a análise completa no Mix Du Mix:\n${urlAtual}`;
