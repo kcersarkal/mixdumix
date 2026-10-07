@@ -1797,7 +1797,7 @@ function getStoreInfo(url, loja) {
     return { name: "Shopee", btnText: "Conferir na Shopee", btnClass: "btn-dest-shopee" };
   }
   if (u.includes("amazon") || u.includes("amzn.to") || l.includes("amazon")) {
-    return { name: "Amazon", btnText: "Conferir na Amazon", btnClass: "btn-dest-amazon" };
+    return { name: "Amazon", btnText: "Consultar na Amazon", btnClass: "btn-dest-amazon" };
   }
   return { name: loja || "Loja Oficial", btnText: loja ? `Conferir na ${loja}` : "Conferir Oferta", btnClass: "btn-dest-default" };
 }
@@ -2078,7 +2078,7 @@ function renderPedidos() {
     return `
       <article class="article-card" onclick="navigate('pedido', '${escapeHtml(pid)}')" tabindex="0" role="button" aria-label="Ver pedido ${escapeHtml(p.titulo)}" onkeydown="if(event.key==='Enter'){navigate('pedido', '${escapeHtml(pid)}');}">
         <div class="article-card-thumb">
-          <span class="article-badge" style="background:var(--primary-light);color:var(--primary);border:1px solid var(--primary-border);font-weight:700;">Pedido da Comunidade</span>
+          <span class="article-badge" style="background:var(--primary-light);color:var(--primary);border:1px solid var(--primary-border);font-weight:700;">Guia & Ficha Técnica</span>
           <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
         </div>
         <div class="article-card-content">
@@ -2086,9 +2086,9 @@ function renderPedidos() {
           <h3 class="article-card-title">${escapeHtml(p.titulo)}</h3>
           <p class="article-card-summary">${escapeHtml(p.descricao || p.descricao_profissional || "Item solicitado por leitores com checagem de oferta disponível na Amazon.")}</p>
           <div class="article-card-footer">
-            <span class="read-label">Solicitado por leitor</span>
+            <span class="read-label">Guia & Ficha Técnica</span>
             <span class="btn-read-cta">
-              Ver detalhes
+              Ver ficha técnica
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </span>
           </div>
@@ -2122,12 +2122,12 @@ function renderPedido(id) {
   container.innerHTML = `
     <button class="btn-back" onclick="navigate('pedidos')">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-      Voltar à lista de pedidos
+      Voltar aos guias e pedidos
     </button>
 
     <div class="pedido-detail-card">
       <div style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;color:var(--primary);margin-bottom:12px;">
-        Pedido da Comunidade • Mix Du Mix
+        Guia & Ficha Técnica • Mix Du Mix
       </div>
 
       <h1 class="pedido-detail-title">${escapeHtml(p.titulo)}</h1>
@@ -2143,14 +2143,14 @@ function renderPedido(id) {
       </div>
 
       <div style="margin:24px 0;">
-        <h3 style="font-family:var(--font-serif);font-size:20px;font-weight:700;color:var(--editorial-navy);margin:0 0 10px;">Informações do Pedido</h3>
+        <h3 style="font-family:var(--font-serif);font-size:20px;font-weight:700;color:var(--editorial-navy);margin:0 0 10px;">Guia e Ficha Técnica</h3>
         <div class="pedido-desc-box">${escapeHtml(desc)}</div>
       </div>
 
       <div class="product-purchase-section" style="margin:28px 0;">
         <div class="purchase-section-header">
-          <h3 class="purchase-title">Acessar Oferta do Pedido</h3>
-          <p class="purchase-subtext">Consulte a disponibilidade de entrega e valores atualizados na página oficial deste item:</p>
+          <h3 class="purchase-title">Consultar Produto e Disponibilidade</h3>
+          <p class="purchase-subtext">Verifique o valor atualizado, disponibilidade e entrega diretamente na página oficial na Amazon:</p>
         </div>
 
         <div class="purchase-unified-box">
