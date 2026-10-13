@@ -1,5 +1,14 @@
 window.PEDIDOS = [
   {
+    "id": "B0G51Y99CC",
+    "asin": "B0G51Y99CC",
+    "titulo": "Mini Máquina de Lavar Roupas 11L Peças Íntimas, Centrifuga Dobrável Portátil Moderna Para Roupas Pequena mini lavadora de roupas Viagens e Pequenos Espaços(Lilás)",
+    "imagem": "https://m.media-amazon.com/images/I/41iA196PVEL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0G51Y99CC?tag=mdm0c7-20",
+    "descricao": ""
+  },
+  {
     "id": "B0FPFS2NBN",
     "asin": "B0FPFS2NBN",
     "titulo": "Caixa de Som Portátil Bluetooth MLOVE E80 30W com LED RGB",
