@@ -501,6 +501,16 @@
     - Tensão 127V (versão altamente demandada no mercado).
 - `sitemap.xml` regenerado com 8 URLs indexáveis.
 
+---
+
+## [2026-10-13] - Ajuste de UX: Remoção de Duplicidade do Produto em Destaque nos Pedidos
+### Contexto
+- Na seção **Pedidos da Comunidade**, o produto mais recente (hero banner em destaque) estava sendo replicado no topo da grade de cards abaixo.
+
+### Ação Realizada
+- Modificado `renderPedidos()` em `index.html`: quando não houver busca ativa, a grade de cards renderiza exclusivamente os itens restantes (`filtrados.slice(1)`).
+- O produto em destaque fica isolado no banner principal. Assim que um novo pedido for incluído no topo (novo destaque), o produto anterior é automaticamente movido para a grade regular abaixo, sem duplicações visuais.
+
 
 
 

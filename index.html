@@ -2210,11 +2210,12 @@ function renderPedidos() {
   empty.style.display = "none";
 
   // Se nao houver busca ativa, o 1o item (mais recente) vira o Hero Banner em destaque
-  // e tambem permanece no topo do grid para garantir visibilidade imediata em qualquer dispositivo
+  // e nao se repete no grid abaixo (apenas os demais produtos sao listados no grid).
+  // Quando um novo produto entrar em destaque, este passa automaticamente para o grid.
   let itensGrid = filtrados;
   if (!termoBusca.trim() && filtrados.length > 0) {
     const hero = filtrados[0];
-    itensGrid = filtrados;
+    itensGrid = filtrados.slice(1);
     const heroId = hero.id || hero.asin;
     const heroImg = safeUrl(hero.imagem);
     const heroLink = ensureAmazonTag(hero.link || `https://www.amazon.com.br/dp/${hero.asin || hero.id}?tag=${AFFILIATE_TAG}`);
