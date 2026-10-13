@@ -280,6 +280,9 @@ a { text-decoration: none; color: inherit; }
   from { opacity: 0; transform: translateY(4px); }
   to { opacity: 1; transform: translateY(0); }
 }
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
 
 /* ==========================================================================
    HERO / INTRO EDITORIAL
@@ -1678,7 +1681,7 @@ a { text-decoration: none; color: inherit; }
 
 <!-- SCRIPTS DE DADOS -->
 <script src="produtos.js?v=20261013-3"></script>
-<script src="pedidos.js?v=20261013-3"></script>
+<script src="pedidos.js?v=20261013-4"></script>
 
 <!-- LÓGICA DO PORTAL -->
 <script>
@@ -2282,10 +2285,53 @@ function renderPedidos() {
 
 function renderPedido(id) {
   const container = document.getElementById("pedido-detail-container");
-  const lista = getListaPedidos();
-  const p = lista.find(item => item.id === id || item.asin === id);
+  let lista = getListaPedidos();
+  let p = lista.find(item => item.id === id || item.asin === id);
 
   if (!p) {
+    // Se o pedido não foi encontrado de primeira, o navegador pode estar com cache antigo de pedidos.js.
+    // Força o recarregamento dinâmico do arquivo com timestamp para furar o cache.
+    if (!window._recarregandoPedidos) {
+      window._recarregandoPedidos = true;
+      container.innerHTML = `
+        <div style="text-align:center;padding:60px 20px;color:var(--text-subtle);">
+          <div style="width:36px;height:36px;border:3px solid var(--border-card);border-top-color:var(--primary);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto 16px;"></div>
+          <div style="font-size:16px;font-weight:600;color:var(--text);margin-bottom:6px;">Carregando pedido...</div>
+          <p style="font-size:13px;">Buscando as informações mais recentes da comunidade.</p>
+        </div>
+      `;
+      const s = document.createElement("script");
+      s.src = "pedidos.js?v=" + Date.now();
+      s.onload = () => {
+        window._recarregandoPedidos = false;
+        lista = getListaPedidos();
+        p = lista.find(item => item.id === id || item.asin === id);
+        if (p) {
+          renderPedido(id);
+        } else {
+          container.innerHTML = `
+            <div class="empty-box">
+              <h3>Guia não encontrado</h3>
+              <p>O item solicitado não está disponível na base de pedidos da comunidade.</p>
+              <button class="btn-secondary" onclick="navigate('pedidos')">Voltar aos pedidos</button>
+            </div>
+          `;
+        }
+      };
+      s.onerror = () => {
+        window._recarregandoPedidos = false;
+        container.innerHTML = `
+          <div class="empty-box">
+            <h3>Guia não encontrado</h3>
+            <p>O item solicitado não está disponível na base de pedidos da comunidade.</p>
+            <button class="btn-secondary" onclick="navigate('pedidos')">Voltar aos pedidos</button>
+          </div>
+        `;
+      };
+      document.head.appendChild(s);
+      return;
+    }
+
     container.innerHTML = `
       <div class="empty-box">
         <h3>Guia não encontrado</h3>
