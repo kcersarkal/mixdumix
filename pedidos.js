@@ -1,5 +1,16 @@
 window.PEDIDOS = [
   {
+    "id": "B0FPFS2NBN",
+    "asin": "B0FPFS2NBN",
+    "titulo": "Caixa de Som Portátil Bluetooth MLOVE E80 30W com LED RGB",
+    "imagem": "https://m.media-amazon.com/images/I/71JTYNSX0eL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0FPFS2NBN?tag=mdm0c7-20",
+    "descricao": "Caixa de som Bluetooth portátil com potência de 30W e reforço dinâmico de graves com radiadores passivos duplos, ideal para ambientes internos e externos. Possui certificação IP67 à prova d'água e poeira, iluminação LED RGB com múltiplos modos, conexão Bluetooth 5.4 estável, suporte a emparelhamento estéreo TWS, entrada auxiliar P2 (AUX) e leitor de cartão Micro SD, além de bateria recarregável via USB-C com até 10 horas de reprodução contínua.",
+    "source_url": "https://www.amazon.com.br/dp/B0FPFS2NBN",
+    "descricao_profissional": "Caixa de som Bluetooth portátil com potência de 30W e reforço dinâmico de graves com radiadores passivos duplos, ideal para ambientes internos e externos. Possui certificação IP67 à prova d'água e poeira, iluminação LED RGB com múltiplos modos, conexão Bluetooth 5.4 estável, suporte a emparelhamento estéreo TWS, entrada auxiliar P2 (AUX) e leitor de cartão Micro SD, além de bateria recarregável via USB-C com até 10 horas de reprodução contínua."
+  },
+  {
     "id": "B0C2J8DQC1",
     "asin": "B0C2J8DQC1",
     "titulo": "Philips OneBlade Barbeador e Aparador Elétrico QP1424",
