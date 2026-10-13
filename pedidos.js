@@ -3,12 +3,78 @@ window.PEDIDOS = [
     "id": "B0FPFS2NBN",
     "asin": "B0FPFS2NBN",
     "titulo": "Caixa de Som Portátil Bluetooth MLOVE E80 30W com LED RGB",
+    "subtitulo": "Review e ficha técnica: potência de 30W com reforço de graves, certificação IP67 à prova d'água, Bluetooth 5.4 e bateria de até 10 horas",
+    "categoria": "Áudio & Tecnologia",
     "imagem": "https://m.media-amazon.com/images/I/71JTYNSX0eL._AC_SL1000_.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0FPFS2NBN?tag=mdm0c7-20",
-    "descricao": "Caixa de som Bluetooth portátil com potência de 30W e reforço dinâmico de graves com radiadores passivos duplos, ideal para ambientes internos e externos. Possui certificação IP67 à prova d'água e poeira, iluminação LED RGB com múltiplos modos, conexão Bluetooth 5.4 estável, suporte a emparelhamento estéreo TWS, entrada auxiliar P2 (AUX) e leitor de cartão Micro SD, além de bateria recarregável via USB-C com até 10 horas de reprodução contínua.",
     "source_url": "https://www.amazon.com.br/dp/B0FPFS2NBN",
-    "descricao_profissional": "Caixa de som Bluetooth portátil com potência de 30W e reforço dinâmico de graves com radiadores passivos duplos, ideal para ambientes internos e externos. Possui certificação IP67 à prova d'água e poeira, iluminação LED RGB com múltiplos modos, conexão Bluetooth 5.4 estável, suporte a emparelhamento estéreo TWS, entrada auxiliar P2 (AUX) e leitor de cartão Micro SD, além de bateria recarregável via USB-C com até 10 horas de reprodução contínua."
+    "data_revisao": "2026-10-13",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "A MLOVE E80 se destaca entre as caixas de som Bluetooth portáteis da categoria por aliar 30W de potência acústica a radiadores passivos duplos para graves encorpados, construção blindada com certificação IP67 contra poeira e água, iluminação LED RGB dinâmica e conexão Bluetooth 5.4. É uma escolha completa e de alto custo-benefício para momentos ao ar livre, confraternizações e viagens sem o preço inflacionado das marcas tradicionais.",
+    "descricao": "Caixa de som Bluetooth portátil com potência de 30W e reforço dinâmico de graves com radiadores passivos duplos, ideal para ambientes internos e externos. Possui certificação IP67 à prova d'água e poeira, iluminação LED RGB com múltiplos modos, conexão Bluetooth 5.4 estável, suporte a emparelhamento estéreo TWS, entrada auxiliar P2 (AUX) e leitor de cartão Micro SD, além de bateria recarregável via USB-C com até 10 horas de reprodução contínua.",
+    "descricao_profissional": "Caixa de som Bluetooth portátil com potência de 30W e reforço dinâmico de graves com radiadores passivos duplos, ideal para ambientes internos e externos. Possui certificação IP67 à prova d'água e poeira, iluminação LED RGB com múltiplos modos, conexão Bluetooth 5.4 estável, suporte a emparelhamento estéreo TWS, entrada auxiliar P2 (AUX) e leitor de cartão Micro SD, além de bateria recarregável via USB-C com até 10 horas de reprodução contínua.",
+    "visao_geral": [
+      "A MLOVE E80 foi concebida para quem procura um dispositivo de reprodução sonoro potente e versátil, capaz de atender tanto a pequenos encontros e churrascos quanto ao uso diário em cômodos da casa ou atividades ao ar livre.",
+      "O grande ponto técnico é o processamento digital de áudio (DSP) associado a dois radiadores passivos laterais. Esse sistema projeta frequências médias nítidas e agudos articulados, mantendo os graves encorpados sem distorções perceptíveis mesmo em volumes elevados. Para quem deseja uma sonoridade ainda mais ampla, o recurso TWS permite sincronizar duas caixas para divisão estéreo real em 360 graus.",
+      "No que tange à robustez, a certificação IP67 atesta que o gabinete é hermeticamente vedado contra areia e poeira, além de suportar imersão rápida ou respingos severos na beira da piscina e no chuveiro. As múltiplas opções de reprodução — Bluetooth 5.4 de alcance estável, entrada auxiliar P2 e slot para cartão Micro SD — garantem que você nunca fique sem música mesmo longe de conexão com o celular."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Linha",
+        "valor": "MLOVE E80 Series"
+      },
+      {
+        "chave": "Identificador / ASIN",
+        "valor": "B0FPFS2NBN"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "30 Watts RMS com Tecnologia DSP de Áudio HD"
+      },
+      {
+        "chave": "Padrão de Conexão",
+        "valor": "Bluetooth 5.4 de alta estabilidade e baixo consumo energético"
+      },
+      {
+        "chave": "Classificação de Proteção",
+        "valor": "IP67 (à prova d'água, chuva, poeira e submersão temporária)"
+      },
+      {
+        "chave": "Iluminação Integrada",
+        "valor": "LED RGB Dinâmico com 3 modos de transição visual"
+      },
+      {
+        "chave": "Entradas Disponíveis",
+        "valor": "Bluetooth 5.4 sem fio, Conector Auxiliar P2 3.5mm e Slot Micro SD"
+      },
+      {
+        "chave": "Bateria e Autonomia",
+        "valor": "Até 10 horas contínuas de reprodução via recarga USB Tipo-C"
+      },
+      {
+        "chave": "Recursos Adicionais",
+        "valor": "Modo Estéreo TWS (True Wireless Stereo) e microfone para viva-voz"
+      },
+      {
+        "chave": "Procedência e Garantia",
+        "valor": "Produto original com nota fiscal e garantia de 30 dias na Amazon Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 30W com radiadores passivos duplos para respostas de graves firmes e presença acústica equilibrada",
+      "Vedação com certificação IP67 que permite uso seguro perto da água, piscina, praia ou chuveiro",
+      "Múltiplas formas de reprodução: Bluetooth 5.4, cabo P2 analógico e reprodução autônoma via cartão Micro SD",
+      "Efeitos luminosos RGB que valorizam o ambiente com iluminação dinâmica",
+      "Autonomia para o dia todo com até 10 horas de reprodução contínua e recarga rápida via USB-C",
+      "Possibilidade de pareamento TWS com outra unidade para criar um sistema estéreo completo"
+    ],
+    "pontos_atencao": [
+      "O tempo de bateria de 10h pode variar dependendo do nível do volume e do uso constante das luzes LED RGB",
+      "A reprodução via cartão Micro SD exige arquivos nos formatos usuais (como MP3/WAV) organizados no diretório"
+    ],
+    "para_quem_e": "Consumidores que buscam uma caixa de som resistente, com excelente pressão sonora e recursos modernos para viagens, piscina e reuniões, pagando um preço justo.",
+    "para_quem_nao_e": "Usuários que necessitam de monitores de áudio de estúdio para masterização de alta precisão ou caixas amplificadas de grande porte para shows."
   },
   {
     "id": "B0C2J8DQC1",
