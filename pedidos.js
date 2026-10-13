@@ -266,5 +266,14 @@ window.PEDIDOS = [
     "link": "https://www.amazon.com.br/dp/B0DVK166SV?tag=mdm0c7-20",
     "descricao": "Dispositivo de streaming portátil que se conecta diretamente à entrada HDMI de qualquer televisor para transformá-lo em uma central inteligente. Oferece reprodução em resolução Full HD fluida, interface simplificada com acesso aos principais serviços de streaming e controle remoto dedicado com busca por voz pela assistente Alexa.",
     "descricao_profissional": "Dispositivo de streaming portátil que se conecta diretamente à entrada HDMI de qualquer televisor para transformá-lo em uma central inteligente. Oferece reprodução em resolução Full HD fluida, interface simplificada com acesso aos principais serviços de streaming e controle remoto dedicado com busca por voz pela assistente Alexa."
+  },
+  {
+    "id": "B0H5MN1FSQ",
+    "asin": "B0H5MN1FSQ",
+    "titulo": "Micro-ondas Philco 20L Espelhado Pintura Limpa Fácil PMO24E 220v",
+    "imagem": "https://m.media-amazon.com/images/I/61PthfYJiIL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0H5MN1FSQ?tag=mdm0c7-20",
+    "descricao": ""
   }
 ];
