@@ -20,7 +20,7 @@ window.PEDIDOS = [
   {
     "id": "B0C2J8DQC1",
     "asin": "B0C2J8DQC1",
-    "titulo": "Philips OneBlade Barbeador e Aparador Elétrico QP1424",
+    "titulo": "Philips OneBlade Barbeador e Aparador Elétrico QP2724/10 (3 Pentes)",
     "imagem": "assets/pedidos/B0C2J8DQC1.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=mdm0c7-20",
@@ -141,12 +141,12 @@ window.PEDIDOS = [
   {
     "id": "B0GLTJ4MYM",
     "asin": "B0GLTJ4MYM",
-    "titulo": "Smartphone Motorola Edge 50 5G 256GB",
+    "titulo": "Smartphone Motorola Edge 70 5G 256GB (8 GB RAM, Gadget Gray)",
     "imagem": "assets/pedidos/B0GLTJ4MYM.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0GLTJ4MYM?tag=mdm0c7-20",
-    "descricao": "Celular intermediário premium com tela curva de alta taxa de atualização, conectividade móvel 5G e conjunto versátil de câmeras traseiras com estabilização óptica. Traz carregamento ultrarrápido TurboPower e generoso armazenamento interno para fotos, vídeos em alta resolução e aplicativos.",
-    "descricao_profissional": "Celular intermediário premium com tela curva de alta taxa de atualização, conectividade móvel 5G e conjunto versátil de câmeras traseiras com estabilização óptica. Traz carregamento ultrarrápido TurboPower e generoso armazenamento interno para fotos, vídeos em alta resolução e aplicativos."
+    "descricao": "Celular intermediário premium ultrafino com tela Extreme AMOLED 1.5K de 120 Hz, conectividade 5G e três câmeras de 50 MP. Esta versão tem 256 GB de armazenamento e 8 GB de RAM (mais 16 GB de RAM Boost), na cor Gadget Gray.",
+    "descricao_profissional": "Celular intermediário premium ultrafino com tela Extreme AMOLED 1.5K de 120 Hz, conectividade 5G e três câmeras de 50 MP. Esta versão tem 256 GB de armazenamento e 8 GB de RAM (mais 16 GB de RAM Boost), na cor Gadget Gray."
   },
   {
     "id": "B0CVSJFMFN",

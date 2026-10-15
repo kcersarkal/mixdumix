@@ -613,7 +613,7 @@ window.PRODUTOS_INFORMATIVOS = [
     "titulo": "Creatina Monohidratada 100% Pura 1Kg - Soldiers Nutrition",
     "subtitulo": "Análise completa: composição 100% creatina monohidratada, solubilidade, rendimento e onde comprar",
     "categoria": "Saúde & Nutrição",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-O.webp",
+    "imagem": "assets/produtos/creatina-soldiers-nutrition-1kg.jpg",
     "data_revisao": "2026-10-03",
     "tempo_leitura": "4 min de leitura",
     "veredito_resumo": "Uma das creatinas mais conhecidas do mercado brasileiro. Composta apenas por creatina monohidratada, sem aditivos, rende cerca de 200 doses de 5 g no pacote de 1 kg, o que coloca a Soldiers Nutrition entre as opções de melhor custo por dose.",
