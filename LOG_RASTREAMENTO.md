@@ -74,7 +74,7 @@
 2. Busca do pedido corrigida nas três funções (`renderPedido`, `sharePedidoWhatsApp`, `copyPedidoLink`) para aceitar `id` **ou** `asin`: `item.id === id || item.asin === id`
 3. Novo helper `formatPrice()` (formatação `pt-BR` via `toLocaleString`, retorna `null` sem preço)
 4. Nova classe CSS `.product-image` (desktop e mobile via media query)
-5. Botão **Ver oferta** continua usando `ensureAffiliateTag(p.link) || "#"`, preservando a tag `tag=mdm0a40-20`; botões WhatsApp, Copiar link e Voltar mantidos intactos
+5. Botão **Ver oferta** continua usando `ensureAffiliateTag(p.link) || "#"`, preservando a tag `tag=mdm0c7-20`; botões WhatsApp, Copiar link e Voltar mantidos intactos
 
 ### Validações
 
@@ -82,7 +82,7 @@
 - ✅ **Imagem exibida** — bloco `.product-image` presente no HTML renderizado de todos os pedidos com `p.imagem` válida
 - ✅ **Preço** — exibido formatado (ex.: R$ 279,91 / R$ 2.399,00) quando `p.preco` existe; oculto quando `p.preco` é `null` (caso do 1º pedido)
 - ✅ **Título, descrição e botões** (Ver oferta, WhatsApp, Copiar link, Voltar) presentes em todas as renderizações
-- ✅ **Link afiliado** — `ensureAffiliateTag` preserva `tag=mdm0a40-20` já existente e adiciona quando ausente
+- ✅ **Link afiliado** — `ensureAffiliateTag` preserva `tag=mdm0c7-20` já existente e adiciona quando ausente
 - ✅ **HTML íntegro** — uma única ocorrência de `</html>`, `</body>`, `</main>` e `</style>`; arquivo termina em `</html>` (sem truncamento)
 - ✅ **Extração de scripts** — extraídos apenas os blocos JavaScript normais (2 blocos), ignorando `type="application/ld+json"`
 - ✅ **`node --check`** — OK no JavaScript extraído
@@ -123,7 +123,7 @@
 
 1. **Rotas removidas/desativadas por completo**: removidas as seções `data-view="produto"` e `data-view="pedido"` do HTML e toda a lógica de roteamento de detalhe (`renderProduct`, `renderPedido`, `goBack`, `previousMainView`, tratamentos de `?produto`/`?pedido` em `currentRoute`/`navigate`/`routeFromInitialUrl`/`showView`); acesso direto a `?produto=…` ou `?pedido=…` agora cai na Home (URL é limpa)
 2. **SEO de produto removido**: `injectProductLD`, `applyProductSeo` + helpers (`productSeoTitle`, `productSeoDescription`, `productCanonicalUrl`, `truncateAt`, `removeProductLd`, `applyHomeSeo`) e `formatPrice`/`safeHttpUrl`/`validImageUrl` (órfãos das páginas removidas); SEO estático e dinâmico das views atuais preservados
-3. **Cards sem navegação interna**: `productCard` (Home) e `pedidoCard` (Pedidos) agora possuem somente dois botões — **Ver oferta** (abre direto o link afiliado `ensureAffiliateTag`, preserva `tag=mdm0a40-20`, mantém `registrarCliqueOferta` com página `home`/`pedidos`) e **Compartilhar**; clicar no card não navega para nenhuma rota de detalhe
+3. **Cards sem navegação interna**: `productCard` (Home) e `pedidoCard` (Pedidos) agora possuem somente dois botões — **Ver oferta** (abre direto o link afiliado `ensureAffiliateTag`, preserva `tag=mdm0c7-20`, mantém `registrarCliqueOferta` com página `home`/`pedidos`) e **Compartilhar**; clicar no card não navega para nenhuma rota de detalhe
 4. **Botão Compartilhar**: novo `compartilharOferta`/`compartilharOfertaPedido` → `abrirCompartilhamento` usa **Web Share API** (`navigator.share`, menu nativo do celular: WhatsApp, Instagram, Telegram etc.) compartilhando título + link afiliado; sem suporte, `copiarLinkCompartilhamento` copia o link afiliado e mostra “✓ Link copiado!” no botão (fallback `prompt` sem Clipboard API)
 5. **Botões antigos removidos**: WhatsApp e Copiar link separados (das páginas de detalhe) removidos junto com as funções `shareWhatsApp`, `copyProductLink`, `sharePedidoWhatsApp`, `copyPedidoLink`; CSS órfão `.product-image` removido; novo CSS `.btn-share` (botão secundário pequeno, responsivo via classes existentes)
 6. Texto de introdução da seção Pedidos atualizado (não menciona mais “clique para ver detalhes”)
@@ -134,7 +134,7 @@
 - ✅ **Todos os cards possuem somente “Ver oferta” + “Compartilhar”** — verificados cards da Home e de Pedidos (7/7 pedidos renderizados na grade, 1 Compartilhar por card)
 - ✅ **`navigator.share` no celular** — chamado com `title` “Mix Du Mix Store” e `text` com título + link afiliado; cancelamento pelo usuário tratado (`.catch`)
 - ✅ **Fallback desktop** — sem `navigator.share`, o link afiliado correto é copiado via Clipboard API e o botão mostra “✓ Link copiado!”; sem Clipboard, `prompt`
-- ✅ **Link compartilhado é o afiliado** — `ensureAffiliateTag` preserva `tag=mdm0a40-20` nos links de produto (`p.affiliate_url`) e de pedido (`p.link`)
+- ✅ **Link compartilhado é o afiliado** — `ensureAffiliateTag` preserva `tag=mdm0c7-20` nos links de produto (`p.affiliate_url`) e de pedido (`p.link`)
 - ✅ **Clique nos botões não dispara navegação do card** — cards sem `onclick` de navegação; `Ver oferta` abre a Amazon em nova aba com rastreamento preservado
 - ✅ **HTML íntegro** — uma ocorrência de `</html>`, `</body>`, `</main>`, `</style>`; arquivo termina em `</html>` (sem truncamento)
 - ✅ **Extração de scripts** — apenas os blocos JavaScript normais (2 blocos), ignorando `type="application/ld+json"`
@@ -180,7 +180,7 @@
 
 1. **Rota `?pedido=ID`** — `currentRoute()`/`routeFromInitialUrl()` reconhecem `?pedido=` (prioridade antes de `?view=`); `navigate(view, id, replace)` monta a URL `?pedido=ID` e `showView(view, id)` ativa a view `pedido` (highlight “Pedidos” no menu) e chama `renderPedido(id)`; `document.title` = “Pedido - Mix Du Mix Store”; back/forward via `popstate` preservado
 2. **Página individual de Pedido** — seção HTML `data-view="pedido"` com `#pedido-container` reinserida entre as seções Pedidos e Sobre (markup idêntico ao backup)
-3. **`renderPedido()`** — renderiza imagem (`p.imagem` via `safeHttpUrl`, `onerror` oculta se falhar), título, preço formatado quando existe (`formatPrice`), descrição, botão **Ver oferta** (link afiliado `ensureAffiliateTag(p.link) || "#"` com `tag=mdm0a40-20` e `registrarCliqueOferta(..., 'pedido', ...)`), botões **WhatsApp** (`sharePedidoWhatsApp`) e **Copiar link** (`copyPedidoLink`), botão **Voltar** (`navigate('pedidos')`), aviso “Pedido não encontrado” para id inexistente — busca por `id` **ou** `asin`
+3. **`renderPedido()`** — renderiza imagem (`p.imagem` via `safeHttpUrl`, `onerror` oculta se falhar), título, preço formatado quando existe (`formatPrice`), descrição, botão **Ver oferta** (link afiliado `ensureAffiliateTag(p.link) || "#"` com `tag=mdm0c7-20` e `registrarCliqueOferta(..., 'pedido', ...)`), botões **WhatsApp** (`sharePedidoWhatsApp`) e **Copiar link** (`copyPedidoLink`), botão **Voltar** (`navigate('pedidos')`), aviso “Pedido não encontrado” para id inexistente — busca por `id` **ou** `asin`
 4. **`pedidoCard()`** (backup) — card clicável navega para `?pedido=` (`onclick`/`onkeydown` + `data-pid`), CTA “Ver pedido”; sem botões de Ver oferta/Compartilhar no card
 5. **Funções/helpers** — `formatPrice()`, `validImageUrl()`, `safeHttpUrl()`, `sharePedidoWhatsApp()`, `copyPedidoLink()` (todas byte a byte idênticas ao backup, verificadas por comparação automática)
 6. **CSS necessário** — `.product-image` (desktop `max-height:420px`) e regra responsiva `@media (max-width:640px)` (`max-height:260px`); texto de introdução de Pedidos voltou a “Clique para ver detalhes.”
@@ -194,7 +194,7 @@
 
 - ✅ **Rota `?pedido=ID`** — 7 pedidos × {`id`, `asin`} = **14 deep links** abertos via `routeFromInitialUrl`; todos renderizam `renderPedido` sem “Pedido não encontrado”; id inexistente mostra o aviso com Voltar
 - ✅ **Página individual** — imagem (`m.media-amazon…`), título, descrição e preços formatados (R$ 279,91 / R$ 2.399,00 / R$ 125,90 etc.) presentes; pedido sem `preco` (1º) não exibe preço nem `NaN`
-- ✅ **Botões** — “Ver oferta” abre link afiliado da Amazon com `tag=mdm0a40-20` e `registrarCliqueOferta(..., 'pedido', ...)`; WhatsApp e Copiar link presentes; Voltar navega para `pedidos`; rastreamento preservado
+- ✅ **Botões** — “Ver oferta” abre link afiliado da Amazon com `tag=mdm0c7-20` e `registrarCliqueOferta(..., 'pedido', ...)`; WhatsApp e Copiar link presentes; Voltar navega para `pedidos`; rastreamento preservado
 - ✅ **Navegação dos cards** — 7/7 cards na grade de Pedidos com `onclick="navigate('pedido', this.dataset.pid)"`, `data-pid`, CTA “Ver pedido”, sem botão Ver oferta/Compartilhar e sem `?pedido=` no `href` do card
 - ✅ **Share/WhatsApp/Copiar** — `sharePedidoWhatsApp` abre `wa.me` com título + `?pedido=ASIN`; `copyPedidoLink` copia a URL `?pedido=…` e mostra “✅ Link copiado!”; nenhum usa `?produto`
 - ✅ **`?produto=ID` NÃO restaurado** — nenhuma referência a `?produto`, `data-view="produto"` ou `renderProduct` no arquivo; rota cai na Home e limpa a URL
@@ -255,7 +255,7 @@
 - ✅ **Página individual SEM imagem** — nenhum `<img>`, `product-image` ou `m.media-amazon` no HTML renderizado (7/7 pedidos testados)
 - ✅ Cards da listagem continuam como estavam (antes não exibiam imagem — estado preservado; 7/7 cards com `navigate('pedido', …)`, CTA “Ver pedido”, `data-pid`)
 - ✅ Título, preço (R$ 279,91; ausente no pedido sem preço, sem `NaN`), descrição presentes
-- ✅ Ver oferta com link afiliado Amazon contendo `tag=mdm0a40-20` e `registrarCliqueOferta(…, 'pedido', …)` com o link afiliado
+- ✅ Ver oferta com link afiliado Amazon contendo `tag=mdm0c7-20` e `registrarCliqueOferta(…, 'pedido', …)` com o link afiliado
 - ✅ Rastreamento: payload do webhook com `evento`, `asin`, `pagina=pedido` e `link_afiliado` com a tag
 - ✅ WhatsApp abre `wa.me` com `?pedido=`; Copiar link copia a URL `?pedido=…` e confirma; Voltar (`navigate('pedidos')`) volta à listagem
 - ✅ Home intacta (cards com Ver oferta + Compartilhar) e `?produto=ID` continua removido (cai na Home)
@@ -269,7 +269,7 @@
 
 ### Último Ponto Concluído
 
-✅ Imagem removida somente da página individual de Pedidos (`?pedido=ID`); rota, conteúdo, botões, rastreamento, tag `mdm0a40-20`, Home e `?produto` removido — todos confirmados por validação. Sem commit e sem push, aguardando revisão do usuário.
+✅ Imagem removida somente da página individual de Pedidos (`?pedido=ID`); rota, conteúdo, botões, rastreamento, tag `mdm0c7-20`, Home e `?produto` removido — todos confirmados por validação. Sem commit e sem push, aguardando revisão do usuário.
 
 ---
 

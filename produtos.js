@@ -7,6 +7,534 @@
 
 window.PRODUTOS_INFORMATIVOS = [
   {
+    "asin": "B0GMY41LM8",
+    "id": "motorola-edge-70-crystals-swarovski-512gb",
+    "titulo": "Motorola Edge 70 5G Crystals by Swarovski (512 GB, 12 GB RAM, Cloud Dancer)",
+    "subtitulo": "Guia completo da edição especial com cristais Swarovski: tela, câmeras, bateria, resistência e para quem vale a pena",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/motorola-edge-70-crystals-swarovski.jpg",
+    "data_revisao": "2026-10-15",
+    "tempo_leitura": "6 min de leitura",
+    "veredito_resumo": "A edição Crystals by Swarovski do Motorola Edge 70 junta um dos celulares mais finos do mercado (5,99 mm) a um acabamento exclusivo na cor Cloud Dancer, a cor Pantone de 2026, com 14 cristais Swarovski na traseira. Por dentro é o mesmo Edge 70 da versão de 512 GB: tela AMOLED de 6,7 polegadas a 120 Hz, Snapdragon 7 Gen 4, três câmeras de 50 MP e bateria de 4.800 mAh com carregamento de 68 W. É a escolha para quem quer um intermediário premium com visual de peça de design.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0GMY41LM8?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "O Motorola Edge 70 chegou ao Brasil em 2026 como a aposta da marca em celulares ultrafinos sem abrir mão de bateria e resistência. A edição Crystals by Swarovski é a versão de colecionador dessa linha: usa a cor Cloud Dancer, um branco suave escolhido pela Pantone como cor do ano de 2026, e recebe 14 aplicações de cristais Swarovski desenvolvidas em parceria com a marca austríaca.",
+      "Fora o acabamento, o conjunto técnico é o mesmo da versão topo de linha do Edge 70. A tela é uma Extreme AMOLED de 6,7 polegadas com resolução 1.5K (1220 x 2712), taxa de atualização de até 120 Hz e brilho máximo de pico de 4.500 nits segundo a Motorola. Na prática, isso significa boa leitura sob sol forte e animações fluidas na rolagem de redes sociais e jogos. O vidro frontal é o Corning Gorilla Glass 7i.",
+      "O processador é o Snapdragon 7 Gen 4, um chip intermediário avançado que dá conta de multitarefa, edição de fotos e da maioria dos jogos com folga. Esta versão vem com 512 GB de armazenamento e 12 GB de RAM física, que podem ser complementados por até 12 GB de RAM Boost (memória virtual tirada do armazenamento). O espaço de 512 GB é generoso para quem grava muitos vídeos em 4K e não quer depender de nuvem.",
+      "No conjunto de câmeras, a Motorola usou três sensores de 50 MP: o principal com estabilização óptica (OIS), uma ultrawide de 120 graus que também funciona como macro e a câmera frontal. Todas gravam vídeo em até 4K a 60 quadros por segundo. Recursos de software como Max Foto Pro e Action Shot ajudam em fotos de movimento e em ambientes com pouca luz.",
+      "A bateria de 4.800 mAh usa tecnologia de silício-carbono, que permite mais capacidade em um corpo tão fino. A fabricante promete até 38 horas de uso, e o carregador TurboPower de 68 W vem na caixa. Há também carregamento sem fio de 15 W, com a base vendida à parte.",
+      "Apesar dos 5,99 mm de espessura e 159 g, o aparelho tem certificações IP68 e IP69 contra água e poeira e o padrão militar MIL-STD-810H para quedas e variações de temperatura. Para um celular com cristais na traseira, isso traz uma tranquilidade a mais no dia a dia. Mesmo assim, uma capinha transparente é uma boa ideia para proteger o acabamento.",
+      "Antes de comprar, confirme na página da Amazon que o anúncio é mesmo a versão Crystals by Swarovski de 512 GB na cor Cloud Dancer, já que o Edge 70 também é vendido nas cores Gadget Gray, Lily Pad e Bronze Green, sem os cristais."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Motorola Edge 70 5G Crystals by Swarovski"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Cloud Dancer (Pantone, cor do ano 2026) com 14 cristais Swarovski"
+      },
+      {
+        "chave": "Tela",
+        "valor": "6,7\" Extreme AMOLED 1.5K (1220 x 2712), até 120 Hz, pico de 4.500 nits"
+      },
+      {
+        "chave": "Proteção da tela",
+        "valor": "Corning Gorilla Glass 7i"
+      },
+      {
+        "chave": "Processador",
+        "valor": "Qualcomm Snapdragon 7 Gen 4"
+      },
+      {
+        "chave": "Memória",
+        "valor": "12 GB de RAM + até 12 GB de RAM Boost"
+      },
+      {
+        "chave": "Armazenamento",
+        "valor": "512 GB"
+      },
+      {
+        "chave": "Câmeras traseiras",
+        "valor": "50 MP principal com OIS + 50 MP ultrawide/macro (120°)"
+      },
+      {
+        "chave": "Câmera frontal",
+        "valor": "50 MP, vídeo em até 4K 60 fps"
+      },
+      {
+        "chave": "Bateria",
+        "valor": "4.800 mAh (silício-carbono)"
+      },
+      {
+        "chave": "Carregamento",
+        "valor": "TurboPower 68 W com fio (carregador incluso) e 15 W sem fio"
+      },
+      {
+        "chave": "Resistência",
+        "valor": "IP68, IP69 e MIL-STD-810H"
+      },
+      {
+        "chave": "Espessura e peso",
+        "valor": "5,99 mm e 159 g"
+      },
+      {
+        "chave": "Conectividade",
+        "valor": "5G, Wi-Fi 6E, Bluetooth 5.4, NFC, chip físico + eSIM, USB-C"
+      },
+      {
+        "chave": "Sistema",
+        "valor": "Android 16"
+      }
+    ],
+    "pontos_fortes": [
+      "Acabamento exclusivo com cristais Swarovski e cor Pantone Cloud Dancer",
+      "Um dos celulares mais finos do mercado, com apenas 5,99 mm e 159 g",
+      "Tela AMOLED de 6,7\" com 120 Hz e brilho alto para uso ao ar livre",
+      "Três câmeras de 50 MP, com estabilização óptica na principal",
+      "512 GB de armazenamento, espaço de sobra para fotos e vídeos em 4K",
+      "Carregador de 68 W incluso e suporte a carregamento sem fio",
+      "Proteção IP68/IP69 e certificação militar MIL-STD-810H"
+    ],
+    "pontos_atencao": [
+      "O acabamento com cristais custa mais que as versões comuns com o mesmo hardware",
+      "Não tem câmera teleobjetiva dedicada para zoom óptico",
+      "A base de carregamento sem fio é vendida separadamente",
+      "Por ser uma edição especial, a disponibilidade pode ser limitada"
+    ],
+    "para_quem_e": "Quem quer um celular intermediário premium com visual marcante, tela de alta qualidade, boa bateria e bastante armazenamento, e valoriza design e exclusividade.",
+    "para_quem_nao_e": "Quem busca o melhor custo-benefício (as versões comuns do Edge 70 entregam o mesmo desempenho por menos) ou precisa de zoom óptico para fotografia."
+  },
+  {
+    "asin": "B0FY6F8CLH",
+    "id": "smartwatch-bettdow-fb041-gps-alexa-prata",
+    "titulo": "Smartwatch Bettdow FB041 com GPS, Alexa e Chamadas Bluetooth (Tela 1,85\", Prata)",
+    "subtitulo": "Relógio inteligente de entrada com GPS integrado, assistente Alexa, mais de 100 modos esportivos e resistência à água 3ATM",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/smartwatch-bettdow-fb041-prata.jpg",
+    "data_revisao": "2026-10-15",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Bettdow FB041 é um smartwatch de entrada que se destaca por reunir recursos raros na sua faixa de preço: GPS integrado, Alexa embutida e chamadas por Bluetooth. A tela de 1,85 polegada é grande e fácil de ler, e a resistência 3ATM aguenta chuva e lavagem das mãos. É indicado para quem quer começar no mundo dos relógios inteligentes e acompanhar treinos ao ar livre sem gastar muito.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0FY6F8CLH?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "A Bettdow é uma marca que ganhou espaço no Brasil com smartwatches acessíveis vendidos principalmente pela internet. O modelo FB041 é um dos mais completos da linha, porque junta três recursos que normalmente só aparecem em relógios mais caros: GPS integrado, assistente de voz Alexa e chamadas por Bluetooth.",
+      "O GPS embutido é o grande diferencial para quem corre, pedala ou caminha. Com ele, o relógio registra o trajeto e a distância sem precisar levar o celular junto no treino. O FB041 também se conecta ao Strava, um dos aplicativos de esporte mais usados, o que facilita guardar e comparar os treinos.",
+      "A tela é um painel TFT-LCD de 1,85 polegada com resolução de 240 x 280 pixels. É uma das maiores da linha da Bettdow, o que ajuda na leitura de notificações e no uso dos menus. Por outro lado, não é AMOLED: as cores são menos vivas e os pretos menos profundos do que nos modelos com esse tipo de tela, mas a diferença pesa pouco para quem vai usar o relógio principalmente para treinos e notificações.",
+      "Com a Alexa integrada, dá para pedir previsão do tempo, criar alarmes, timers e lembretes falando direto com o relógio. As chamadas por Bluetooth permitem atender e fazer ligações pelo pulso, usando o microfone e o alto-falante do próprio relógio, desde que o celular esteja por perto e conectado.",
+      "O relógio oferece mais de 100 modos esportivos e mais de 200 mostradores para personalizar o visual. A resistência à água é de 3ATM, suficiente para chuva, suor e lavagem das mãos. Ele é compatível com celulares Android e iPhone, e esta versão vem na cor prata.",
+      "Como toda marca de entrada, vale ajustar as expectativas: a precisão do GPS e dos sensores não se compara à de marcas premium como Garmin ou Apple, e a duração da bateria varia bastante conforme o uso do GPS e das chamadas. Para quem quer um primeiro smartwatch funcional e completo, porém, o pacote de recursos é muito bom para o preço."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Bettdow FB041"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Prata"
+      },
+      {
+        "chave": "Tela",
+        "valor": "1,85\" TFT-LCD, 240 x 280 pixels, sensível ao toque"
+      },
+      {
+        "chave": "GPS",
+        "valor": "Integrado (registra trajeto sem o celular)"
+      },
+      {
+        "chave": "Assistente de voz",
+        "valor": "Alexa integrada"
+      },
+      {
+        "chave": "Chamadas",
+        "valor": "Fazer e atender ligações por Bluetooth"
+      },
+      {
+        "chave": "Modos esportivos",
+        "valor": "Mais de 100"
+      },
+      {
+        "chave": "Mostradores",
+        "valor": "Mais de 200"
+      },
+      {
+        "chave": "Integração",
+        "valor": "Strava"
+      },
+      {
+        "chave": "Resistência à água",
+        "valor": "3ATM"
+      },
+      {
+        "chave": "Compatibilidade",
+        "valor": "Android e iOS"
+      }
+    ],
+    "pontos_fortes": [
+      "GPS integrado, raro em smartwatches dessa faixa de preço",
+      "Alexa embutida para alarmes, lembretes e previsão do tempo por voz",
+      "Faz e atende chamadas pelo próprio relógio",
+      "Tela grande de 1,85\", fácil de ler",
+      "Mais de 100 modos esportivos e integração com o Strava",
+      "Funciona com Android e iPhone"
+    ],
+    "pontos_atencao": [
+      "A tela é TFT-LCD, com cores menos vivas que as telas AMOLED",
+      "A precisão do GPS e dos sensores fica abaixo das marcas premium",
+      "A duração da bateria cai bastante com uso frequente do GPS e de chamadas",
+      "A resistência 3ATM não é indicada para mergulho"
+    ],
+    "para_quem_e": "Quem quer o primeiro smartwatch com GPS para correr, caminhar ou pedalar, além de receber notificações e atender ligações pelo pulso, gastando pouco.",
+    "para_quem_nao_e": "Atletas que precisam de métricas precisas para treinos avançados ou quem faz natação com frequência."
+  },
+  {
+    "asin": "B09CF4R9S6",
+    "id": "ventilador-oster-power-fresh-2-em-1-ovtr481",
+    "titulo": "Ventilador Oster Power Fresh 2 em 1 OVTR481 40 cm (Preto e Vermelho, 127V)",
+    "subtitulo": "Ventilador de mesa e parede com 6 pás, 3 velocidades, oscilação horizontal e inclinação vertical",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/ventilador-oster-power-fresh-ovtr481.jpg",
+    "data_revisao": "2026-10-15",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Oster Power Fresh OVTR481 é um ventilador 2 em 1 que pode ficar sobre a mesa ou ser fixado na parede. Tem hélice de 40 cm com 6 pás, 3 velocidades, oscilação horizontal e inclinação vertical, com potência de 140 W. É uma opção versátil e leve para quartos, escritórios e salas pequenas, especialmente para quem quer liberar espaço no chão.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09CF4R9S6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "A Oster é uma marca tradicional de eletroportáteis, e o Power Fresh 2 em 1 (código OVTR481) é um dos modelos de ventilação mais simples e versáteis da linha. O \"2 em 1\" significa que ele funciona tanto apoiado sobre uma mesa ou cômoda quanto fixado na parede, o que ajuda muito em cômodos pequenos onde cada centímetro do chão conta.",
+      "A hélice tem 40 cm de diâmetro e 6 pás. Mais pás ajudam a distribuir o vento de forma mais uniforme e costumam deixar o funcionamento mais suave do que nos modelos de 3 pás. São 3 velocidades, e a potência declarada é de 140 W.",
+      "Para espalhar o ar pelo ambiente, o ventilador tem oscilação horizontal (ele vira de um lado para o outro) e inclinação vertical ajustável, para direcionar o vento mais para cima ou mais para baixo. Fixado na parede, a inclinação para baixo é o que garante que o vento chegue até quem está na cama ou no sofá.",
+      "O aparelho é leve e tem alça para transporte, então dá para mudar de cômodo com facilidade, por exemplo usar no escritório durante o dia e no quarto à noite. A fabricante descreve o modelo como leve e portátil.",
+      "A versão deste anúncio é a preto com vermelho, na voltagem 127V. O mesmo modelo também é vendido em 220V, então confira a voltagem da sua tomada antes de comprar. Ligar um aparelho 127V em 220V pode queimar o motor.",
+      "Como qualquer ventilador de 40 cm, ele é ideal para ambientes de pequeno a médio porte. Para salas grandes ou espaços muito quentes, um ventilador de coluna mais potente ou um circulador de ar podem render mais."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Oster Power Fresh 2 em 1 (OVTR481)"
+      },
+      {
+        "chave": "Tipo",
+        "valor": "Mesa e parede (2 em 1)"
+      },
+      {
+        "chave": "Diâmetro da hélice",
+        "valor": "40 cm"
+      },
+      {
+        "chave": "Número de pás",
+        "valor": "6"
+      },
+      {
+        "chave": "Velocidades",
+        "valor": "3"
+      },
+      {
+        "chave": "Potência",
+        "valor": "140 W"
+      },
+      {
+        "chave": "Movimentos",
+        "valor": "Oscilação horizontal e inclinação vertical"
+      },
+      {
+        "chave": "Transporte",
+        "valor": "Alça integrada"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto e vermelho"
+      },
+      {
+        "chave": "Voltagem",
+        "valor": "127V (também existe versão 220V)"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "12 meses"
+      }
+    ],
+    "pontos_fortes": [
+      "Uso 2 em 1: sobre a mesa ou fixado na parede",
+      "Hélice de 6 pás para um vento mais uniforme",
+      "Oscilação horizontal e inclinação vertical para direcionar o ar",
+      "Leve e com alça, fácil de levar de um cômodo para outro",
+      "Visual preto e vermelho que foge do branco tradicional"
+    ],
+    "pontos_atencao": [
+      "Com 40 cm, é indicado para cômodos pequenos e médios",
+      "Não tem controle remoto nem timer",
+      "Confira a voltagem (127V) antes de comprar",
+      "A instalação na parede exige furação e buchas adequadas"
+    ],
+    "para_quem_e": "Quem precisa ventilar quarto, escritório ou sala pequena e quer a opção de fixar o ventilador na parede para liberar espaço.",
+    "para_quem_nao_e": "Quem busca ventilar ambientes grandes ou quer recursos como controle remoto, timer e modo noturno."
+  },
+  {
+    "asin": "B0DC82WBFD",
+    "id": "filtro-de-linha-iclamper-energia-8-preto",
+    "titulo": "Filtro de Linha iCLAMPER Energia 8 com Proteção contra Surtos (DPS), 8 Tomadas, Preto",
+    "subtitulo": "Proteção contra surtos elétricos e raios indiretos para PC, notebook, monitor, impressora, roteador e videogame",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/iclamper-energia-8-preto.jpg",
+    "data_revisao": "2026-10-15",
+    "tempo_leitura": "6 min de leitura",
+    "veredito_resumo": "O iCLAMPER Energia 8 não é só uma régua de tomadas: ele tem um dispositivo de proteção contra surtos (DPS) que desvia picos de tensão causados por raios e manobras da rede elétrica. São 8 tomadas no padrão brasileiro, funcionamento bivolt, LED de status e certificação nas normas da ABNT. É uma das formas mais baratas de proteger computador, TV, roteador e videogame.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0DC82WBFD?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Muita gente usa \"filtro de linha\" como sinônimo de régua de tomadas, mas a maioria das réguas baratas não protege contra nada. A diferença do iCLAMPER Energia 8 é o DPS (Dispositivo de Proteção contra Surtos): um circuito que desvia os picos de tensão antes que eles cheguem aos aparelhos ligados. A CLAMPER é uma fabricante brasileira especializada justamente nesse tipo de proteção.",
+      "Surtos elétricos acontecem com frequência no Brasil, principalmente em dias de tempestade, quando um raio cai perto da rede, e também quando a concessionária faz manobras na rede elétrica. Esses picos duram frações de segundo, mas são suficientes para queimar fontes de computador, placas de TV, roteadores e carregadores.",
+      "Segundo a ficha técnica do fabricante, o Energia 8 usa varistores de óxido metálico (MOV) e centelhador a gás (GDT), suporta corrente máxima de descarga de 6 kA e tem tempo de resposta inferior a 25 nanossegundos. Os varistores têm proteção térmica, e um LED indica se a proteção está ativa. Quando o LED apaga, é sinal de que o dispositivo cumpriu sua função e precisa ser trocado.",
+      "São 8 tomadas de 10 A no padrão brasileiro (2P+T, norma NBR 14136), com cabo de 1,3 m. O produto é bivolt (127V e 220V) e a soma de todos os aparelhos ligados não pode passar de 10 A, o que equivale a cerca de 1.270 W em 127V ou 2.200 W em 220V. Isso é mais que suficiente para um PC com monitor, roteador, impressora e console, mas não para aquecedores, air fryers ou micro-ondas.",
+      "Um ponto importante: o DPS protege os aparelhos mesmo sem fio terra, mas o fabricante reforça que o aterramento da tomada é essencial para a segurança das pessoas contra choques. Se a sua instalação não tem fio terra, vale chamar um eletricista.",
+      "A versão deste anúncio é a preta. O modelo segue as normas ABNT NBR IEC 61643-11, NBR 14136 e NBR 16008, e a caixa é de material autoextinguível, que não propaga chamas."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "CLAMPER iCLAMPER Energia 8"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto"
+      },
+      {
+        "chave": "Tomadas",
+        "valor": "8 tomadas 2P+T de 10 A (padrão NBR 14136)"
+      },
+      {
+        "chave": "Tensão",
+        "valor": "Bivolt: 127V e 220V, 50/60 Hz"
+      },
+      {
+        "chave": "Corrente máxima total",
+        "valor": "10 A (1.270 W em 127V / 2.200 W em 220V)"
+      },
+      {
+        "chave": "Proteção",
+        "valor": "DPS com varistores (MOV) e centelhador a gás (GDT)"
+      },
+      {
+        "chave": "Corrente máxima de descarga",
+        "valor": "6 kA (8/20 µs)"
+      },
+      {
+        "chave": "Nível de proteção (Up)",
+        "valor": "Menor que 0,68 kV"
+      },
+      {
+        "chave": "Tempo de resposta",
+        "valor": "Menor que 25 ns"
+      },
+      {
+        "chave": "Indicação",
+        "valor": "LED de status da proteção"
+      },
+      {
+        "chave": "Cabo",
+        "valor": "1,3 m"
+      },
+      {
+        "chave": "Dimensões e peso",
+        "valor": "242 x 81 x 44 mm, cerca de 450 g"
+      },
+      {
+        "chave": "Normas",
+        "valor": "ABNT NBR IEC 61643-11, NBR 14136 e NBR 16008"
+      }
+    ],
+    "pontos_fortes": [
+      "Proteção real contra surtos e raios indiretos, não só uma régua de tomadas",
+      "8 tomadas no padrão brasileiro, sem precisar de adaptador",
+      "Bivolt, funciona em 127V e 220V",
+      "LED avisa quando a proteção precisa ser trocada",
+      "Marca brasileira especializada em proteção elétrica, com produto dentro das normas ABNT"
+    ],
+    "pontos_atencao": [
+      "O limite é de 10 A no total: não serve para aquecedores, air fryers ou micro-ondas",
+      "Não substitui um nobreak: não segura os aparelhos ligados quando a energia cai",
+      "Precisa ser trocado depois de absorver um surto forte (LED apagado)",
+      "Para segurança contra choques, a tomada deve ter fio terra"
+    ],
+    "para_quem_e": "Quem quer proteger computador, notebook, monitor, impressora, roteador, TV ou videogame contra queimas causadas por raios e oscilações da rede elétrica.",
+    "para_quem_nao_e": "Quem precisa manter os equipamentos ligados durante quedas de energia (nesse caso, o indicado é um nobreak) ou ligar eletrodomésticos de alta potência."
+  },
+  {
+    "asin": "B0F8R9NDXC",
+    "id": "playstation-5-slim-disco-pacote-astro-bot-gran-turismo-7",
+    "titulo": "Console PlayStation 5 Slim com Leitor de Disco, Pacote ASTRO BOT e Gran Turismo 7",
+    "subtitulo": "O PS5 Slim com leitor de discos, 1 TB de armazenamento e dois dos jogos mais bem avaliados da Sony no mesmo pacote",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/ps5-slim-disco-astro-bot-gran-turismo-7.jpg",
+    "data_revisao": "2026-10-15",
+    "tempo_leitura": "6 min de leitura",
+    "veredito_resumo": "Este pacote reúne o PlayStation 5 Slim na versão com leitor de discos e dois jogos de peso: ASTRO BOT, eleito Jogo do Ano no The Game Awards 2024, e Gran Turismo 7, o simulador de corrida mais famoso da Sony. Com 1 TB de armazenamento e suporte a discos físicos, é uma das formas mais completas de entrar na geração atual, principalmente para quem quer comprar jogos usados ou em mídia física.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "O PlayStation 5 Slim é a versão mais compacta do console da Sony, cerca de 30% menor em volume que o modelo lançado em 2020. Este pacote traz a versão com leitor de discos (Ultra HD Blu-ray), que é a mais procurada por quem gosta de comprar jogos em mídia física, revender títulos já zerados ou assistir a filmes em Blu-ray.",
+      "O pacote ASTRO BOT e Gran Turismo 7 foi lançado primeiro no Brasil e na América Latina. Inicialmente ele saiu só na Edição Digital, e depois ganhou esta versão com leitor de disco. Confira na página do produto se os jogos vêm em mídia física ou como código para baixar na PlayStation Store.",
+      "ASTRO BOT é um jogo de plataforma em 3D criado para mostrar tudo o que o controle DualSense consegue fazer, com vibração háptica e gatilhos adaptáveis. Foi eleito Jogo do Ano no The Game Awards 2024 e agrada tanto crianças quanto adultos. Gran Turismo 7 é o simulador de corrida da Sony, com centenas de carros reais, modo carreira e pistas famosas do mundo todo, e um ótimo exemplo dos gráficos do console.",
+      "O PS5 Slim tem SSD de 1 TB, bem mais rápido que os HDs dos consoles antigos, o que deixa os carregamentos quase instantâneos. O console roda jogos em até 4K, com taxas de até 120 quadros por segundo em jogos e TVs compatíveis, e suporta ray tracing para iluminação e reflexos mais realistas.",
+      "O controle DualSense é um dos diferenciais da plataforma: a vibração háptica permite sentir texturas e impactos, e os gatilhos adaptáveis mudam de resistência conforme a ação do jogo. O console também roda a grande maioria dos jogos de PS4, o que aumenta bastante a biblioteca disponível.",
+      "O console tem garantia de 1 ano da Sony no Brasil. Antes de comprar, confira se o anúncio é mesmo a versão com leitor de disco (Slim Disk) com o pacote ASTRO BOT e Gran Turismo 7, já que existem pacotes parecidos com outros jogos e na Edição Digital."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Sony PlayStation 5 Slim, com leitor de disco"
+      },
+      {
+        "chave": "Jogos inclusos",
+        "valor": "ASTRO BOT e Gran Turismo 7"
+      },
+      {
+        "chave": "Armazenamento",
+        "valor": "SSD de 1 TB"
+      },
+      {
+        "chave": "Leitor de disco",
+        "valor": "Ultra HD Blu-ray"
+      },
+      {
+        "chave": "Resolução",
+        "valor": "Até 4K, com até 120 fps em jogos e TVs compatíveis"
+      },
+      {
+        "chave": "Gráficos",
+        "valor": "Suporte a ray tracing"
+      },
+      {
+        "chave": "Controle",
+        "valor": "DualSense com vibração háptica e gatilhos adaptáveis"
+      },
+      {
+        "chave": "Retrocompatibilidade",
+        "valor": "Roda a maioria dos jogos de PS4"
+      },
+      {
+        "chave": "Tamanho",
+        "valor": "Cerca de 30% menor em volume que o PS5 original"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (Sony Brasil)"
+      }
+    ],
+    "pontos_fortes": [
+      "Leitor de disco: permite comprar jogos físicos, usados e revender títulos",
+      "Dois jogos de destaque incluídos, um deles eleito Jogo do Ano",
+      "SSD de 1 TB com carregamentos muito rápidos",
+      "Gráficos em 4K com ray tracing",
+      "Controle DualSense com vibração háptica e gatilhos adaptáveis",
+      "Roda a maioria dos jogos de PS4"
+    ],
+    "pontos_atencao": [
+      "1 TB enche rápido com jogos grandes: considere um SSD extra no futuro",
+      "Jogar online exige assinatura da PlayStation Plus",
+      "Confira se os jogos vêm em disco ou em código digital",
+      "Existem pacotes parecidos com outros jogos, então confira a versão antes de comprar"
+    ],
+    "para_quem_e": "Quem vai comprar o primeiro PS5 ou trocar um PS4 e quer o console completo, com leitor de disco e dois bons jogos para começar.",
+    "para_quem_nao_e": "Quem compra todos os jogos em formato digital e quer economizar (a Edição Digital costuma sair mais barata) ou quem já tem esses dois jogos."
+  },
+  {
+    "asin": "B0HC3HT2HS",
+    "id": "bicicleta-eletrica-adulto-1000w-48v-20ah",
+    "titulo": "Bicicleta Elétrica Adulto 1000W com Bateria 48V 20Ah",
+    "subtitulo": "Motor de 1000W e bateria de 48V 20Ah: o que avaliar antes de comprar e o que diz a lei brasileira sobre bicicletas elétricas",
+    "categoria": "Mobilidade & Lazer",
+    "imagem": "assets/produtos/bicicleta-eletrica-1000w-48v-20ah.jpg",
+    "data_revisao": "2026-10-15",
+    "tempo_leitura": "6 min de leitura",
+    "veredito_resumo": "Esta bicicleta elétrica combina motor de 1000W com bateria de lítio de 48V 20Ah, uma configuração potente que encara subidas e trajetos longos. O anúncio fala em velocidade de até 32 milhas por hora (cerca de 51 km/h). Esse número é importante: pela regra do Contran, bicicleta elétrica precisa ser limitada a 32 km/h, e acima disso o veículo pode ser enquadrado como ciclomotor, com exigência de habilitação e emplacamento. Vale a compra para quem entende essas regras e usa o modo limitado nas vias públicas.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0HC3HT2HS?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "As bicicletas elétricas se tornaram uma alternativa prática ao carro e ao transporte público nas cidades brasileiras. Este modelo aposta em números altos: motor de 1000W e bateria de lítio de 48V e 20Ah, uma combinação acima da média das bikes elétricas urbanas, que costumam usar motores de 250W a 500W.",
+      "O motor de 1000W dá força de sobra para subidas, para carregar mais peso e para arrancar rápido nos semáforos. A bateria de 48V 20Ah armazena cerca de 960 Wh de energia, o que permite percorrer distâncias maiores entre uma recarga e outra. A autonomia real, porém, depende muito do peso do ciclista, do relevo, do pneu, da velocidade e de quanto você pedala junto com o motor.",
+      "O ponto que mais merece atenção é a velocidade. O anúncio menciona até 32 MPH, ou seja, 32 milhas por hora, o que equivale a cerca de 51 km/h. No Brasil, a Resolução 996/2023 do Contran define bicicleta elétrica como o veículo com motor de até 1000W, velocidade máxima de 32 km/h e sem acelerador manual (o motor só ajuda enquanto você pedala). Esses veículos não precisam de habilitação nem placa.",
+      "Um veículo que passa de 32 km/h ou que anda só no acelerador pode ser enquadrado como ciclomotor. Nesse caso, a lei exige habilitação (ACC ou CNH categoria A), registro, emplacamento e capacete. Antes de comprar, verifique se o modelo permite limitar a velocidade a 32 km/h e se tem modo de assistência ao pedal, e use essa configuração nas ruas. Em caso de dúvida, consulte o Detran do seu estado.",
+      "Na hora de escolher, também vale observar a bateria removível (que facilita carregar dentro de casa), os freios (a disco hidráulico é o mais seguro para a potência de 1000W), a suspensão, o aro e o tipo de pneu, além da disponibilidade de assistência técnica e peças de reposição no Brasil.",
+      "Como a página do produto não deixa clara a marca, recomendamos ler com atenção a descrição completa e as perguntas respondidas no anúncio antes de comprar, e conferir as condições de garantia oferecidas pelo vendedor."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Tipo",
+        "valor": "Bicicleta elétrica para adultos"
+      },
+      {
+        "chave": "Motor",
+        "valor": "1000W"
+      },
+      {
+        "chave": "Bateria",
+        "valor": "Lítio, 48V 20Ah (cerca de 960 Wh)"
+      },
+      {
+        "chave": "Velocidade anunciada",
+        "valor": "Até 32 MPH (cerca de 51 km/h)"
+      },
+      {
+        "chave": "Limite legal para bicicleta elétrica",
+        "valor": "32 km/h, motor até 1000W, sem acelerador (Contran 996/2023)"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor de 1000W com força para subidas e cargas maiores",
+      "Bateria de 48V 20Ah, acima da média, para trajetos mais longos",
+      "Alternativa econômica ao carro e à moto no dia a dia",
+      "Recarga em tomada comum"
+    ],
+    "pontos_atencao": [
+      "Acima de 32 km/h ou com acelerador, pode ser enquadrada como ciclomotor e exigir habilitação e placa",
+      "A marca não está clara no anúncio: confira garantia e assistência técnica",
+      "A autonomia real varia muito com o peso, o relevo e o modo de uso",
+      "Bicicletas potentes são mais pesadas que as convencionais"
+    ],
+    "para_quem_e": "Adultos que querem uma bicicleta elétrica potente para trajetos urbanos com subidas e que vão respeitar o limite de 32 km/h nas vias públicas.",
+    "para_quem_nao_e": "Quem quer andar acima de 32 km/h sem habilitação, ou quem prefere uma marca conhecida com rede de assistência técnica estabelecida."
+  },
+  {
     "asin": "B0C2ZNDWK6",
     "id": "conjunto-bowls-tigelas-inox-electrolux",
     "titulo": "Conjunto de Bowls e Tigelas de Inox com Tampa Plástica Electrolux (3 Peças)",

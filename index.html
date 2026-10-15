@@ -918,15 +918,15 @@ a { text-decoration: none; color: inherit; }
 
 .btn-dest-amazon,
 .btn-store-amazon {
-  background: #18181B;
+  background: #146EB4;
   color: #FFFFFF;
 }
 .btn-dest-amazon:hover,
 .btn-store-amazon:hover {
-  background: var(--primary);
+  background: #0F5A94;
   color: #FFFFFF;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(234, 88, 12, 0.3);
+  box-shadow: 0 4px 12px rgba(20, 110, 180, 0.35);
 }
 
 .btn-dest-default,
@@ -1514,6 +1514,7 @@ a { text-decoration: none; color: inherit; }
       <button class="cat-btn" onclick="filtrarCategoria('Tecnologia', this)">Tecnologia & Acessórios</button>
       <button class="cat-btn" onclick="filtrarCategoria('Casa & Eletro', this)">Casa & Eletro</button>
       <button class="cat-btn" onclick="filtrarCategoria('Beleza & Cuidados', this)">Beleza & Cuidados</button>
+      <button class="cat-btn" onclick="filtrarCategoria('Mobilidade & Lazer', this)">Mobilidade & Lazer</button>
     </div>
 
     <!-- Grade de Produtos Informativos -->
@@ -1703,7 +1704,7 @@ function escapeHtml(str) {
 }
 
 function safeUrl(url, fallback) {
-  if (typeof url === "string" && /^https?:\/\//i.test(url)) {
+  if (typeof url === "string" && (/^https?:\/\//i.test(url) || /^assets\/[\w\-\/.]+$/.test(url))) {
     return url;
   }
   return fallback || "assets/logo.png";
@@ -1883,7 +1884,7 @@ function renderHome() {
       <article class="article-card" onclick="navigate('artigo', '${escapeHtml(asin)}')" tabindex="0" role="button" aria-label="Ler análise sobre ${escapeHtml(p.titulo)}" onkeydown="if(event.key==='Enter'){navigate('artigo', '${escapeHtml(asin)}');}">
         <div class="article-card-thumb">
           <span class="article-badge">${escapeHtml(cat)}</span>
-          <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+          <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}" loading="lazy">
         </div>
         <div class="article-card-content">
           <div class="article-card-meta">
@@ -1956,7 +1957,7 @@ function renderBuyBoxesHtml(p, img, linkOficial) {
     <div class="purchase-unified-box">
       <!-- UMA IMAGEM SÓ, MAIOR PARA PREENCHER O ESPAÇO VERTICAL -->
       <div class="purchase-unified-media">
-        <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+        <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}" loading="lazy">
       </div>
 
       <!-- OPÇÕES DE COMPRA À DIREITA -->
@@ -2056,7 +2057,7 @@ function renderArtigo(asin) {
 
     <!-- FIGURA PRINCIPAL -->
     <div class="article-figure">
-      <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}">
+      <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}">
     </div>
 
     <!-- VEREDITO DA REDAÇÃO -->
@@ -2265,7 +2266,7 @@ function renderPedidos() {
       <article class="article-card" onclick="navigate('pedido', '${escapeHtml(pid)}')" tabindex="0" role="button" aria-label="Ver pedido ${escapeHtml(p.titulo)}" onkeydown="if(event.key==='Enter'){navigate('pedido', '${escapeHtml(pid)}');}">
         <div class="article-card-thumb">
           <span class="article-badge" style="background:var(--primary-light);color:var(--primary);border:1px solid var(--primary-border);font-weight:700;">Pedido</span>
-          <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+          <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}" loading="lazy">
         </div>
         <div class="article-card-content">
           ${preco ? `<div style="font-size:15px;font-weight:700;color:var(--primary);margin-bottom:8px;">${escapeHtml(preco)}</div>` : ""}
@@ -2388,7 +2389,7 @@ function renderPedido(id) {
       </div>
 
       <div class="article-figure">
-        <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}">
+        <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}">
       </div>
 
       ${veredito ? `
@@ -2526,7 +2527,7 @@ function renderPedido(id) {
       <!-- BOX PRINCIPAL LIMPO: IMAGEM + BOTAO OFICIAL AMAZON -->
       <div class="purchase-unified-box" style="margin:28px 0;">
         <div class="purchase-unified-media">
-          <img src="${escapeHtml(img)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+          <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}" loading="lazy">
         </div>
         <div class="purchase-unified-content">
           <h4 class="purchase-unified-title">${escapeHtml(p.titulo)}</h4>
