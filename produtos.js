@@ -538,9 +538,9 @@ window.PRODUTOS_INFORMATIVOS = [
     "asin": "B0C2ZNDWK6",
     "id": "conjunto-bowls-tigelas-inox-electrolux",
     "titulo": "Conjunto de Bowls e Tigelas de Inox com Tampa Plástica Electrolux (3 Peças)",
-    "subtitulo": "Ficha técnica completa: aço inoxidável durável, tampas plásticas herméticas, tamanhos práticos e link oficial de compra na Amazon",
+    "subtitulo": "Ficha técnica completa: aço inoxidável, tampas plásticas com vedação, tamanhos práticos e onde comprar",
     "categoria": "Cozinha & Utilidades",
-    "imagem": "https://m.media-amazon.com/images/I/51hUmO15FhL._AC_SL1500_.jpg",
+    "imagem": "assets/produtos/conjunto-bowls-inox-electrolux.jpg",
     "data_revisao": "2026-10-07",
     "tempo_leitura": "4 min de leitura",
     "veredito_resumo": "O Conjunto de Bowls de Inox da Electrolux é um dos kits de preparação e armazenamento mais práticos e versáteis para a cozinha. Fabricados em aço inoxidável resistente que não absorve odores ou manchas de alimentos, os três recipientes contam com tampas plásticas de vedação segura, permitindo preparar receitas, marinar carnes e conservar ingredientes diretamente na geladeira com máxima higiene.",
@@ -548,7 +548,7 @@ window.PRODUTOS_INFORMATIVOS = [
       {
         "loja": "Amazon",
         "url": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=mdm0c7-20",
-        "destaque": "Produto Oficial Electrolux / Entrega Prime e Devolução Garantida",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
         "tipo": "amazon"
       }
     ],
@@ -588,8 +588,8 @@ window.PRODUTOS_INFORMATIVOS = [
         "valor": "Seguro para geladeira e lava-louças (tigelas de inox)"
       },
       {
-        "chave": "Procedência e Garantia",
-        "valor": "Produto original com nota fiscal e garantia oficial Electrolux"
+        "chave": "Garantia",
+        "valor": "Garantia do fabricante (confira as condições na página do produto)"
       }
     ],
     "pontos_fortes": [
@@ -611,31 +611,37 @@ window.PRODUTOS_INFORMATIVOS = [
     "asin": "creatina-soldiers-nutrition-1kg",
     "id": "creatina-soldiers-nutrition-1kg",
     "titulo": "Creatina Monohidratada 100% Pura 1Kg - Soldiers Nutrition",
-    "subtitulo": "Análise aprofundada: pureza laboratorial atestada, solubilidade fina sem resíduos e opções de compra oficiais no Mercado Livre e Shopee",
+    "subtitulo": "Análise completa: composição 100% creatina monohidratada, solubilidade, rendimento e onde comprar",
     "categoria": "Saúde & Nutrição",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-O.webp",
     "data_revisao": "2026-10-03",
     "tempo_leitura": "4 min de leitura",
-    "veredito_resumo": "Uma das creatinas mais vendidas e respeitadas do mercado brasileiro. Com laudos de pureza recorrentes acima de 99%, matéria-prima 100% monohidratada sem aditivos e rendimento de até 200 doses no pacote de 1kg, é a campeã indiscutível em custo-benefício.",
+    "veredito_resumo": "Uma das creatinas mais conhecidas do mercado brasileiro. Composta apenas por creatina monohidratada, sem aditivos, rende cerca de 200 doses de 5 g no pacote de 1 kg, o que coloca a Soldiers Nutrition entre as opções de melhor custo por dose.",
     "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BL5CSRBM?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      },
       {
         "loja": "Mercado Livre",
         "url": "https://meli.la/2LS8xt7",
-        "destaque": "Envio Rápido / Frete Grátis com Full",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "mercadolivre"
       },
       {
         "loja": "Shopee",
         "url": "https://s.shopee.com.br/2VsDk00PDr",
-        "destaque": "Loja Oficial / Cupons de Frete e Moedas",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "shopee"
       }
     ],
     "visao_geral": [
-      "A Creatina Monohidratada da Soldiers Nutrition se consolidou como uma das líderes de venda e preferência no Brasil, sendo recomendada tanto por nutricionistas quanto por praticantes de esportes de alto rendimento.",
+      "A Creatina Monohidratada da Soldiers Nutrition é uma das marcas mais populares de creatina no Brasil, bastante procurada por praticantes de musculação e de esportes de alta intensidade.",
       "O suplemento é composto exclusivamente por creatina monohidratada de grau alimentício puro, sem qualquer adição de maltodextrina, corantes ou conservantes químicos. Cada porção de 5g entrega 5g de creatina ativa pura para saturação e manutenção muscular.",
-      "A marca destaca-se pela transparência: laudos laboratoriais de controle de qualidade são divulgados publicamente de maneira contínua, atestando conformidade com as normas sanitárias e ausência de metais pesados.",
-      "Além da musculação e esportes de explosão, a suplementação com creatina tem sido amplamente respaldada por pesquisas recentes como um excelente suporte para a saúde mitocondrial e função cognitiva em idosos e adultos saudáveis."
+      "A marca informa divulgar laudos laboratoriais de controle de qualidade dos seus lotes. Antes de comprar, vale conferir o laudo mais recente no site do fabricante.",
+      "Além da musculação e dos esportes de explosão, estudos recentes investigam possíveis benefícios da creatina para outras áreas da saúde. Antes de começar a suplementação, converse com um nutricionista ou médico, principalmente se você tem alguma condição de saúde."
     ],
     "especificacoes": [
       {
@@ -674,44 +680,44 @@ window.PRODUTOS_INFORMATIVOS = [
     "pontos_fortes": [
       "Custo por dose extremamente econômico: o pacote de 1kg dura cerca de 6 a 7 meses em uso contínuo individual",
       "Solubilidade rápida: dissolve facilmente em água, suco ou shake de proteínas sem ficar no fundo do copo",
-      "Laudos independentes de pureza frequentemente renovados e amplamente auditados",
+      "Laudos de pureza divulgados pela marca",
       "Sabor 100% neutro, permitindo misturar em qualquer bebida sem alterar o paladar",
-      "Disponibilidade oficial em lojas verificadas no Mercado Livre (Envio Full) e Shopee"
+      "Disponível na Amazon, no Mercado Livre e na Shopee"
     ],
     "pontos_atencao": [
       "Como é um pó fino e hidrofílico, mantenha a embalagem sempre bem fechada e em local seco para não empedrar com a umidade do ar",
       "Não possui saborizantes adicionais (para quem procura versões com sabor artificial como uva ou limão, esta é a versão pura)"
     ],
-    "para_quem_e": "Praticantes de musculação, crossfit, esportes de corrida e pessoas que buscam a creatina mais pura e com o menor custo por grama do Brasil.",
+    "para_quem_e": "Praticantes de musculação, crossfit e corrida que buscam uma creatina pura com bom custo por dose.",
     "para_quem_nao_e": "Pessoas que preferem apresentações em cápsulas ou sachês individuais pré-fracionados para transporte em viagens."
   },
   {
     "asin": "creatina-dark-lab-1kg",
     "id": "creatina-dark-lab-1kg",
     "titulo": "Creatina Monohidratada 100% Pura 1Kg - Dark Lab",
-    "subtitulo": "Análise técnica: matéria-prima 100% pura sem adição de carbo, laudos de pureza com mais de 99% e opções de compra oficiais no Mercado Livre e Shopee",
+    "subtitulo": "Análise completa: creatina 100% monohidratada sem adição de carboidratos, rendimento e onde comprar",
     "categoria": "Saúde & Nutrição",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-O.webp",
     "data_revisao": "2026-10-03",
     "tempo_leitura": "4 min de leitura",
-    "veredito_resumo": "A Creatina Dark Lab 1kg é uma das opções mais confiáveis e populares para quem busca pureza atestada e máximo rendimento. Com matéria-prima micronizada e monohidratada de excelente dissolução, é testada por laboratórios independentes e entrega cerca de 200 porções de 5g com um dos menores custos por dose do mercado.",
+    "veredito_resumo": "A Creatina Dark Lab 1kg é uma opção popular para quem busca creatina pura com bom rendimento. Composta por creatina monohidratada de textura fina e boa dissolução, entrega cerca de 200 porções de 5 g, com um custo por dose competitivo.",
     "links_compra": [
       {
         "loja": "Mercado Livre",
         "url": "https://meli.la/2nMQg1S",
-        "destaque": "Envio Rápido / Frete Grátis com Full",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "mercadolivre"
       },
       {
         "loja": "Shopee",
         "url": "https://s.shopee.com.br/9V1y7OkvUe",
-        "destaque": "Loja Oficial / Cupons de Frete e Moedas",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "shopee"
       }
     ],
     "visao_geral": [
-      "A Dark Lab é uma fabricante brasileira de suplementação que ganhou enorme destaque nos últimos anos devido aos seus rigorosos testes de qualidade e políticas de controle de lote.",
-      "A Creatina Monohidratada da Dark Lab passa por testes periódicos de pureza em laboratórios credenciados, obtendo índices consistentemente acima de 99%, confirmando ausência de amiláceos, farinhas ou adulterações.",
+      "A Dark Lab é uma fabricante brasileira de suplementos que ganhou bastante espaço nos últimos anos, principalmente com a linha de creatina.",
+      "Segundo a marca, a creatina passa por testes periódicos de pureza em laboratórios. Antes de comprar, vale conferir o laudo mais recente divulgado pelo fabricante.",
       "Sua textura ultrafina permite que o pó se dissolva com facilidade em água ou bebidas geladas, minimizando resíduos no copo e facilitando a absorção pelo trato digestivo.",
       "A versão em refil de 1kg foi pensada para o praticante regular que consome a dose de manutenção de forma contínua, proporcionando economia substancial frente aos potes tradicionais de 300g."
     ],
@@ -730,7 +736,7 @@ window.PRODUTOS_INFORMATIVOS = [
       },
       {
         "chave": "Pureza de Lote",
-        "valor": "Superior a 99% em laudos laboratoriais auditados"
+        "valor": "Acima de 99%, segundo laudos divulgados pela marca"
       },
       {
         "chave": "Rendimento Estimado",
@@ -751,45 +757,45 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "pontos_fortes": [
       "Excelente custo por grama em embalagem econômica de 1kg",
-      "Aprovação consistente em laudos e auditorias de pureza da comunidade fitness",
+      "Laudos de pureza divulgados pela marca",
       "Boa solubilidade, integrando facilmente a sucos, shakes proteicos ou água",
       "Sem sabor e sem conservantes, não altera o gosto das refeições",
-      "Canais oficiais homologados no Mercado Livre (Envio Full) e Shopee"
+      "Disponível no Mercado Livre e na Shopee"
     ],
     "pontos_atencao": [
       "Embalagem no formato refil flexível; alguns usuários preferem transferir para um pote rígido para dosar no dia a dia",
       "Como toda creatina pura, exige ingestão diária ininterrupta para saturação muscular eficaz"
     ],
-    "para_quem_e": "Atletas, praticantes de musculação e entusiastas de alta intensidade que buscam suplementação comprovada para força, explosão e recuperação muscular com máxima economia.",
+    "para_quem_e": "Praticantes de musculação e de treinos de alta intensidade que buscam uma creatina pura com bom custo por dose.",
     "para_quem_nao_e": "Quem busca suplementos com sabor artificial adicionado ou prefere tomar creatina exclusivamente em cápsulas."
   },
   {
     "asin": "lavadora-alta-pressao-wap-ousada-plus-2200",
     "id": "lavadora-alta-pressao-wap-ousada-plus-2200",
     "titulo": "Lavadora de Alta Pressão WAP Ousada Plus 2200 (1500W - 1750 PSI)",
-    "subtitulo": "Ficha técnica completa: motor de 1.500W, pressão de 1.750 PSI, sistema Stop Total e opções de compra oficiais na Amazon, Mercado Livre e Shopee",
+    "subtitulo": "Ficha técnica completa: motor de 1.500W, pressão de 1.750 PSI, sistema Stop Total e onde comprar",
     "categoria": "Casa & Eletro",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_903761-MLA99549584628_122025-O.webp",
     "data_revisao": "2026-10-03",
     "tempo_leitura": "5 min de leitura",
-    "veredito_resumo": "A WAP Ousada Plus 2200 é uma das lavadoras de alta pressão domésticas mais consagradas do Brasil. Com motor de 1500W, pressão de 1750 PSI e vazão de 342 L/h, ela remove sujeiras incrustadas de calçadas, muros e veículos economizando até 80% de água em comparação com mangueiras de jardim comuns.",
+    "veredito_resumo": "A WAP Ousada Plus 2200 é uma das lavadoras de alta pressão domésticas mais conhecidas do Brasil. Com motor de 1500W, pressão de 1750 PSI e vazão de 342 L/h, ela remove sujeiras incrustadas de calçadas, muros e veículos economizando até 80% de água em comparação com mangueiras de jardim comuns.",
     "links_compra": [
       {
         "loja": "Amazon",
         "url": "https://www.amazon.com.br/dp/B077PT41YL?tag=mdm0c7-20",
-        "destaque": "Garantia e Entrega Prime / Devolução em 30 dias",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
         "tipo": "amazon"
       },
       {
         "loja": "Mercado Livre",
         "url": "https://meli.la/2UH78j8",
-        "destaque": "Envio Rápido / Frete Grátis com Full",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "mercadolivre"
       },
       {
         "loja": "Shopee",
         "url": "https://s.shopee.com.br/30oUNp9FTs",
-        "destaque": "Loja Oficial / Cupons de Frete e Moedas",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "shopee"
       }
     ],
@@ -865,12 +871,12 @@ window.PRODUTOS_INFORMATIVOS = [
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_923812-MLB111825780794_062026-O.webp",
     "data_revisao": "2026-10-03",
     "tempo_leitura": "5 min de leitura",
-    "veredito_resumo": "O LG Dual Inverter Voice 9.000 BTUs é amplamente reconhecido como a referência de excelência em ar-condicionado residencial no Brasil. Combinando o compressor de duplo rotor para economia de até 70% de energia, refrigeração 40% mais rápida e nível de ruído imperceptível a partir de 19 dB, ele se integra ao ecossistema de casa inteligente com controle por voz pela Alexa e Google Assistente.",
+    "veredito_resumo": "O LG Dual Inverter Voice 9.000 BTUs é um dos modelos de ar-condicionado residencial mais procurados no Brasil. Combinando o compressor de duplo rotor para economia de até 70% de energia, refrigeração 40% mais rápida e nível de ruído a partir de 19 dB, segundo a fabricante, ele se integra ao ecossistema de casa inteligente com controle por voz pela Alexa e Google Assistente.",
     "links_compra": [
       {
         "loja": "Mercado Livre",
         "url": "https://meli.la/1b9phq3",
-        "destaque": "Envio Rápido / Frete Grátis com Full",
+        "destaque": "Confira preço e frete na página do produto",
         "tipo": "mercadolivre"
       }
     ],

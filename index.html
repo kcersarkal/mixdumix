@@ -4,21 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mix Du Mix | Guias Editoriais, Análises e Fichas Técnicas</title>
-<meta name="description" content="Portal editorial independente dedicado a testes práticos, fichas técnicas completas, prós e contras e guias de compra confiáveis para sua melhor decisão.">
+<meta name="description" content="Portal editorial independente com guias de compra, fichas técnicas completas e prós e contras para ajudar na sua melhor decisão.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kcersarkal.github.io/mixdumix/">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Mix Du Mix">
 <meta property="og:title" content="Mix Du Mix | Guias Editoriais, Análises e Fichas Técnicas">
-<meta property="og:description" content="Informações aprofundadas, fichas técnicas e análises honestas de produtos testados para sua casa, tecnologia e bem-estar.">
+<meta property="og:description" content="Guias de compra, fichas técnicas e análises de produtos para sua casa, tecnologia e bem-estar.">
 <meta property="og:url" content="https://kcersarkal.github.io/mixdumix/">
 <meta property="og:image" content="https://kcersarkal.github.io/mixdumix/assets/logo.png">
 <meta property="og:locale" content="pt_BR">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mix Du Mix | Guias Editoriais, Análises e Fichas Técnicas">
-<meta name="twitter:description" content="Informações aprofundadas, fichas técnicas e análises honestas de produtos testados para sua casa, tecnologia e bem-estar.">
+<meta name="twitter:description" content="Guias de compra, fichas técnicas e análises de produtos para sua casa, tecnologia e bem-estar.">
 <meta name="twitter:image" content="https://kcersarkal.github.io/mixdumix/assets/logo.png">
 
 <meta name="theme-color" content="#EA580C">
@@ -1501,7 +1501,7 @@ a { text-decoration: none; color: inherit; }
       <div class="editorial-header-row">
         <div>
           <h1 class="editorial-title">Guias de Compra & Análises</h1>
-          <p class="editorial-subtitle">Fichas técnicas auditadas, prós e contras sem rodeios e informações completas para orientar sua melhor escolha antes de investir.</p>
+          <p class="editorial-subtitle">Fichas técnicas organizadas, prós e contras sem rodeios e informações completas para orientar sua melhor escolha antes de investir.</p>
         </div>
         <div style="font-size:13px;color:var(--text-subtle);font-weight:600;" id="home-counter-wrap"></div>
       </div>
@@ -1542,7 +1542,7 @@ a { text-decoration: none; color: inherit; }
       <div class="editorial-header-row">
         <div>
           <h1 class="editorial-title">Pedidos da Comunidade</h1>
-          <p class="editorial-subtitle">Produtos solicitados e indicados pelos nossos leitores, conferidos com links oficiais e garantia de procedência na Amazon.</p>
+          <p class="editorial-subtitle">Produtos solicitados e indicados pelos nossos leitores, com link direto para a página do produto na Amazon.</p>
         </div>
         <div style="font-size:13px;color:var(--text-subtle);font-weight:600;" id="pedidos-counter-wrap"></div>
       </div>
@@ -1578,8 +1578,8 @@ a { text-decoration: none; color: inherit; }
       <ul>
         <li><strong>Ficha Técnica Real:</strong> Levantamos dados de potência, dimensões, pureza de ingredientes, registro na Anvisa e conformidade técnica para evitar compras erradas.</li>
         <li><strong>Prós e Pontos de Atenção:</strong> Todo produto possui limitações. Destacamos com a mesma clareza o que funciona excepcionalmente e o que você deve ter em mente antes da compra.</li>
-        <li><strong>Avaliações de Compradores Reais:</strong> Cruzamos especificações de fabricante com os relatos verificados de usuários que utilizam o produto por semanas e meses.</li>
-        <li><strong>Canal Oficial e Garantia:</strong> Indicamos exclusivamente canais oficiais com nota fiscal e garantia com devolução simplificada em até 30 dias na Amazon Brasil.</li>
+        <li><strong>Pesquisa em Fontes Confiáveis:</strong> Reunimos informações dos fabricantes, fichas técnicas oficiais e veículos especializados para montar cada guia.</li>
+        <li><strong>Transparência na Compra:</strong> Preço, estoque, garantia e condições de entrega são definidos pela loja. Confira sempre esses detalhes na página do produto antes de finalizar a compra.</li>
       </ul>
 
       <h2>Aviso de Transparência e Financiamento</h2>
@@ -1681,8 +1681,8 @@ a { text-decoration: none; color: inherit; }
 </footer>
 
 <!-- SCRIPTS DE DADOS -->
-<script src="produtos.js?v=20261015-1"></script>
-<script src="pedidos.js?v=20261013-5"></script>
+<script src="produtos.js?v=20261015-2"></script>
+<script src="pedidos.js?v=20261015-1"></script>
 
 <!-- LÓGICA DO PORTAL -->
 <script>
@@ -1794,7 +1794,7 @@ function showView(view, id) {
     renderHome();
     updateSeo({
       title: "Mix Du Mix | Guias Editoriais, Análises e Fichas Técnicas",
-      description: "Portal editorial independente dedicado a testes práticos, fichas técnicas completas, prós e contras e guias de compra confiáveis para sua melhor decisão.",
+      description: "Portal editorial independente com guias de compra, fichas técnicas completas e prós e contras para ajudar na sua melhor decisão.",
       canonicalUrl: window.location.origin + window.location.pathname
     });
   } else if (view === "artigo") {
@@ -1940,16 +1940,16 @@ function getStoreInfo(url, loja) {
   if (u.includes("amazon") || u.includes("amzn.to") || l.includes("amazon")) {
     return { name: "Amazon", btnText: "Ver Preço na Amazon", btnClass: "btn-dest-amazon" };
   }
-  return { name: loja || "Loja Oficial", btnText: loja ? `Conferir na ${loja}` : "Conferir Oferta", btnClass: "btn-dest-default" };
+  return { name: loja || "Loja", btnText: loja ? `Conferir na ${loja}` : "Conferir Oferta", btnClass: "btn-dest-default" };
 }
 
 function renderBuyBoxesHtml(p, img, linkOficial) {
   const options = (p.links_compra && p.links_compra.length > 0)
     ? p.links_compra
     : [{
-        loja: "Loja Oficial",
+        loja: "Amazon",
         url: linkOficial,
-        destaque: "Disponibilidade com envio seguro e procedência verificada",
+        destaque: "Confira preço, versão e condições de entrega na página do produto",
         tipo: "oficial"
       }];
 
@@ -1967,7 +1967,7 @@ function renderBuyBoxesHtml(p, img, linkOficial) {
         <div class="purchase-store-rows">
           ${options.map(opt => {
             const store = getStoreInfo(opt.url, opt.loja || opt.tipo);
-            const perk = opt.destaque || "Envio seguro e procedência verificada";
+            const perk = opt.destaque || "Confira preço e condições na página do produto";
             return `
               <div class="purchase-store-row">
                 <div class="purchase-store-info">
@@ -1994,7 +1994,7 @@ function renderPurchaseSection(p, img, linkOficial) {
     <div class="product-purchase-section">
       <div class="purchase-section-header">
         <h3 class="purchase-title">Opções de Compra</h3>
-        <p class="purchase-subtext">Acesse com segurança a página oficial deste produto para conferir avaliações de outros compradores, disponibilidade de entrega e valores atualizados.</p>
+        <p class="purchase-subtext">Acesse a página do produto na loja para conferir avaliações de outros compradores, disponibilidade de entrega e valores atualizados.</p>
       </div>
 
       ${renderBuyBoxesHtml(p, img, linkOficial)}
@@ -2051,7 +2051,7 @@ function renderArtigo(asin) {
     <div class="amazon-disclosure-box">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
       <div>
-        <strong>Transparência Editorial:</strong> Como participante de programas de afiliados oficiais, sou remunerado pelas compras qualificadas efetuadas através dos links recomendados, sem nenhum custo adicional para você.
+        <strong>Transparência Editorial:</strong> Como participante do Programa de Associados da Amazon e de outros programas de afiliados, sou remunerado pelas compras qualificadas efetuadas através dos links desta página, sem nenhum custo adicional para você.
       </div>
     </div>
 
@@ -2229,7 +2229,7 @@ function renderPedidos() {
       heroContainer.innerHTML = `
         <div class="pedido-hero-card">
           <div class="pedido-hero-media" onclick="navigate('pedido', '${escapeHtml(heroId)}')">
-            <img src="${escapeHtml(heroImg)}" alt="${escapeHtml(hero.titulo)}" loading="lazy">
+            <img src="${escapeHtml(heroImg)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(hero.titulo)}" loading="lazy">
           </div>
           <div class="pedido-hero-content">
             <div class="pedido-hero-badge">
@@ -2534,8 +2534,8 @@ function renderPedido(id) {
           <div class="purchase-store-rows">
             <div class="purchase-store-row">
               <div class="purchase-store-info">
-                <span class="purchase-store-badge">Loja Oficial Amazon</span>
-                <span class="purchase-store-perk">Disponibilidade e envio oficial com garantia</span>
+                <span class="purchase-store-badge">Amazon</span>
+                <span class="purchase-store-perk">Confira preço, versão e condições de entrega na página do produto</span>
               </div>
               <div class="purchase-store-action">
                 <a class="btn-dest-amazon" style="width:280px;box-sizing:border-box;justify-content:center;" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
@@ -2572,7 +2572,7 @@ function renderPedido(id) {
 
   updateSeo({
     title: `${p.titulo} | Pedido da Comunidade - Mix Du Mix`,
-    description: `Confira ${p.titulo} na Amazon com oferta verificada e link oficial.`,
+    description: `Confira ${p.titulo} na Amazon: descrição do produto e link para a página da loja.`,
     canonicalUrl: `${window.location.origin}${window.location.pathname}?pedido=${encodeURIComponent(p.asin || p.id)}`,
     imageUrl: img,
     ogType: "article"
@@ -2628,7 +2628,7 @@ function compartilharPagina(titulo, btn) {
 
 function compartilharWhatsApp(titulo) {
   const url = window.location.href;
-  const texto = encodeURIComponent(`Olha esse pedido que encontrei no Mix Du Mix:\n*${titulo}*\n\nConfira os detalhes e oferta oficial aqui: ${url}`);
+  const texto = encodeURIComponent(`Olha esse pedido que encontrei no Mix Du Mix:\n*${titulo}*\n\nConfira os detalhes aqui: ${url}`);
   window.open(`https://api.whatsapp.com/send?text=${texto}`, "_blank");
 }
 
