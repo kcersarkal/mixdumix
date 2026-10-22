@@ -1,5 +1,14 @@
 window.PEDIDOS = [
   {
+    "id": "B0GNB2TZMC",
+    "asin": "B0GNB2TZMC",
+    "titulo": "Festcolor Vela Mini Slim Metallic Pink N 1-1 unidade",
+    "imagem": "https://m.media-amazon.com/images/I/51QfI9JYk7L._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0GNB2TZMC?tag=mdm0c7-20",
+    "descricao": ""
+  },
+  {
     "id": "B0CK3Q4RTH",
     "asin": "B0CK3Q4RTH",
     "titulo": "Caixa de Bombons Sortidos Sonho de Valsa e Ouro Branco, 220g",
