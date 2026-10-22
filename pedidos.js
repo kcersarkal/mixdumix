@@ -1,5 +1,14 @@
 window.PEDIDOS = [
   {
+    "id": "B0CK3Q4RTH",
+    "asin": "B0CK3Q4RTH",
+    "titulo": "Caixa de Bombons Sortidos Sonho de Valsa e Ouro Branco, 220g",
+    "imagem": "https://m.media-amazon.com/images/I/71kHOEX5UXL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0CK3Q4RTH?tag=mdm0c7-20",
+    "descricao": ""
+  },
+  {
     "id": "B0G51Y99CC",
     "asin": "B0G51Y99CC",
     "titulo": "Mini Máquina de Lavar Roupas 11L Peças Íntimas, Centrifuga Dobrável Portátil Moderna Para Roupas Pequena mini lavadora de roupas Viagens e Pequenos Espaços(Lilás)",
