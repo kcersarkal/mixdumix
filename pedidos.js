@@ -1,5 +1,14 @@
 window.PEDIDOS = [
   {
+    "id": "B07YGFNDX9",
+    "asin": "B07YGFNDX9",
+    "titulo": "WAP Lavadora de Alta Pressão COMBATE TURBO 2600, 220V",
+    "imagem": "https://m.media-amazon.com/images/I/51acAfYL9sL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B07YGFNDX9?tag=mdm0c7-20",
+    "descricao": ""
+  },
+  {
     "id": "B0GNB2TZMC",
     "asin": "B0GNB2TZMC",
     "titulo": "Festcolor Vela Mini Slim Metallic Pink N 1-1 unidade",
