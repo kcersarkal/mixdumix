@@ -951,6 +951,109 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Pessoas que buscam climatizar quartos de até 12 a 15 m² com máxima economia na conta de luz, silêncio absoluto para dormir e controle inteligente por voz na comodidade do padrão 127V.",
     "para_quem_nao_e": "Salas integradas ou cômodos grandes com mais de 20 m² com alta incidência solar, para os quais modelos de 12.000 ou 18.000 BTUs são mais indicados."
+  },
+  {
+    "asin": "B093MK3Z12",
+    "id": "air-fryer-mondial-family-afn-40-bi-4l-110v",
+    "titulo": "Air Fryer Mondial Family AFN-40-BI 4L (Preto/Inox, 1500 W, 110V)",
+    "subtitulo": "Guia da fritadeira sem óleo de 4 litros com cesto quadrado: capacidade, consumo, limpeza, cuidados e para quem vale a pena",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/logo.png",
+    "data_revisao": "2026-10-26",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Mondial Family AFN-40-BI é uma das air fryers mais populares do Brasil por um motivo simples: entrega o essencial sem complicação. São 4 litros de capacidade em cesto quadrado, 1500 W de potência, temperatura até 200 °C e timer de 60 minutos com desligamento automático. Não tem painel digital nem programas prontos, mas é fácil de usar e de limpar. É indicada para casais e famílias pequenas que querem a primeira air fryer ou trocar um modelo menor.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B093MK3Z12?tag=mdm0c7-20",
+        "destaque": "Confira preço, voltagem e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "A linha Family da Mondial é a porta de entrada de muita gente no mundo das air fryers. O modelo AFN-40-BI é a versão de 4 litros com acabamento preto e detalhes em inox, vendida em duas voltagens. O funcionamento é o mesmo de qualquer fritadeira sem óleo: uma resistência aquece o ar e um ventilador faz esse ar circular em alta velocidade ao redor do alimento, deixando a parte de fora dourada sem precisar mergulhar nada em óleo.",
+      "O principal diferencial está no formato do cesto. Em vez do cesto redondo, comum em modelos de entrada, a Mondial usa um cesto quadrado, que aproveita melhor os cantos e aumenta a área plana para espalhar batatas, nuggets ou pedaços de frango em uma camada só. A própria fabricante diz que é a maior área plana da categoria entre os modelos do mesmo tipo vendidos até 2022. Na prática, isso faz diferença porque a air fryer frita melhor quando os alimentos não estão empilhados.",
+      "Os controles são analógicos: um botão gira a temperatura até 200 °C e outro ajusta o timer de até 60 minutos. Quando o tempo acaba, a fritadeira emite um aviso sonoro e desliga sozinha. Há uma luz indicadora de aquecimento. Quem prefere telas sensíveis ao toque e receitas pré-programadas deve olhar a versão digital da mesma linha (AFN-40-DI), mas para o uso do dia a dia os botões giratórios são rápidos e difíceis de errar.",
+      "Em análise publicada pelo Canaltech com a versão de acabamento fosco da mesma linha (AFN-40-BF, que tem o mesmo desempenho), a fritadeira fez um ruído médio de 52 dB a 1,5 metro e consumiu 0,3 kWh em 20 minutos a 200 °C. O mesmo teste mostrou que o ar não circula de forma totalmente uniforme: vale mexer as batatas e virar as carnes na metade do preparo, e alimentos de cozimento mais longo podem pedir alguns minutos a mais do que o indicado.",
+      "A limpeza é um dos pontos fortes. O cesto e a cuba são removíveis e têm revestimento antiaderente Duraflon, então basta lavar com esponja macia e detergente, evitando palha de aço e objetos pontiagudos. Por fora, use apenas um pano levemente úmido: o acabamento em inox brilhante marca dedos com facilidade e a carcaça pode riscar.",
+      "A potência é de 1500 W, então ela pede uma tomada de 20 A na versão 127 V (a Mondial informa 10 A na versão 220 V). Evite ligar em benjamins ou extensões finas junto com outros aparelhos. Na caixa vêm a fritadeira, o manual e um livro de receitas, e a garantia informada pela fabricante é de 1 ano.",
+      "Antes de comprar, confira a voltagem no anúncio. Este link é da versão 110 V (127 V, segundo a Mondial); a mesma fritadeira também é vendida em 220 V com outro código de anúncio, e ligar o aparelho na voltagem errada pode danificá-lo."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Mondial Family AFN-40-BI"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto com detalhes em inox"
+      },
+      {
+        "chave": "Capacidade",
+        "valor": "4 litros"
+      },
+      {
+        "chave": "Cesto",
+        "valor": "Quadrado, removível, antiaderente Duraflon"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1500 W"
+      },
+      {
+        "chave": "Voltagem deste anúncio",
+        "valor": "110 V (127 V segundo a fabricante)"
+      },
+      {
+        "chave": "Tomada",
+        "valor": "20 A na versão 127 V / 10 A na versão 220 V"
+      },
+      {
+        "chave": "Temperatura",
+        "valor": "Até 200 °C"
+      },
+      {
+        "chave": "Timer",
+        "valor": "Até 60 minutos, com aviso sonoro e desligamento automático"
+      },
+      {
+        "chave": "Controles",
+        "valor": "Analógicos (botões giratórios) com luz indicadora"
+      },
+      {
+        "chave": "Dimensões (A x L x P)",
+        "valor": "29,5 x 28,5 x 36,5 cm"
+      },
+      {
+        "chave": "Peso",
+        "valor": "4,59 kg"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "Fritadeira, manual de instruções e livro de receitas"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano, segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Cesto quadrado de 4 litros, que aproveita melhor o espaço do que os cestos redondos",
+      "Controles simples, com timer de 60 minutos e desligamento automático",
+      "Cesto e cuba removíveis e antiaderentes, fáceis de lavar",
+      "Ruído moderado, cerca de 52 dB a 1,5 metro em teste do Canaltech",
+      "Consumo baixo em preparos curtos (0,3 kWh em 20 minutos a 200 °C no mesmo teste)",
+      "Ocupa pouco espaço na bancada para a capacidade que oferece"
+    ],
+    "pontos_atencao": [
+      "Não tem painel digital nem programas prontos; quem quer isso deve olhar a versão AFN-40-DI",
+      "O ar não circula de forma totalmente uniforme: é preciso mexer ou virar os alimentos no meio do preparo",
+      "O acabamento em inox brilhante marca dedos e a carcaça pode riscar",
+      "Precisa de tomada de 20 A na versão 127 V; evite extensões e benjamins",
+      "Existe versão 220 V em outro anúncio: confira a voltagem antes de comprar"
+    ],
+    "para_quem_e": "Casais e famílias pequenas que querem uma air fryer simples, com bom espaço no cesto e fácil de limpar, para o preparo do dia a dia.",
+    "para_quem_nao_e": "Quem cozinha para muitas pessoas de uma vez (melhor um modelo de 5 litros ou mais) ou quem faz questão de painel digital e receitas automáticas."
   }
 ];
 
