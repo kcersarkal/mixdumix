@@ -958,7 +958,7 @@ window.PRODUTOS_INFORMATIVOS = [
     "titulo": "Air Fryer Mondial Family AFN-40-BI 4L (Preto/Inox, 1500 W, 110V)",
     "subtitulo": "Guia da fritadeira sem óleo de 4 litros com cesto quadrado: capacidade, consumo, limpeza, cuidados e para quem vale a pena",
     "categoria": "Cozinha & Utilidades",
-    "imagem": "assets/logo.png",
+    "imagem": "assets/produtos/air-fryer-mondial-family-afn-40-bi-4l-110v.jpg",
     "data_revisao": "2026-10-26",
     "tempo_leitura": "5 min de leitura",
     "veredito_resumo": "A Mondial Family AFN-40-BI é uma das air fryers mais populares do Brasil por um motivo simples: entrega o essencial sem complicação. São 4 litros de capacidade em cesto quadrado, 1500 W de potência, temperatura até 200 °C e timer de 60 minutos com desligamento automático. Não tem painel digital nem programas prontos, mas é fácil de usar e de limpar. É indicada para casais e famílias pequenas que querem a primeira air fryer ou trocar um modelo menor.",
