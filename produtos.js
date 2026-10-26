@@ -473,69 +473,6 @@ window.PRODUTOS_INFORMATIVOS = [
     "para_quem_nao_e": "Para quem compra tudo em formato digital e quer economizar com a Edição Digital, ou para quem já tem esses dois jogos."
   },
   {
-    "asin": "B0HC3HT2HS",
-    "id": "bicicleta-eletrica-adulto-1000w-48v-20ah",
-    "titulo": "Bicicleta Elétrica Adulto 1000W com Bateria 48V 20Ah",
-    "subtitulo": "Potência para subir ladeira sem suar, e o que você precisa saber sobre a lei antes de sair pedalando",
-    "categoria": "Mobilidade & Lazer",
-    "imagem": "assets/logo.png",
-    "data_revisao": "2026-10-26",
-    "tempo_leitura": "6 min de leitura",
-    "veredito_resumo": "Esta bicicleta elétrica é para quem cansou de chegar suado ao trabalho ou de desistir da bike por causa das subidas. O motor de 1000W e a bateria de lítio de 48V 20Ah estão bem acima da média das bikes urbanas, o que significa força nas ladeiras e mais quilômetros por carga. Mas há um ponto importante: o anúncio fala em até 32 milhas por hora (cerca de 51 km/h), e a lei brasileira limita bicicleta elétrica a 32 km/h. Vale a compra para quem entende essa regra e usa a velocidade limitada nas ruas.",
-    "links_compra": [
-      {
-        "loja": "Amazon",
-        "url": "https://www.amazon.com.br/dp/B0HC3HT2HS?tag=mdm0c7-20",
-        "destaque": "Confira preço, versão e condições de entrega na página do produto",
-        "tipo": "amazon"
-      }
-    ],
-    "visao_geral": [
-      "Quem mora em cidade com ladeira conhece o dilema: a bicicleta é ótima, até a primeira subida. Ou você chega ao destino encharcado de suor, ou desiste e volta para o ônibus. Uma bicicleta elétrica potente muda essa conta, e este modelo aposta alto: motor de 1000W e bateria de 48V e 20Ah, bem acima dos 250W a 500W das bikes elétricas urbanas mais comuns.",
-      "Na prática, o motor de 1000W dá força para subir sem sofrimento, carregar mais peso e sair rápido do semáforo. A bateria armazena cerca de 960 Wh, o que permite rodar mais entre uma recarga e outra, feita em tomada comum. A autonomia real depende do seu peso, do relevo, dos pneus e de quanto você pedala junto com o motor.",
-      "Agora, o ponto que merece toda a sua atenção antes da compra. O anúncio fala em velocidade de até 32 MPH, que são 32 milhas por hora, cerca de 51 km/h. No Brasil, a Resolução 996/2023 do Contran define bicicleta elétrica como o veículo com motor de até 1000W, velocidade máxima de 32 km/h e sem acelerador manual, ou seja, o motor só ajuda enquanto você pedala. Dentro dessas regras, não precisa de habilitação nem de placa.",
-      "Se o veículo passa de 32 km/h ou anda só no acelerador, ele pode ser enquadrado como ciclomotor, e aí a lei exige habilitação (ACC ou CNH A), registro, placa e capacete. Por isso, antes de comprar, confira se o modelo permite limitar a velocidade a 32 km/h e se tem modo de assistência ao pedal, e use essa configuração nas ruas. Na dúvida, consulte o Detran do seu estado.",
-      "Outros detalhes fazem diferença no dia a dia: bateria removível para carregar dentro de casa, freio a disco (o hidráulico é o mais seguro para essa potência), suspensão, tipo de pneu e, principalmente, assistência técnica e peças no Brasil.",
-      "Um último cuidado: a marca não aparece com clareza na página do produto. Leia a descrição completa e as perguntas respondidas no anúncio, e confira as condições de garantia do vendedor antes de fechar a compra."
-    ],
-    "especificacoes": [
-      {
-        "chave": "Tipo",
-        "valor": "Bicicleta elétrica para adultos"
-      },
-      {
-        "chave": "Motor",
-        "valor": "1000W"
-      },
-      {
-        "chave": "Bateria",
-        "valor": "Lítio, 48V 20Ah (cerca de 960 Wh)"
-      },
-      {
-        "chave": "Velocidade anunciada",
-        "valor": "Até 32 MPH (cerca de 51 km/h)"
-      },
-      {
-        "chave": "Limite legal para bicicleta elétrica",
-        "valor": "32 km/h, motor até 1000W, sem acelerador (Contran 996/2023)"
-      }
-    ],
-    "pontos_fortes": [
-      "Motor de 1000W que encara subidas sem você chegar suado",
-      "Bateria de 48V 20Ah para trajetos mais longos",
-      "Alternativa econômica ao carro e à moto no dia a dia",
-      "Recarga em tomada comum"
-    ],
-    "pontos_atencao": [
-      "Acima de 32 km/h ou com acelerador, pode ser enquadrada como ciclomotor e exigir habilitação e placa",
-      "A marca não está clara no anúncio: confira garantia e assistência técnica",
-      "A autonomia real varia muito com o peso, o relevo e o modo de uso",
-      "Bicicletas potentes são mais pesadas que as convencionais"
-    ],
-    "para_quem_e": "Para adultos que querem uma bicicleta elétrica forte para o trajeto urbano com subidas e que vão respeitar o limite de 32 km/h nas vias públicas.",
-    "para_quem_nao_e": "Para quem quer andar acima de 32 km/h sem habilitação ou prefere uma marca conhecida com rede de assistência técnica estabelecida."
-  },
-  {
     "asin": "B0C2ZNDWK6",
     "id": "conjunto-bowls-tigelas-inox-electrolux",
     "titulo": "Conjunto de Bowls e Tigelas de Inox com Tampa Plástica Electrolux (3 Peças)",
