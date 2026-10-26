@@ -10,12 +10,12 @@ window.PRODUTOS_INFORMATIVOS = [
     "asin": "B0GMY41LM8",
     "id": "motorola-edge-70-crystals-swarovski-512gb",
     "titulo": "Motorola Edge 70 5G Crystals by Swarovski (512 GB, 12 GB RAM, Cloud Dancer)",
-    "subtitulo": "Guia completo da edição especial com cristais Swarovski: tela, câmeras, bateria, resistência e para quem vale a pena",
+    "subtitulo": "O celular que chama atenção na mesa do restaurante, mas que também aguenta o tranco do dia a dia",
     "categoria": "Tecnologia",
     "imagem": "assets/produtos/motorola-edge-70-crystals-swarovski.jpg",
-    "data_revisao": "2026-10-15",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "6 min de leitura",
-    "veredito_resumo": "A edição Crystals by Swarovski do Motorola Edge 70 junta um dos celulares mais finos do mercado (5,99 mm) a um acabamento exclusivo na cor Cloud Dancer, a cor Pantone de 2026, com 14 cristais Swarovski na traseira. Por dentro é o mesmo Edge 70 da versão de 512 GB: tela AMOLED de 6,7 polegadas a 120 Hz, Snapdragon 7 Gen 4, três câmeras de 50 MP e bateria de 4.800 mAh com carregamento de 68 W. É a escolha para quem quer um intermediário premium com visual de peça de design.",
+    "veredito_resumo": "Tem celular que a gente compra pela ficha técnica e tem celular que a gente compra porque se apaixona. O Motorola Edge 70 Crystals by Swarovski consegue ser as duas coisas: por fora, é uma peça de design na cor Cloud Dancer, a cor Pantone de 2026, com 14 cristais Swarovski na traseira; por dentro, tem tela AMOLED de 120 Hz, três câmeras de 50 MP, 512 GB de espaço e bateria de 4.800 mAh com carregador de 68 W na caixa. É para quem quer um intermediário premium que ninguém vai confundir com o celular de todo mundo.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -25,13 +25,13 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "O Motorola Edge 70 chegou ao Brasil em 2026 como a aposta da marca em celulares ultrafinos sem abrir mão de bateria e resistência. A edição Crystals by Swarovski é a versão de colecionador dessa linha: usa a cor Cloud Dancer, um branco suave escolhido pela Pantone como cor do ano de 2026, e recebe 14 aplicações de cristais Swarovski desenvolvidas em parceria com a marca austríaca.",
-      "Fora o acabamento, o conjunto técnico é o mesmo da versão topo de linha do Edge 70. A tela é uma Extreme AMOLED de 6,7 polegadas com resolução 1.5K (1220 x 2712), taxa de atualização de até 120 Hz e brilho máximo de pico de 4.500 nits segundo a Motorola. Na prática, isso significa boa leitura sob sol forte e animações fluidas na rolagem de redes sociais e jogos. O vidro frontal é o Corning Gorilla Glass 7i.",
-      "O processador é o Snapdragon 7 Gen 4, um chip intermediário avançado que dá conta de multitarefa, edição de fotos e da maioria dos jogos com folga. Esta versão vem com 512 GB de armazenamento e 12 GB de RAM física, que podem ser complementados por até 12 GB de RAM Boost (memória virtual tirada do armazenamento). O espaço de 512 GB é generoso para quem grava muitos vídeos em 4K e não quer depender de nuvem.",
-      "No conjunto de câmeras, a Motorola usou três sensores de 50 MP: o principal com estabilização óptica (OIS), uma ultrawide de 120 graus que também funciona como macro e a câmera frontal. Todas gravam vídeo em até 4K a 60 quadros por segundo. Recursos de software como Max Foto Pro e Action Shot ajudam em fotos de movimento e em ambientes com pouca luz.",
-      "A bateria de 4.800 mAh usa tecnologia de silício-carbono, que permite mais capacidade em um corpo tão fino. A fabricante promete até 38 horas de uso, e o carregador TurboPower de 68 W vem na caixa. Há também carregamento sem fio de 15 W, com a base vendida à parte.",
-      "Apesar dos 5,99 mm de espessura e 159 g, o aparelho tem certificações IP68 e IP69 contra água e poeira e o padrão militar MIL-STD-810H para quedas e variações de temperatura. Para um celular com cristais na traseira, isso traz uma tranquilidade a mais no dia a dia. Mesmo assim, uma capinha transparente é uma boa ideia para proteger o acabamento.",
-      "Antes de comprar, confirme na página da Amazon que o anúncio é mesmo a versão Crystals by Swarovski de 512 GB na cor Cloud Dancer, já que o Edge 70 também é vendido nas cores Gadget Gray, Lily Pad e Bronze Green, sem os cristais."
+      "Repare quantas vezes por dia você tira o celular do bolso. Ele vai para a mesa do almoço, aparece nas fotos, fica na mão durante a conversa. Faz sentido que ele também diga alguma coisa sobre quem o carrega. É essa a proposta do Motorola Edge 70 Crystals by Swarovski: pegar um dos celulares mais finos do mercado e transformá-lo em edição de colecionador.",
+      "O acabamento usa a cor Cloud Dancer, um branco suave que a Pantone escolheu como cor do ano de 2026, com 14 aplicações de cristais Swarovski desenvolvidas em parceria com a marca austríaca. O resultado é discreto e elegante ao mesmo tempo, longe daquele brilho exagerado que alguém poderia imaginar.",
+      "E não é só aparência. Com 5,99 mm de espessura e 159 g, ele quase desaparece no bolso, mas tem certificações IP68 e IP69 contra água e poeira e o padrão militar MIL-STD-810H para quedas e variações de temperatura. Ou seja, dá para usar na chuva, na praia ou na correria sem ficar tratando o aparelho como peça de vitrine. Uma capinha transparente ainda é uma boa ideia para proteger os cristais sem escondê-los.",
+      "A tela de 6,7 polegadas é uma Extreme AMOLED 1.5K com taxa de até 120 Hz e, segundo a Motorola, pico de 4.500 nits de brilho. Na prática, você lê mensagens sob o sol do meio-dia e rola o feed com aquela fluidez que faz voltar para um celular comum parecer estranho. O vidro frontal é Gorilla Glass 7i.",
+      "Nas fotos, são três câmeras de 50 MP: a principal com estabilização óptica, uma ultrawide de 120 graus que também faz macro e a frontal, todas gravando em 4K a 60 quadros por segundo. Para quem vive registrando viagens, filhos ou o prato do restaurante, os 512 GB de armazenamento significam parar de apagar vídeo antigo para caber o novo.",
+      "O processador Snapdragon 7 Gen 4 e os 12 GB de RAM dão conta de redes sociais, edição de fotos e a maioria dos jogos sem engasgos. A bateria de 4.800 mAh usa tecnologia de silício-carbono, e a Motorola fala em até 38 horas de uso. Quando ela acaba, o carregador TurboPower de 68 W que já vem na caixa devolve a carga rapidinho. Também há carregamento sem fio de 15 W, com a base vendida à parte.",
+      "Um último cuidado: o Edge 70 também existe nas cores Gadget Gray, Lily Pad e Bronze Green, sem os cristais. Confira no anúncio que é mesmo a versão Crystals by Swarovski de 512 GB na cor Cloud Dancer, porque é ela que faz deste celular algo diferente."
     ],
     "especificacoes": [
       {
@@ -96,13 +96,13 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Acabamento exclusivo com cristais Swarovski e cor Pantone Cloud Dancer",
-      "Um dos celulares mais finos do mercado, com apenas 5,99 mm e 159 g",
-      "Tela AMOLED de 6,7\" com 120 Hz e brilho alto para uso ao ar livre",
-      "Três câmeras de 50 MP, com estabilização óptica na principal",
-      "512 GB de armazenamento, espaço de sobra para fotos e vídeos em 4K",
-      "Carregador de 68 W incluso e suporte a carregamento sem fio",
-      "Proteção IP68/IP69 e certificação militar MIL-STD-810H"
+      "Visual exclusivo com cristais Swarovski na cor Pantone do ano, que ninguém confunde",
+      "Fininho (5,99 mm e 159 g), quase some no bolso",
+      "Resistente de verdade: IP68, IP69 e padrão militar MIL-STD-810H",
+      "Tela AMOLED de 120 Hz que se lê bem até sob sol forte",
+      "Três câmeras de 50 MP e vídeos em 4K, com estabilização na principal",
+      "512 GB para guardar anos de fotos e vídeos sem apagar nada",
+      "Carregador de 68 W na caixa e carregamento sem fio"
     ],
     "pontos_atencao": [
       "O acabamento com cristais custa mais que as versões comuns com o mesmo hardware",
@@ -110,19 +110,19 @@ window.PRODUTOS_INFORMATIVOS = [
       "A base de carregamento sem fio é vendida separadamente",
       "Por ser uma edição especial, a disponibilidade pode ser limitada"
     ],
-    "para_quem_e": "Quem quer um celular intermediário premium com visual marcante, tela de alta qualidade, boa bateria e bastante armazenamento, e valoriza design e exclusividade.",
-    "para_quem_nao_e": "Quem busca o melhor custo-benefício (as versões comuns do Edge 70 entregam o mesmo desempenho por menos) ou precisa de zoom óptico para fotografia."
+    "para_quem_e": "Para quem quer um celular rápido, resistente e com câmeras muito boas, mas que também tenha personalidade e chame atenção pelo design.",
+    "para_quem_nao_e": "Para quem quer gastar o mínimo possível (as versões comuns do Edge 70 têm o mesmo desempenho) ou precisa de zoom óptico para fotografar de longe."
   },
   {
     "asin": "B0FY6F8CLH",
     "id": "smartwatch-bettdow-fb041-gps-alexa-prata",
     "titulo": "Smartwatch Bettdow FB041 com GPS, Alexa e Chamadas Bluetooth (Tela 1,85\", Prata)",
-    "subtitulo": "Relógio inteligente de entrada com GPS integrado, assistente Alexa, mais de 100 modos esportivos e resistência à água 3ATM",
+    "subtitulo": "GPS, Alexa e chamadas no pulso por um preço que cabe no bolso de quem está começando",
     "categoria": "Tecnologia",
     "imagem": "assets/produtos/smartwatch-bettdow-fb041-prata.jpg",
-    "data_revisao": "2026-10-15",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "5 min de leitura",
-    "veredito_resumo": "O Bettdow FB041 é um smartwatch de entrada que se destaca por reunir recursos raros na sua faixa de preço: GPS integrado, Alexa embutida e chamadas por Bluetooth. A tela de 1,85 polegada é grande e fácil de ler, e a resistência 3ATM aguenta chuva e lavagem das mãos. É indicado para quem quer começar no mundo dos relógios inteligentes e acompanhar treinos ao ar livre sem gastar muito.",
+    "veredito_resumo": "O Bettdow FB041 é aquele smartwatch que surpreende quando você olha a lista de recursos: GPS integrado para registrar a corrida sem levar o celular, Alexa para criar lembretes falando com o pulso e chamadas por Bluetooth. A tela de 1,85 polegada é grande e fácil de ler, e a resistência 3ATM aguenta chuva e suor. Não tem a precisão de um Garmin nem a tela de um Apple Watch, mas para um primeiro relógio inteligente entrega muito mais do que se espera dele.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -132,12 +132,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "A Bettdow é uma marca que ganhou espaço no Brasil com smartwatches acessíveis vendidos principalmente pela internet. O modelo FB041 é um dos mais completos da linha, porque junta três recursos que normalmente só aparecem em relógios mais caros: GPS integrado, assistente de voz Alexa e chamadas por Bluetooth.",
-      "O GPS embutido é o grande diferencial para quem corre, pedala ou caminha. Com ele, o relógio registra o trajeto e a distância sem precisar levar o celular junto no treino. O FB041 também se conecta ao Strava, um dos aplicativos de esporte mais usados, o que facilita guardar e comparar os treinos.",
-      "A tela é um painel TFT-LCD de 1,85 polegada com resolução de 240 x 280 pixels. É uma das maiores da linha da Bettdow, o que ajuda na leitura de notificações e no uso dos menus. Por outro lado, não é AMOLED: as cores são menos vivas e os pretos menos profundos do que nos modelos com esse tipo de tela, mas a diferença pesa pouco para quem vai usar o relógio principalmente para treinos e notificações.",
-      "Com a Alexa integrada, dá para pedir previsão do tempo, criar alarmes, timers e lembretes falando direto com o relógio. As chamadas por Bluetooth permitem atender e fazer ligações pelo pulso, usando o microfone e o alto-falante do próprio relógio, desde que o celular esteja por perto e conectado.",
-      "O relógio oferece mais de 100 modos esportivos e mais de 200 mostradores para personalizar o visual. A resistência à água é de 3ATM, suficiente para chuva, suor e lavagem das mãos. Ele é compatível com celulares Android e iPhone, e esta versão vem na cor prata.",
-      "Como toda marca de entrada, vale ajustar as expectativas: a precisão do GPS e dos sensores não se compara à de marcas premium como Garmin ou Apple, e a duração da bateria varia bastante conforme o uso do GPS e das chamadas. Para quem quer um primeiro smartwatch funcional e completo, porém, o pacote de recursos é muito bom para o preço."
+      "Quem já saiu para correr segurando o celular na mão, ou com aquela braçadeira que escorrega a cada quilômetro, sabe o quanto isso atrapalha. Um dos motivos que fazem o Bettdow FB041 chamar atenção é justamente esse: ele tem GPS próprio. Você deixa o celular em casa, sai para correr, pedalar ou caminhar, e o relógio registra o trajeto e a distância sozinho.",
+      "Depois do treino, dá para mandar tudo para o Strava, um dos aplicativos de esporte mais usados do mundo, e acompanhar a evolução semana a semana. São mais de 100 modos esportivos, então ele também serve para quem faz musculação, bike indoor ou dança.",
+      "No dia a dia fora do treino, o FB041 vira um assistente de pulso. Com a Alexa integrada, você pede a previsão do tempo, cria um alarme ou um lembrete só falando com o relógio. E quando o celular toca dentro da bolsa, dá para atender a ligação ali mesmo, pelo microfone e alto-falante do relógio, desde que o telefone esteja por perto.",
+      "A tela de 1,85 polegada é das maiores da linha e facilita ler notificações sem forçar a vista. Ela é do tipo TFT-LCD, então as cores são menos vivas que numa tela AMOLED, mas para conferir o ritmo da corrida, o horário e as mensagens isso pesa pouco. São mais de 200 mostradores para deixar o visual do seu jeito, e esta versão vem na cor prata, que combina tanto com roupa de academia quanto com roupa de trabalho.",
+      "A resistência à água é de 3ATM: chuva, suor e lavar as mãos sem tirar o relógio, tudo tranquilo. Natação e mergulho já ficam fora da lista. Ele funciona com Android e iPhone.",
+      "Vale ser honesto sobre as expectativas: a precisão do GPS e dos sensores não chega à das marcas premium, e a bateria dura menos quando você usa muito GPS e chamadas. Mas, para quem quer dar o primeiro passo no mundo dos smartwatches sem gastar o preço de um celular, o pacote de recursos é difícil de bater."
     ],
     "especificacoes": [
       {
@@ -186,10 +186,10 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "GPS integrado, raro em smartwatches dessa faixa de preço",
-      "Alexa embutida para alarmes, lembretes e previsão do tempo por voz",
-      "Faz e atende chamadas pelo próprio relógio",
-      "Tela grande de 1,85\", fácil de ler",
+      "GPS próprio: dá para treinar sem levar o celular",
+      "Alexa no pulso para alarmes, lembretes e previsão do tempo",
+      "Atende e faz ligações pelo relógio",
+      "Tela grande de 1,85\", fácil de ler durante o treino",
       "Mais de 100 modos esportivos e integração com o Strava",
       "Funciona com Android e iPhone"
     ],
@@ -199,19 +199,19 @@ window.PRODUTOS_INFORMATIVOS = [
       "A duração da bateria cai bastante com uso frequente do GPS e de chamadas",
       "A resistência 3ATM não é indicada para mergulho"
     ],
-    "para_quem_e": "Quem quer o primeiro smartwatch com GPS para correr, caminhar ou pedalar, além de receber notificações e atender ligações pelo pulso, gastando pouco.",
-    "para_quem_nao_e": "Atletas que precisam de métricas precisas para treinos avançados ou quem faz natação com frequência."
+    "para_quem_e": "Para quem quer começar a acompanhar corridas, caminhadas e pedaladas com GPS, receber notificações e atender ligações pelo pulso, sem gastar muito.",
+    "para_quem_nao_e": "Para atletas que precisam de métricas muito precisas para treinos avançados ou para quem nada com frequência."
   },
   {
     "asin": "B09CF4R9S6",
     "id": "ventilador-oster-power-fresh-2-em-1-ovtr481",
     "titulo": "Ventilador Oster Power Fresh 2 em 1 OVTR481 40 cm (Preto e Vermelho, 127V)",
-    "subtitulo": "Ventilador de mesa e parede com 6 pás, 3 velocidades, oscilação horizontal e inclinação vertical",
+    "subtitulo": "O ventilador que vai da mesa para a parede e libera espaço no quarto pequeno",
     "categoria": "Casa & Eletro",
     "imagem": "assets/produtos/ventilador-oster-power-fresh-ovtr481.jpg",
-    "data_revisao": "2026-10-15",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "5 min de leitura",
-    "veredito_resumo": "O Oster Power Fresh OVTR481 é um ventilador 2 em 1 que pode ficar sobre a mesa ou ser fixado na parede. Tem hélice de 40 cm com 6 pás, 3 velocidades, oscilação horizontal e inclinação vertical, com potência de 140 W. É uma opção versátil e leve para quartos, escritórios e salas pequenas, especialmente para quem quer liberar espaço no chão.",
+    "veredito_resumo": "O Oster Power Fresh OVTR481 resolve um problema bem brasileiro: o calor em cômodos pequenos onde não sobra espaço no chão para um ventilador de coluna. Ele funciona sobre a mesa ou fixado na parede, tem hélice de 40 cm com 6 pás, 3 velocidades, oscilação e inclinação ajustável. É leve, tem alça para mudar de cômodo e um visual preto com vermelho que foge do branco de sempre. Para quarto, escritório e sala pequena, é uma escolha prática e sem complicação.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -221,12 +221,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "A Oster é uma marca tradicional de eletroportáteis, e o Power Fresh 2 em 1 (código OVTR481) é um dos modelos de ventilação mais simples e versáteis da linha. O \"2 em 1\" significa que ele funciona tanto apoiado sobre uma mesa ou cômoda quanto fixado na parede, o que ajuda muito em cômodos pequenos onde cada centímetro do chão conta.",
-      "A hélice tem 40 cm de diâmetro e 6 pás. Mais pás ajudam a distribuir o vento de forma mais uniforme e costumam deixar o funcionamento mais suave do que nos modelos de 3 pás. São 3 velocidades, e a potência declarada é de 140 W.",
-      "Para espalhar o ar pelo ambiente, o ventilador tem oscilação horizontal (ele vira de um lado para o outro) e inclinação vertical ajustável, para direcionar o vento mais para cima ou mais para baixo. Fixado na parede, a inclinação para baixo é o que garante que o vento chegue até quem está na cama ou no sofá.",
-      "O aparelho é leve e tem alça para transporte, então dá para mudar de cômodo com facilidade, por exemplo usar no escritório durante o dia e no quarto à noite. A fabricante descreve o modelo como leve e portátil.",
-      "A versão deste anúncio é a preto com vermelho, na voltagem 127V. O mesmo modelo também é vendido em 220V, então confira a voltagem da sua tomada antes de comprar. Ligar um aparelho 127V em 220V pode queimar o motor.",
-      "Como qualquer ventilador de 40 cm, ele é ideal para ambientes de pequeno a médio porte. Para salas grandes ou espaços muito quentes, um ventilador de coluna mais potente ou um circulador de ar podem render mais."
+      "Em muito apartamento brasileiro, o quarto tem cama, guarda-roupa e um caminho estreito entre os dois. Colocar um ventilador de coluna ali significa tropeçar nele de madrugada. O Oster Power Fresh 2 em 1 nasceu para esse tipo de situação: durante o dia ele fica sobre a mesa ou a cômoda, e se você quiser, pode fixá-lo na parede e esquecer que ele ocupa espaço.",
+      "A hélice tem 40 cm e 6 pás. Mais pás significam um vento mais uniforme e um funcionamento mais suave do que nos modelos de 3 pás, aquele ventilador que parece bater no ar em vez de empurrá-lo. São 3 velocidades e potência de 140 W.",
+      "Para o vento chegar onde você está, ele tem oscilação horizontal e inclinação vertical. Fixado no alto da parede, basta inclinar para baixo e o ar vai direto para a cama ou o sofá, sem você precisar ficar ajustando nada no meio da noite.",
+      "É leve e tem alça, então ele acompanha a sua rotina: escritório durante o expediente, sala no fim da tarde, quarto na hora de dormir. A marca Oster é tradicional em eletroportáteis, e o modelo tem garantia de 12 meses.",
+      "Com 40 cm, ele é ideal para ambientes pequenos e médios. Para uma sala grande e muito quente, um ventilador de coluna mais potente ou um circulador de ar podem render mais.",
+      "Um último cuidado: esta versão é a preta com vermelho em 127V. O mesmo modelo existe em 220V, então confira a voltagem da sua tomada antes de fechar a compra. Ligar um aparelho 127V em 220V pode queimar o motor."
     ],
     "especificacoes": [
       {
@@ -275,10 +275,10 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Uso 2 em 1: sobre a mesa ou fixado na parede",
-      "Hélice de 6 pás para um vento mais uniforme",
-      "Oscilação horizontal e inclinação vertical para direcionar o ar",
-      "Leve e com alça, fácil de levar de um cômodo para outro",
+      "Funciona na mesa ou na parede e libera espaço no chão",
+      "6 pás para um vento mais uniforme e suave",
+      "Oscila e inclina, levando o ar até a cama ou o sofá",
+      "Leve e com alça, muda de cômodo com você",
       "Visual preto e vermelho que foge do branco tradicional"
     ],
     "pontos_atencao": [
@@ -287,19 +287,19 @@ window.PRODUTOS_INFORMATIVOS = [
       "Confira a voltagem (127V) antes de comprar",
       "A instalação na parede exige furação e buchas adequadas"
     ],
-    "para_quem_e": "Quem precisa ventilar quarto, escritório ou sala pequena e quer a opção de fixar o ventilador na parede para liberar espaço.",
-    "para_quem_nao_e": "Quem busca ventilar ambientes grandes ou quer recursos como controle remoto, timer e modo noturno."
+    "para_quem_e": "Para quem precisa refrescar quarto, escritório ou sala pequena e quer a opção de prender o ventilador na parede.",
+    "para_quem_nao_e": "Para quem quer ventilar ambientes grandes ou faz questão de controle remoto, timer e modo noturno."
   },
   {
     "asin": "B0DC82WBFD",
     "id": "filtro-de-linha-iclamper-energia-8-preto",
     "titulo": "Filtro de Linha iCLAMPER Energia 8 com Proteção contra Surtos (DPS), 8 Tomadas, Preto",
-    "subtitulo": "Proteção contra surtos elétricos e raios indiretos para PC, notebook, monitor, impressora, roteador e videogame",
+    "subtitulo": "O que separa uma régua de tomadas comum de uma proteção de verdade para o seu computador, TV e videogame",
     "categoria": "Tecnologia",
     "imagem": "assets/produtos/iclamper-energia-8-preto.jpg",
-    "data_revisao": "2026-10-15",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "6 min de leitura",
-    "veredito_resumo": "O iCLAMPER Energia 8 não é só uma régua de tomadas: ele tem um dispositivo de proteção contra surtos (DPS) que desvia picos de tensão causados por raios e manobras da rede elétrica. São 8 tomadas no padrão brasileiro, funcionamento bivolt, LED de status e certificação nas normas da ABNT. É uma das formas mais baratas de proteger computador, TV, roteador e videogame.",
+    "veredito_resumo": "Quase todo mundo já perdeu um aparelho depois de uma tempestade: o roteador que não ligou mais, a fonte do PC que estalou, a TV que apagou. O iCLAMPER Energia 8 existe para evitar isso. Diferente das réguas comuns, ele tem um dispositivo de proteção contra surtos (DPS) que desvia os picos de tensão antes que cheguem aos seus aparelhos. São 8 tomadas no padrão brasileiro, funcionamento bivolt e um LED que avisa quando a proteção precisa ser trocada. Custa uma fração do valor de qualquer aparelho que ele protege.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -309,12 +309,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "Muita gente usa \"filtro de linha\" como sinônimo de régua de tomadas, mas a maioria das réguas baratas não protege contra nada. A diferença do iCLAMPER Energia 8 é o DPS (Dispositivo de Proteção contra Surtos): um circuito que desvia os picos de tensão antes que eles cheguem aos aparelhos ligados. A CLAMPER é uma fabricante brasileira especializada justamente nesse tipo de proteção.",
-      "Surtos elétricos acontecem com frequência no Brasil, principalmente em dias de tempestade, quando um raio cai perto da rede, e também quando a concessionária faz manobras na rede elétrica. Esses picos duram frações de segundo, mas são suficientes para queimar fontes de computador, placas de TV, roteadores e carregadores.",
-      "Segundo a ficha técnica do fabricante, o Energia 8 usa varistores de óxido metálico (MOV) e centelhador a gás (GDT), suporta corrente máxima de descarga de 6 kA e tem tempo de resposta inferior a 25 nanossegundos. Os varistores têm proteção térmica, e um LED indica se a proteção está ativa. Quando o LED apaga, é sinal de que o dispositivo cumpriu sua função e precisa ser trocado.",
-      "São 8 tomadas de 10 A no padrão brasileiro (2P+T, norma NBR 14136), com cabo de 1,3 m. O produto é bivolt (127V e 220V) e a soma de todos os aparelhos ligados não pode passar de 10 A, o que equivale a cerca de 1.270 W em 127V ou 2.200 W em 220V. Isso é mais que suficiente para um PC com monitor, roteador, impressora e console, mas não para aquecedores, air fryers ou micro-ondas.",
-      "Um ponto importante: o DPS protege os aparelhos mesmo sem fio terra, mas o fabricante reforça que o aterramento da tomada é essencial para a segurança das pessoas contra choques. Se a sua instalação não tem fio terra, vale chamar um eletricista.",
-      "A versão deste anúncio é a preta. O modelo segue as normas ABNT NBR IEC 61643-11, NBR 14136 e NBR 16008, e a caixa é de material autoextinguível, que não propaga chamas."
+      "Pense no que está ligado na tomada atrás da sua mesa agora: computador, monitor, roteador, talvez um videogame ou a TV. Some o valor de tudo isso. Agora imagine que um raio cai perto da rede elétrica do seu bairro. Esse pico de energia dura uma fração de segundo, mas é suficiente para queimar fontes, placas e carregadores. Acontece com frequência no Brasil, principalmente na época de chuvas.",
+      "Aqui está o detalhe que pouca gente sabe: a maioria das réguas de tomadas vendidas como \"filtro de linha\" não protege contra nada disso. São só extensões com várias tomadas. O que faz o iCLAMPER Energia 8 ser diferente é o DPS, um circuito que percebe o surto e desvia o excesso de energia antes que ele chegue aos aparelhos. A CLAMPER é uma fabricante brasileira especializada justamente nesse tipo de proteção.",
+      "Segundo a ficha técnica do fabricante, ele combina varistores de óxido metálico com centelhador a gás, suporta corrente máxima de descarga de 6 kA e reage em menos de 25 nanossegundos. Não precisa decorar esses números: o que importa é que existe um LED de status. Enquanto ele está aceso, você está protegido. Se um dia apagar, é sinal de que o filtro fez o trabalho dele, segurou um surto forte, e chegou a hora de trocar.",
+      "São 8 tomadas de 10 A no padrão brasileiro, sem precisar de adaptador, com cabo de 1,3 m. Ele é bivolt e aguenta até 10 A no total, cerca de 1.270 W em 127V ou 2.200 W em 220V. É mais que suficiente para PC, monitor, roteador, impressora e console juntos. Só não serve para aquecedor, air fryer ou micro-ondas, que puxam muita potência.",
+      "Um ponto de segurança: o DPS protege os aparelhos mesmo sem fio terra, mas o fabricante reforça que o aterramento é importante para proteger as pessoas contra choques. Se a sua tomada não tem terra, vale chamar um eletricista.",
+      "O modelo segue as normas ABNT NBR IEC 61643-11, NBR 14136 e NBR 16008, e a caixa é de material autoextinguível, que não propaga chamas. Esta versão é a preta, que some atrás da mesa ou do rack."
     ],
     "especificacoes": [
       {
@@ -372,10 +372,11 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "pontos_fortes": [
       "Proteção real contra surtos e raios indiretos, não só uma régua de tomadas",
-      "8 tomadas no padrão brasileiro, sem precisar de adaptador",
-      "Bivolt, funciona em 127V e 220V",
-      "LED avisa quando a proteção precisa ser trocada",
-      "Marca brasileira especializada em proteção elétrica, com produto dentro das normas ABNT"
+      "8 tomadas no padrão brasileiro, sem adaptador",
+      "Bivolt: funciona em 127V e 220V",
+      "LED que avisa quando a proteção precisa ser trocada",
+      "Marca brasileira especializada, dentro das normas ABNT",
+      "Custa pouco perto do valor dos aparelhos que protege"
     ],
     "pontos_atencao": [
       "O limite é de 10 A no total: não serve para aquecedores, air fryers ou micro-ondas",
@@ -383,19 +384,19 @@ window.PRODUTOS_INFORMATIVOS = [
       "Precisa ser trocado depois de absorver um surto forte (LED apagado)",
       "Para segurança contra choques, a tomada deve ter fio terra"
     ],
-    "para_quem_e": "Quem quer proteger computador, notebook, monitor, impressora, roteador, TV ou videogame contra queimas causadas por raios e oscilações da rede elétrica.",
-    "para_quem_nao_e": "Quem precisa manter os equipamentos ligados durante quedas de energia (nesse caso, o indicado é um nobreak) ou ligar eletrodomésticos de alta potência."
+    "para_quem_e": "Para quem quer proteger computador, monitor, roteador, TV ou videogame contra queimas causadas por raios e oscilações da rede.",
+    "para_quem_nao_e": "Para quem precisa manter os aparelhos ligados durante quedas de energia (aí o certo é um nobreak) ou quer ligar eletrodomésticos de alta potência."
   },
   {
     "asin": "B0F8R9NDXC",
     "id": "playstation-5-slim-disco-pacote-astro-bot-gran-turismo-7",
     "titulo": "Console PlayStation 5 Slim com Leitor de Disco, Pacote ASTRO BOT e Gran Turismo 7",
-    "subtitulo": "O PS5 Slim com leitor de discos, 1 TB de armazenamento e dois dos jogos mais bem avaliados da Sony no mesmo pacote",
+    "subtitulo": "O PS5 Slim com leitor de disco e dois jogos que já valem a primeira semana inteira de diversão",
     "categoria": "Tecnologia",
     "imagem": "assets/produtos/ps5-slim-disco-astro-bot-gran-turismo-7.jpg",
-    "data_revisao": "2026-10-15",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "6 min de leitura",
-    "veredito_resumo": "Este pacote reúne o PlayStation 5 Slim na versão com leitor de discos e dois jogos de peso: ASTRO BOT, eleito Jogo do Ano no The Game Awards 2024, e Gran Turismo 7, o simulador de corrida mais famoso da Sony. Com 1 TB de armazenamento e suporte a discos físicos, é uma das formas mais completas de entrar na geração atual, principalmente para quem quer comprar jogos usados ou em mídia física.",
+    "veredito_resumo": "Este pacote resolve aquela dúvida de quem vai comprar o primeiro PS5: qual jogo pegar para começar? Ele já vem com ASTRO BOT, eleito Jogo do Ano no The Game Awards 2024, e Gran Turismo 7, o simulador de corrida mais famoso da Sony. E é a versão com leitor de disco, que deixa você comprar jogos físicos, pegar usados mais baratos e revender o que já terminou. Com 1 TB de SSD e gráficos em 4K, é um dos jeitos mais completos de entrar na geração atual.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -405,12 +406,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "O PlayStation 5 Slim é a versão mais compacta do console da Sony, cerca de 30% menor em volume que o modelo lançado em 2020. Este pacote traz a versão com leitor de discos (Ultra HD Blu-ray), que é a mais procurada por quem gosta de comprar jogos em mídia física, revender títulos já zerados ou assistir a filmes em Blu-ray.",
-      "O pacote ASTRO BOT e Gran Turismo 7 foi lançado primeiro no Brasil e na América Latina. Inicialmente ele saiu só na Edição Digital, e depois ganhou esta versão com leitor de disco. Confira na página do produto se os jogos vêm em mídia física ou como código para baixar na PlayStation Store.",
-      "ASTRO BOT é um jogo de plataforma em 3D criado para mostrar tudo o que o controle DualSense consegue fazer, com vibração háptica e gatilhos adaptáveis. Foi eleito Jogo do Ano no The Game Awards 2024 e agrada tanto crianças quanto adultos. Gran Turismo 7 é o simulador de corrida da Sony, com centenas de carros reais, modo carreira e pistas famosas do mundo todo, e um ótimo exemplo dos gráficos do console.",
-      "O PS5 Slim tem SSD de 1 TB, bem mais rápido que os HDs dos consoles antigos, o que deixa os carregamentos quase instantâneos. O console roda jogos em até 4K, com taxas de até 120 quadros por segundo em jogos e TVs compatíveis, e suporta ray tracing para iluminação e reflexos mais realistas.",
-      "O controle DualSense é um dos diferenciais da plataforma: a vibração háptica permite sentir texturas e impactos, e os gatilhos adaptáveis mudam de resistência conforme a ação do jogo. O console também roda a grande maioria dos jogos de PS4, o que aumenta bastante a biblioteca disponível.",
-      "O console tem garantia de 1 ano da Sony no Brasil. Antes de comprar, confira se o anúncio é mesmo a versão com leitor de disco (Slim Disk) com o pacote ASTRO BOT e Gran Turismo 7, já que existem pacotes parecidos com outros jogos e na Edição Digital."
+      "Tem uma sensação muito boa em ligar um console novo e já ter o que jogar. Este pacote do PlayStation 5 Slim entrega exatamente isso: você tira da caixa, conecta na TV e escolhe entre um dos jogos mais premiados dos últimos anos e um dos simuladores de corrida mais bonitos já feitos.",
+      "ASTRO BOT é daqueles jogos que fazem adulto sorrir igual criança. É uma aventura de plataforma em 3D criada para mostrar tudo o que o controle DualSense sabe fazer: você sente a chuva batendo, o chão de gelo escorregando e cada salto nas mãos. Não por acaso, foi eleito Jogo do Ano no The Game Awards 2024. Gran Turismo 7 é o oposto em ritmo: centenas de carros reais, pistas famosas do mundo todo e um modo carreira que prende por meses.",
+      "O console é o PS5 Slim, cerca de 30% menor em volume que o modelo original, o que ajuda muito no rack da sala. Esta é a versão com leitor de discos Ultra HD Blu-ray. Para muita gente, isso faz diferença no bolso: jogos físicos podem ser comprados usados, emprestados para amigos e revendidos depois de zerados. E ele ainda serve como player de filmes em Blu-ray.",
+      "O SSD de 1 TB deixa os carregamentos quase instantâneos, aquele fim das telas de loading intermináveis do PS4. Os jogos rodam em até 4K, com até 120 quadros por segundo em títulos e TVs compatíveis, e com ray tracing para luzes e reflexos mais realistas. E se você tem jogos de PS4, a maioria roda nele também.",
+      "O pacote foi lançado primeiro no Brasil e na América Latina, e o console tem garantia de 1 ano da Sony no país. Confira na página do produto se os jogos vêm em disco ou em código para baixar na PlayStation Store.",
+      "Um último cuidado: existem pacotes parecidos, com outros jogos ou na Edição Digital, sem leitor de disco. Confira no anúncio que é mesmo o PS5 Slim com leitor de disco e o pacote ASTRO BOT e Gran Turismo 7."
     ],
     "especificacoes": [
       {
@@ -455,9 +456,9 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Leitor de disco: permite comprar jogos físicos, usados e revender títulos",
-      "Dois jogos de destaque incluídos, um deles eleito Jogo do Ano",
-      "SSD de 1 TB com carregamentos muito rápidos",
+      "Já vem com dois jogos de destaque, um deles eleito Jogo do Ano",
+      "Leitor de disco: jogos físicos, usados e revenda",
+      "SSD de 1 TB com carregamentos quase instantâneos",
       "Gráficos em 4K com ray tracing",
       "Controle DualSense com vibração háptica e gatilhos adaptáveis",
       "Roda a maioria dos jogos de PS4"
@@ -468,19 +469,19 @@ window.PRODUTOS_INFORMATIVOS = [
       "Confira se os jogos vêm em disco ou em código digital",
       "Existem pacotes parecidos com outros jogos, então confira a versão antes de comprar"
     ],
-    "para_quem_e": "Quem vai comprar o primeiro PS5 ou trocar um PS4 e quer o console completo, com leitor de disco e dois bons jogos para começar.",
-    "para_quem_nao_e": "Quem compra todos os jogos em formato digital e quer economizar (a Edição Digital costuma sair mais barata) ou quem já tem esses dois jogos."
+    "para_quem_e": "Para quem vai comprar o primeiro PS5 ou trocar o PS4 e quer o console completo, com leitor de disco e dois bons jogos para começar.",
+    "para_quem_nao_e": "Para quem compra tudo em formato digital e quer economizar com a Edição Digital, ou para quem já tem esses dois jogos."
   },
   {
     "asin": "B0HC3HT2HS",
     "id": "bicicleta-eletrica-adulto-1000w-48v-20ah",
     "titulo": "Bicicleta Elétrica Adulto 1000W com Bateria 48V 20Ah",
-    "subtitulo": "Motor de 1000W e bateria de 48V 20Ah: o que avaliar antes de comprar e o que diz a lei brasileira sobre bicicletas elétricas",
+    "subtitulo": "Potência para subir ladeira sem suar, e o que você precisa saber sobre a lei antes de sair pedalando",
     "categoria": "Mobilidade & Lazer",
     "imagem": "assets/logo.png",
-    "data_revisao": "2026-10-15",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "6 min de leitura",
-    "veredito_resumo": "Esta bicicleta elétrica combina motor de 1000W com bateria de lítio de 48V 20Ah, uma configuração potente que encara subidas e trajetos longos. O anúncio fala em velocidade de até 32 milhas por hora (cerca de 51 km/h). Esse número é importante: pela regra do Contran, bicicleta elétrica precisa ser limitada a 32 km/h, e acima disso o veículo pode ser enquadrado como ciclomotor, com exigência de habilitação e emplacamento. Vale a compra para quem entende essas regras e usa o modo limitado nas vias públicas.",
+    "veredito_resumo": "Esta bicicleta elétrica é para quem cansou de chegar suado ao trabalho ou de desistir da bike por causa das subidas. O motor de 1000W e a bateria de lítio de 48V 20Ah estão bem acima da média das bikes urbanas, o que significa força nas ladeiras e mais quilômetros por carga. Mas há um ponto importante: o anúncio fala em até 32 milhas por hora (cerca de 51 km/h), e a lei brasileira limita bicicleta elétrica a 32 km/h. Vale a compra para quem entende essa regra e usa a velocidade limitada nas ruas.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -490,12 +491,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "As bicicletas elétricas se tornaram uma alternativa prática ao carro e ao transporte público nas cidades brasileiras. Este modelo aposta em números altos: motor de 1000W e bateria de lítio de 48V e 20Ah, uma combinação acima da média das bikes elétricas urbanas, que costumam usar motores de 250W a 500W.",
-      "O motor de 1000W dá força de sobra para subidas, para carregar mais peso e para arrancar rápido nos semáforos. A bateria de 48V 20Ah armazena cerca de 960 Wh de energia, o que permite percorrer distâncias maiores entre uma recarga e outra. A autonomia real, porém, depende muito do peso do ciclista, do relevo, do pneu, da velocidade e de quanto você pedala junto com o motor.",
-      "O ponto que mais merece atenção é a velocidade. O anúncio menciona até 32 MPH, ou seja, 32 milhas por hora, o que equivale a cerca de 51 km/h. No Brasil, a Resolução 996/2023 do Contran define bicicleta elétrica como o veículo com motor de até 1000W, velocidade máxima de 32 km/h e sem acelerador manual (o motor só ajuda enquanto você pedala). Esses veículos não precisam de habilitação nem placa.",
-      "Um veículo que passa de 32 km/h ou que anda só no acelerador pode ser enquadrado como ciclomotor. Nesse caso, a lei exige habilitação (ACC ou CNH categoria A), registro, emplacamento e capacete. Antes de comprar, verifique se o modelo permite limitar a velocidade a 32 km/h e se tem modo de assistência ao pedal, e use essa configuração nas ruas. Em caso de dúvida, consulte o Detran do seu estado.",
-      "Na hora de escolher, também vale observar a bateria removível (que facilita carregar dentro de casa), os freios (a disco hidráulico é o mais seguro para a potência de 1000W), a suspensão, o aro e o tipo de pneu, além da disponibilidade de assistência técnica e peças de reposição no Brasil.",
-      "Como a página do produto não deixa clara a marca, recomendamos ler com atenção a descrição completa e as perguntas respondidas no anúncio antes de comprar, e conferir as condições de garantia oferecidas pelo vendedor."
+      "Quem mora em cidade com ladeira conhece o dilema: a bicicleta é ótima, até a primeira subida. Ou você chega ao destino encharcado de suor, ou desiste e volta para o ônibus. Uma bicicleta elétrica potente muda essa conta, e este modelo aposta alto: motor de 1000W e bateria de 48V e 20Ah, bem acima dos 250W a 500W das bikes elétricas urbanas mais comuns.",
+      "Na prática, o motor de 1000W dá força para subir sem sofrimento, carregar mais peso e sair rápido do semáforo. A bateria armazena cerca de 960 Wh, o que permite rodar mais entre uma recarga e outra, feita em tomada comum. A autonomia real depende do seu peso, do relevo, dos pneus e de quanto você pedala junto com o motor.",
+      "Agora, o ponto que merece toda a sua atenção antes da compra. O anúncio fala em velocidade de até 32 MPH, que são 32 milhas por hora, cerca de 51 km/h. No Brasil, a Resolução 996/2023 do Contran define bicicleta elétrica como o veículo com motor de até 1000W, velocidade máxima de 32 km/h e sem acelerador manual, ou seja, o motor só ajuda enquanto você pedala. Dentro dessas regras, não precisa de habilitação nem de placa.",
+      "Se o veículo passa de 32 km/h ou anda só no acelerador, ele pode ser enquadrado como ciclomotor, e aí a lei exige habilitação (ACC ou CNH A), registro, placa e capacete. Por isso, antes de comprar, confira se o modelo permite limitar a velocidade a 32 km/h e se tem modo de assistência ao pedal, e use essa configuração nas ruas. Na dúvida, consulte o Detran do seu estado.",
+      "Outros detalhes fazem diferença no dia a dia: bateria removível para carregar dentro de casa, freio a disco (o hidráulico é o mais seguro para essa potência), suspensão, tipo de pneu e, principalmente, assistência técnica e peças no Brasil.",
+      "Um último cuidado: a marca não aparece com clareza na página do produto. Leia a descrição completa e as perguntas respondidas no anúncio, e confira as condições de garantia do vendedor antes de fechar a compra."
     ],
     "especificacoes": [
       {
@@ -520,8 +521,8 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Motor de 1000W com força para subidas e cargas maiores",
-      "Bateria de 48V 20Ah, acima da média, para trajetos mais longos",
+      "Motor de 1000W que encara subidas sem você chegar suado",
+      "Bateria de 48V 20Ah para trajetos mais longos",
       "Alternativa econômica ao carro e à moto no dia a dia",
       "Recarga em tomada comum"
     ],
@@ -531,19 +532,19 @@ window.PRODUTOS_INFORMATIVOS = [
       "A autonomia real varia muito com o peso, o relevo e o modo de uso",
       "Bicicletas potentes são mais pesadas que as convencionais"
     ],
-    "para_quem_e": "Adultos que querem uma bicicleta elétrica potente para trajetos urbanos com subidas e que vão respeitar o limite de 32 km/h nas vias públicas.",
-    "para_quem_nao_e": "Quem quer andar acima de 32 km/h sem habilitação, ou quem prefere uma marca conhecida com rede de assistência técnica estabelecida."
+    "para_quem_e": "Para adultos que querem uma bicicleta elétrica forte para o trajeto urbano com subidas e que vão respeitar o limite de 32 km/h nas vias públicas.",
+    "para_quem_nao_e": "Para quem quer andar acima de 32 km/h sem habilitação ou prefere uma marca conhecida com rede de assistência técnica estabelecida."
   },
   {
     "asin": "B0C2ZNDWK6",
     "id": "conjunto-bowls-tigelas-inox-electrolux",
     "titulo": "Conjunto de Bowls e Tigelas de Inox com Tampa Plástica Electrolux (3 Peças)",
-    "subtitulo": "Ficha técnica completa: aço inoxidável, tampas plásticas com vedação, tamanhos práticos e onde comprar",
+    "subtitulo": "Os potes que vão da bancada para a geladeira e acabam com o cheiro de alho no plástico",
     "categoria": "Cozinha & Utilidades",
     "imagem": "assets/produtos/conjunto-bowls-inox-electrolux.jpg",
-    "data_revisao": "2026-10-07",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "4 min de leitura",
-    "veredito_resumo": "O Conjunto de Bowls de Inox da Electrolux é um dos kits de preparação e armazenamento mais práticos e versáteis para a cozinha. Fabricados em aço inoxidável resistente que não absorve odores ou manchas de alimentos, os três recipientes contam com tampas plásticas de vedação segura, permitindo preparar receitas, marinar carnes e conservar ingredientes diretamente na geladeira com máxima higiene.",
+    "veredito_resumo": "Sabe aquele pote de plástico que ficou laranja depois do molho de tomate e cheira a cebola mesmo depois de lavado? O conjunto de bowls de inox da Electrolux é a saída para isso. São três tigelas de aço inoxidável em tamanhos diferentes, cada uma com tampa plástica de encaixe, que servem para misturar, marinar, servir e guardar na geladeira. Encaixam uma dentro da outra no armário e duram muito mais que qualquer pote plástico.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -553,10 +554,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "O Conjunto de Tigelas e Bowls da Electrolux foi desenvolvido para resolver duas necessidades fundamentais da cozinha moderna: agilidade durante o preparo culinário e conservação higiênica de alimentos.",
-      "O grande diferencial do aço inoxidável é a sua superfície não porosa. Ao contrário de recipientes plásticos convencionais que acumulam gordura, desbotam e retêm cheiros fortes (como alho, cebola e temperos fortes), o inox preserva o sabor genuíno dos alimentos e é extremamente fácil de desengordurar.",
-      "Cada tigela é acompanhada por uma tampa plástica flexível com encaixe sob pressão, proporcionando uma vedação segura para armazenar sobras, saladas lavadas ou carnes marinando na geladeira sem ressecar e sem passar odores para o ambiente interno do refrigerador.",
-      "Outro ponto positivo é a ergonomia de armazenamento: os três bowls possuem tamanhos gradativos perfeitamente compatíveis, permitindo que sejam guardados um dentro do outro com as tampas sobrepostas, ocupando espaço mínimo em armários e gaveteiros."
+      "Toda cozinha tem aquela gaveta de potes plásticos manchados, com tampas que não encontram mais o par. O conjunto de bowls da Electrolux resolve dois problemas de uma vez: dá agilidade na hora de cozinhar e organiza o que vai para a geladeira.",
+      "O segredo está no material. O aço inoxidável não é poroso, então não absorve gordura, não mancha com molho de tomate ou açafrão e não guarda cheiro de alho, cebola ou peixe. Uma lavada simples e ele volta a parecer novo, e não altera o sabor do que você guarda nele.",
+      "Cada tigela vem com uma tampa plástica flexível que encaixa sob pressão. Isso permite deixar a carne marinando de um dia para o outro, guardar a salada já lavada ou as sobras do almoço sem precisar de plástico filme e sem espalhar cheiro dentro da geladeira.",
+      "Os três tamanhos são pensados para o dia a dia: o maior para bater um bolo ou misturar uma salada grande, o médio para temperar carne, o menor para separar ingredientes ou bater claras. E na hora de guardar, um entra dentro do outro e ocupa o espaço de um só no armário.",
+      "As tigelas podem ir à lava-louças. Para as tampas durarem mais, o ideal é lavar à mão ou na prateleira de cima da máquina.",
+      "Um último cuidado: por serem de metal, as tigelas não podem ir ao micro-ondas. Para esquentar, passe a comida para um prato ou recipiente próprio."
     ],
     "especificacoes": [
       {
@@ -566,10 +569,6 @@ window.PRODUTOS_INFORMATIVOS = [
       {
         "chave": "Modelo / Linha",
         "valor": "Conjunto de Bowls Inox com Tampa (A23282201)"
-      },
-      {
-        "chave": "Identificador / ASIN",
-        "valor": "B0C2ZNDWK6"
       },
       {
         "chave": "Material das Tigelas",
@@ -593,30 +592,30 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Material em aço inoxidável que não retém cheiros, não mancha com molhos e oferece alta durabilidade",
-      "Tampas plásticas com encaixe vedado que mantêm o frescor e dispensam o uso de plástico filme descartável",
-      "Três tamanhos funcionais para misturar massas, temperar carnes, bater claras ou servir saladas à mesa",
-      "Design empilhável inteligente: os três recipientes se encaixam perfeitamente para economizar espaço",
-      "Fácil higienização com acabamento liso e compatibilidade com lava-louças",
-      "Acabamento acetinado elegante com a confiabilidade e padrão de qualidade Electrolux"
+      "Inox que não mancha, não pega cheiro e não altera o sabor",
+      "Tampas de encaixe que dispensam o plástico filme",
+      "Três tamanhos para misturar, temperar, servir e guardar",
+      "Encaixam um dentro do outro e ocupam pouco espaço",
+      "Fáceis de lavar e podem ir à lava-louças",
+      "Marca Electrolux, com acabamento bonito para levar à mesa"
     ],
     "pontos_atencao": [
       "Não deve ser utilizado em forno micro-ondas por se tratar de recipiente metálico de aço inox",
       "Para maior durabilidade das tampas plásticas, recomenda-se lavá-las na prateleira superior da lava-louças ou manualmente"
     ],
-    "para_quem_e": "Cozinheiros domésticos, adeptos de marmitas e qualquer pessoa que busca praticidade, organização e higiene no preparo diário, substituindo potes plásticos por peças duráveis em inox.",
-    "para_quem_nao_e": "Pessoas que precisam de recipientes destinados exclusivamente ao aquecimento de alimentos no forno micro-ondas."
+    "para_quem_e": "Para quem cozinha em casa, faz marmita ou quer trocar os potes plásticos manchados por peças que duram anos.",
+    "para_quem_nao_e": "Para quem precisa de potes para esquentar comida direto no micro-ondas."
   },
   {
     "asin": "creatina-soldiers-nutrition-1kg",
     "id": "creatina-soldiers-nutrition-1kg",
     "titulo": "Creatina Monohidratada 100% Pura 1Kg - Soldiers Nutrition",
-    "subtitulo": "Análise completa: composição 100% creatina monohidratada, solubilidade, rendimento e onde comprar",
+    "subtitulo": "A creatina pura que rende meses de treino e some no copo sem mudar o gosto da bebida",
     "categoria": "Saúde & Nutrição",
     "imagem": "assets/produtos/creatina-soldiers-nutrition-1kg.jpg",
-    "data_revisao": "2026-10-03",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "4 min de leitura",
-    "veredito_resumo": "Uma das creatinas mais conhecidas do mercado brasileiro. Composta apenas por creatina monohidratada, sem aditivos, rende cerca de 200 doses de 5 g no pacote de 1 kg, o que coloca a Soldiers Nutrition entre as opções de melhor custo por dose.",
+    "veredito_resumo": "A creatina é um dos suplementos mais estudados do mundo, e a da Soldiers Nutrition é uma das mais conhecidas no Brasil por um motivo simples: é só creatina monohidratada, sem enchimento, sem açúcar e sem sabor artificial. O pacote de 1 kg rende cerca de 200 doses de 5 g, o que dá mais de seis meses de uso para uma pessoa. A marca divulga laudos de pureza dos lotes. Para quem treina e quer uma creatina pura com bom custo por dose, é uma escolha segura.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -638,10 +637,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "A Creatina Monohidratada da Soldiers Nutrition é uma das marcas mais populares de creatina no Brasil, bastante procurada por praticantes de musculação e de esportes de alta intensidade.",
-      "O suplemento é composto exclusivamente por creatina monohidratada de grau alimentício puro, sem qualquer adição de maltodextrina, corantes ou conservantes químicos. Cada porção de 5g entrega 5g de creatina ativa pura para saturação e manutenção muscular.",
-      "A marca informa divulgar laudos laboratoriais de controle de qualidade dos seus lotes. Antes de comprar, vale conferir o laudo mais recente no site do fabricante.",
-      "Além da musculação e dos esportes de explosão, estudos recentes investigam possíveis benefícios da creatina para outras áreas da saúde. Antes de começar a suplementação, converse com um nutricionista ou médico, principalmente se você tem alguma condição de saúde."
+      "Quem começa a treinar logo escuta falar de creatina, e com razão: é um dos suplementos com mais estudos científicos por trás, usado para ganho de força e desempenho em treinos intensos. O difícil é escolher no meio de tantas marcas. A Soldiers Nutrition ganhou espaço justamente por fazer o básico bem feito.",
+      "O pó é composto só de creatina monohidratada. Não tem maltodextrina, corante, conservante nem açúcar. Cada porção de 5 g entrega 5 g de creatina, sem enchimento. Ela também não contém glúten, lactose nem soja.",
+      "Como não tem sabor, você mistura na água, no suco ou no shake de proteína e nem percebe que está ali. A granulometria é fina, então ela dissolve com facilidade e não fica aquela areia no fundo do copo.",
+      "O pacote de 1 kg rende cerca de 200 doses de 5 g, ou uns 333 doses de 3 g. Na prática, é mais de meio ano de uso contínuo para uma pessoa, o que deixa o custo por dose bem baixo perto dos potes pequenos. O dosador já vem junto.",
+      "A marca informa que divulga laudos laboratoriais dos lotes. Vale conferir o laudo mais recente no site da Soldiers antes de comprar. E, como todo suplemento, o ideal é conversar com um nutricionista ou médico antes de começar, principalmente se você tem alguma condição de saúde.",
+      "Um último cuidado: a creatina pura puxa umidade do ar. Feche bem o pacote depois de cada uso e guarde em lugar seco, assim ela não empedra e dura até a última dose."
     ],
     "especificacoes": [
       {
@@ -678,29 +679,30 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Custo por dose extremamente econômico: o pacote de 1kg dura cerca de 6 a 7 meses em uso contínuo individual",
-      "Solubilidade rápida: dissolve facilmente em água, suco ou shake de proteínas sem ficar no fundo do copo",
-      "Laudos de pureza divulgados pela marca",
-      "Sabor 100% neutro, permitindo misturar em qualquer bebida sem alterar o paladar",
-      "Disponível na Amazon, no Mercado Livre e na Shopee"
+      "Só creatina monohidratada, sem enchimento nem açúcar",
+      "Rende cerca de 200 doses: mais de seis meses de uso",
+      "Sem sabor: some na água, no suco ou no shake",
+      "Dissolve fácil, sem areia no fundo do copo",
+      "Marca divulga laudos de pureza dos lotes",
+      "Sem glúten, sem lactose e sem soja"
     ],
     "pontos_atencao": [
       "Como é um pó fino e hidrofílico, mantenha a embalagem sempre bem fechada e em local seco para não empedrar com a umidade do ar",
       "Não possui saborizantes adicionais (para quem procura versões com sabor artificial como uva ou limão, esta é a versão pura)"
     ],
-    "para_quem_e": "Praticantes de musculação, crossfit e corrida que buscam uma creatina pura com bom custo por dose.",
-    "para_quem_nao_e": "Pessoas que preferem apresentações em cápsulas ou sachês individuais pré-fracionados para transporte em viagens."
+    "para_quem_e": "Para quem faz musculação, crossfit, corrida ou treinos intensos e quer uma creatina pura, com bom custo por dose.",
+    "para_quem_nao_e": "Para quem prefere cápsulas ou sachês individuais para levar em viagem."
   },
   {
     "asin": "creatina-dark-lab-1kg",
     "id": "creatina-dark-lab-1kg",
     "titulo": "Creatina Monohidratada 100% Pura 1Kg - Dark Lab",
-    "subtitulo": "Análise completa: creatina 100% monohidratada sem adição de carboidratos, rendimento e onde comprar",
+    "subtitulo": "Creatina pura em refil de 1 kg: rendimento, dissolução e o que conferir antes de comprar",
     "categoria": "Saúde & Nutrição",
     "imagem": "assets/produtos/creatina-dark-lab-1kg.jpg",
-    "data_revisao": "2026-10-03",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "4 min de leitura",
-    "veredito_resumo": "A Creatina Dark Lab 1kg é uma opção popular para quem busca creatina pura com bom rendimento. Composta por creatina monohidratada de textura fina e boa dissolução, entrega cerca de 200 porções de 5 g, com um custo por dose competitivo.",
+    "veredito_resumo": "A Dark Lab é uma marca brasileira que cresceu muito nos últimos anos, e a creatina é o carro-chefe dela. O refil de 1 kg traz creatina monohidratada pura, sem açúcar e sem sabor, com textura fina que dissolve fácil. São cerca de 200 doses de 5 g, mais de seis meses de uso. Para quem já tomou a decisão de suplementar e quer gastar menos por dose sem abrir mão de pureza, é uma das opções mais procuradas.",
     "links_compra": [
       {
         "loja": "Mercado Livre",
@@ -716,10 +718,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "A Dark Lab é uma fabricante brasileira de suplementos que ganhou bastante espaço nos últimos anos, principalmente com a linha de creatina.",
-      "Segundo a marca, a creatina passa por testes periódicos de pureza em laboratórios. Antes de comprar, vale conferir o laudo mais recente divulgado pelo fabricante.",
-      "Sua textura ultrafina permite que o pó se dissolva com facilidade em água ou bebidas geladas, minimizando resíduos no copo e facilitando a absorção pelo trato digestivo.",
-      "A versão em refil de 1kg foi pensada para o praticante regular que consome a dose de manutenção de forma contínua, proporcionando economia substancial frente aos potes tradicionais de 300g."
+      "Se você já toma creatina, sabe que o pote pequeno acaba rápido e a conta no fim do ano assusta. O refil de 1 kg da Dark Lab foi pensado para quem usa todo dia e quer economizar sem trocar por uma marca desconhecida.",
+      "A Dark Lab é uma fabricante brasileira de suplementos e ganhou espaço principalmente com a linha de creatina. O produto é 100% creatina monohidratada, sem açúcar, gordura, glúten ou lactose. Segundo a marca, os lotes passam por testes de pureza em laboratório, com resultado acima de 99%. Vale conferir o laudo mais recente no site da Dark Lab.",
+      "A textura é bem fina, então ela se mistura fácil na água, em suco gelado ou no shake de proteína, sem deixar resíduo no fundo do copo. Como não tem sabor, não muda o gosto de nada.",
+      "São cerca de 200 doses de 5 g, ou uns 333 doses de 3 g. Para uma pessoa, isso dá mais de seis meses de uso contínuo. Lembre que a creatina funciona por acúmulo: o efeito vem do uso diário, todos os dias, inclusive nos dias sem treino.",
+      "A embalagem é um refil flexível com fecho hermético. Muita gente prefere passar para um pote rígido para dosar no dia a dia com mais praticidade. E, como todo suplemento, converse com um nutricionista ou médico antes de começar.",
+      "Um último cuidado: mantenha o fecho bem fechado e o pacote longe da umidade. Creatina pura empedra quando pega umidade do ar."
     ],
     "especificacoes": [
       {
@@ -756,29 +760,29 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Excelente custo por grama em embalagem econômica de 1kg",
-      "Laudos de pureza divulgados pela marca",
-      "Boa solubilidade, integrando facilmente a sucos, shakes proteicos ou água",
-      "Sem sabor e sem conservantes, não altera o gosto das refeições",
-      "Disponível no Mercado Livre e na Shopee"
+      "Creatina monohidratada pura, sem açúcar e sem sabor",
+      "Refil de 1 kg com ótimo custo por dose",
+      "Marca divulga laudos de pureza acima de 99%",
+      "Textura fina que dissolve fácil em qualquer bebida",
+      "Sem glúten, sem lactose e sem gordura"
     ],
     "pontos_atencao": [
       "Embalagem no formato refil flexível; alguns usuários preferem transferir para um pote rígido para dosar no dia a dia",
       "Como toda creatina pura, exige ingestão diária ininterrupta para saturação muscular eficaz"
     ],
-    "para_quem_e": "Praticantes de musculação e de treinos de alta intensidade que buscam uma creatina pura com bom custo por dose.",
-    "para_quem_nao_e": "Quem busca suplementos com sabor artificial adicionado ou prefere tomar creatina exclusivamente em cápsulas."
+    "para_quem_e": "Para quem já usa ou quer começar a usar creatina todo dia e prefere comprar o tamanho econômico.",
+    "para_quem_nao_e": "Para quem prefere creatina com sabor ou em cápsulas."
   },
   {
     "asin": "lavadora-alta-pressao-wap-ousada-plus-2200",
     "id": "lavadora-alta-pressao-wap-ousada-plus-2200",
     "titulo": "Lavadora de Alta Pressão WAP Ousada Plus 2200 (1500W - 1750 PSI)",
-    "subtitulo": "Ficha técnica completa: motor de 1.500W, pressão de 1.750 PSI, sistema Stop Total e onde comprar",
+    "subtitulo": "A lavadora que tira o limo da calçada numa tarde e ainda gasta menos água que a mangueira",
     "categoria": "Casa & Eletro",
     "imagem": "assets/produtos/lavadora-alta-pressao-wap-ousada-plus-2200.jpg",
-    "data_revisao": "2026-10-03",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "5 min de leitura",
-    "veredito_resumo": "A WAP Ousada Plus 2200 é uma das lavadoras de alta pressão domésticas mais conhecidas do Brasil. Com motor de 1500W, pressão de 1750 PSI e vazão de 342 L/h, ela remove sujeiras incrustadas de calçadas, muros e veículos economizando até 80% de água em comparação com mangueiras de jardim comuns.",
+    "veredito_resumo": "Quem já passou um sábado inteiro esfregando o quintal com vassoura e balde vai entender o apelo da WAP Ousada Plus 2200. Com motor de 1500 W e pressão de 1750 PSI, ela arranca limo, barro e sujeira grudada de calçadas, muros e carros em uma fração do tempo. A WAP diz que ela economiza até 80% de água em relação a uma mangueira comum. É uma das lavadoras domésticas mais conhecidas do Brasil, com assistência técnica fácil de encontrar.",
     "links_compra": [
       {
         "loja": "Amazon",
@@ -800,10 +804,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "A WAP Ousada Plus 2200 foi desenvolvida sob medida para a limpeza residencial pesada e frequente, combinando dimensões compactas com alta eficiência mecânica.",
-      "Equipada com motor universal de 1.500W e protetor térmico contra sobreaquecimento, a bomba axial possui cabeçote de alumínio e pistões em aço inox, garantindo durabilidade superior em comparação a bombas totalmente plásticas.",
-      "O sistema Stop Total é um grande diferencial de comodidade e segurança: ao soltar o gatilho da lança, o fluxo de água e o motor são desligados automaticamente, evitando desgaste desnecessário do motor e poupando energia elétrica.",
-      "A lança com bico regulável permite alternar entre jato concentrado (para sujeiras pontuais difíceis, como limo em pedras) e jato leque (ideal para varreduras amplas em pisos, garagens e latarias de carros)."
+      "Tem sujeira que a mangueira simplesmente não tira. O limo escuro entre as pedras da calçada, o barro seco no pneu, a marca de chuva no muro. Com a WAP Ousada Plus 2200, aquele trabalho que levava a manhã inteira de esfregação vira meia hora de jato.",
+      "Ela tem motor de 1500 W com protetor térmico e pressão máxima de 1750 PSI, com vazão de 342 litros por hora. A bomba é axial, com cabeçote de alumínio e pistões de inox, mais resistente do que as bombas todas de plástico de modelos mais simples.",
+      "Um detalhe que faz diferença no uso é o sistema Stop Total. Quando você solta o gatilho, o motor e a água param na hora. Isso economiza energia, poupa o motor e deixa o trabalho mais seguro, porque você pode parar para mover um vaso ou mudar de lugar sem desligar a máquina.",
+      "O bico é regulável: em jato concentrado, ele tira a sujeira mais difícil de um ponto específico; em leque, cobre uma área maior, bom para piso de garagem e lataria de carro. Vem também com aplicador de detergente, engate rápido e pistola com trava de segurança. Cabo e mangueira ficam guardados na própria estrutura.",
+      "A WAP é uma marca brasileira com rede de assistência técnica em todo o país, e a garantia é de 1 ano. A mangueira tem 3 metros, o que atende bem quintais e carros, mas em veículos grandes você vai precisar mudar a lavadora de lugar algumas vezes.",
+      "Um último cuidado: ela não é bivolt. Existe versão 127V e versão 220V, então confira a voltagem do anúncio antes de comprar."
     ],
     "especificacoes": [
       {
@@ -848,30 +854,30 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Excelente pressão de 1.750 PSI, capaz de soltar sujeiras profundas de pisos e calçadas",
-      "Economia de água de até 80% comparada a uma mangueira de jardim tradicional",
-      "Cabeçote da bomba em alumínio, com resistência superior a cabeçotes plásticos simples",
-      "Sistema Stop Total aumenta a vida útil do motor e reduz o consumo de energia",
-      "Suporte integrado para enrolar cabo elétrico, guardar mangueira e bicos na própria estrutura",
-      "Ampla rede de assistência técnica autorizada WAP em todo o território nacional"
+      "1750 PSI que tira limo e barro que a mangueira não tira",
+      "Gasta até 80% menos água que uma mangueira comum, segundo a WAP",
+      "Stop Total: motor e água param ao soltar o gatilho",
+      "Bomba com cabeçote de alumínio e pistões de inox",
+      "Acessórios e cabo guardados na própria máquina",
+      "Assistência técnica WAP em todo o Brasil"
     ],
     "pontos_atencao": [
       "A mangueira inclusa possui 3 metros, o que atende bem áreas médias mas pode exigir mover o aparelho durante lavagens de veículos grandes",
       "Atenção à voltagem na hora da compra (disponível em versões 127V ou 220V, não é bivolt)"
     ],
-    "para_quem_e": "Proprietários de casas, garagens, quintais e proprietários de veículos que necessitam de limpeza rápida, potente e econômica sem esforço manual excessivo.",
-    "para_quem_nao_e": "Empresas de lavagem profissional contínua de 8 horas diárias, que exigem lavadoras com motor de indução profissional trifásico."
+    "para_quem_e": "Para quem tem casa com quintal, garagem ou calçada e quer limpar tudo e o carro com rapidez e sem esforço.",
+    "para_quem_nao_e": "Para lava-rápidos e uso profissional de muitas horas por dia, que pedem lavadoras com motor de indução."
   },
   {
     "asin": "ar-condicionado-lg-dual-inverter-voice-9000-btus",
     "id": "ar-condicionado-lg-dual-inverter-voice-9000-btus",
     "titulo": "Ar-Condicionado LG Dual Inverter +AI Voice 9.000 BTUs Frio 127V",
-    "subtitulo": "Análise técnica completa: compressor Dual Inverter duplo, economia de até 70% de energia, serpentina de cobre GoldFin e comando por voz via Wi-Fi",
+    "subtitulo": "Silêncio para dormir, conta de luz mais leve e o quarto gelado antes de você chegar em casa",
     "categoria": "Casa & Eletro",
     "imagem": "assets/produtos/ar-condicionado-lg-dual-inverter-voice-9000-btus.jpg",
-    "data_revisao": "2026-10-03",
+    "data_revisao": "2026-10-26",
     "tempo_leitura": "5 min de leitura",
-    "veredito_resumo": "O LG Dual Inverter Voice 9.000 BTUs é um dos modelos de ar-condicionado residencial mais procurados no Brasil. Combinando o compressor de duplo rotor para economia de até 70% de energia, refrigeração 40% mais rápida e nível de ruído a partir de 19 dB, segundo a fabricante, ele se integra ao ecossistema de casa inteligente com controle por voz pela Alexa e Google Assistente.",
+    "veredito_resumo": "Dormir bem no verão brasileiro muda o dia seguinte inteiro, e o LG Dual Inverter Voice 9.000 BTUs é um dos aparelhos mais procurados para isso. O compressor Dual Inverter mantém a temperatura sem o liga e desliga dos modelos antigos, o que segundo a LG economiza até 70% de energia. Ele é silencioso, a partir de 19 dB no modo sono, tem Wi-Fi para ligar pelo celular ou por voz com Alexa e Google Assistente, e serpentina de cobre com proteção contra corrosão. Para quartos de até 15 m² em tomada 127V, é uma escolha difícil de errar.",
     "links_compra": [
       {
         "loja": "Mercado Livre",
@@ -881,10 +887,12 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "visao_geral": [
-      "A linha LG Dual Inverter Voice redefine o conforto térmico residencial ao empregar um compressor de rotor duplo que estabiliza a temperatura sem os picos de consumo elétrico característicos dos aparelhos tradicionais liga-desliga.",
-      "Graças à sua tecnologia de inteligência artificial (+AI), o ar-condicionado monitora os hábitos dos ocupantes e a oscilação de temperatura externa para ajustar a curva de climatização ideal de forma autônoma, maximizando a eficiência sem desperdício.",
-      "O controle via aplicativo LG ThinQ (com conectividade Wi-Fi nativa) permite ligar e climatizar o quarto ou escritório antes de chegar em casa, além de possibilitar comandos de voz diretos em português através da Alexa e do Google Assistente.",
-      "Construído com serpentina 100% de cobre e revestimento protetor GoldFin, o trocador de calor é resistente à corrosão por maresia e intempéries, garantindo durabilidade estendida mesmo em regiões litorâneas e de alta umidade."
+      "Quem já tentou dormir numa noite de 30 graus com um ventilador empurrando ar quente sabe o quanto o calor rouba o sono. E quem já teve um ar-condicionado antigo sabe o outro lado: o barulho do compressor ligando e desligando e o susto na conta de luz no fim do mês. O LG Dual Inverter Voice foi feito para resolver as duas coisas.",
+      "O coração dele é o compressor Dual Inverter, de rotor duplo. Em vez de ligar no máximo, desligar e ligar de novo, ele ajusta a velocidade para manter a temperatura estável. Segundo a LG, isso economiza até 70% de energia e resfria 40% mais rápido. O aparelho tem selo Procel classe A.",
+      "E é silencioso de verdade: a LG informa ruído a partir de 19 dB no modo sono, menos que um sussurro. Para quarto de criança, home office ou quem tem sono leve, isso faz toda a diferença.",
+      "Com o Wi-Fi integrado e o aplicativo LG ThinQ, você liga o ar pelo celular quando sai do trabalho e chega com o quarto fresquinho. Também dá para comandar por voz, em português, com Alexa ou Google Assistente. O modo com inteligência artificial aprende seus hábitos e ajusta a climatização sozinho.",
+      "A serpentina é 100% de cobre com proteção GoldFin contra corrosão, o que ajuda quem mora no litoral ou em regiões úmidas. O compressor tem 10 anos de garantia da LG Brasil, e o aparelho tem 1 ano de garantia total. Para manter essa garantia, a instalação deve ser feita por técnico credenciado.",
+      "Um último cuidado: 9.000 BTUs atendem bem cômodos de até 12 a 15 m². Para salas maiores ou com muito sol, o ideal é um modelo de 12.000 BTUs. E confira no anúncio que a voltagem é 127V, a versão mais fácil de instalar em casas sem rede 220V."
     ],
     "especificacoes": [
       {
@@ -909,11 +917,11 @@ window.PRODUTOS_INFORMATIVOS = [
       },
       {
         "chave": "Eficiência Energética",
-        "valor": "Classificação A com selo Procel (economia de até 70% de energia)"
+        "valor": "Selo Procel classe A (até 70% de economia, segundo a LG)"
       },
       {
         "chave": "Gás Refrigerante",
-        "valor": "Ecológico R-32 (baixo impacto de aquecimento global e maior rendimento)"
+        "valor": "Confira no anúncio (a LG usa R-32 ou R-410A, conforme a série)"
       },
       {
         "chave": "Nível de Ruído",
@@ -929,7 +937,7 @@ window.PRODUTOS_INFORMATIVOS = [
       },
       {
         "chave": "Tensão / Voltagem",
-        "valor": "127V (versão rara e muito procurada para tomadas convencionais)"
+        "valor": "127V"
       },
       {
         "chave": "Garantia",
@@ -937,20 +945,19 @@ window.PRODUTOS_INFORMATIVOS = [
       }
     ],
     "pontos_fortes": [
-      "Economia drástica na conta de luz graças ao compressor Dual Inverter com selo Procel A",
-      "Operação silenciosa a partir de 19 dB, ideal para quartos de dormir e escritórios silenciosos",
-      "Conectividade Wi-Fi de fábrica para controle pelo smartphone ou comandos de voz (Alexa / Google)",
-      "Serpentina 100% em cobre com proteção GoldFin contra maresia e corrosão prematura",
-      "Gás R-32 moderno, mais eficiente termicamente e menos nocivo à camada de ozônio",
-      "Versão em 127V, ideal para imóveis e residências sem rede bifásica 220V",
-      "10 anos de garantia de fábrica no compressor assegurados pela LG Brasil"
+      "Compressor Dual Inverter: até 70% de economia de energia, segundo a LG",
+      "Silencioso, a partir de 19 dB no modo sono",
+      "Liga pelo celular ou por voz com Alexa e Google Assistente",
+      "Serpentina de cobre com proteção contra maresia e corrosão",
+      "10 anos de garantia no compressor pela LG Brasil",
+      "Versão 127V, mais fácil de instalar em casas sem 220V"
     ],
     "pontos_atencao": [
       "Requer instalação por técnico credenciado LG para preservação integral do período de garantia contratual",
       "Capacidade de 9.000 BTUs é voltada para cômodos de até 12 a 15 m² (para ambientes maiores, recomendamos 12.000 BTUs)"
     ],
-    "para_quem_e": "Pessoas que buscam climatizar quartos de até 12 a 15 m² com máxima economia na conta de luz, silêncio absoluto para dormir e controle inteligente por voz na comodidade do padrão 127V.",
-    "para_quem_nao_e": "Salas integradas ou cômodos grandes com mais de 20 m² com alta incidência solar, para os quais modelos de 12.000 ou 18.000 BTUs são mais indicados."
+    "para_quem_e": "Para quem quer dormir bem no calor, gastar menos de luz e climatizar quartos de até 15 m² com tomada 127V.",
+    "para_quem_nao_e": "Para salas grandes, integradas ou com muito sol, que pedem 12.000 BTUs ou mais."
   },
   {
     "asin": "B093MK3Z12",
