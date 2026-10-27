@@ -999,6 +999,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer sair da fritura no óleo sem complicação: casais e famílias de até quatro pessoas, quem vai comprar a primeira air fryer ou quem quer trocar um modelo pequeno por um cesto mais espaçoso.",
     "para_quem_nao_e": "Para quem cozinha para muita gente de uma vez (aí vale um modelo de 5 litros ou mais) ou para quem faz questão de tela digital e programas automáticos, que existem na versão AFN-40-DI."
+  },
+  {
+    "asin": "B0849PHXW1",
+    "id": "robo-aspirador-wap-robot-w100-bivolt",
+    "titulo": "Robô Aspirador de Pó WAP Robot W100 Bivolt (Preto, 3 em 1: Varre, Aspira e Passa Pano)",
+    "subtitulo": "Tudo o que você precisa saber antes de colocar para rodar o robô de entrada mais vendido do país",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/robo-aspirador-wap-robot-w100-bivolt.jpg",
+    "data_revisao": "2026-10-26",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Se você está cansado de ver tufos de poeira e pelos de pet reaparecerem no piso liso todo santo dia, o WAP Robot W100 é a porta de entrada mais prática e econômica para automatizar a manutenção da casa. Ele não tem mapeamento a laser, aplicativo nem volta sozinho para a tomada, mas cumpre muito bem o básico: com apenas 7,5 cm de altura, entra debaixo de camas box, sofás e racks onde a vassoura não chega, recolhendo a sujeira fina enquanto você cuida de outras tarefas.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0849PHXW1?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem tem cachorro ou gato em casa, ou mora em rua movimentada, conhece bem a frustração: você varre a casa pela manhã e, no fim da tarde, já tem tufos de pelos e poeira voando pelos cantos da sala. Tirar o aspirador grande do armário todo dia cansa, e é justamente para preencher essa lacuna de manutenção diária que o robô aspirador faz tanto sentido.",
+      "O grande trunfo do WAP Robot W100 está no formato compacto: são apenas 7,5 cm de altura. Essa medida reduzida permite que ele deslize facilmente por baixo de camas box, sofás, armários suspensos e racks — exatamente as áreas mais difíceis de limpar com vassoura e onde a sujeira mais se acumula sem que a gente perceba.",
+      "Operar o aparelho não poderia ser mais direto: você aperta um único botão no topo e ele começa a trabalhar. Nada de pareamento com Wi-Fi, cadastro em aplicativo ou configurações complicadas que travam. Ele alterna sozinho entre três padrões de navegação (linha reta/aleatório, cantos e movimentos em espiral), impulsionado por duas escovas laterais giratórias que varrem os detritos em direção ao bocal de sucção central.",
+      "Segundo a fabricante, a bateria de lítio de 1800 mAh oferece autonomia de até 1h40, tempo suficiente para cobrir apartamentos compactos ou vários cômodos pequenos. Em análises de uso prático como a do Canaltech, a recomendação de ouro para extrair a máxima eficiência do W100 é utilizá-lo de cômodo em cômodo, fechando as portas para que ele trabalhe focado naquele espaço antes de ir para o próximo. O nível de ruído é de 72 dB(A), segundo a WAP — perceptível, mas bem mais suave que o barulho estridente de um aspirador tradicional de alta potência.",
+      "Além de aspirar, o modelo acompanha um suporte com pano MOP em microfibra lavável para prender poeira fina residual em pisos frios e laminados. Para o robô trabalhar sem imprevistos, duas dicas práticas fazem toda a diferença: antes de ligar, recolha cabos de carregador, cadarços ou meias soltas pelo chão (que podem enroscar nas escovas giratórias); e após cada ciclo, retire o compartimento de 250 ml para esvaziar a sujeira e lave o filtro em água corrente quando necessário.",
+      "Um último cuidado antes de fechar a compra: o WAP Robot W100 vem acompanhado de fonte carregadora bivolt automático (100V a 240V, segundo a WAP), então pode ser ligado diretamente em tomadas 110V/127V ou 220V sem medo de queimar. Vale lembrar que ele é um modelo de entrada projetado para pisos lisos (cerâmica, porcelanato, madeira e laminados) e não deve ser usado sobre tapetes felpudos ou carpetes altos, nem possui base de recarga automática — ao final da bateria, basta conectá-lo manualmente à tomada."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "WAP Robot W100 (FW007429)"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto e Cinza"
+      },
+      {
+        "chave": "Funções",
+        "valor": "3 em 1: Varre, aspira e passa pano (MOP microfibra)"
+      },
+      {
+        "chave": "Bateria",
+        "valor": "Li-Ion 1800 mAh (12.8 VDC)"
+      },
+      {
+        "chave": "Autonomia",
+        "valor": "Até 1h40 de uso contínuo, segundo a WAP"
+      },
+      {
+        "chave": "Tempo de recarga",
+        "valor": "Até 5 horas"
+      },
+      {
+        "chave": "Tensão do carregador",
+        "valor": "Bivolt automático (100V - 240V, 50/60 Hz)"
+      },
+      {
+        "chave": "Capacidade do coletor",
+        "valor": "250 ml (com filtro lavável)"
+      },
+      {
+        "chave": "Nível de ruído",
+        "valor": "72 dB(A), segundo a WAP"
+      },
+      {
+        "chave": "Poder de vácuo",
+        "valor": "8 mbar, segundo a WAP"
+      },
+      {
+        "chave": "Modos de movimentação",
+        "valor": "3 modos automáticos: cantos, espiral e aleatório"
+      },
+      {
+        "chave": "Sensores",
+        "valor": "Sensor antiqueda infravermelho e para-choque de impacto amortecido"
+      },
+      {
+        "chave": "Dimensões (L x C x A)",
+        "valor": "27,5 x 27,5 x 7,5 cm"
+      },
+      {
+        "chave": "Peso líquido",
+        "valor": "1,4 kg"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "Robô aspirador W100, 2 escovas giratórias, 1 pano MOP microfibra, carregador bivolt e manual"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano, segundo a WAP"
+      }
+    ],
+    "pontos_fortes": [
+      "Perfil superslim com 7,5 cm de altura, alcançando com facilidade embaixo de sofás e camas box",
+      "Operação descomplicada em um único botão, sem necessidade de celular ou Wi-Fi",
+      "Duas escovas laterais que direcionam com eficiência a sujeira dos cantos para o bocal",
+      "Autonomia de até 1h40 de bateria contínua, segundo a WAP",
+      "Filtro e reservatório de 250 ml laváveis em água corrente, sem custo com sacos descartáveis",
+      "Acompanha pano MOP de microfibra lavável para auxiliar na retenção da poeira fina",
+      "Carregador bivolt automático (100V - 240V), compatível com qualquer tomada residencial"
+    ],
+    "pontos_atencao": [
+      "Não possui mapeamento virtual nem aplicativo para agendamento de horários",
+      "Não conta com base de recarga automática; precisa ser plugado na tomada manualmente pelo usuário",
+      "Não é indicado para carpetes espessos ou tapetes felpudos, onde as rodinhas podem travar",
+      "Compartimento de pó de 250 ml exige esvaziamento frequente, especialmente em casas com animais"
+    ],
+    "para_quem_e": "Para quem mora em casas ou apartamentos com piso liso, tem animais de estimação que soltam pelos ou quer manter a casa livre de poeira no dia a dia com o mínimo de esforço e sem gastar muito em um robô topo de linha.",
+    "para_quem_nao_e": "Para quem tem muitos tapetes grossos ou carpetes pela casa, busca mapeamento por cômodos via aplicativo de celular ou faz questão de um robô que retorne sozinho para uma base de recarga."
   }
 ];
 
