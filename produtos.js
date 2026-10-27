@@ -1109,6 +1109,108 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora em casas ou apartamentos com piso liso, tem animais de estimação que soltam pelos ou quer manter a casa livre de poeira no dia a dia com o mínimo de esforço e sem gastar muito em um robô topo de linha.",
     "para_quem_nao_e": "Para quem tem muitos tapetes grossos ou carpetes pela casa, busca mapeamento por cômodos via aplicativo de celular ou faz questão de um robô que retorne sozinho para uma base de recarga."
+  },
+  {
+    "asin": "B094X2N4HV",
+    "id": "aspirador-po-vertical-electrolux-stk15-1450w-cinza",
+    "titulo": "Aspirador de Pó Vertical com Fio Electrolux STK15 1450W 2 em 1 (Urban Grey, 127V)",
+    "subtitulo": "Alto poder de sucção com 1450 W, filtro HEPA e alcance de 6 metros para aposentar a vassoura sem depender de bateria",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-vertical-electrolux-stk15-1450w-cinza.jpg",
+    "data_revisao": "2026-10-27",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem quer aposentar a vassoura tradicional e manter o chão e os estofados impecáveis sem complicação, o Electrolux STK15 de 1450 W é uma das escolhas mais certeiras do mercado. Ele reúne alto poder de sucção contínuo, filtro HEPA lavável que ajuda muito quem tem rinite ou animais em casa, um generoso reservatório de 1,6 litro e um cabo de 6 metros que dá autonomia de verdade para limpar a casa inteira sem trocar de tomada a todo instante.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B094X2N4HV?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Varrer a casa com vassoura tradicional muitas vezes dá aquela sensação ingrata de apenas levantar poeira do chão para vê-la assentar de novo minutos depois em cima dos móveis. Se você tem animais que soltam pelos, crianças pequenas ou pessoas com sensibilidade respiratória na família, passar a vassoura e depois o pano vira um ritual cansativo que consome um tempo precioso da sua semana.",
+      "É aí que entra o Electrolux STK15 (PowerSpeed Ultra). Em vez de depender de bateria que pode descarregar no meio do serviço ou de aspiradores de trenó pesados que trancam nas quinas dos cômodos, ele combina o formato vertical leve com a força contínua de um motor de 1450 W com fio. Você pega o aparelho no armário, conecta na tomada e resolve farelos, poeira e pelos acumulados em poucas passadas.",
+      "No chão, a base conta com articulação 180° Easy Steer, deslizando com fluidez para contornar pernas de mesa, cadeiras e cantos difíceis sem exigir contorcionismos. Quando chega o momento de limpar almofadas de sofás, frestas de janelas ou os bancos do carro, a haste longa se desacopla em um clique: ele vira um aspirador de mão portátil com o bocal 2 em 1 UltraClean, alternando entre cerdas macias para superfícies delicadas e ponta fina para fendas estreitas.",
+      "Segundo a Electrolux, o reservatório sem saco tem capacidade total de 1,6 litro — um volume bem acima da média dos modelos verticais compactos —, o que evita interrupções constantes para descarte. Outro destaque essencial é o filtro HEPA Allergy Protect, projetado para reter ácaros, fungos e micropartículas alergênicas, devolvendo um ar mais limpo ao ambiente. Já o cabo elétrico de 6 metros proporciona um raio de ação de até 7 metros, permitindo cobrir cômodos inteiros de ponta a ponta sem ficar refém de extensões elétricas.",
+      "Na manutenção, a rotina é bastante prática: o compartimento de pó se abre por trava inferior direto na lixeira, sem contato com a sujeira, e tanto o copo quanto o filtro podem ser lavados em água corrente (sempre garantindo secagem completa antes da remontagem). Uma dica de uso real: em tapetes leves ou com fios soltos, devido à alta intensidade de sucção sem controle eletrônico de velocidade, incline o bocal em ângulo suave para que o fluxo de ar não puxe o tecido contra a base, mantendo o movimento contínuo sem travar.",
+      "Um último cuidado: este anúncio específico corresponde ao Electrolux STK15 na voltagem de 127V (na tonalidade Urban Grey). Como o aparelho não é bivolt, confira com atenção a tensão elétrica da sua residência antes de concluir o pedido para garantir o modelo adequado à sua rede."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Electrolux STK15 (PowerSpeed Ultra)"
+      },
+      {
+        "chave": "Tipo de aspirador",
+        "valor": "2 em 1 (vertical e portátil de mão) com fio"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1450 W"
+      },
+      {
+        "chave": "Tensão elétrica",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Urban Grey (Cinza)"
+      },
+      {
+        "chave": "Sistema de filtragem",
+        "valor": "Filtro HEPA Allergy Protect (lavável)"
+      },
+      {
+        "chave": "Capacidade do reservatório",
+        "valor": "1,6 litro (bagless, sem saco descartável)"
+      },
+      {
+        "chave": "Comprimento do cabo elétrico",
+        "valor": "6,0 metros (alcance total aproximado de 7 metros)"
+      },
+      {
+        "chave": "Bocal principal",
+        "valor": "Bocal para pisos com articulação 180° Easy Steer"
+      },
+      {
+        "chave": "Acessórios inclusos",
+        "valor": "Bocal de piso e Bocal UltraClean 2 em 1 (frestas e estofados com cerdas)"
+      },
+      {
+        "chave": "Dimensões do produto",
+        "valor": "108,6 x 25,5 x 17,1 cm (A x L x P)"
+      },
+      {
+        "chave": "Peso líquido",
+        "valor": "1,91 kg"
+      },
+      {
+        "chave": "Tecnologia de proteção",
+        "valor": "ThermoControl (proteção térmica com desligamento preventivo)"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano, segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 1450 W que oferece forte poder de sucção para poeira fina, pelos de animais e detritos pesados",
+      "Design versátil 2 em 1 que se transforma de aspirador vertical em portátil de mão com um único clique",
+      "Filtro HEPA Allergy Protect lavável, retendo ácaros e impurezas para um ar mais limpo no ambiente",
+      "Reservatório de pó generoso com 1,6 litro de capacidade, reduzindo paradas para esvaziamento",
+      "Cabo de energia de 6 metros com suporte integrado, garantindo ótimo raio de alcance sem trocar de tomada",
+      "Bocal com articulação 180° Easy Steer que contorna móveis e cantos com facilidade ergonômica",
+      "Sistema ThermoControl de segurança que protege o motor em caso de sobreaquecimento temporário"
+    ],
+    "pontos_atencao": [
+      "Não possui regulagem eletrônica de potência ou controle de fluxo de ar no cabo",
+      "Pode prender em tapetes muito leves ou de pelo alto se usado na vertical sem inclinação adequada",
+      "Por concentrar motor e reservatório perto da haste, o peso de 1,91 kg pode cansar em limpezas aéreas prolongadas",
+      "Não é bivolt: opera exclusivamente em 127V nesta versão, exigindo atenção na compra"
+    ],
+    "para_quem_e": "Para quem busca praticidade e força contínua para manter a casa limpa sem levantar poeira com vassoura, especialmente lares com pets ou pessoas com sensibilidade respiratória que se beneficiam do filtro HEPA.",
+    "para_quem_nao_e": "Para quem procura um aparelho totalmente silencioso, faz questão de modelos sem fio movidos a bateria recarregável ou tem a casa coberta por tapetes felpudos que demandam sucção suave regulável."
   }
 ];
 
