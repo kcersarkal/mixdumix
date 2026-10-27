@@ -1211,6 +1211,121 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca praticidade e força contínua para manter a casa limpa sem levantar poeira com vassoura, especialmente lares com pets ou pessoas com sensibilidade respiratória que se beneficiam do filtro HEPA.",
     "para_quem_nao_e": "Para quem procura um aparelho totalmente silencioso, faz questão de modelos sem fio movidos a bateria recarregável ou tem a casa coberta por tapetes felpudos que demandam sucção suave regulável."
+  },
+  {
+    "asin": "B0BZJDLT6Z",
+    "id": "air-fryer-forno-oven-mondial-12l-afon-12l-bi-110v",
+    "titulo": "Air Fryer Forno Oven Mondial 12L AFON-12L-BI (Preto/Inox, 2000W, 127V)",
+    "subtitulo": "Espaço generoso com 12 litros, visor transparente com luz interna e 2000 W para assar e dourar refeições inteiras para a família sem ligar o forno convencional",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/air-fryer-forno-oven-mondial-12l-afon-12l-bi-110v.jpg",
+    "data_revisao": "2026-10-27",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para famílias que já acham as air fryers convencionais pequenas ou para quem quer praticidade sem depender do forno a gás demorado, a Air Fryer Forno Oven Mondial 12L (AFON-12L-BI) é uma solução completa. Com 2000 W de potência contínua, porta de vidro com lâmpada interna para acompanhar o cozimento e múltiplos acessórios — incluindo cesto de 5 litros e duas assadeiras com antiaderente Duraflon —, ela entrega versatilidade para preparar frangos inteiros, pizzas, bolos e petiscos de uma só vez, com limpeza descomplicada e painel digital intuitivo.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem cozinha para a família reunida ou costuma receber amigos em casa sabe bem a limitação de uma air fryer tradicional de gaveta redonda: preparar petiscos ou o almoço em três ou quatro etapas significa que metade da mesa já terminou de comer enquanto o restante ainda aguarda a próxima porção sair. Além disso, tentar acomodar um frango inteiro, pizzas ou assar um bolo alto em gavetas compactas costuma resultar em alimentos amassados ou cozidos de forma desigual.",
+      "A proposta da Air Fryer Forno Oven Mondial 12L (modelo AFON-12L-BI) é justamente aposentar esse malabarismo. Ao unir a rapidez da circulação de ar superquente de uma fritadeira sem óleo com o volume e os andares de um forno elétrico de bancada, o aparelho oferece 12 litros de capacidade interna e motor de 2000 W de potência, permitindo assar, fritar, gratinar e reaquecer pratos volumosos em uma única rodada.",
+      "No uso diário, a praticidade salta aos olhos graças à porta frontal com visor transparente e luz interna acionável: você monitora o ponto de douramento da receita sem precisar abrir a porta e deixar o calor escapar. O painel digital conta com 10 funções predefinidas em apenas um toque — incluindo batata, frango, carne, peixe, camarão, pão de queijo, pizza, bolo, legumes e reaquecer —, simplificando o preparo até para quem tem pouca experiência na cozinha.",
+      "Segundo a Mondial, o modelo inclui um conjunto completo de acessórios: um cesto quadrado de 5 litros com puxador para sacudir batatas e nuggets, duas assadeiras perfuradas ideais para assar em níveis simultâneos, uma assadeira coletora de gordura para o fundo, livro de receitas e luva de silicone. Todos os acessórios internos contam com o revestimento antiaderente Duraflon, que evita que a comida grude e reduz drasticamente o trabalho na pia, já que não exige óleo nem gera respingos pela cozinha.",
+      "Uma dica de uso real para obter a melhor textura: ao usar as duas assadeiras ao mesmo tempo (como no preparo de duas fornadas de pão de queijo ou biscoitos), faça o rodízio invertendo a assadeira de cima com a de baixo na metade do tempo programado. Como a resistência de aquecimento fica no teto do aparelho, essa simples troca assegura que ambas as bandejas atinjam crocância e coloração perfeitamente homogêneas.",
+      "Um último cuidado: este anúncio específico refere-se ao modelo Mondial AFON-12L-BI na versão de 127V (110V), que utiliza plugue de tomada no padrão de 20A (com pinos de 4,8 mm mais grossos) em razão da potência de 2000 W. Como o aparelho não é bivolt, confira com atenção a voltagem e a compatibilidade da tomada da sua bancada antes de concluir o pedido para evitar o uso de adaptadores improvisados."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Mondial AFON-12L-BI"
+      },
+      {
+        "chave": "Tipo",
+        "valor": "Fritadeira Air Fryer Forno Oven 2 em 1"
+      },
+      {
+        "chave": "Capacidade total",
+        "valor": "12 litros"
+      },
+      {
+        "chave": "Capacidade do cesto",
+        "valor": "5 litros (com puxador)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "2000 W (versão 127V)"
+      },
+      {
+        "chave": "Tensão elétrica",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Padrão de tomada",
+        "valor": "20A (pino grosso de 4,8 mm)"
+      },
+      {
+        "chave": "Cor / Acabamento",
+        "valor": "Preto com painel frontal em Aço Inox"
+      },
+      {
+        "chave": "Painel de controle",
+        "valor": "Digital Touch com 10 funções predefinidas"
+      },
+      {
+        "chave": "Faixa de temperatura",
+        "valor": "Até 200 °C"
+      },
+      {
+        "chave": "Timer",
+        "valor": "Até 90 minutos com desligamento automático e aviso sonoro"
+      },
+      {
+        "chave": "Revestimento antiaderente",
+        "valor": "Duraflon (cesto e assadeiras)"
+      },
+      {
+        "chave": "Recursos visuais",
+        "valor": "Porta com amplo visor de vidro e iluminação interna"
+      },
+      {
+        "chave": "Dimensões do produto",
+        "valor": "39 cm x 32 cm x 36 cm (A x L x P)"
+      },
+      {
+        "chave": "Peso líquido",
+        "valor": "7,62 kg"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "1 Fritadeira Oven, 1 Cesto 5L, 2 Assadeiras, 1 Assadeira coletora, 1 Luva de silicone, Livro de receitas e manual"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Capacidade total generosa de 12 litros que permite preparar refeições completas para toda a família em uma só etapa",
+      "Potência de 2000 W que acelera o tempo de aquecimento e garante crocância rápida sem necessidade de pré-aquecimento longo",
+      "Visor amplo de vidro com iluminação interna acionável, permitindo acompanhar o ponto dos alimentos sem abrir a porta",
+      "Painel digital touch intuitivo com 10 receitas pré-programadas e função de reaquecimento",
+      "Acompanha cesto de 5 litros e duas assadeiras com antiaderente Duraflon, facilitando a limpeza do dia a dia",
+      "Timer estendido de 90 minutos com desligamento automático e alarme sonoro para maior tranquilidade",
+      "Assadeira coletora de resíduos na base que impede o acúmulo de gordura no fundo do aparelho"
+    ],
+    "pontos_atencao": [
+      "Exige tomada dedicada de 20A (pinos de 4,8 mm) devido aos 2000 W de potência nominal",
+      "As laterais e a parte superior externa esquentam consideravelmente durante o uso, exigindo respiro de bancada",
+      "O preparo em dois andares simultâneos exige inversão manual das assadeiras para dourar por igual",
+      "Aparelho robusto com 7,62 kg de peso e 39 cm de altura, demandando espaço fixo reservado na cozinha",
+      "Não é bivolt: esta versão opera exclusivamente em 127V (110V), exigindo confirmação na compra"
+    ],
+    "para_quem_e": "Para famílias ou quem adora cozinhar e receber em casa, buscando a rapidez e saúde da air fryer aliada ao amplo espaço e versatilidade de um forno elétrico com visor iluminado.",
+    "para_quem_nao_e": "Para quem mora sozinho e possui bancada de cozinha muito estreita sem espaço para eletrodomésticos de grande porte, ou quem procura modelos ultraleves e compactos de gaveta pequena."
   }
 ];
 
