@@ -1836,7 +1836,7 @@ function showView(view, id) {
    ========================================================================== */
 function getListaProdutosInformativos() {
   const list = window.PRODUTOS_INFORMATIVOS || window.PRODUCTS || [];
-  return list;
+  return list.slice().reverse();
 }
 
 function renderHome() {
