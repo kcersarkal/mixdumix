@@ -1326,6 +1326,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias ou quem adora cozinhar e receber em casa, buscando a rapidez e saúde da air fryer aliada ao amplo espaço e versatilidade de um forno elétrico com visor iluminado.",
     "para_quem_nao_e": "Para quem mora sozinho e possui bancada de cozinha muito estreita sem espaço para eletrodomésticos de grande porte, ou quem procura modelos ultraleves e compactos de gaveta pequena."
+  },
+  {
+    "asin": "B076MCNZX6",
+    "id": "chaleira-eletrica-mondial-ce-06-pratic-inox-2l-127v",
+    "titulo": "Chaleira Elétrica Mondial CE-06 Pratic Inox 2L (1200W, 127V)",
+    "subtitulo": "Água fervendo em poucos minutos sem ocupar boca de fogão, com jarra sem fio de 2 litros e desligamento automático para café, chá e receitas rápidas",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/chaleira-eletrica-mondial-ce-06-pratic-inox-2l-127v.jpg",
+    "data_revisao": "2026-10-28",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem quer agilizar o dia a dia na cozinha e não aguenta mais esperar a chaleira tradicional ferver no fogão, a Chaleira Elétrica Mondial CE-06 Pratic Inox de 2 Litros é uma escolha certeira e econômica. Com 1200 W de potência contínua na versão 127V, ela ferve água em poucos minutos, desliga sozinha assim que entra em ebulição e conta com jarra sem fio que pode ser levada direto à mesa para servir cafés, chás, chimarrão ou acelerar o cozimento de massas e legumes.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076MCNZX6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você provavelmente já passou por isso: colocar água para ferver na leiteira ou na chaleira tradicional de fogão, sentar para responder uma mensagem e, quando se dá conta, a água quase secou, a cozinha está cheia de vapor e uma das bocas do fogão ficou ocupada à toa. No meio da correria da manhã para passar o café ou na hora do almoço ao tentar acelerar a água do macarrão, cada minuto conta.",
+      "A Chaleira Elétrica Mondial Pratic Inox CE-06 entra justamente para resolver esse gargalo. Com capacidade ampla de 2 litros — acima da média de 1,7L da maioria das concorrentes de entrada —, o modelo ferve grandes volumes de água em poucos minutos utilizando uma resistência oculta eficiente de 1200 W de potência. E o melhor: sem que você precise vigiar o fogo.",
+      "No uso diário, a praticidade começa no abastecimento. A tampa tem botão de abertura automática 'abre-fácil' que levanta com um clique, facilitando o enchimento direto na torneira ou no filtro. Ao encaixar a jarra na base giratória de 360 graus e apertar o interruptor, a lâmpada-piloto vermelha acende. Assim que a água atinge os 100 °C, o sensor térmico desliga o circuito automaticamente com um clique sonoro discreto, evitando desperdício de energia e impedindo que o aparelho trabalhe a seco.",
+      "Segundo a Mondial, a jarra é totalmente livre de fios elétricos quando retirada da base, o que transforma o serviço em algo seguro e elegante: você leva os 2 litros de água fervente direto para a mesa de café da manhã, para a bancada do chimarrão ou para a pia sem tropeçar em cabos. A alça ergonômica é construída em polipropileno isotérmico de toque frio, garantindo firmeza mesmo quando o reservatório está cheio até a capacidade máxima.",
+      "Uma dica de uso real para manter a sua chaleira sempre rápida e com aspecto de nova: como a água encanada no Brasil possui minerais, é normal que com o tempo surjam pequenas manchas esbranquiçadas no fundo de aço inox. Em vez de esfregar com esponja de aço (o que risca o inox), ferva uma mistura com 500 ml de água e duas colheres de sopa de vinagre branco ou suco de limão a cada 15 ou 30 dias. O fundo volta a brilhar na hora, preservando a eficiência térmica da resistência.",
+      "Um último cuidado: este anúncio específico é da versão de 127V (110V) com potência de 1200 W, equipada com plugue padrão brasileiro de 10A (pinos normais de 4,0 mm), compatível com as tomadas comuns residenciais. Como a Mondial CE-06 não é bivolt e as paredes externas de aço inox esquentam durante a fervura, confira a voltagem da sua região na hora da compra e utilize sempre a alça isotérmica para manusear a jarra."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Mondial CE-06 Pratic Inox"
+      },
+      {
+        "chave": "Tipo",
+        "valor": "Chaleira Elétrica Portátil sem Fio"
+      },
+      {
+        "chave": "Capacidade total",
+        "valor": "2,0 litros"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1200 W (versão 127V)"
+      },
+      {
+        "chave": "Tensão elétrica",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Padrão de tomada",
+        "valor": "10A (pinos normais de 4,0 mm)"
+      },
+      {
+        "chave": "Cor / Acabamento",
+        "valor": "Preto com corpo em Aço Inox escovado"
+      },
+      {
+        "chave": "Material da jarra",
+        "valor": "Aço Inoxidável e Polipropileno (PP)"
+      },
+      {
+        "chave": "Base de aquecimento",
+        "valor": "Giratória 360° com porta-fio embutido"
+      },
+      {
+        "chave": "Sistema de acionamento",
+        "valor": "Interruptor com desligamento automático na fervura"
+      },
+      {
+        "chave": "Tampa",
+        "valor": "Abertura automática por botão (abre-fácil)"
+      },
+      {
+        "chave": "Alça",
+        "valor": "Isotérmica com toque frio (não esquenta)"
+      },
+      {
+        "chave": "Indicador luminoso",
+        "valor": "Lâmpada-piloto integrada"
+      },
+      {
+        "chave": "Dimensões do produto",
+        "valor": "23 cm x 22 cm x 15,2 cm (A x L x P)"
+      },
+      {
+        "chave": "Peso líquido",
+        "valor": "0,75 kg"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "1 Chaleira Elétrica, 1 Base de aquecimento 360°, Manual de instruções"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Capacidade generosa de 2 litros que atende famílias grandes e ferve água suficiente para garrafas térmicas inteiras de uma só vez",
+      "Desligamento automático inteligente ao atingir a fervura, oferecendo segurança contra esquecimentos e economia de energia",
+      "Jarra sem fio que desacopla totalmente da base giratória 360°, facilitando servir à mesa ou no cantinho do café",
+      "Alça isotérmica com toque frio que não aquece durante o uso, permitindo manuseio firme e seguro",
+      "Botão de abertura automática da tampa com acionamento suave para abastecimento rápido",
+      "Plugue padrão residencial de 10A que não necessita de tomadas especiais nem adaptadores",
+      "Acabamento durável em aço inoxidável escovado que combina com qualquer estilo de cozinha"
+    ],
+    "pontos_atencao": [
+      "As paredes externas em aço inox esquentam bastante durante a fervura, exigindo segurar exclusivamente pela alça plástica",
+      "Não possui controle fino de temperatura para chás especiais ou chimarrão (aquece sempre até a fervura a 100 °C)",
+      "Não é bivolt: esta versão opera exclusivamente em 127V, exigindo confirmação da voltagem na compra",
+      "Cabo de alimentação de 50 cm exige posicionamento próximo a uma tomada na bancada"
+    ],
+    "para_quem_e": "Para quem quer agilidade no dia a dia para preparar café, chá, chimarrão ou acelerar o cozimento de massas e legumes sem gastar gás e sem precisar vigiar a chaleira no fogão.",
+    "para_quem_nao_e": "Para quem busca controle de temperatura com termostato regulável grau a grau para infusões gourmet delicadas ou para quem necessita de acabamento térmico de parede dupla que não esquente externamente."
   }
 ];
 
