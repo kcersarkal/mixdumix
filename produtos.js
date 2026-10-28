@@ -1440,6 +1440,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer agilidade no dia a dia para preparar café, chá, chimarrão ou acelerar o cozimento de massas e legumes sem gastar gás e sem precisar vigiar a chaleira no fogão.",
     "para_quem_nao_e": "Para quem busca controle de temperatura com termostato regulável grau a grau para infusões gourmet delicadas ou para quem necessita de acabamento térmico de parede dupla que não esquente externamente."
+  },
+  {
+    "asin": "B09B15RDJ6",
+    "id": "ventilador-mondial-super-power-vsp-40-b-40cm-110v",
+    "titulo": "Ventilador de Mesa Mondial Super Power 40cm VSP-40-B (Preto/Prata, 140W, 110V)",
+    "subtitulo": "Vento forte com 6 pás aerodinâmicas e 140W de potência, oscilação contínua e baixo ruído para refrescar noites quentes sem atrapalhar o sono",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/ventilador-mondial-super-power-vsp-40-b-40cm-110v.jpg",
+    "data_revisao": "2026-10-28",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem quer fugir do calor sufocante e procura um ventilador potente, resistente e silencioso para o quarto ou para a sala, o Ventilador de Mesa Mondial Super Power VSP-40-B de 40 cm é a escolha mais equilibrada e popular do mercado nacional. Equipado com 140 W de potência, hélice de 6 pás de desenho aerodinâmico e sistema oscilante horizontal, ele promove uma circulação de ar vigorosa em ambientes médios e grandes sem transformar a casa em uma turbina barulhenta, além de trazer grade frontal de encaixe fácil para você nunca mais sofrer na hora de tirar o pó.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09B15RDJ6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Todo mundo conhece a sensação incômoda de tentar relaxar ou pegar no sono em uma daquelas noites abafadas de verão em que o ar parece simplesmente parado dentro do quarto. Você rola de um lado para o outro na cama, abre a janela torcendo por uma brisa que nunca vem e, quando liga um ventilador antigo e barulhento, acaba tendo que escolher entre passar calor ou aguentar zumbidos e trepidações a noite inteira.",
+      "O Mondial Super Power VSP-40-B surge exatamente para resolver essa equação entre força de vento e conforto acústico. Com 40 centímetros de diâmetro e um conjunto de hélice com 6 pás de desenho aerodinâmico, o aparelho consegue deslocar uma quantidade expressiva de ar mesmo nas velocidades intermediárias. Seus 140 W de potência contínua garantem vazão suficiente para refrescar cômodos inteiros rapidamente, sem exigir que você fique grudado na frente da grade.",
+      "No dia a dia, a versatilidade de ajustes faz toda a diferença na rotina da casa. O seletor frontal oferece 3 velocidades bem calibradas: a velocidade 1 (Silencioso) é perfeita para embalar o sono ou manter o home office agradável com fluxo constante e baixo ruído; a velocidade 2 (Conforto) atende muito bem tardes mornas de descanso na sala; e a velocidade 3 (Turbo) é o alívio imediato para quando você entra em um ambiente abafado que pegou sol o dia todo. O botão traseiro aciona a oscilação contínua de amplo ângulo horizontal para espalhar o vento por todo o cômodo, enquanto a inclinação vertical regulável permite direcionar o fluxo tanto para a altura da cama quanto para cima ou para o chão.",
+      "Segundo a Mondial, a linha Super Power foi projetada para entregar eficiência energética com classificação A de consumo nos testes do Inmetro, o que significa que você pode deixá-lo ligado durante várias horas nas noites quentes sem sustos na conta de luz no fim do mês. Com peso de aproximadamente 2,45 kg e alça traseira anatômica embutida na estrutura, o ventilador é leve o bastante para ser transportado com uma única mão do quarto para a sala ou para a cozinha, mantendo estabilidade firme na mesa ou no chão graças à base antiderrapante reforçada.",
+      "Uma dica de uso real para quem quer manter o vento sempre forte e o ar limpo: ao longo das semanas, a poeira suspensa no ar se acumula nas bordas das pás e na grade, reduzindo a vazão e espalhando alérgenos pelo quarto. A grande vantagem do Mondial VSP-40-B é que sua grade frontal conta com travas de encaixe rápido que dispensam chaves de fenda para desmontar. Basta soltar os cliques laterais a cada 20 ou 30 dias, puxar a grade e higienizar a hélice com um pano úmido e sabão neutro. Em menos de três minutos o ventilador volta a ventilar com 100% de rendimento.",
+      "Um último cuidado: este modelo VSP-40-B opera exclusivamente em 110V (127V) com potência de 140 W e plugue de tomada de dois pinos normais de 10A, não sendo um aparelho bivolt. Na página do anúncio, certifique-se de escolher a voltagem de 110V ou 220V de acordo com as tomadas da sua residência antes de concluir o pedido, e aproveite para posicionar o aparelho sobre uma superfície plana e desobstruída para garantir a máxima circulação de ar."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Mondial Super Power VSP-40-B"
+      },
+      {
+        "chave": "Tipo de ventilador",
+        "valor": "Ventilador de Mesa"
+      },
+      {
+        "chave": "Diâmetro da hélice",
+        "valor": "40 cm"
+      },
+      {
+        "chave": "Quantidade de pás",
+        "valor": "6 pás aerodinâmicas"
+      },
+      {
+        "chave": "Potência",
+        "valor": "140 W"
+      },
+      {
+        "chave": "Tensão elétrica",
+        "valor": "110V / 127V (não é bivolt)"
+      },
+      {
+        "chave": "Níveis de velocidade",
+        "valor": "3 velocidades (Silencioso, Conforto, Turbo)"
+      },
+      {
+        "chave": "Sistema oscilante",
+        "valor": "Sim (oscilação horizontal contínua)"
+      },
+      {
+        "chave": "Inclinação vertical",
+        "valor": "Regulável"
+      },
+      {
+        "chave": "Padrão de tomada",
+        "valor": "10A (2 pinos cilíndricos padrão ABNT)"
+      },
+      {
+        "chave": "Cor / Acabamento",
+        "valor": "Preto com detalhe prata na grade frontal"
+      },
+      {
+        "chave": "Dimensões do produto",
+        "valor": "62,5 cm x 45,0 cm x 32,0 cm (A x L x P)"
+      },
+      {
+        "chave": "Peso líquido",
+        "valor": "2,45 kg"
+      },
+      {
+        "chave": "Grade frontal",
+        "valor": "Removível com travas de clique para limpeza rápida"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "1 Ventilador de Mesa Mondial VSP-40-B, Manual de instruções"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Hélice de 40 cm com 6 pás e motor de 140 W que proporcionam fluxo de ar potente para refrescar cômodos médios e grandes",
+      "Três velocidades bem dosadas com operação silenciosa na velocidade mínima, ideal para noites de sono sem barulho incômodo",
+      "Oscilação horizontal contínua com ampla amplitude para renovar e refrescar o ar em toda a extensão do ambiente",
+      "Inclinação vertical regulável que permite direcionar o vento exatamente na altura da cama, da mesa ou do sofá",
+      "Grade frontal removível com travas de clique que dispensa ferramentas e torna a limpeza das pás rápida e sem esforço",
+      "Classificação de baixo consumo energético que permite uso prolongado sem impactar a conta de luz no final do mês",
+      "Alça traseira integrada e peso leve de 2,45 kg que facilitam o transporte diário entre o quarto, a sala e o escritório"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt: opera exclusivamente em 110V (127V), exigindo conferir a voltagem correta da sua região no anúncio",
+      "Corpo inteiramente em polipropileno plástico que requer cuidado contra quedas e impactos diretos durante a movimentação",
+      "Na velocidade máxima (Turbo), o fluxo de ar vigoroso gera um nível perceptível de ruído de vento, natural para ventiladores de 140W",
+      "Cabo de alimentação de comprimento padrão residencial que pode demandar extensão caso a tomada fique distante da mesa"
+    ],
+    "para_quem_e": "Para quem quer fugir do calor com um ventilador de mesa forte, silencioso para dormir e fácil de limpar, perfeito para quartos, salas e escritórios com excelente relação de custo e eficiência.",
+    "para_quem_nao_e": "Para quem necessita de um modelo de coluna com haste telescópica de altura ajustável ou para quem busca climatização ativa com controle remoto e timer digital programável."
   }
 ];
 
