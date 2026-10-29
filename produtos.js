@@ -1550,6 +1550,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer fugir do calor com um ventilador de mesa forte, silencioso para dormir e fácil de limpar, perfeito para quartos, salas e escritórios com excelente relação de custo e eficiência.",
     "para_quem_nao_e": "Para quem necessita de um modelo de coluna com haste telescópica de altura ajustável ou para quem busca climatização ativa com controle remoto e timer digital programável."
+  },
+  {
+    "asin": "B076FDKSV6",
+    "id": "sanduicheira-mondial-fast-grill-sandwich-s-12-110v",
+    "titulo": "Sanduicheira e Grill Mondial Fast Grill & Sandwich S-12 (Preto, 750W, 110V)",
+    "subtitulo": "Misto-quente crocante e queijo derretido por igual em poucos minutos, com 750W de aquecimento rápido e chapas duplas antiaderentes fáceis de limpar",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/sanduicheira-mondial-fast-grill-sandwich-s-12-110v.jpg",
+    "data_revisao": "2026-10-29",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "Para quem busca praticidade no café da manhã ou no lanche da tarde sem ter que ligar o fogão ou sujar frigideiras, a Sanduicheira e Grill Mondial Fast Grill & Sandwich S-12 é uma das opções mais consagradas e eficientes das cozinhas brasileiras. Com 750W de potência distribuídos em chapas duplas onduladas com revestimento antiaderente, ela tosta o pão por fora e derrete o queijo por dentro de forma homogênea em cerca de três minutos, além de funcionar como um pequeno grill de bancada para preparar filés finos de frango, hambúrgueres e legumes com alça fria de segurança.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076FDKSV6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Na correria das primeiras horas da manhã ou no cansaço do final do dia, a última coisa que você quer é perder tempo diante da chama do fogão virando pão na frigideira, correndo o risco de queimar a casca por fora enquanto o miolo e o queijo continuam gelados por dentro. Depois vem a parte ainda mais desanimadora: a pia cheia de gordura e mais uma panela engordurada para lavar antes de sair de casa.",
+      "A Mondial Fast Grill & Sandwich S-12 resolve esse dilema com um desenho compacto e funcional pensado para descomplicar a rotina. O grande trunfo do modelo é o sistema 2 em 1: além de funcionar como sanduicheira para tostar dois lanches de forma simultânea, as suas chapas duplas onduladas operam como um minigrill de contato. Isso permite grelhar fatias de queijo coalho, dourar legumes fatiados e selar proteínas finas como filés de frango ou tiras de carne sem precisar acender o forno ou engordurar o fogão.",
+      "No uso diário, a operação é bastante direta e intuitiva. Basta conectar o plugue na tomada para que a resistência interna comece a agir de imediato. O painel frontal traz duas lâmpadas piloto: a luz vermelha acende para avisar que o circuito está energizado, e a luz verde ilumina assim que as placas atingem o ponto térmico ideal de tostagem. Você coloca o pão recheado, abaixa a tampa superior e trava o fecho frontal na alça isotérmica, que permanece fria ao toque para você pressionar o lanche sem qualquer perigo de queimar os dedos.",
+      "Segundo a Mondial, a sanduicheira entrega 750W de potência contínua aliada a um controle automático de temperatura que liga e desliga as resistências internas de acordo com a necessidade. Na prática, esse aquecimento equilibrado garante que as duas faces do pão fiquem douradas e crocantes na mesma intensidade, sem criar pontos queimados. Com peso de cerca de 1 kg e formato compacto medindo pouco mais de 23 centímetros de largura, ela cabe em qualquer canto da bancada e pode ser guardada em pé no armário para não ocupar espaço útil na cozinha.",
+      "Uma dica de uso real para prolongar a vida útil do revestimento antiaderente: antes de ligar o aparelho pela primeira vez, faça a cura das placas passando um fio de azeite com papel-toalha e aquecendo por dois minutos. No dia a dia, evite usar garfos ou facas metálicas para retirar os lanches, preferindo espátulas de silicone ou madeira. Na hora da higienização, espere o aparelho amornar e passe um papel-toalha levemente umedecido ou esponja macia; como as chapas são fixas, nunca mergulhe o corpo do aparelho em água corrente.",
+      "Um último cuidado: este modelo S-12 opera exclusivamente na tensão de 110V (127V) com potência de 750W e plugue padrão brasileiro de 10A, não se tratando de um produto bivolt. Antes de fechar a compra, confirme na página do anúncio se a voltagem selecionada corresponde à rede elétrica da sua casa e, como o aparelho não possui interruptor manual de liga/desliga, lembre-se de retirá-lo da tomada assim que terminar de preparar os seus alimentos."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Mondial Fast Grill & Sandwich S-12"
+      },
+      {
+        "chave": "Tipo de produto",
+        "valor": "Sanduicheira e Minigrill 2 em 1"
+      },
+      {
+        "chave": "Potência",
+        "valor": "750 W"
+      },
+      {
+        "chave": "Tensão elétrica",
+        "valor": "110V / 127V (não é bivolt)"
+      },
+      {
+        "chave": "Consumo aproximado",
+        "valor": "0,75 kWh"
+      },
+      {
+        "chave": "Tipo de chapas",
+        "valor": "Chapas duplas onduladas com revestimento antiaderente"
+      },
+      {
+        "chave": "Capacidade de preparo",
+        "valor": "Até 2 sanduíches simultâneos ou grelhados variados"
+      },
+      {
+        "chave": "Alça",
+        "valor": "Isotérmica (toque frio) com trava de fechamento frontal"
+      },
+      {
+        "chave": "Luzes indicadoras",
+        "valor": "Sim (piloto vermelha: ligado; piloto verde: aquecimento pronto)"
+      },
+      {
+        "chave": "Controle de temperatura",
+        "valor": "Automático por termostato interno"
+      },
+      {
+        "chave": "Padrão de tomada",
+        "valor": "10A (padrão brasileiro ABNT)"
+      },
+      {
+        "chave": "Comprimento do cabo",
+        "valor": "1,50 m, segundo a Mondial"
+      },
+      {
+        "chave": "Material da estrutura",
+        "valor": "Polipropileno (PP) de alta resistência térmica"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto"
+      },
+      {
+        "chave": "Dimensões aproximadas",
+        "valor": "8,0 cm x 23,0 cm x 23,0 cm (A x L x P)"
+      },
+      {
+        "chave": "Peso líquido",
+        "valor": "Aprox. 1,0 kg"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "1 Sanduicheira e Grill Mondial S-12, Manual de instruções"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 750W com aquecimento rápido que tosta sanduíches em poucos minutos sem exigir pré-aquecimento demorado",
+      "Chapas duplas onduladas que funcionam tanto para prensar pães quanto para grelhar vegetais, carnes finas e queijos",
+      "Revestimento antiaderente nas duas superfícies que impede que o queijo grude e facilita a higienização diária",
+      "Lâmpadas piloto intuitivas que mostram claramente quando o aparelho está ligado e quando atingiu a temperatura de tostagem",
+      "Alça isotérmica com trava de pressão que mantém o calor retido e protege as mãos contra aquecimento durante o uso",
+      "Corpo leve de apenas 1 kg e estrutura compacta que pode ser guardada na vertical para economizar espaço nos armários",
+      "Cabo de alimentação de 1,50 m que oferece excelente alcance até a tomada da bancada da cozinha"
+    ],
+    "pontos_atencao": [
+      "Chapas de aquecimento não removíveis, exigindo limpeza cuidadosa com papel-toalha ou pano úmido sem molhar o aparelho",
+      "Não possui chave física liga/desliga, iniciando o aquecimento diretamente ao conectar o plugue na tomada",
+      "Aparelho monoposto de 110V (127V), não sendo bivolt: confira a voltagem correta da sua região no anúncio",
+      "Trava de fechamento plástica que requer pressão moderada em sanduíches muito altos para evitar esforço excessivo na peça"
+    ],
+    "para_quem_e": "Para quem quer preparar mistos-quentes crocantes, lanches rápidos e pequenas porções grelhadas no dia a dia com praticidade, rapidez e sem ocupar espaço na bancada.",
+    "para_quem_nao_e": "Para quem precisa de um grill de grande porte para alimentar muitas pessoas de uma só vez ou busca chapas totalmente removíveis para lavagem na pia."
   }
 ];
 
