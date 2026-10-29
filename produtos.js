@@ -1669,6 +1669,117 @@ window.PRODUTOS_INFORMATIVOS = [
     "para_quem_e": "Para quem quer preparar mistos-quentes crocantes, lanches rápidos e pequenas porções grelhadas no dia a dia com praticidade, rapidez e sem ocupar espaço na bancada.",
     "para_quem_nao_e": "Para quem precisa de um grill de grande porte para alimentar muitas pessoas de uma só vez ou busca chapas totalmente removíveis para lavagem na pia."
   }
+,
+  {
+    "asin": "B076HYKFL7",
+    "id": "panela-de-pressao-eletrica-electrolux-pcc20-6l-127v",
+    "titulo": "Panela de Pressão Elétrica Electrolux por Rita Lobo 6L Preta Experience Digital (PCC20) 127V",
+    "subtitulo": "Cozinhe feijão, carnes e ensopados com tranquilidade total, 10 travas de segurança e a capacidade de 6 litros que atende a família inteira",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/panela-de-pressao-eletrica-electrolux-pcc20-6l-127v.jpg",
+    "data_revisao": "2026-10-29",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Electrolux PCC20 de 6 litros é a escolha ideal para quem quer eliminar o medo da panela de pressão tradicional e ganhar praticidade real na cozinha. Com 15 programas automáticos, 10 dispositivos de segurança e funcionamento muito silencioso, ela entrega receitas no ponto certo sem exigir vigilância contínua na beira do fogão.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076HYKFL7?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele receio clássico de usar panela de pressão tradicional no fogão, com a válvula chiando sem parar e aquele medo constante de acidentes? Preparar carnes macias, feijão fresco ou caldos encorpados é essencial no almoço de muitas famílias brasileiras, mas ficar vigiando a chama do fogão e cronometrando o tempo no relógio torna a rotina na cozinha mais desgastante do que deveria ser.",
+      "A Panela de Pressão Elétrica Electrolux Experience PCC20, desenvolvida em parceria com a chef Rita Lobo, foi concebida justamente para transformar esse momento em pura tranquilidade e praticidade. Com capacidade ampla de 6 litros e potência de 1000W, o aparelho cuida de todo o processo de cozimento de forma automatizada e notavelmente silenciosa: você adiciona os ingredientes, seleciona a programação desejada no painel digital e pode cuidar de outras tarefas pela casa sem nenhuma preocupação.",
+      "No dia a dia, o painel digital intuitivo reúne 15 modos e receitas pré-programadas com tempos calibrados para preparos cotidianos, incluindo arroz, mandioca, sopa, carne e legumes ao vapor. Além disso, os 3 níveis de intensidade de pressão (baixo, médio e alto) permitem escolher o ponto exato da receita, seja para amaciar rapidamente um corte mais fibroso de carne ou cozinhar legumes no ponto ideal sem desmanchar. Ao terminar o preparo, o equipamento entra sozinho no modo de manter aquecido, assegurando comida quente na mesa na hora que você for servir.",
+      "No quesito segurança, que costuma ser a principal exigência de quem busca esse tipo de eletroportátil, o projeto da Electrolux oferece máxima robustez. Segundo a fabricante e testes de portais especializados como o Escolha Segura e Harpyja, a PCC20 incorpora 10 dispositivos de proteção integrados. Isso significa que a tampa conta com travamento mecânico e eletrônico que bloqueia a abertura enquanto houver pressão interna, somado a sensores térmicos contra sobreaquecimento e alívio seguro e controlado de vapor.",
+      "Para a manutenção e limpeza após as refeições, a cuba interna antiaderente é totalmente removível, facilitando a lavagem rápida na pia sem que os alimentos grudem no fundo. Uma recomendação prática para manter a durabilidade do revestimento por longos anos é utilizar a colher plástica inclusa ou utensílios de silicone, além de higienizar a borracha de vedação da tampa após cada ciclo para preservar o isolamento hermético. O cabo elétrico destacável ainda confere a comodidade de levar a panela diretamente à bancada ou mesa de jantar para servir os pratos.",
+      "Um último cuidado: esta panela não é bivolt e opera na tensão de 127V com potência de 1000W (plugue padrão brasileiro de 3 pinos). Ao finalizar seu pedido, confirme se a versão selecionada no anúncio da Amazon confere exatamente com a voltagem das tomadas da sua cozinha para garantir o funcionamento seguro e duradouro do eletroportátil."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Experience Digital PCC20 (Linha Rita Lobo)"
+      },
+      {
+        "chave": "Capacidade",
+        "valor": "6 Litros"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1000 W"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "127V (Monovolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "50-60 Hz"
+      },
+      {
+        "chave": "Painel",
+        "valor": "Display digital LED com 15 funções pré-programadas"
+      },
+      {
+        "chave": "Níveis de Pressão",
+        "valor": "3 intensidades (Baixo, Médio e Alto)"
+      },
+      {
+        "chave": "Segurança",
+        "valor": "10 dispositivos de segurança integrados com travamento automático"
+      },
+      {
+        "chave": "Cuba Interna",
+        "valor": "Antiaderente e removível para fácil higienização"
+      },
+      {
+        "chave": "Acabamento",
+        "valor": "Aço inoxidável escovado preto com proteção contra marcas de dedo"
+      },
+      {
+        "chave": "Recursos Extras",
+        "valor": "Programar Preparo (timer até 24h), Cozimento Lento, Manter Aquecido e cabo elétrico removível"
+      },
+      {
+        "chave": "Dimensões (A x L x P)",
+        "valor": "32 cm x 30,5 cm x 31 cm"
+      },
+      {
+        "chave": "Peso",
+        "valor": "5,0 kg"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "1 Panela de Pressão Elétrica Electrolux PCC20, 1 Cuba antiaderente, 1 Copo dosador, 1 Concha plástica, Cabo de energia e Manual de instruções"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Capacidade ampla de 6 litros que prepara refeições fartas para toda a família ou marmitas para a semana inteira de uma só vez",
+      "Conjunto completo com 10 dispositivos de segurança que eliminam o receio clássico do uso de panela de pressão",
+      "Painel digital com 15 programas predefinidos que ajustam tempo e calor automaticamente ao toque de um botão",
+      "3 níveis de pressão selecionáveis que garantem o ponto perfeito desde legumes delicados até cortes duros de carne",
+      "Funcionamento extremamente silencioso e sem liberação constante de vapor ou odores pela cozinha",
+      "Cuba interna antiaderente removível que não deixa os alimentos grudarem e facilita a lavagem na pia",
+      "Cabo elétrico destacável e acabamento refinado em inox preto que permitem levar a panela diretamente à mesa para servir"
+    ],
+    "pontos_atencao": [
+      "Aparelho monoposto de 127V (não é bivolt), exigindo atenção à voltagem correta da sua região no anúncio da Amazon",
+      "Estrutura ampla de 6 litros com 32 cm de altura e 5 kg, demandando espaço fixo reservado na bancada da cozinha",
+      "O processo de pressurização inicial e despressurização natural requer alguns minutos adicionais ao tempo de cocção selecionado",
+      "Exige o uso exclusivo de utensílios plásticos ou silicone para preservar o revestimento antiaderente da cuba interna"
+    ],
+    "para_quem_e": "Para famílias ou quem cozinha em bom volume e busca refeições macias, saborosas e seguras sem precisar vigiar a boca do fogão nem lidar com o barulho da panela tradicional.",
+    "para_quem_nao_e": "Para quem mora sozinho, dispõe de cozinha muito compacta sem bancada livre ou prefere aparelhos bivolt para transportar com frequência entre diferentes locais."
+  }
 ];
 
 // Compatibilidade com possíveis scripts legados
