@@ -1779,6 +1779,113 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias ou quem cozinha em bom volume e busca refeições macias, saborosas e seguras sem precisar vigiar a boca do fogão nem lidar com o barulho da panela tradicional.",
     "para_quem_nao_e": "Para quem mora sozinho, dispõe de cozinha muito compacta sem bancada livre ou prefere aparelhos bivolt para transportar com frequência entre diferentes locais."
+  },
+  {
+    "asin": "B07GHQGX35",
+    "id": "liquidificador-mondial-turbo-inox-l-1200-bi-127v",
+    "titulo": "Liquidificador Mondial Turbo Inox 1200W L-1200 BI com Jarra de 3L e Filtro (Preto/Inox, 127V)",
+    "subtitulo": "Bata vitaminas consistentes, massas de torta e triture gelo sem travar o motor e com a capacidade de 3 litros para a família toda",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/liquidificador-mondial-turbo-inox-l-1200-bi-127v.jpg",
+    "data_revisao": "2026-10-29",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Mondial Turbo Inox L-1200 BI é a escolha certeira para quem busca potência de sobra e capacidade familiar sem gastar uma fortuna. Com 1.200W, conjunto de 6 lâminas em inox e copo de 3 litros com filtro que separa sementes na hora, ele dá conta de polpas congeladas, gelo e massas pesadas com rapidez e praticidade na bancada.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07GHQGX35?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela vitamina com fruta congelada que trava as lâminas no fundo, aquele cheiro de motor forçado na cozinha ou a frustração de precisar bater uma massa de bolo em duas partes porque o copo do liquidificador não aguenta o volume? No dia a dia de uma casa cheia, poucas coisas são mais irritantes do que perder tempo desligando o aparelho para mexer os ingredientes com colher ou ter que usar peneira para separar bagaço e sementes de sucos frescos.",
+      "O Liquidificador Mondial Turbo Inox L-1200 BI foi pensado para eliminar esse gargalo na cozinha combinando força bruta e capacidade de sobra. Com motor de 1.200W de potência e uma jarra tamanho família de 3 litros de capacidade total (sendo 2,1 litros de capacidade útil recomendada), o aparelho tritura pedras de gelo, frutas consistentes e massas densas de torta ou bolo de milho de uma só vez, reduzindo o tempo de preparo e a quantidade de louça na pia.",
+      "No uso diário, o seletor rotativo com 12 velocidades progressivas permite calibrar a textura com precisão: das velocidades baixas para misturar molhos e cremes delicados até os níveis mais altos para triturar ingredientes duros com a função Pulsar/Gelo. As 6 lâminas em aço inoxidável (quatro serrilhadas e duas lisas voltadas para baixo) geram um vórtice constante que puxa o conteúdo direto para o centro do corte. Outro grande facilitador é o filtro microperfurado em inox incluso, que se encaixa no centro do copo para coar sucos de maracujá, acerola ou limonadas automaticamente enquanto bate.",
+      "Em relação à estrutura e durabilidade, o copo é fabricado em San Cristal, um composto livre de Bisfenol-A (BPA Free) que oferece ótima transparência e não retém cheiros fortes de temperos, alho ou cebola após a lavagem. Segundo a fabricante e testes comparativos de laboratórios especializados como o Harpyja, o conjunto entrega excelente rendimento com massas pesadas e receitas cotidianas. Para facilitar a higienização após o uso, o recurso de autolimpeza permite colocar água morna com algumas gotas de detergente no copo e acionar a tecla pulsar por poucos segundos para soltar os resíduos rente às lâminas sem risco de cortes nos dedos.",
+      "A tampa traz sistema de vedação firme e conta com uma sobretampa dosadora de 40 ml com graduação, que permite adicionar leite, óleo ou farinha durante o preparo sem precisar desligar o motor nem sujar a bancada com respingos. A base larga com acabamento em aço inox escovado incorpora pés de borracha antiderrapantes para firmeza durante o funcionamento e nicho guarda-fio inferior para facilitar o armazenamento no armário. Para receitas com líquidos muito fluidos, a boa prática recomendada é segurar a tampa nas velocidades mais intensas caso o copo esteja abastecido próximo à marca de 2 litros.",
+      "Um último cuidado: este liquidificador opera exclusivamente na tensão de 127V com potência de 1.200W (plugue padrão brasileiro de 3 pinos). Ao concluir sua compra na página da Amazon, confirme atentamente se a voltagem indicada corresponde à rede elétrica da sua casa (havendo também a opção de 220V no anúncio da marca) para assegurar o funcionamento pleno e a durabilidade do motor."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Turbo Inox L-1200 BI"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1200 W"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Capacidade Total",
+        "valor": "3,0 Litros"
+      },
+      {
+        "chave": "Capacidade Útil",
+        "valor": "2,1 Litros"
+      },
+      {
+        "chave": "Material da Jarra",
+        "valor": "San Cristal (Livre de BPA e resistente a odores)"
+      },
+      {
+        "chave": "Conjunto de Lâminas",
+        "valor": "6 lâminas em aço inoxidável (4 serrilhadas e 2 lisas)"
+      },
+      {
+        "chave": "Velocidades",
+        "valor": "12 velocidades com ajuste progressivo + Função Pulsar / Gelo"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Filtro interno microperfurado em inox e sobretampa dosadora de 40 ml"
+      },
+      {
+        "chave": "Recursos Extras",
+        "valor": "Função Autolimpeza, base antiderrapante e porta-fio integrado"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "44 cm x 22 cm x 23 cm"
+      },
+      {
+        "chave": "Peso",
+        "valor": "2,8 kg"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "1 Liquidificador Mondial L-1200 BI, 1 Copo de 3L com tampa e dosador, 1 Filtro em inox e Manual de instruções"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência expressiva de 1200W que bate massas pesadas, frutas congeladas e gelo sem sofrimento",
+      "Jarra tamanho família de 3 litros (2,1L úteis) que atende toda a casa e reduz o número de etapas no preparo",
+      "Conjunto de 6 lâminas em inox com serrilhas afiadas que trituram os alimentos com homogeneidade",
+      "Filtro microperfurado em aço inox que coa bagaços e sementes diretamente durante o preparo de sucos",
+      "Material San Cristal livre de BPA que não absorve odores, gostos ou manchas de alimentos",
+      "12 níveis de velocidade com ajuste gradual e função autolimpeza para higienização prática do copo",
+      "Tampa com copo dosador de 40 ml removível para inclusão de ingredientes com o aparelho em funcionamento",
+      "Base estável com acabamento frontal em aço inox escovado e pés antiderrapantes"
+    ],
+    "pontos_atencao": [
+      "Aparelho monoposto de 127V (não é bivolt), exigindo seleção da voltagem correspondente à sua tomada",
+      "Em volumes muito altos de preparo líquido, recomenda-se apoiar a mão sobre a tampa nas velocidades máximas",
+      "As lâminas são fixadas à jarra, exigindo atenção durante a lavagem manual de resíduos no fundo",
+      "Material San Cristal rígido requer cuidado no manuseio para evitar quedas acidentais em pisos duros"
+    ],
+    "para_quem_e": "Para famílias, praticantes de atividades físicas ou quem cozinha com frequência e busca um liquidificador potente e com jarra ampla para preparar sucos sem coar, vitaminas cremosas e massas de torta de uma só vez.",
+    "para_quem_nao_e": "Para quem dispõe de pouquíssimo espaço na bancada da cozinha, prepara apenas doses individuais compactas ou procura um aparelho bivolt para transportar com frequência entre diferentes cidades."
   }
 ];
 
