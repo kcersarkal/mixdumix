@@ -1886,6 +1886,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias, praticantes de atividades físicas ou quem cozinha com frequência e busca um liquidificador potente e com jarra ampla para preparar sucos sem coar, vitaminas cremosas e massas de torta de uma só vez.",
     "para_quem_nao_e": "Para quem dispõe de pouquíssimo espaço na bancada da cozinha, prepara apenas doses individuais compactas ou procura um aparelho bivolt para transportar com frequência entre diferentes cidades."
+  },
+  {
+    "asin": "B076YFJVT6",
+    "id": "aspirador-po-agua-wap-gtw-10-1400w-10l-127v",
+    "titulo": "Aspirador de Pó e Água WAP GTW 10 1400W 10L (Amarelo e Preto, 127V)",
+    "subtitulo": "Aspire poeira fina, recolha líquidos entornados e limpe o interior do carro com a força de 1400W e a praticidade de um barril compacto",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-agua-wap-gtw-10-1400w-10l-127v.jpg",
+    "data_revisao": "2026-10-29",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O WAP GTW 10 é a escolha mais equilibrada para quem quer a robustez de um aspirador profissional de barril sem o trambolho nem o peso dos aparelhos industriais. Com 1400W de potência, reservatório de 10 litros e bocal soprador, ele resolve desde a faxina pesada de pisos frios e tapetes até poças de água na lavanderia e estofados do carro com agilidade e excelente custo-benefício.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076YFJVT6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando um copo d'água entorna em cima do tapete felpudo, a máquina de lavar vaza na lavanderia ou você resolve dar aquele trato completo no carro no sábado e descobre que aspiradores verticais comuns engasgam na areia grossa e não podem nem sonhar em sugar líquidos? Em momentos de faxina pesada ou imprevistos domésticos, tentar secar pisos com panos de chão ou recolher sujeira úmida com vassoura apenas espalha a sujeira e toma um tempo precioso do seu dia.",
+      "O WAP GTW 10 surge exatamente para eliminar esse limite entre sujeira seca e molhada em um formato que cabe facilmente na despensa. Em vez dos tambores gigantescos e pesados de oficinas, este modelo aposta em um barril de 10 litros de volume total pesando apenas 3 kg. Isso significa que você tem a força de sucção de um aspirador de oficina, mas com a mobilidade necessária para circular pelos quartos, subir degraus e guardar em qualquer armário sem complicação.",
+      "No uso cotidiano, o motor de 1.400W e o vácuo de 140 mbar, segundo dados técnicos fornecidos pela WAP, puxam terra, pelos de pets, serragem e líquidos com rapidez notável. O conjunto acompanha um bico múltiplo articulado para alternar entre pisos frios e carpetes, além de um bico de canto com cerdas de escova para frestas de sofás, canaletas de janelas e trilhos de portas de correr. Outro recurso surpreendentemente útil é o bocal de sopro: ao conectar a mangueira na saída de ar traseira, o aparelho se transforma em um soprador para varrer folhas secas da garagem, soprar pó de teclados ou acender o carvão da churrasqueira.",
+      "Para manter o aparelho durável e funcionando com potência máxima, a dupla filtragem foi desenhada de forma intuitiva. Para sujeira seca do dia a dia, ele utiliza um filtro de tecido lavável que retém as partículas no tambor sem necessidade de comprar sacos de papel descartáveis a todo momento. Quando a tarefa for sugar líquidos, você deve retirar o filtro de pano e manter o filtro de espuma lavável encaixado sobre a turbina: ele protege o motor de respingos enquanto uma boia interna mecânica interrompe automaticamente a sucção assim que o nível de água atinge cerca de 3,4 litros úteis.",
+      "Uma dica prática de conservação muito recomendada em testes de laboratórios e canais especializados, como o Guia dos Melhores, é nunca deixar líquidos acumulados no recipiente após o uso: esvazie o tambor logo após a limpeza e deixe os filtros secarem à sombra antes de montar novamente. Vale notar também que o cabo de alimentação de 2 metros é pensado para segurança e agilidade em áreas pequenas, portanto ter uma extensão elétrica à mão é o caminho perfeito para rodar pelo quintal ou aspirar todo o veículo na garagem com total liberdade.",
+      "Um último cuidado: este modelo comercializado neste anúncio opera estritamente na voltagem de 127V (com plugue padrão brasileiro de 2 pinos de 10A e potência de 1.400W). Como ele não é bivolt, confirme se a tensão da sua tomada é 127V antes de finalizar o pedido na página da Amazon (havendo também a alternativa de 220V na mesma linha) para garantir máxima durabilidade e o desempenho correto do motor."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "WAP"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "GTW 10 (FW005705)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1400 W"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Vácuo",
+        "valor": "140 mbar (segundo a WAP)"
+      },
+      {
+        "chave": "Volume Total do Recipiente",
+        "valor": "10 Litros"
+      },
+      {
+        "chave": "Capacidade Útil (Sólidos)",
+        "valor": "7 Litros"
+      },
+      {
+        "chave": "Capacidade Útil (Líquidos)",
+        "valor": "3,4 Litros (com boia de proteção)"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "92 dB(A) na versão 127V, segundo a WAP"
+      },
+      {
+        "chave": "Tipo de Filtro",
+        "valor": "Filtro de pano lavável e filtro de espuma lavável"
+      },
+      {
+        "chave": "Função Sopro",
+        "valor": "Sim (bocal de sopro integrado)"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "2,0 metros"
+      },
+      {
+        "chave": "Comprimento da Mangueira",
+        "valor": "1,5 metros"
+      },
+      {
+        "chave": "Dimensões do Produto (C x L x A)",
+        "valor": "28 cm x 28 cm x 38,5 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "3,0 kg"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Bico múltiplo (piso/carpete), bico canto com escova, 3 extensores plásticos, mangueira de 1,5m, filtro de pano e filtro de espuma"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a WAP"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência robusta de 1400W com alto poder de sucção para sólidos e líquidos",
+      "Dupla função completa: aspira poeira, recolhe líquidos e sopra folhas ou infláveis",
+      "Barril compacto e leve (apenas 3 kg) com 4 rodízios e alça ergonômica para fácil transporte",
+      "Filtros de pano e espuma laváveis e reutilizáveis, dispensando gastos contínuos com sacos descartáveis",
+      "Boia mecânica de segurança que bloqueia a sucção quando o reservatório de líquidos enche",
+      "Porta-acessórios integrado na base para manter bicos e tubos extensores organizados",
+      "Excelente custo-benefício para faxina pesada, pós-obra doméstica e limpeza veicular"
+    ],
+    "pontos_atencao": [
+      "Cabo elétrico de 2 metros que frequentemente exige o uso de extensão para áreas amplas",
+      "Nível de ruído de 92 dB(A), sonoro como a maioria dos aspiradores de alta potência de barril",
+      "Aparelho monoposto de 127V (não é bivolt), exigindo seleção da versão compatível com sua tomada",
+      "Capacidade para líquidos limitada a 3,4L pela boia para proteção do motor"
+    ],
+    "para_quem_e": "Para quem busca um aspirador versátil, forte e compacto capaz de limpar pisos, carpetes, estofados de carros e secar poças d'água sem ocupar muito espaço de armazenamento.",
+    "para_quem_nao_e": "Para quem procura um modelo ultrassilencioso para limpezas rápidas de migalhas, precisa de autonomia sem fio à bateria ou necessita de raio de ação de 10 metros sem usar extensão."
   }
 ];
 
