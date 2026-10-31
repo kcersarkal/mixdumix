@@ -1690,6 +1690,75 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/71ZSd8p1KZL._AC_SL1200_.jpg",
     "preco": 92.07,
     "link": "https://www.amazon.com.br/dp/B0F9Z3D8TZ?tag=mdm0c7-20",
-    "descricao": "KIT CONTÉM:⌛⌛⬇⬇. ✅V-FLOC 500ML. ✅INTENSE 240ML. ✅TOK FINAL 500ML. ✅PNEU PRETINHO 500ML. ✅PANO 40X40CM. ✅PINCEL EXTERNO"
+    "descricao": "Kit completo de estética automotiva com shampoo pH neutro V-Floc, cera Tok Final, revitalizador de plásticos Intense, pretinho Vintex, microfibra e pincel.",
+    "categoria": "Casa & Eletro",
+    "subtitulo": "Cuide da lavagem segura, proteção da pintura, acabamento fosco dos plásticos internos e brilho dos pneus com um conjunto completo de estética automotiva",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O kit Vonixx e Vintex reúne os pilares essenciais da estética automotiva para quem gosta de cuidar do próprio carro em casa com nível profissional. Com o shampoo neutro superlubrificado V-Floc, a cera rápida com carnaúba Tok Final, o renovador de plásticos internos Intense e o protetor de pneus Vintex, você resolve desde a lavagem sem microrriscos até o acabamento de showroom da pintura, painel e rodas. Uma combinação prática e altamente eficiente para manter o veículo protegido e valorizado a cada lavagem.",
+    "visao_geral": [
+      "Lavar o carro no fim de semana com detergente de cozinha ou sabão em pó é o caminho mais rápido para ressecar as borrachas, queimar os plásticos e deixar a pintura cheia de marcas circulares (swirls). Quando você decide abandonar essas soluções caseiras e procurar produtos adequados, depara-se com uma infinidade de marcas e categorias técnicas sem saber ao certo o que combina entre si. Este kit da Vonixx e Vintex elimina essa dúvida ao reunir em uma só embalagem tudo o que você precisa para uma manutenção automotiva completa.",
+      "O primeiro passo da rotina é a lavagem segura com o V-Floc. Trata-se de um lava-autos superconcentrado com pH neutro e alto poder de lubrificação. Segundo a Vonixx, seus agentes condicionadores reduzem sensivelmente o atrito entre a esponja ou luva de microfibra e a lataria, permitindo que a sujeira pesada se solte sem arranhar o verniz. Além disso, por ter fórmula neutra, ele não remove ceras ou selantes previamente aplicados e rende dezenas de lavagens quando diluído corretamente em água.",
+      "Após a secagem, entra a etapa de proteção e acabamento com a Tok Final. Desenvolvida com a pura carnaúba brasileira e polímeros sintéticos, essa cera líquida em spray é extremamente simples de aplicar: basta borrifar sobre a lataria e espalhar com o pano de microfibra macio que acompanha o conjunto. Ela proporciona um toque sedoso e aveludado, realça a profundidade do brilho e pode ser usada também em faróis e vidros laterais sem manchar borrachas ou frisos.",
+      "O interior do automóvel recebe a atenção do revitalizador Intense, formulado exclusivamente para plásticos e vinis internos como painel, consoles e molduras de portas. Diferente dos silicones tradicionais que deixam um aspecto engordurado e refletem no para-brisa, o Intense devolve a cor original com toque seco e acabamento fosco e natural, além de contar com proteção UV com durabilidade de até 6 meses segundo a fabricante. O conjunto traz ainda o Pneu Pretinho Vintex, que devolve aos pneus aquele brilho molhado e uniforme de carro recém-saído da concessionária, além de pincel de cerdas para limpar grades e cantinhos difíceis.",
+      "Um último cuidado: utilize cada produto na superfície e diluição corretas para preservar o acabamento. O V-Floc deve ser diluído em balde com água antes do uso e nunca aplicado com a lataria sob sol direto ou o motor quente. O Intense destina-se exclusivamente a plásticos internos, enquanto o pretinho Vintex deve ser passado com pneu totalmente limpo e seco para garantir máxima fixação e não espirrar nas caixas de roda ao rodar."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Vonixx / Vintex"
+      },
+      {
+        "chave": "Itens inclusos",
+        "valor": "1x V-Floc 500ml, 1x Tok Final 500ml, 1x Intense 240ml, 1x Pneu Pretinho Vintex 500ml, 1x Pano Microfibra 40x40cm, 1x Pincel para detalhamento"
+      },
+      {
+        "chave": "V-Floc (Lava-Autos)",
+        "valor": "pH neutro (7,0), alta lubrificação, seguro para verniz e proteções existentes"
+      },
+      {
+        "chave": "Diluição recomendada V-Floc",
+        "valor": "Até 1:400 em lavagem manual com balde ou 1:20 em canhão de espuma (Snow Foam)"
+      },
+      {
+        "chave": "Tok Final (Cera Líquida)",
+        "valor": "Fórmula em spray com carnaúba brasileira e polímeros sintéticos, livre de abrasivos"
+      },
+      {
+        "chave": "Aplicação Tok Final",
+        "valor": "Pintura veicular, superfícies vitrificadas, faróis e plásticos lisos"
+      },
+      {
+        "chave": "Intense (Revitalizador Interno)",
+        "valor": "Toque seco, acabamento fosco original e proteção contra radiação UV de até 6 meses"
+      },
+      {
+        "chave": "Aplicação Intense",
+        "valor": "Painéis, forros de porta, consoles e peças de plástico ou vinil do interior"
+      },
+      {
+        "chave": "Pneu Pretinho (Vintex)",
+        "valor": "Líquido pronto para uso, alta fixação, efeito brilho molhado e hidratação da borracha"
+      },
+      {
+        "chave": "Acessórios",
+        "valor": "1 flanela de microfibra 40 x 40 cm e 1 pincel de detalhamento automotivo externo"
+      }
+    ],
+    "pontos_fortes": [
+      "Solução completa que atende da lavagem suave ao acabamento de brilho da lataria, painel e pneus",
+      "Shampoo V-Floc com pH neutro e alta lubrificação, minimizando o risco de riscos circulares (swirls)",
+      "Cera líquida Tok Final em spray de aplicação rápida, realçando o brilho sem manchar borrachas",
+      "Revitalizador Intense com acabamento fosco e toque seco, sem engordurar nem atrair poeira no painel",
+      "Proteção UV prolongada de até 6 meses para componentes plásticos internos segundo a fabricante",
+      "Acompanha pano de microfibra macio e pincel de cerdas para cantos de difícil acesso"
+    ],
+    "pontos_atencao": [
+      "O revitalizador Intense é exclusivo para o interior e não substitui restauradores específicos para plásticos externos expostos ao tempo",
+      "O Pneu Pretinho requer aplicação na borracha perfeitamente limpa e seca para garantir fixação e não espirrar na pintura",
+      "Não inclui luva de lavagem específica nem balde com grelha separadora de impurezas"
+    ],
+    "para_quem_e": "Proprietários de veículos e entusiastas de cuidados automotivos que querem manter a pintura limpa e protegida, o interior com aspecto renovado e os pneus brilhando com produtos profissionais e sem complicação.",
+    "para_quem_nao_e": "Quem procura produtos para correção de pintura (polimento e corte de riscos profundos) ou revitalização pesada de para-choques externos desbotados pelo sol."
   }
 ];
