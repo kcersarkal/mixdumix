@@ -6,7 +6,84 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/71Yzr-JFtjL._AC_SL1500_.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0GXBKH42M?tag=mdm0c7-20",
-    "descricao": ""
+    "descricao": "Alimentado direto no acendedor 12V com cabo de 4 metros, entrega 120W de potência, LED embutido e kit de bicos para limpar bancos, cantos e porta-malas sem depender de bateria.",
+    "categoria": "Casa & Eletro",
+    "subtitulo": "Limpe bancos, frestas e porta-malas com facilidade direto na tomada 12V do veículo, sem ficar refém de baterias que descarregam rápido",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O Aspirador de Pó Automotivo 12V é a solução certeira para quem deseja manter o carro sempre em ordem sem ter de puxar extensão da garagem ou pagar lavagem toda semana. Alimentado diretamente no conector 12V do veículo, ele combina motor de 120W com sucção de 6000 Pa, cabo generoso de 4 metros e iluminação LED frontal para enxergar debaixo dos assentos. Com kit completo de bocais e sistema de dupla filtragem lavável, é um aliado indispensável para quem viaja, transporta crianças ou pets e preza por um interior impecável.",
+    "visao_geral": [
+      "Quem costuma rodar no dia a dia com a família, levar crianças ou passear com animais de estimação sabe a rapidez com que o interior do carro acumula farelos de biscoito, terra seca trazida no calçado e fios de cabelo. Puxar uma extensão pesada de dentro de casa até a garagem nem sempre é viável, e os modelos sem fio costumam ter bateria que dura apenas alguns minutos. É exatamente nessa lacuna que entra este aspirador veicular de 120W.",
+      "Conectado diretamente à tomada veicular de 12V (o clássico acendedor de cigarros), o aparelho opera com sucção de 6000 Pa declarada pelo fabricante. Essa pressão é suficiente para recolher poeira, pedregulhos finos e pelos que se agarram às tramas do carpete e dos bancos de tecido. Como não usa acumulador de carga interna, você pode fazer uma higienização minuciosa no veículo todo sem a preocupação de ver a força de sucção cair de repente no meio da faxina.",
+      "Um dos destaques práticos é o cabo de alimentação com 4 metros de extensão, comprimento ideal para alcançar os bancos dianteiros, o assento traseiro e até o compartimento do porta-malas na grande maioria dos automóveis e SUVs compactos. Além disso, a presença de uma lâmpada LED embutida na frente do corpo faz toda a diferença para localizar a sujeira que costuma ficar escondida nas sombras dos trilhos dos bancos e nos vãos das portas.",
+      "O kit de acessórios acompanha bico fino para frestas estreitas, bico com cerdas de escova para não arranhar saídas de ar ou o painel, mangueira flexível extensora e sistema de dupla filtragem com filtro metálico e filtro interno. O reservatório transparente dispensa saco descartável: basta desacoplar a trava com um clique para descartar os detritos direto no lixo e lavar o elemento filtrante sob água corrente quando necessário.",
+      "Um último cuidado: este modelo opera exclusivamente em corrente contínua 12V do acendedor veicular e não deve ser ligado em tomadas residenciais de 110V ou 220V sem um conversor apropriado. Para obter o máximo rendimento na sucção e preservar a carga da bateria do seu automóvel, utilize o aspirador com o motor do carro ligado durante a limpeza."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "AWESHINE"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "F017"
+      },
+      {
+        "chave": "Alimentação",
+        "valor": "12V DC (conector veicular / acendedor de cigarros)"
+      },
+      {
+        "chave": "Potência nominal",
+        "valor": "120 W"
+      },
+      {
+        "chave": "Poder de sucção",
+        "valor": "6000 Pa (6 kPa)"
+      },
+      {
+        "chave": "Comprimento do cabo",
+        "valor": "4 metros"
+      },
+      {
+        "chave": "Iluminação auxiliar",
+        "valor": "LED frontal integrado"
+      },
+      {
+        "chave": "Sistema de filtragem",
+        "valor": "Dupla filtragem com filtro metálico e filtro interno lavável"
+      },
+      {
+        "chave": "Reservatório",
+        "valor": "Transparente, com trava de liberação rápida (sem saco)"
+      },
+      {
+        "chave": "Acessórios inclusos",
+        "valor": "Mangueira extensora, bico para frestas, bico escova, 2 adaptadores e escovinha de limpeza"
+      },
+      {
+        "chave": "Dimensões",
+        "valor": "35,2 x 12,9 x 10,5 cm"
+      },
+      {
+        "chave": "Peso aproximado",
+        "valor": "870 g"
+      }
+    ],
+    "pontos_fortes": [
+      "Alimentação contínua 12V que não depende de bateria recarregável para terminar a limpeza",
+      "Cabo longo de 4 metros que alcança desde o painel até o fundo do porta-malas",
+      "Potência de 120W e sucção de 6000 Pa adequadas para detritos secos, areia e pelos",
+      "Luz LED frontal embutida para enxergar debaixo dos bancos e cantos escuros",
+      "Kit completo com mangueira extensora, bico de cantos e bico de cerdas",
+      "Filtros removíveis e laváveis que facilitam a manutenção sem custo de refil"
+    ],
+    "pontos_atencao": [
+      "Funciona apenas na tomada 12V do carro, necessitando de adaptador extra caso queira usar em casa",
+      "Indicado exclusivamente para aspiração de sólidos e poeira seca, não devendo sugar líquidos",
+      "Exige esvaziamento e limpeza frequente dos filtros para não perder vazão de ar"
+    ],
+    "para_quem_e": "Motoristas de aplicativo, pais de família e donos de pets que querem manter o interior do carro limpo e livre de migalhas no dia a dia com praticidade e autonomia ilimitada.",
+    "para_quem_nao_e": "Quem procura um equipamento para lavar estofados com água ou precisa de um aspirador residencial potente para limpeza pesada de carpetes grossos."
   },
   {
     "id": "B07YGFNDX9",
