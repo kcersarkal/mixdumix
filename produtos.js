@@ -1668,8 +1668,7 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer preparar mistos-quentes crocantes, lanches rápidos e pequenas porções grelhadas no dia a dia com praticidade, rapidez e sem ocupar espaço na bancada.",
     "para_quem_nao_e": "Para quem precisa de um grill de grande porte para alimentar muitas pessoas de uma só vez ou busca chapas totalmente removíveis para lavagem na pia."
-  }
-,
+  },
   {
     "asin": "B076HYKFL7",
     "id": "panela-de-pressao-eletrica-electrolux-pcc20-6l-127v",
@@ -2000,6 +1999,128 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca um aspirador versátil, forte e compacto capaz de limpar pisos, carpetes, estofados de carros e secar poças d'água sem ocupar muito espaço de armazenamento.",
     "para_quem_nao_e": "Para quem procura um modelo ultrassilencioso para limpezas rápidas de migalhas, precisa de autonomia sem fio à bateria ou necessita de raio de ação de 10 metros sem usar extensão."
+  },
+  {
+    "asin": "B09SVPDX3G",
+    "id": "cafeteira-eletrica-electrolux-experience-ecm25-1-2l-127v",
+    "titulo": "Cafeteira Elétrica Electrolux Experience ECM25 1,2L com Timer Digital (Inox/Preto, 800W, 127V)",
+    "subtitulo": "Acorde com o cheirinho de café fresco passando sozinho na cozinha e tenha até 30 cafezinhos sempre quentes para a família",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/cafeteira-eletrica-electrolux-experience-ecm25-1-2l-127v.jpg",
+    "data_revisao": "2026-10-31",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Electrolux Experience ECM25 é a escolha perfeita para quem quer o sabor afetivo do café coado tradicional com a conveniência da tecnologia moderna. Com timer programável de até 24 horas, painel digital intuitivo, acabamento em aço inox escovado e placa de aquecimento antiaderente, ela permite que você deixe a água e o pó prontos na noite anterior para despertar com o café quentinho, sem fazer sujeira na pia e sem gastar dinheiro com filtros descartáveis.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09SVPDX3G?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Acordar com pressa pela manhã, correr para colocar água na chaleira, encaixar coador de pano ou papel e ficar em pé ao lado do fogão esperando o café passar enquanto o relógio corre para o trabalho é a rotina cansativa de muita gente. Pior ainda é quando a xícara esfria em poucos minutos na mesa ou quando o pó transborda na pia no meio da correria matinal. Se você gosta de começar o dia com café quentinho, mas não tem tempo nem paciência para cerimônias demoradas logo cedo, uma cafeteira programável muda completamente a dinâmica da sua casa.",
+      "O grande trunfo da Electrolux Experience ECM25 está no seu painel digital integrado com função Timer de até 24 horas. Antes de ir dormir, você coloca a água no reservatório, adiciona o pó de café na medida do seu gosto e ajusta o horário exato em que quer a bebida pronta. Quando o despertador toca pela manhã, o aroma de café recém-passado já invadiu os cômodos, permitindo que você sirva sua caneca fumegante imediatamente, sem apertar nenhum botão no escuro e sem atrasar a sua saída.",
+      "No uso cotidiano, a ECM25 oferece uma jarra de vidro refratário com capacidade total de 1,2 litro, o que rende até 30 cafezinhos de 40 ml — uma medida generosa tanto para quem consome várias xícaras ao longo do expediente de home office quanto para abastecer a família no café da manhã e receber visitas no fim de semana. O sistema corta-pingos é outro alívio prático: se você não quiser esperar o ciclo completo de preparo terminar para beber o primeiro gole, basta retirar a jarra da base por alguns segundos que o fluxo de gotejamento é interrompido sem manchar nem queimar a placa quente.",
+      "Equipada com 800W de potência e consumo elétrico moderado de 0,169 kWh por ciclo, segundo dados técnicos oficiais da Electrolux, a cafeteira aquece a água na temperatura ideal de extração em poucos minutos, realçando o aroma do grão moído sem queimar a moagem. Além disso, o modelo inclui um filtro permanente lavável com suporte removível: isso elimina a dependência contínua de comprar filtros de papel descartáveis no supermercado, gerando economia para o seu bolso e reduzindo o descarte de resíduos. Caso você prefira usar filtro de papel padrão tamanho 102 ou número 2 por preferência de paladar, o cesto é perfeitamente compatível.",
+      "A placa de aquecimento antiaderente mantém o café bem quente na jarra logo após o término do preparo, e o aparelho conta com desligamento automático de segurança programado para 2 horas após ligar, evitando desperdício de energia ou que a bebida queime no fundo da jarra se você esquecer o botão ativado. Para manter o sabor sempre limpo e prolongar a vida útil do equipamento, portais especializados como o Cozinha Base e Café FBC recomendam lavar a jarra e o filtro reutilizável logo após o consumo, além de realizar a descalcificação preventiva com água e vinagre a cada dois ou três meses para evitar acúmulo de sais minerais na tubulação interna.",
+      "Um último cuidado: este modelo específico opera estritamente na voltagem de 127V (com plugue padrão brasileiro de 2 pinos de 10A e potência nominal de 800W). Como a cafeteira não é bivolt, confirme se a tomada da sua bancada na cozinha corresponde a 127V antes de concluir a compra na página da Amazon (havendo também a opção de 220V na linha ECM25) para assegurar o funcionamento perfeito e preservar a garantia de 1 ano do fabricante."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Experience ECM25"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "800 W"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "1,2 Litros (até 30 cafezinhos)"
+      },
+      {
+        "chave": "Material da Jarra",
+        "valor": "Vidro refratário com graduação de nível"
+      },
+      {
+        "chave": "Painel de Controle",
+        "valor": "Digital com display LED"
+      },
+      {
+        "chave": "Timer Programável",
+        "valor": "Sim (programação com até 24 horas de antecedência)"
+      },
+      {
+        "chave": "Tipo de Filtro",
+        "valor": "Filtro permanente lavável e removível (compatível com filtro de papel nº 2 / 102)"
+      },
+      {
+        "chave": "Sistema Corta-Pingos",
+        "valor": "Sim"
+      },
+      {
+        "chave": "Placa de Aquecimento",
+        "valor": "Antiaderente (conserva a temperatura por até 2 horas)"
+      },
+      {
+        "chave": "Desligamento Automático",
+        "valor": "Sim (automático após 2 horas de funcionamento)"
+      },
+      {
+        "chave": "Indicador de Nível de Água",
+        "valor": "Transparente com escala de dosagem"
+      },
+      {
+        "chave": "Material do Corpo",
+        "valor": "Plástico resistente com acabamento em aço inox escovado"
+      },
+      {
+        "chave": "Consumo de Energia",
+        "valor": "0,169 kWh, segundo a Electrolux"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "0,75 metro"
+      },
+      {
+        "chave": "Dimensões do Produto (L x A x P)",
+        "valor": "18,3 cm x 32,9 cm x 24,9 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,7 kg"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Timer digital programável de 24 horas que passa o café automaticamente no horário que você escolher",
+      "Capacidade ampla de 1,2 litro que prepara até 30 xícaras de café para toda a família ou escritório",
+      "Filtro permanente lavável incluso que dispensa a compra frequente de filtros de papel descartáveis",
+      "Design elegante com acabamento em aço inox escovado que valoriza a bancada da cozinha",
+      "Sistema corta-pingos que permite servir uma xícara mesmo durante o preparo sem sujar a placa quente",
+      "Placa de aquecimento antiaderente que conserva a bebida quente com desligamento automático após 2 horas",
+      "Jarra de vidro resistente e suporte de filtro facilmente laváveis na pia ou lava-louças"
+    ],
+    "pontos_atencao": [
+      "Aparelho monoposto de 127V (não é bivolt), exigindo atenção na escolha da tomada da sua residência",
+      "Cálculo de 30 xícaras baseado em doses pequenas de 40 ml; para canecas grandes de 200 ml, o rendimento é de cerca de 6 porções",
+      "Reservatório de água não removível, exigindo o uso da própria jarra para abastecer com água",
+      "Cabo de alimentação de 0,75 m planejado para bancadas próximas a tomadas"
+    ],
+    "para_quem_e": "Para quem quer a comodidade de acordar com café fresco já pronto no horário certo e busca uma cafeteira elegante, com jarra de boa capacidade e filtro reutilizável para o dia a dia.",
+    "para_quem_nao_e": "Para quem busca café espresso encorpado com crema espessa, prefere cafeteira de cápsulas monodose ou precisa de jarra térmica metálica inviolável para transportar café em viagens."
   }
 ];
 
