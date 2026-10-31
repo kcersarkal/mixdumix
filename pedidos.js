@@ -1,5 +1,14 @@
 window.PEDIDOS = [
   {
+    "id": "B0GXBKH42M",
+    "asin": "B0GXBKH42M",
+    "titulo": "Aspirador de Pó Automotivo 12V 6000Pa 120W com LED e Cabo 4 m",
+    "imagem": "https://m.media-amazon.com/images/I/71Yzr-JFtjL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0GXBKH42M?tag=mdm0c7-20",
+    "descricao": ""
+  },
+  {
     "id": "B07YGFNDX9",
     "asin": "B07YGFNDX9",
     "titulo": "WAP Lavadora de Alta Pressão COMBATE TURBO 2600, 220V",
