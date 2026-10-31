@@ -2121,6 +2121,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer a comodidade de acordar com café fresco já pronto no horário certo e busca uma cafeteira elegante, com jarra de boa capacidade e filtro reutilizável para o dia a dia.",
     "para_quem_nao_e": "Para quem busca café espresso encorpado com crema espessa, prefere cafeteira de cápsulas monodose ou precisa de jarra térmica metálica inviolável para transportar café em viagens."
+  },
+  {
+    "asin": "B0CH3WBKN6",
+    "id": "extratora-portatil-wap-spot-cleaner-w3-1450w-127v",
+    "titulo": "Extratora de Sujeiras Portátil WAP Spot Cleaner W3 1450W 3 em 1 (Cinza e Roxo, 127V)",
+    "subtitulo": "O socorro imediato contra manchas de café, sujeiras de pets e estofados encardidos sem precisar contratar serviço profissional",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/extratora-portatil-wap-spot-cleaner-w3-1450w-127v.jpg",
+    "data_revisao": "2026-10-31",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A WAP Spot Cleaner W3 é a solução definitiva para quem deseja manter estofados, sofás, colchões, tapetes e o interior do carro impecáveis sem gastar fortunas com higienização terceirizada. Com potência robusta de 1450W, sistema integrado 3 em 1 (borrifa água, esfrega com cerdas e extrai com forte sucção de 110 mbar), reservatórios estanques separados para água limpa e suja e um prático bico de autolimpeza da mangueira, ela elimina sujeiras do dia a dia e acidentes com líquidos em minutos com praticidade e portabilidade.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem tem criança em casa, animais de estimação ou simplesmente adora relaxar no sofá assistindo a um filme sabe o pânico que dá quando um copo de suco entorna, o café espirra ou o pet entra com as patas cheias de terra da rua bem no estofado claro. Pano úmido quase sempre espalha a mancha para o fundo da espuma, e contratar um serviço de higienização profissional a cada pequeno incidente custa caro e não resolve a urgência do momento. Se você procura uma forma rápida e eficiente de higienizar tecidos sem encharcar seus móveis, uma extratora portátil é um verdadeiro divisor de águas na rotina doméstica.",
+      "O grande diferencial da WAP Spot Cleaner W3 está no seu funcionamento integrado 3 em 1 projetado para limpezas pontuais com máxima eficiência: ela borrifa a solução de água com limpador diretamente na fibra, permite esfregar a mancha com as cerdas embutidas no bico e, em seguida, extrai todo o líquido e a sujeira dissolvida com um potente poder de sucção. Diferente de um aspirador comum de água que apenas suga a superfície, a extratora age na raiz da sujeira incrustada, renovando a cor e a textura do tecido em poucos minutos.",
+      "No uso diário, a praticidade impressiona pela inteligência do design. Ela conta com dois reservatórios independentes para que a sujeira nunca volte a ter contato com o tecido: um recipiente de 1,08 litro para água limpa e solução de limpeza, e um tanque de 850 ml para retenção do líquido sujo extraído. Com peso de 4,5 kg, alça anatômica para transporte, mangueira flexível de 1,2 metro e cabo elétrico de 3 metros com suporte integrado, você consegue alcançar os cantos mais difíceis do sofá, limpar as cadeiras da sala de jantar ou descer até a garagem para higienizar os bancos e carpetes do carro sem malabarismos.",
+      "Equipada com motor universal de 1450W e poder de vácuo de 110 mbar, segundo dados técnicos oficiais da WAP, a Spot Cleaner W3 desenvolve uma força de sucção notável para a sua categoria compacta. Isso significa que grande parte da umidade aplicada é puxada de volta para o reservatório, acelerando consideravelmente o tempo de secagem do tecido e evitando aquele cheiro desagradável de pano molhado que fica quando se tenta esfregar estofados manualmente. Além disso, o bico transparente permite acompanhar em tempo real a água escura sendo sugada, proporcionando uma sensação gratificante de limpeza profunda visível.",
+      "Para garantir a máxima durabilidade do aparelho e a integridade dos seus móveis, testes e análises de portais especializados como o Acerto Diário e Melhores para Comprar destacam a importância de utilizar limpadores com baixa espumação formulados especificamente para extratoras — o uso de detergentes convencionais de cozinha pode saturar a turbina de espuma e prejudicar o motor. Na hora de guardar, a WAP acertou em cheio ao incluir um bico de autolimpeza exclusivo: basta conectá-lo e acionar a sucção para que o fluxo de água limpe todo o interior da mangueira, eliminando odores e resíduos sem que você precise tocar na sujeira.",
+      "Um último cuidado: este modelo específico opera estritamente na voltagem de 127V (código de referência FW009468, potência de 1450W e plugue de 3 pinos de 10A). Como o equipamento não é bivolt, certifique-se de conferir se a voltagem selecionada no anúncio da Amazon condiz com a rede elétrica da sua região (havendo também a opção de 220V na linha Spot Cleaner W3 da WAP) antes de finalizar o pedido para garantir um uso seguro e manter a garantia oficial de 12 meses do fabricante."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "WAP"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Spot Cleaner W3 (FW009468)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1450 W"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Função",
+        "valor": "3 em 1: Borrifa, Esfrega e Extrai"
+      },
+      {
+        "chave": "Poder de Sucção (Vácuo)",
+        "valor": "110 mbar, segundo a WAP"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "78 dB(A)"
+      },
+      {
+        "chave": "Capacidade do Reservatório de Água Limpa",
+        "valor": "1,08 Litro"
+      },
+      {
+        "chave": "Capacidade do Reservatório de Água Suja",
+        "valor": "0,85 Litro (850 ml)"
+      },
+      {
+        "chave": "Comprimento da Mangueira",
+        "valor": "1,2 metro flexível"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "3 metros"
+      },
+      {
+        "chave": "Tipo de Filtro",
+        "valor": "Filtro de espuma lavável"
+      },
+      {
+        "chave": "Sistema de Pulverização",
+        "valor": "Bico em leque com vazão de 40 ml/min"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Bico extrator com cerdas, Bico autolimpeza e suporte integrado para acessórios"
+      },
+      {
+        "chave": "Dimensões do Produto (C x L x A)",
+        "valor": "37 cm x 26,5 cm x 38 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "4,5 kg"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano (12 meses), segundo a WAP"
+      }
+    ],
+    "pontos_fortes": [
+      "Sistema 3 em 1 eficiente que borrifa a solução, esfrega a fibra com cerdas e extrai os líquidos com alto poder de sucção",
+      "Motor potente de 1450W e vácuo de 110 mbar que retiram a sujeira incrustada e reduzem o tempo de secagem dos estofados",
+      "Dois reservatórios separados (1,08 L de água limpa e 850 ml de água suja) que impedem o reuso de resíduos contaminados",
+      "Bico de autolimpeza incluso que higieniza todo o interior da mangueira após o uso sem que você suje as mãos",
+      "Design compacto com peso de 4,5 kg e alça de transporte que facilitam o manuseio e a limpeza dentro do carro",
+      "Bico transparente que permite visualizar toda a sujeira sendo puxada em tempo real para o compartimento de resíduos",
+      "Suportes integrados para o cabo elétrico de 3 metros e mangueira flexível de 1,2 metro para guardar em armários compactos"
+    ],
+    "pontos_atencao": [
+      "Aparelho monoposto de 127V (não é bivolt), exigindo escolher atentamente a versão correspondente à sua tomada",
+      "Projetada para limpezas pontuais e localizadas; higienizar superfícies muito amplas como carpetes inteiros exige pausas para esvaziar os reservatórios",
+      "Exige o uso de detergentes específicos de baixa espumação para extratoras para evitar o transbordamento de espuma no motor",
+      "O tecido higienizado fica levemente úmido ao final do processo, requerendo algumas horas de ventilação natural para secar totalmente"
+    ],
+    "para_quem_e": "Para famílias com crianças, donos de pets ou motoristas que querem resolver rapidamente acidentes com líquidos, manchas de comida e estofados encardidos com praticidade, sem ter que pagar por higienização profissional.",
+    "para_quem_nao_e": "Para empresas de limpeza profissional que necessitam de extratoras de porte industrial com reservatórios de grande litragem contínua ou para quem busca apenas um aspirador de pó seco tradicional para o piso da casa."
   }
 ];
 
