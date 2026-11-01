@@ -2235,6 +2235,112 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias com crianças, donos de pets ou motoristas que querem resolver rapidamente acidentes com líquidos, manchas de comida e estofados encardidos com praticidade, sem ter que pagar por higienização profissional.",
     "para_quem_nao_e": "Para empresas de limpeza profissional que necessitam de extratoras de porte industrial com reservatórios de grande litragem contínua ou para quem busca apenas um aspirador de pó seco tradicional para o piso da casa."
+  },
+  {
+    "asin": "B09K3FNS7W",
+    "id": "ferro-de-passar-electrolux-efficient-esi10-1200w-127v",
+    "titulo": "Ferro de Passar Roupa a Vapor e a Seco Electrolux Efficient ESI10 1200W com Vapor Vertical (Azul, 127V)",
+    "subtitulo": "Leveza surpreendente e vapor vertical para desamassar camisas e vestidos no cabide sem cansar os braços",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/ferro-de-passar-electrolux-efficient-esi10-1200w-127v.jpg",
+    "data_revisao": "2026-11-01",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Electrolux Efficient ESI10 é a escolha sob medida para quem busca praticidade, leveza e eficiência no cuidado rotineiro com as roupas sem complicações. Pesando apenas 0,79 kg, ele desliza sem esforço sobre tecidos variados graças à sua base antiaderente, enquanto a combinação de vapor contínuo regulável, spray frontal e jato de vapor extra desmancha até vincos teimosos de calças jeans ou tecidos de algodão. Além disso, a função de vapor vertical permite tirar amassados direto do cabide em poucos minutos antes de sair, tornando a rotina muito mais ágil.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09K3FNS7W?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele momento clássico da manhã em que você já está pronto para sair e percebe que a camisa ou o vestido favorito está cheio de marcas da gaveta ou do varal? Ter que armar a tábua de passar tradicional e esperar um ferro pesado esquentar quando você tem apenas dez minutos para sair de casa é o tipo de atrito diário que ninguém quer enfrentar. Se você busca um aparelho que esquente rápido, seja leve para não cansar o braço e ainda resolva desamassados rápidos direto no cabide, o Electrolux Efficient ESI10 traz exatamente essa proposta de praticidade despretensiosa.",
+      "O principal diferencial deste modelo é a sua versatilidade 2 em 1 equilibrada entre passar a seco ou a vapor. Sua base antiaderente desliza suavemente sobre as fibras têxteis, evitando aquele atrito chato que repuxa as peças finas ou deixa brilho indesejado em roupas escuras. Ao redor da base, o friso salva-botões contorna com precisão cada botão de camisa polo e social, poupando tempo e prevenindo arranhões no revestimento do aparelho.",
+      "No manuseio cotidiano, o que mais salta aos olhos é a sua extrema leveza. Com apenas 0,79 kg de peso líquido segundo a Electrolux, ele é consideravelmente mais confortável de conduzir do que ferros tradicionais de corpo robusto, fazendo uma diferença enorme para quem tem dores no pulso ou precisa passar várias peças seguidas. O cabo elétrico de 1,35 metro conta com encaixe giratório de 360°, o que dá total liberdade de movimento para a mão sem que o fio fique torcendo ou derrubando peças da tábua.",
+      "Em termos de desempenho térmico, a potência de 1200 W na versão de 127V garante que o ferro atinja a temperatura selecionada em poucos instantes, o que é confirmado de forma simples pela luz piloto que se apaga quando a base está pronta para trabalhar. Para tecidos pesados como sarja, jeans e linho, os botões superiores acionam o spray borrifador frontal e o jato de vapor extra, amolecendo a fibra por dentro para desmanchar vincos persistentes com uma única passada firme.",
+      "Para manter o aparelho funcionando perfeitamente por anos, basta abastecer o reservatório de 200 ml pela tampa de abertura rápida usando preferencialmente água filtrada ou desmineralizada, o que previne o entupimento dos dutos de vapor por calcário ao longo do tempo. Uma dica valiosa de uso: como o aparelho não tem válvula mecânica antigotejamento, sempre espere o ferro aquecer por completo no nível de temperatura adequado antes de ativar a alavanca de vapor, garantindo que a água evapore por inteiro em vez de gotejar sobre o tecido.",
+      "Um último cuidado: o modelo Electrolux Efficient ESI10 é um eletrodoméstico de tensão fixa (não é bivolt), sendo fabricado em versões separadas de 127V (1200W) e 220V (1500W). Certifique-se de conferir se a voltagem indicada na página da Amazon corresponde à sua tomada antes de fechar o pedido, garantindo o funcionamento perfeito e a cobertura total da garantia de 12 meses do fabricante."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Efficient (ESI10)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1200 W (versão 127V)"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Tipo de Aparelho",
+        "valor": "Ferro de passar roupa a vapor e a seco"
+      },
+      {
+        "chave": "Material da Base",
+        "valor": "Alumínio com revestimento antiaderente"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "200 ml (transparente com tampa)"
+      },
+      {
+        "chave": "Funções de Vapor",
+        "valor": "Vapor contínuo regulável (2 níveis), Vapor Extra e Vapor Vertical"
+      },
+      {
+        "chave": "Recursos Extras",
+        "valor": "Borda salva-botões, spray frontal e luz piloto indicadora"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,35 metro com articulação giratória 360°"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "12,4 cm x 24,9 cm x 11,2 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "0,79 kg, segundo a Electrolux"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Azul com acabamento branco"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896347184229"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Base com revestimento antiaderente que desliza com extrema facilidade e evita que as fibras grudem",
+      "Corpo superleve com apenas 0,79 kg que proporciona manuseio ágil e reduz a fadiga no braço",
+      "Função vapor vertical prática que permite tirar vincos e amassados de roupas penduradas diretamente no cabide",
+      "Combinação de vapor extra concentrado e spray frontal para amaciar dobras teimosas em tecidos grossos",
+      "Borda salva-botões em toda a extensão para contornar botões de camisas sem enroscar ou danificar",
+      "Reservatório de 200 ml translúcido com abertura ampla que facilita o abastecimento e o controle do nível de água",
+      "Cabo articulado de 360 graus que evita torções no fio e dá maior liberdade durante a passada"
+    ],
+    "pontos_atencao": [
+      "Aparelho monoposto de 127V (não é bivolt), exigindo atenção à voltagem correta da sua região no anúncio",
+      "Não conta com sistema mecânico antigotejamento; para evitar respingos de água, exige esperar o aquecimento completo antes de acionar o vapor",
+      "Reservatório de 200 ml privilegia a leveza, mas pode necessitar de reabastecimento caso passe uma quantidade muito grande de roupas",
+      "Não possui desligamento automático por inatividade, sendo indispensável desconectar da tomada após o término"
+    ],
+    "para_quem_e": "Para quem procura um ferro de passar ágil, ultraleve e eficiente para desamassar roupas do dia a dia sem esforço, com o bônus do vapor vertical para peças no cabide.",
+    "para_quem_nao_e": "Para quem necessita de estações de passar profissionais com caldeira de altíssima pressão ou prefere ferros ultrapesados para vincar ternos de alfaiataria sem pressionar a mão."
   }
 ];
 
