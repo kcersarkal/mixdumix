@@ -2341,6 +2341,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem procura um ferro de passar ágil, ultraleve e eficiente para desamassar roupas do dia a dia sem esforço, com o bônus do vapor vertical para peças no cabide.",
     "para_quem_nao_e": "Para quem necessita de estações de passar profissionais com caldeira de altíssima pressão ou prefere ferros ultrapesados para vincar ternos de alfaiataria sem pressionar a mão."
+  },
+  {
+    "asin": "B09CBXQFYY",
+    "id": "chaleira-eletrica-electrolux-efficient-eek10-1-8l-127v",
+    "titulo": "Chaleira Elétrica Electrolux Efficient EEK10 1,8L em Aço Inox (1200W, 127V)",
+    "subtitulo": "Água fervendo em poucos minutos com desligamento automático e tampa Pop-Up para agilizar seu café, chá ou receitas sem vigiar o fogão",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/chaleira-eletrica-electrolux-efficient-eek10-1-8l-127v.jpg",
+    "data_revisao": "2026-11-01",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Electrolux Efficient EEK10 é a escolha ideal para quem quer economizar tempo na cozinha e eliminar a preocupação de esquecer a chaleira acesa no fogão. Com capacidade generosa de 1,8 litro e corpo resistente em aço inox escovado, ela ferve a água rapidamente com sua potência de 1200W e desliga automaticamente assim que atinge 100°C. A abertura prática com botão Pop-Up de um toque, o indicador translúcido de nível e a jarra sem fio com base giratória 360° tornam o manuseio muito intuitivo para servir na mesa ou adiantar o cozimento de massas e cafés passados no dia a dia.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09CBXQFYY?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela cena em que você coloca a água para ferver no fogão, vai responder a uma mensagem ou arrumar a cama e de repente lembra assustado que a chaleira ficou no fogo secando? Além do risco de queimar o fundo da panela e desperdiçar gás, ter que ficar de plantão na cozinha esperando a água do café ou do chimarrão esquentar é uma perda de tempo desnecessária na correria matinal. A Chaleira Elétrica Electrolux Efficient EEK10 foi desenhada justamente para transformar essa etapa em algo automático e livre de preocupações.",
+      "O grande atrativo da EEK10 está na união entre durabilidade, capacidade e segurança. Enquanto muitos modelos de entrada apostam exclusivamente em plástico no corpo, aqui o acabamento é feito em aço inoxidável escovado, o que traz elegância para a bancada e garante maior resistência no longo prazo. Com capacidade total de 1,8 litro, ela comporta água suficiente para encher uma garrafa térmica inteira de café de uma só vez ou adiantar o preparo de caldos e paneladas de massa, sem exigir múltiplas levas de fervura.",
+      "No uso diário, a conveniência aparece nos pequenos detalhes da ergonomia. A tampa conta com mecanismo Pop-Up: basta um clique suave no botão superior para ela se abrir de forma segura, evitando que seus dedos fiquem expostos ao vapor quente residual. Ao encaixar ou retirar a jarra da base, você tem total liberdade de movimento porque o corpo é completamente sem fio e a base tem encaixe giratório de 360 graus, funcionando perfeitamente tanto para destros quanto para canhotos na hora de levar a chaleira diretamente para a mesa de refeições.",
+      "Em termos de desempenho elétrico, a potência de 1200W na versão de 127V garante que volumes médios de água alcancem o ponto de ebulição muito mais rápido do que na chama média de um fogão comum. O sensor térmico interno identifica a fervura a 100°C e desliga a corrente automaticamente, sinalizando o término com o clique suave do interruptor luminoso. Além disso, o aparelho conta com proteção contra funcionamento a seco, impedindo o acionamento caso você ligue o botão acidentalmente com o reservatório vazio.",
+      "Para conservar o inox e a eficiência de aquecimento sempre como novos, o cuidado mais importante é lidar com o acúmulo natural de minerais da água ao longo das semanas. Se notar manchinhas esbranquiçadas no fundo interno, basta fazer um ciclo de fervura com uma solução caseira de água e vinagre branco, deixando agir por alguns minutos antes de enxaguar bem. E lembre-se: nunca mergulhe a base elétrica nem o fundo externo da jarra na água, fazendo a limpeza externa apenas com um pano macio levemente umedecido.",
+      "Um último cuidado: a Electrolux Efficient EEK10 não é um aparelho bivolt, existindo modelos dedicados de 127V (1200W, código comercial 5011AIBR408) e de 220V (1200W). O anúncio deste guia corresponde à versão de 127V. Antes de finalizar o pedido na Amazon, confira atentamente a seleção de voltagem na página para assegurar compatibilidade com as tomadas da sua residência e garantir a cobertura padrão de 1 ano de garantia de fábrica da Electrolux."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Efficient (EEK10)"
+      },
+      {
+        "chave": "Código Comercial",
+        "valor": "5011AIBR408 (versão 127V)"
+      },
+      {
+        "chave": "Capacidade da Jarra",
+        "valor": "1,8 litros"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1200 W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Material do Corpo",
+        "valor": "Aço inoxidável escovado e polipropileno"
+      },
+      {
+        "chave": "Tipo de Jarra",
+        "valor": "Sem fio (desacoplável da base)"
+      },
+      {
+        "chave": "Tipo de Tampa",
+        "valor": "Pop-Up com abertura automática por botão"
+      },
+      {
+        "chave": "Base de Conexão",
+        "valor": "Base giratória 360° com enrolador de cabo embutido"
+      },
+      {
+        "chave": "Sistema de Segurança",
+        "valor": "Desligamento automático a 100°C e proteção contra funcionamento a seco"
+      },
+      {
+        "chave": "Indicador de Nível",
+        "valor": "Visor translúcido com graduação de volume"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "0,75 metro"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "23,2 cm x 21,3 cm x 15,9 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "0,78 kg, segundo a Electrolux"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896347181839"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Capacidade ampla de 1,8 litro que atende com sobra grandes famílias e preparos de receitas",
+      "Desligamento automático inteligente que interrompe a corrente assim que a água atinge 100°C",
+      "Corpo com acabamento em aço inoxidável escovado que alia alta durabilidade e visual refinado",
+      "Tampa Pop-Up com abertura de um clique que protege as mãos contra o vapor quente",
+      "Jarra sem fio desacoplável da base giratória 360°, facilitando servir em qualquer ambiente",
+      "Visor de nível de água translúcido que permite monitorar a quantidade sem precisar abrir a tampa",
+      "Base prática com enrolador de cabo embutido para manter a bancada limpa e organizada"
+    ],
+    "pontos_atencao": [
+      "Aparelho monovolt de 127V (não é bivolt), exigindo seleção atenta da versão correspondente à sua tomada",
+      "Como o corpo é em aço inox de parede única, as paredes metálicas esquentam durante a fervura, exigindo segurar exclusivamente pela alça plástica ergonômica",
+      "Não possui controle fino de temperaturas intermediárias prévias (desliga no ponto fixo de ebulição a 100°C)",
+      "Cabo de alimentação com 0,75 m de extensão, exigindo proximidade razoável de uma tomada na bancada"
+    ],
+    "para_quem_e": "Para quem quer ganhar agilidade no café da manhã e no preparo de receitas, aquecendo grandes volumes de água em poucos minutos com total segurança e desligamento automático.",
+    "para_quem_nao_e": "Para apreciadores de chás nobres ou cafés artesanais que necessitam de termostato digital com controle seletivo de temperaturas específicas (como 70°C ou 85°C) ou para quem busca uma chaleira compacta de viagem bivolt."
   }
 ];
 
