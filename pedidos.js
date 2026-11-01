@@ -1838,9 +1838,78 @@ window.PEDIDOS = [
     "id": "B093G99QBH",
     "asin": "B093G99QBH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61LQF0MSw3L._AC_SL1500_.jpg",
+    "imagem": "assets/pedidos/B093G99QBH.jpg",
     "preco": 20.77,
     "link": "https://www.amazon.com.br/dp/B093G99QBH?tag=mdm0c7-20",
-    "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira. A embalagem pode variar."
+    "descricao": "Fralda descartável tamanho XG com canal superabsorvente que não pesa nem cai, orelhas elásticas confortáveis e até 12 horas de proteção.",
+    "categoria": "Saúde & Beleza",
+    "subtitulo": "Mais liberdade de movimento e proteção prolongada para o bebê com canal superabsorvente que distribui o xixi e orelhas elásticas que não apertam",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "A Pom Pom Protek Proteção de Mãe no tamanho XG se consolida como uma alternativa muito equilibrada para o dia a dia e para a noite de bebês entre 12 e 15 kg. O grande acerto da marca está no canal superabsorvente, que distribui a urina rapidamente sem formar aquele bloco volumoso e pesado entre as perninhas, somado às orelhas elásticas que conferem boa mobilidade. O pacote Jumbo com 20 unidades é prático para testar a adaptação da criança ou levar em viagens sem ocupar muito espaço.",
+    "visao_geral": [
+      "Quem cuida de um bebê com mais de um ano sabe bem como a rotina muda: a criança ganha velocidade, anda pela casa toda, sobe nos móveis e o volume de xixi também cresce bastante. Nessa fase, uma fralda que vaza nas laterais ou que fica pendurada e pesada depois de poucas horas atrapalha as brincadeiras e ainda aumenta o risco de assaduras pelo contato prolongado da pele com a umidade.",
+      "A linha Pom Pom Protek Proteção de Mãe foi pensada justamente para resolver essa dor. Seu canal superabsorvente distribui o líquido rapidamente por toda a extensão da fralda, impedindo que a urina se concentre em um único ponto. Na prática, a criança consegue se movimentar com naturalidade sem aquela sensação de estar carregando peso extra entre as perninhas, cumprindo a promessa da marca de não pesar e não cair.",
+      "Outro ponto positivo no uso diário são as orelhas elásticas. Elas facilitam o fechamento na medida certa, esticando suavemente para acompanhar a respiração e as mudanças na barriguinha do bebê ao longo do dia, inclusive após as mamadeiras ou refeições. O toque da cobertura é macio e traz uma loção com extratos naturais, adicionando uma barreira preventiva contra o atrito contínuo da fralda na virilha.",
+      "A fabricante Ontex indica até 12 horas de absorção, o que oferece boa segurança para períodos noturnos sem necessidade de trocas frequentes no meio da madrugada. Ainda assim, para a higiene diária durante o dia, manter o intervalo padrão de trocas regulares garante que a pele sensível permaneça sempre fresca e livre de irritações.",
+      "Um último cuidado: confira a faixa de peso do seu bebê antes de fechar o pedido. O tamanho XG é recomendado pela Pom Pom para crianças entre 12 kg e 15 kg. Caso o bebê esteja perto do limite de 15 kg ou tenha perninhas e quadril mais cheinhos, avaliar o tamanho XXG pode evitar marcas de elástico nas dobras. Na hora de vestir, passe sempre o dedo indicador pelas barreiras laterais internas para certificar-se de que estão totalmente desdobradas para fora."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Pom Pom / Ontex Brasil"
+      },
+      {
+        "chave": "Linha",
+        "valor": "Protek Proteção de Mãe"
+      },
+      {
+        "chave": "Tamanho",
+        "valor": "XG (Extra Grande)"
+      },
+      {
+        "chave": "Faixa de Peso Indicada",
+        "valor": "12 kg a 15 kg"
+      },
+      {
+        "chave": "Quantidade no Pacote",
+        "valor": "20 unidades descartáveis (formato Jumbo)"
+      },
+      {
+        "chave": "Capacidade de Absorção",
+        "valor": "Até 12 horas segundo a fabricante (uso dia e noite)"
+      },
+      {
+        "chave": "Tecnologia de Distribuição",
+        "valor": "Canal superabsorvente ('Não pesa, não cai')"
+      },
+      {
+        "chave": "Sistema de Fechamento",
+        "valor": "Orelhas e abas elásticas com fitas reposicionáveis"
+      },
+      {
+        "chave": "Proteção para a Pele",
+        "valor": "Dermatologicamente testada, com loção hidratante e extratos naturais"
+      },
+      {
+        "chave": "Design",
+        "valor": "Estampa temática exclusiva da Fauna Brasileira"
+      }
+    ],
+    "pontos_fortes": [
+      "Canal superabsorvente que distribui o fluxo por igual, evitando o acúmulo de peso entre as perninhas",
+      "Orelhas elásticas flexíveis que proporcionam ajuste confortável na cintura sem apertar",
+      "Boa capacidade de retenção para noites tranquilas, prometendo até 12 horas de proteção contínua",
+      "Cobertura com toque macio e loção com extratos naturais para auxiliar na proteção da pele",
+      "Barreiras laterais eficientes contra vazamentos em diferentes posições de sono e brincadeiras",
+      "Pacote Jumbo de 20 unidades muito prático para viagens, bolsa de passeio ou período de adaptação"
+    ],
+    "pontos_atencao": [
+      "Pacote com 20 unidades requer compras em maior volume para atender à rotina doméstica mensal",
+      "Bebês acima de 14 kg com biotipo mais robusto ou coxas grossas podem precisar do tamanho XXG para maior conforto",
+      "A proteção anunciada de até 12 horas não dispensa trocas preventivas regulares durante o dia"
+    ],
+    "para_quem_e": "Pais e cuidadores de bebês de 12 a 15 kg que buscam uma fralda confortável e com boa sustentação para o dia a dia e para a noite, garantindo mobilidade para brincar sem que a fralda pese ou fique frouxa.",
+    "para_quem_nao_e": "Crianças que já pesam 15 kg ou mais (que exigem o tamanho XXG) ou para quem busca pacotes econômicos gigantescos de mais de 60 unidades em uma única embalagem."
   }
 ];
