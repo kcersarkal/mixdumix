@@ -1760,5 +1760,14 @@ window.PEDIDOS = [
     ],
     "para_quem_e": "Proprietários de veículos e entusiastas de cuidados automotivos que querem manter a pintura limpa e protegida, o interior com aspecto renovado e os pneus brilhando com produtos profissionais e sem complicação.",
     "para_quem_nao_e": "Quem procura produtos para correção de pintura (polimento e corte de riscos profundos) ou revitalização pesada de para-choques externos desbotados pelo sol."
+  },
+  {
+    "id": "B0FS9327GJ",
+    "asin": "B0FS9327GJ",
+    "titulo": "Creme para Assadura Personalidade Baby, 45g",
+    "imagem": "https://m.media-amazon.com/images/I/711sFyL-OgL._AC_SL1500_.jpg",
+    "preco": 9.98,
+    "link": "https://www.amazon.com.br/dp/B0FS9327GJ?tag=mdm0c7-20",
+    "descricao": "PERSONALIDADE BABY PROTECT é um creme suave que forma uma camada protetora reforçando a defesa natural da pele do bebê.. Sua formulação contém Óxido de Zinco e Vitamina E, especialmente desenvolvida para hidratar e proteger a pele do seu bebê contra assaduras e irritações. O creme é fácil de aplicar, remover e contém uma fragrância agradável.. Produto vegano. Textura suave. Dermatologicamente testado"
   }
 ];
