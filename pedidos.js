@@ -1769,5 +1769,14 @@ window.PEDIDOS = [
     "preco": 9.98,
     "link": "https://www.amazon.com.br/dp/B0FS9327GJ?tag=mdm0c7-20",
     "descricao": "PERSONALIDADE BABY PROTECT é um creme suave que forma uma camada protetora reforçando a defesa natural da pele do bebê.. Sua formulação contém Óxido de Zinco e Vitamina E, especialmente desenvolvida para hidratar e proteger a pele do seu bebê contra assaduras e irritações. O creme é fácil de aplicar, remover e contém uma fragrância agradável.. Produto vegano. Textura suave. Dermatologicamente testado"
+  },
+  {
+    "id": "B093G99QBH",
+    "asin": "B093G99QBH",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61LQF0MSw3L._AC_SL1500_.jpg",
+    "preco": 20.77,
+    "link": "https://www.amazon.com.br/dp/B093G99QBH?tag=mdm0c7-20",
+    "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira. A embalagem pode variar."
   }
 ];
