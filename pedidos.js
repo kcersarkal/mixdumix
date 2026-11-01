@@ -1765,10 +1765,74 @@ window.PEDIDOS = [
     "id": "B0FS9327GJ",
     "asin": "B0FS9327GJ",
     "titulo": "Creme para Assadura Personalidade Baby, 45g",
-    "imagem": "https://m.media-amazon.com/images/I/711sFyL-OgL._AC_SL1500_.jpg",
+    "imagem": "assets/pedidos/B0FS9327GJ.jpg",
     "preco": 9.98,
     "link": "https://www.amazon.com.br/dp/B0FS9327GJ?tag=mdm0c7-20",
-    "descricao": "PERSONALIDADE BABY PROTECT é um creme suave que forma uma camada protetora reforçando a defesa natural da pele do bebê.. Sua formulação contém Óxido de Zinco e Vitamina E, especialmente desenvolvida para hidratar e proteger a pele do seu bebê contra assaduras e irritações. O creme é fácil de aplicar, remover e contém uma fragrância agradável.. Produto vegano. Textura suave. Dermatologicamente testado"
+    "descricao": "Creme preventivo de assaduras com óxido de zinco e vitamina E, textura suave, fórmula vegana e fácil remoção nas trocas diárias.",
+    "categoria": "Saúde & Beleza",
+    "subtitulo": "Proteja a pele delicada do bebê contra o atrito e a umidade com uma barreira suave de óxido de zinco que espalha fácil e sai sem esforço",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "3 min de leitura",
+    "veredito_resumo": "O creme preventivo Personalidade Baby Protect se destaca pela praticidade e conforto nas trocas rotineiras: alia o óxido de zinco e a vitamina E para criar uma barreira física contra a umidade, sem aquela textura pegajosa ou difícil de limpar no banho. É uma fórmula vegana, dermatologicamente testada e compacta, ideal para manter no trocador ou levar na bolsa de passeio para o cuidado preventivo diário.",
+    "visao_geral": [
+      "Se você já passou pelo receio de ver a pele delicada do bebê irritada pelas fraldas ou já enfrentou pomadas pesadas e difíceis de espalhar que parecem não sair na hora do banho, sabe o quanto a rotina de trocas pede suavidade. A umidade constante e o atrito natural das fraldas são os principais vilões no dia a dia dos pequenos, tornando essencial o uso de um creme preventivo que realmente proteja sem transformar a higienização em um processo desconfortável.",
+      "O Personalidade Baby Protect se diferencia justamente pela consistência leve e equilibrada. Sua composição tem no óxido de zinco o elemento central para formar uma barreira protetora que isola a pele do contato direto com a urina e resíduos. Ao mesmo tempo, a fórmula enriquecida com vitamina E e agentes hidratantes ajuda a manter a maciez natural, prevenindo o ressecamento das dobrinhas. Na prática diária, ele espalha com suavidade apenas com a ponta dos dedos e sai facilmente com água morna ou algodão umedecido.",
+      "Produzido no Brasil pela Eurofral, o produto conta com fórmula vegana e passou por testes dermatológicos, sendo indicado para o uso contínuo desde os primeiros meses. A embalagem em bisnaga de 45 gramas tem tamanho perfeito para dosar na medida certa, além de caber sem aperto na bolsa de passeio, no kit maternidade ou no organizador da cômoda. A fragrância suave traz sensação de frescor e limpeza para o momento do cuidado, sem sobrecarregar o olfato sensível da criança.",
+      "Um último cuidado: este produto é voltado exclusivamente para a prevenção diária em peles sem lesões. Se a região já estiver com assaduras severas, vermelhidão intensa, feridas abertas ou suspeita de infecção por fungos, interrompa o uso e consulte o pediatra para indicar um tratamento medicamentoso apropriado. Para a aplicação cotidiana, garanta que a pele esteja totalmente limpa e bem seca antes de espalhar uma camada fina e uniforme a cada troca."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Personalidade Baby / Eurofral"
+      },
+      {
+        "chave": "Linha",
+        "valor": "Personalidade Baby Protect"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Creme preventivo contra assaduras"
+      },
+      {
+        "chave": "Volume / Peso Líquido",
+        "valor": "45 g"
+      },
+      {
+        "chave": "Ativos Principais",
+        "valor": "Óxido de Zinco e Vitamina E (com agentes emolientes)"
+      },
+      {
+        "chave": "Tipo de Fórmula",
+        "valor": "Vegana, textura suave, fácil aplicação e remoção"
+      },
+      {
+        "chave": "Segurança",
+        "valor": "Dermatologicamente testado e hipoalergênico"
+      },
+      {
+        "chave": "Indicação de Uso",
+        "valor": "Uso infantil em trocas de fralda para prevenção de irritações"
+      },
+      {
+        "chave": "Embalagem",
+        "valor": "Bisnaga plástica de 45 g em cartucho protetor"
+      }
+    ],
+    "pontos_fortes": [
+      "Textura suave e fácil de espalhar, sem exigir pressão sobre a pele sensível",
+      "Barreira protetora eficiente à base de óxido de zinco contra a umidade da fralda",
+      "Fórmula vegana enriquecida com Vitamina E para hidratação e proteção cutânea",
+      "Fácil de remover nas trocas sem necessidade de esfregar a região",
+      "Dermatologicamente testado com foco em segurança para os pequenos",
+      "Bisnaga compacta de 45 g, muito prática para passeios e bolsa de maternidade"
+    ],
+    "pontos_atencao": [
+      "Ação estritamente preventiva: não substitui pomadas de tratamento para assaduras já instaladas",
+      "Contém fragrância suave, ponto a considerar para bebês com hipersensibilidade a perfumes",
+      "A bisnaga de 45 g requer reposição periódica em rotinas com muitas trocas diárias"
+    ],
+    "para_quem_e": "Pais, mães e cuidadores que buscam um creme preventivo leve, fácil de espalhar e de remover, para manter a pele do bebê protegida contra a umidade da fralda no cuidado de todo dia.",
+    "para_quem_nao_e": "Casos em que o bebê já apresenta assaduras avançadas, fissuras ou infecções fúngicas que requerem pomada com antifúngico ou antibiótico receitada pelo pediatra."
   },
   {
     "id": "B093G99QBH",
