@@ -2459,6 +2459,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer ganhar agilidade no café da manhã e no preparo de receitas, aquecendo grandes volumes de água em poucos minutos com total segurança e desligamento automático.",
     "para_quem_nao_e": "Para apreciadores de chás nobres ou cafés artesanais que necessitam de termostato digital com controle seletivo de temperaturas específicas (como 70°C ou 85°C) ou para quem busca uma chaleira compacta de viagem bivolt."
+  },
+  {
+    "asin": "B09CC5DN5C",
+    "id": "torradeira-eletrica-electrolux-efficient-ets10-800w-127v",
+    "titulo": "Torradeira Elétrica Electrolux Efficient ETS10 com 8 Níveis de Tostagem (Aço Inox/Preto, 800W, 127V)",
+    "subtitulo": "Torradas no ponto certo com 8 níveis de tostagem, aberturas extra largas e funções descongelar e reaquecer para transformar seu café da manhã sem queimar o pão",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/torradeira-eletrica-electrolux-efficient-ets10-127v.jpg",
+    "data_revisao": "2026-11-02",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Electrolux Efficient ETS10 é a pedida certeira para quem deseja torradas crocantes, douradas e no ponto exato todas as manhãs sem correr o risco de queimar o pão na frigideira. Com 8 níveis de controle de tostagem e aberturas extra largas, ela acomoda perfeitamente desde o tradicional pão de forma até fatias mais generosas de pão artesanal ou brioche. As funções dedicadas de Descongelar e Reaquecer facilitam o dia a dia de quem armazena fatias no congelador ou se distrai enquanto passa o café, enquanto os botões iluminados em LED branco e o elegante corpo com acabamento em aço inoxidável escovado unem sofisticação, robustez e limpeza descomplicada através de sua prática bandeja coletora de migalhas removível.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09CC5DN5C?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já deve ter passado pela situação de colocar duas fatias de pão na frigideira ou no tostador manual, se virar por um minuto para coar o café ou arrumar a mesa e, quando percebe, um lado ficou torrado demais e o outro mal esquentou. Pior ainda é tentar improvisar no micro-ondas e terminar com um pão murcho e borrachudo. O café da manhã pede rapidez e previsibilidade, e ficar vigiando o fogo para conseguir uma torrada crocante consome uma energia preciosa logo no início do seu dia. A Torradeira Elétrica Electrolux Efficient ETS10 foi projetada para tirar essa frustração da sua rotina matinal.",
+      "O grande destaque deste modelo está na precisão e na versatilidade. Enquanto aparelhos mais simples oferecem apenas três ou quatro regulagens genéricas, a ETS10 conta com 8 níveis seletivos de tostagem em seu botão giratório. Isso permite que cada pessoa da casa escolha exatamente o seu ponto predileto — desde um leve aquecimento que apenas derrete a manteiga até uma casquinha dourada e ultra crocante. Além disso, as duas aberturas são extra largas, eliminando aquele aperto de ter que amassar a fatia de pão artesanal, pão de fermentação natural ou brioche para conseguir encaixar no compartimento.",
+      "No cotidiano corrido, as funções inteligentes fazem toda a diferença na praticidade. Se você tem o hábito de congelar fatias de pão para não estragarem na despensa, a função 'Descongelar' ajusta a curva térmica para descongelar o miolo e entregar uma torrada fresca e crocante sem queimar as bordas. Já a função 'Reaquecer' é a salvação de quem se distrai no celular ou nas tarefas domésticas e encontra a torrada fria: ela devolve o calor ideal em instantes sem queimar nem escurecer o pão. E caso você queira interromper o preparo a qualquer momento, o botão 'Cancelar' aciona a ejeção imediata com um simples toque.",
+      "Com 800W de potência no circuito de 127V, segundo as especificações da Electrolux, a torradeira atinge a temperatura operacional de maneira ágil, garantindo ciclos curtos e economia de energia no uso diário. Em análises de sites especializados como Review Cozinhas e É Bom ou Não, um dos pontos mais elogiados é a uniformidade da tostagem ao longo de toda a fatia, aliada ao conforto visual dos botões com iluminação em LED branco, que indicam com clareza o ciclo em andamento. O sistema de elevação automática ejeta os pães suavemente ao final do tempo programado, permitindo retirar as fatias com facilidade sem queimar os dedos.",
+      "Para manter a bancada limpa e prolongar a vida útil do aparelho, a Electrolux incluiu uma bandeja coletora de migalhas removível na base, que você puxa, esvazia na lixeira e passa um pano seco em poucos segundos. Uma dica prática de uso: nos primeiros dias, comece tostando nos níveis intermediários (entre o 3 e o 4) para entender como o tipo e o teor de umidade do pão que você compra reagem ao calor. Lembre-se também de que o acabamento em aço inoxidável escovado pode reter calor nas paredes externas após ciclos seguidos, de modo que o manuseio deve ser feito sempre pelas laterais plásticas seguras e pela alavanca de acionamento.",
+      "Um último cuidado: a Torradeira Elétrica Electrolux Efficient ETS10 não é bivolt, sendo produzida em versões separadas para redes elétricas de 127V (código comercial 4310ANBR414, 800W) e de 220V (código comercial 4310ANBR514, 800W). O link e as especificações deste guia correspondem ao modelo oficial de 127V. Antes de concluir seu pedido na Amazon Brasil, certifique-se de que a voltagem selecionada é a mesma das tomadas da sua cozinha, garantindo o funcionamento perfeito e os 12 meses de garantia oficial de fábrica da Electrolux."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Efficient (ETS10)"
+      },
+      {
+        "chave": "Código Comercial",
+        "valor": "4310ANBR414 (versão 127V)"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Torradeira Elétrica para 2 fatias"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "800 W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Níveis de Tostagem",
+        "valor": "8 níveis ajustáveis"
+      },
+      {
+        "chave": "Funções Especiais",
+        "valor": "Descongelar, Reaquecer e Cancelar com botões iluminados em LED"
+      },
+      {
+        "chave": "Aberturas dos Pães",
+        "valor": "Extra largas para diversas espessuras de fatias"
+      },
+      {
+        "chave": "Bandeja Coletora",
+        "valor": "Removível para fácil descarte de migalhas"
+      },
+      {
+        "chave": "Material do Corpo",
+        "valor": "Plástico e acabamento em aço inoxidável escovado"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "0,75 metro com porta-cabo na base"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "19,1 cm x 28,3 cm x 17,1 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,06 kg, segundo a Electrolux"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896347181990"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "8 níveis de tostagem precisos que atendem desde quem gosta de pão apenas aquecido até torradas bem escuras e crocantes",
+      "Aberturas extra largas projetadas para acomodar com facilidade fatias grossas de pães artesanais, caseiros e brioches",
+      "Função Descongelar dedicada que entrega fatias tiradas do congelador crocantes e no ponto certo sem queimar as bordas",
+      "Função Reaquecer que esquenta a torrada já pronta sem escurecer ou ressecar o miolo",
+      "Bandeja coletora de migalhas removível na base que impede o acúmulo de sujeira e farelos na bancada",
+      "Acabamento sofisticado com detalhes em aço inoxidável escovado e botões luminosos em LED branco",
+      "Potência de 800W que garante aquecimento rápido e uniforme em poucos minutos"
+    ],
+    "pontos_atencao": [
+      "Aparelho monovolt de 127V (não é bivolt), exigindo seleção atenta da versão compatível com a sua tomada",
+      "As paredes externas com acabamento metálico podem aquecer durante ciclos longos ou consecutivos, demandando manuseio pela alavanca plástica",
+      "Cabo elétrico com 0,75 m de comprimento, necessitando de uma tomada próxima na bancada da cozinha",
+      "Capacidade máxima de 2 fatias por vez, podendo demandar mais ciclos para famílias muito numerosas no café da manhã"
+    ],
+    "para_quem_e": "Para pessoas sozinhas, casais e famílias que desejam torradas perfeitas e crocantes no café da manhã com rapidez, praticidade e facilidade de limpeza.",
+    "para_quem_nao_e": "Para grandes famílias ou estabelecimentos comerciais que necessitam de torradeiras industriais com capacidade simultânea para 4 ou mais fatias largas por ciclo ou quem busca aparelho bivolt automático."
   }
 ];
 
