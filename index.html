@@ -1201,15 +1201,7 @@ a { text-decoration: none; color: inherit; }
   line-height: 1.3;
 }
 .pedido-price-badge {
-  display: inline-block;
-  font-size: 18px;
-  font-weight: 700;
-  color: var(--primary);
-  background: var(--primary-light);
-  border: 1px solid var(--primary-border);
-  padding: 6px 14px;
-  border-radius: var(--radius-sm);
-  margin-bottom: 20px;
+  display: none !important;
 }
 .pedido-desc-box {
   font-size: 15.5px;
@@ -1681,8 +1673,8 @@ a { text-decoration: none; color: inherit; }
 </footer>
 
 <!-- SCRIPTS DE DADOS -->
-<script src="produtos.js?v=20261102-1"></script>
-<script src="pedidos.js?v=20261102-1"></script>
+<script src="produtos.js?v=20261102-2"></script>
+<script src="pedidos.js?v=20261102-2"></script>
 
 <!-- LÓGICA DO PORTAL -->
 <script>
@@ -1726,10 +1718,8 @@ function ensureAmazonTag(url) {
 }
 
 function formatarPreco(val) {
-  if (val == null || isNaN(val) || val === "") return "";
-  const num = typeof val === "number" ? val : parseFloat(val);
-  if (isNaN(num)) return "";
-  return num.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+  // Preços proibidos no site para conformidade com regras editoriais
+  return "";
 }
 
 /* ==========================================================================
@@ -1938,7 +1928,7 @@ function getStoreInfo(url, loja) {
     return { name: "Shopee", btnText: "Conferir na Shopee", btnClass: "btn-dest-shopee" };
   }
   if (u.includes("amazon") || u.includes("amzn.to") || l.includes("amazon")) {
-    return { name: "Amazon", btnText: "Ver Preço na Amazon", btnClass: "btn-dest-amazon" };
+    return { name: "Amazon", btnText: "Ver na Amazon", btnClass: "btn-dest-amazon" };
   }
   return { name: loja || "Loja", btnText: loja ? `Conferir na ${loja}` : "Conferir Oferta", btnClass: "btn-dest-default" };
 }
@@ -2260,7 +2250,6 @@ function renderPedidos() {
   grid.innerHTML = itensGrid.map(p => {
     const pid = p.id || p.asin;
     const img = safeUrl(p.imagem);
-    const preco = formatarPreco(p.preco);
     const desc = (p.descricao && p.descricao.trim()) ? p.descricao : "";
 
     return `
@@ -2270,7 +2259,6 @@ function renderPedidos() {
           <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}" loading="lazy">
         </div>
         <div class="article-card-content">
-          ${preco ? `<div style="font-size:15px;font-weight:700;color:var(--primary);margin-bottom:8px;">${escapeHtml(preco)}</div>` : ""}
           <h3 class="article-card-title">${escapeHtml(p.titulo)}</h3>
           ${desc ? `<p class="article-card-summary">${escapeHtml(desc)}</p>` : ""}
           <div class="article-card-footer" style="margin-top:auto;">
@@ -2346,7 +2334,6 @@ function renderPedido(id) {
 
   const linkOficial = ensureAmazonTag(p.link || `https://www.amazon.com.br/dp/${p.asin || p.id}?tag=${AFFILIATE_TAG}`);
   const img = safeUrl(p.imagem);
-  const preco = formatarPreco(p.preco);
   const descReal = (p.descricao && p.descricao.trim()) ? p.descricao : "";
   const temReviewCompleto = Boolean(Array.isArray(p.visao_geral) && p.visao_geral.length > 0);
 
@@ -2516,8 +2503,6 @@ function renderPedido(id) {
       </div>
 
       <h1 class="pedido-detail-title">${escapeHtml(p.titulo)}</h1>
-
-      ${preco ? `<div class="pedido-price-badge">${escapeHtml(preco)}</div>` : ""}
 
       ${descReal ? `
         <div style="margin:20px 0;">
