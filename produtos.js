@@ -2573,6 +2573,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para pessoas sozinhas, casais e famílias que desejam torradas perfeitas e crocantes no café da manhã com rapidez, praticidade e facilidade de limpeza.",
     "para_quem_nao_e": "Para grandes famílias ou estabelecimentos comerciais que necessitam de torradeiras industriais com capacidade simultânea para 4 ou mais fatias largas por ciclo ou quem busca aparelho bivolt automático."
+  },
+  {
+    "asin": "B09B2M8N4T",
+    "id": "mixer-3-em-1-electrolux-eib10-400w-127v",
+    "titulo": "Mixer 3 em 1 Electrolux EIB10 400W com Mini Processador e Batedor de Claras (Preto, 127V)",
+    "subtitulo": "Praticidade completa na cozinha com tecnologia TruFlow para receitas mais cremosas, mini processador para temperos e batedor de claras sem sujeira",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/mixer-3-em-1-electrolux-eib10-400w-127v.jpg",
+    "data_revisao": "2026-11-02",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Mixer 3 em 1 Electrolux EIB10 é a escolha ideal para quem quer simplificar o preparo de receitas diárias sem acumular aparelhos volumosos ou ter que lavar jarras pesadas de liquidificador. Com motor de 400W e Tecnologia TruFlow™, ele cria um efeito de vortex que reduz a formação de bolhas de ar e entrega sopas, molhos, papinhas e vitaminas muito mais homogêneas e aveludadas. A versatilidade do kit 3 em 1 transforma a sua bancada: o mini processador de 600 ml pica cebola, alho, nozes e queijos em segundos sem deixar cheiro nas mãos, enquanto o batedor de claras tipo fouet agiliza bolos, cremes e sobremesas, tudo com materiais livres de BPA e peças removíveis fáceis de higienizar.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09B2M8N4T?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando você decide fazer uma sopa cremosa, um molho caseiro ou uma simples vitamina e desanima só de pensar em ter que tirar o liquidificador grande do armário, sujar a jarra pesada e depois passar minutos esfregando cada cantinho com a bucha? Ou quando precisa picar alho e cebola para o refogado e termina com as mãos cheirando a tempero o resto do dia e lágrimas nos olhos? Montar equipamentos desajeitados ou picar tudo na faca para pequenas refeições rouba muito tempo da sua rotina na cozinha. O Mixer 3 em 1 Electrolux EIB10 foi pensado exatamente para acabar com essa complicação e colocar agilidade no seu dia a dia.",
+      "O grande destaque do Electrolux EIB10 está na união entre o motor de 400W e a exclusiva Tecnologia TruFlow™. Ao contrário de mixers convencionais que costumam espirrar líquido pela bancada ou deixar pedaços de fruta sem triturar no fundo do copo, as lâminas anguladas do EIB10 foram desenhadas para gerar um vortex contínuo. Esse movimento circular puxa os ingredientes em direção às lâminas de aço inoxidável e minimiza a entrada de ar. O resultado prático é que as suas vitaminas ganham consistência densa sem excesso de espuma, os caldos e purês ficam sedosos e o tempo necessário para emulsionar uma maionese cai pela metade.",
+      "No uso diário, a versatilidade do conjunto de acessórios faz com que o mixer praticamente more sobre a bancada. Com a haste principal, você bate a sopa direto na panela ainda morna, sem perigo de queimar o copo ou causar respingos no fogão. Quando a receita pede temperos, basta encaixar a base motorizada no mini processador de 600 ml: você tritura alho, ervas frescas, castanhas e queijos duros como parmesão em meros toques de botão. E se a sobremesa exigir claras em neve ou chantilly aerado, o batedor de arames metálicos (fouet) assume o papel de uma batedeira de mão compacta, batendo claras bem firmes sem cansar os braços.",
+      "Em termos operacionais, o modelo oferece dois botões de acionamento emborrachados: velocidade padrão para misturas suaves e Função Turbo para trituração rápida de ingredientes mais resistentes, segundo a Electrolux. O copo misturador graduado de 600 ml permite dosar líquidos diretamente durante o preparo sem precisar de jarras medidoras extras. Além disso, segundo dados técnicos da fabricante, todos os recipientes plásticos que entram em contato com os alimentos são 100% livres de Bisfenol A (BPA Free) e parabenos, garantindo total segurança para preparar desde a papinha do bebê até shakes proteicos diários. O cabo elétrico de 1,2 metro oferece excelente alcance e liberdade de movimento ao redor da bancada ou pia.",
+      "Na hora da limpeza, a praticidade continua sendo o ponto alto. As travas laterais de desencaixe rápido soltam a haste, o batedor ou a tampa do mini processador com um clique leve. O copo, a lâmina do picador e o recipiente transparente podem ser lavados diretamente em água corrente com esponja macia ou levados à máquina de lavar louças, segundo o manual do fabricante. Como dica de uso real, para prolongar a vida útil do motor de 400W ao picar alimentos mais rígidos como castanhas ou queijo curado no mini processador, utilize toques pulsados de 2 a 3 segundos na Função Turbo em vez de segurar o botão pressionado continuamente. Nunca mergulhe a peça do motor superior ou as tampas de engrenagem na água; para elas, um pano úmido bem torcido é suficiente.",
+      "Um último cuidado: o Mixer 3 em 1 Electrolux EIB10 é um aparelho monovolt e não possui chave seletora bivolt, existindo em versões específicas de 127V (código comercial 4011AHBR407, EAN 7896347181808) e de 220V (código comercial 4011AHBR507, EAN 7896347181815). O link e a análise detalhada deste guia correspondem à versão oficial de 127V. Antes de fechar a compra na Amazon Brasil, confira sempre a voltagem selecionada no anúncio para garantir total compatibilidade com a rede da sua cozinha e contar com os 12 meses de garantia oficial de fábrica oferecidos pela Electrolux."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "EIB10 (Linha Efficient 3 em 1)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "400W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (Monovolt - não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Velocidades",
+        "valor": "2 velocidades (Padrão e Função Turbo com botões emborrachados)"
+      },
+      {
+        "chave": "Tecnologia das Lâminas",
+        "valor": "TruFlow™ em aço inoxidável (design que cria vortex e reduz bolhas de ar)"
+      },
+      {
+        "chave": "Capacidade do Copo Misturador",
+        "valor": "600 ml (Livre de BPA e parabenos)"
+      },
+      {
+        "chave": "Capacidade do Mini Processador",
+        "valor": "600 ml com lâmina trituradora em aço inoxidável"
+      },
+      {
+        "chave": "Batedor de Claras",
+        "valor": "Acessório tipo fouet metálico com encaixe rápido"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,2 metro"
+      },
+      {
+        "chave": "Dimensões do Mixer (A x L x P)",
+        "valor": "40,1 cm x 5,5 cm x 9,1 cm"
+      },
+      {
+        "chave": "Peso Líquido Total",
+        "valor": "1,05 kg (aparelho com acessórios), segundo a Electrolux"
+      },
+      {
+        "chave": "Código Comercial Electrolux",
+        "valor": "4011AHBR407"
+      },
+      {
+        "chave": "Código EAN (127V)",
+        "valor": "7896347181808"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Kit 3 em 1 completo com haste misturadora, mini processador de 600 ml e batedor tipo fouet para múltiplas tarefas em um só produto",
+      "Tecnologia TruFlow™ com lâminas em aço inox que criam vortex para misturas muito mais homogêneas e com menos bolhas de ar",
+      "Potência de 400W com Função Turbo dedicada que tritura ingredientes mais densos, queijos e temperos rapidamente",
+      "Materiais 100% livres de Bisfenol A (BPA Free) e parabenos no copo medidor e no corpo do mini processador",
+      "Cabo elétrico longo de 1,2 metro que proporciona ampla mobilidade e conforto de uso perto do fogão ou pia",
+      "Acessórios desmontáveis de encaixe fácil e seguros para higienização prática em água corrente ou lava-louças",
+      "Copo medidor transparente de 600 ml com marcações precisas para bater vitaminas e molhos na quantidade exata"
+    ],
+    "pontos_atencao": [
+      "Aparelho monovolt de 127V (não é bivolt), exigindo atenção na escolha da voltagem correta antes de comprar",
+      "O mini processador de 600 ml é projetado para porções caseiras e temperos, não sendo indicado para triturar ossos ou grãos ultraduros de café",
+      "A peça superior com motor elétrico e a tampa acopladora de engrenagens não podem ser submersas em água",
+      "Uso contínuo prolongado exige pausas de descanso do motor para evitar superaquecimento térmico em preparos muito pesados"
+    ],
+    "para_quem_e": "Para quem busca praticidade máxima no dia a dia para picar temperos, fazer sucos, shakes, purês e bater claras em neve sem ocupar espaço nos armários e sem sujar aparelhos pesados.",
+    "para_quem_nao_e": "Para quem necessita processar grandes volumes industriais de uma só vez, triturar grãos de café em alta dureza continuamente ou procura um produto com chave bivolt automática."
   }
 ];
 
