@@ -1911,5 +1911,12 @@ window.PEDIDOS = [
     ],
     "para_quem_e": "Pais e cuidadores de bebês de 12 a 15 kg que buscam uma fralda confortável e com boa sustentação para o dia a dia e para a noite, garantindo mobilidade para brincar sem que a fralda pese ou fique frouxa.",
     "para_quem_nao_e": "Crianças que já pesam 15 kg ou mais (que exigem o tamanho XXG) ou para quem busca pacotes econômicos gigantescos de mais de 60 unidades em uma única embalagem."
+  },
+  {
+    "titulo": "Produto sem nome",
+    "imagem": "",
+    "preco": null,
+    "link": "",
+    "descricao": ""
   }
 ];
