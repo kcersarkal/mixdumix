@@ -2809,6 +2809,133 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para pessoas que moram sozinhas, casais e famílias pequenas ou escritórios compactos que buscam um café passado fresco, rápido e quente no dia a dia, com praticidade de limpeza e sem depender de filtros de papel descartáveis.",
     "para_quem_nao_e": "Para famílias muito numerosas ou eventos que demandam preparar de 30 a 40 xícaras de café em uma única rodada, ou para quem necessita de funções digitais de programação de horário de início ou aparelho bivolt."
+  },
+  {
+    "asin": "B0BT26M491",
+    "id": "aspirador-po-vertical-wap-silent-speed-max-1350w-127v",
+    "titulo": "Aspirador de Pó Vertical WAP Silent Speed Max 3 em 1 1350W (Cinza/Preto, 127V)",
+    "subtitulo": "Chega de vassoura levantando pó: potência de 1350W e filtro HEPA em um corpo leve que entra até debaixo da cama",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-vertical-wap-silent-speed-max-1350w-127v.jpg",
+    "data_revisao": "2026-11-03",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Se você cansou de varrer a casa só para ver a poeira subir no ar e assentar nos móveis minutos depois, o WAP Silent Speed Max 1350W é aquele aliado que transforma a faxina rápida de 15 minutos em algo indolor. Ele combina potência de sobra para sugar pelos de animais, migalhas e poeira fina em pisos frios e tapetes, com um bico articulado 360° que desliza facilmente embaixo dos móveis. Por pesar somente 1,6 kg e virar um aspirador de mão portátil com filtro HEPA lavável, ele resolve desde o piso da cozinha até as frestas do sofá sem exigir sacos descartáveis ou esforço nas costas.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BT26M491?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando você vê farelos caídos no tapete, pelos do cachorro espalhados pelo sofá ou poeira nos cantos da sala, mas só de pensar em pegar uma vassoura que levanta pó ou puxar aquele aspirador de chão pesado e cheio de mangueiras a vontade de limpar passa na hora? É exatamente para resolver essa preguiça da faxina diária que os aspiradores verticais ganharam as casas modernas, e o WAP Silent Speed Max se destaca como uma das opções mais equilibradas para quem busca praticidade sem abrir mão de força bruta.",
+      "O grande atrativo deste modelo está na versatilidade 3 em 1 somada à sua notável leveza. Com apenas 1,6 kg na balança, ele é fácil de conduzir com uma mão só, poupando os punhos e as costas mesmo em limpezas completas do piso. A alça ergonômica desmonta com facilidade por meio de travas rápidas, transformando o aparelho em um prático aspirador de mão. Nessa configuração compacta, você acopla o bico de cantos diretamente no corpo para higienizar estofados, frestas de gavetas, trilhos de janelas e até o interior do automóvel com total liberdade de movimento.",
+      "Na rotina sobre o piso, o bico principal conta com o sistema articulado 360°, que permite girar o aspirador em ângulos fechados e deitá-lo quase que rente ao chão. Isso significa que você consegue alcançar a sujeira acumulada embaixo de camas baixas, sofás e armários sem ter que arrastar móveis pesados de lugar. Outro ponto elogiável é o cabo elétrico generoso de 5 metros de extensão: com ele plugado na tomada central do corredor ou da sala, você consegue circular entre diferentes cômodos sem ter que parar o tempo todo para procurar uma nova tomada livre.",
+      "No coração da máquina opera um motor elétrico de 1350W de potência associado à tecnologia ciclônica e a um vácuo de 85 mbar na versão 127V, segundo dados técnicos oficiais da WAP. Essa combinação gera um fluxo contínuo de ar que centrifuga a poeira e compacta os resíduos nas paredes do recipiente, evitando que o fluxo de ar seja obstruído precocemente à medida que a sujeira entra. Na filtragem, o conjunto conta com 3 etapas e inclui um filtro HEPA lavável, projetado para barrar até 99,5% de ácaros, fungos e micropartículas alergênicas antes de devolver o ar ao ambiente — uma tranquilidade indispensável para alérgicos e tutores de pets.",
+      "Para manter o aparelho sempre com rendimento máximo, a manutenção requer poucos passos: o reservatório transparente de 1 litro de capacidade se desprende com um clique para descarte direto no lixo, dispensando o custo recorrente e a sujeira da troca de sacos de papel. Uma dica essencial para prolongar a vida útil do motor é lavar periodicamente o filtro HEPA sob água corrente morna ou fria, sempre aguardando a secagem completa ao ar livre e à sombra por pelo menos 24 horas antes de remontar na máquina, pois a umidade interna pode danificar as turbinas.",
+      "Um último cuidado: este modelo opera em tensão elétrica monovolt de 127V (referência de fábrica FW009108) e não é bivolt. Antes de concluir a compra, confira cuidadosamente a voltagem das tomadas da sua casa (a WAP fabrica a versão idêntica em 220V com o código FW009109) para assegurar o funcionamento perfeito e preservar a integridade do seu eletrodoméstico por muitos anos."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "WAP"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "Silent Speed Max 3 em 1 (FW009108)"
+      },
+      {
+        "chave": "Tipo de Aspirador",
+        "valor": "Vertical e Portátil de Mão (3 em 1)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1350 W, segundo a WAP"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (monovolt, não é bivolt)"
+      },
+      {
+        "chave": "Poder de Vácuo",
+        "valor": "85 mbar (127V), segundo a WAP"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "84 dB(A), segundo a WAP"
+      },
+      {
+        "chave": "Tipo de Filtro",
+        "valor": "Filtro HEPA lavável (3 níveis de filtragem)"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "1,0 litro (capacidade total), segundo a WAP"
+      },
+      {
+        "chave": "Tecnologia de Aspiração",
+        "valor": "Tecnologia Ciclone com separação de ar e poeira"
+      },
+      {
+        "chave": "Aspira Líquidos",
+        "valor": "Não (indicado exclusivamente para poeira e resíduos secos)"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "5 metros (com suportes de enrolamento na carcaça)"
+      },
+      {
+        "chave": "Bico Principal",
+        "valor": "Bico múltiplo articulado 360° para carpetes e pisos frios"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Bico articulado 360°, bico de canto/frestas, suporte para bico canto e alça removível"
+      },
+      {
+        "chave": "Dimensões do Produto (C x L x A)",
+        "valor": "24,3 cm x 12,5 cm x 112 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,6 kg, segundo a WAP"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Cinza e Preto"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899831311392"
+      },
+      {
+        "chave": "Código do Fabricante",
+        "valor": "FW009108"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses concedidos pela WAP)"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência elevada de 1350W aliada à tecnologia ciclônica que aspira sujeiras pesadas, migalhas e pelos sem perder a força de sucção rapidamente",
+      "Filtro HEPA lavável com tripla camada de filtragem que retém até 99,5% de ácaros, fungos e micropartículas de poeira fina",
+      "Design 3 em 1 versátil que se transforma em segundos em um prático aspirador portátil de mão para estofados, frestas e carros",
+      "Cabo elétrico longo de 5 metros com suporte de enrolamento na carcaça, oferecendo ótimo raio de ação sem necessidade de troca constante de tomada",
+      "Bico para piso com sistema articulado de rotação 360° que desliza com agilidade embaixo de sofás, camas baixas e mesas",
+      "Estrutura muito leve de apenas 1,6 kg que permite manuseio confortável com apenas uma mão durante a limpeza diária",
+      "Reservatório translúcido de 1 litro lavável e com esvaziamento simples direto na lixeira, dispensando o gasto com sacos coletores descartáveis"
+    ],
+    "pontos_atencao": [
+      "Aparelho monovolt de 127V (não é bivolt), exigindo conferir a rede elétrica da tomada antes da conexão",
+      "Não é projetado para aspirar líquidos, pós ultrafinos de reformas pesadas (gesso/cimento) ou fuligem aquecida",
+      "Como em grande parte dos aspiradores verticais compactos de alta potência, as saídas laterais de ar podem espalhar pós muito leves no chão caso o bico passe muito perto antes da aspiração",
+      "O cabo elétrico de 5 metros precisa ser enrolado manualmente nos ganchos do corpo, sem mecanismo retrátil automático",
+      "Para manter a potência máxima e evitar superaquecimento, o filtro HEPA precisa ser lavado periodicamente e secar por completo antes de ser reutilizado"
+    ],
+    "para_quem_e": "Para quem mora em apartamentos ou casas e procura um aspirador vertical potente, leve e ágil para substituir a vassoura no recolhimento diário de pelos de animais, poeira e farelos, com a versatilidade de limpar sofás e frestas no modo portátil.",
+    "para_quem_nao_e": "Para quem necessita de um aspirador com função de sucção de água/líquidos, para quem faz limpeza pesada pós-obra com gesso e entulho grosso, ou para quem busca um modelo com recolhimento automático de cabo ou bateria sem fio."
   }
 ];
 
