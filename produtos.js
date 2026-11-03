@@ -2683,6 +2683,132 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca praticidade máxima no dia a dia para picar temperos, fazer sucos, shakes, purês e bater claras em neve sem ocupar espaço nos armários e sem sujar aparelhos pesados.",
     "para_quem_nao_e": "Para quem necessita processar grandes volumes industriais de uma só vez, triturar grãos de café em alta dureza continuamente ou procura um produto com chave bivolt automática."
+  },
+  {
+    "asin": "B09CC72K1X",
+    "id": "cafeteira-eletrica-electrolux-efficient-ecm10-15-xicaras-127v",
+    "titulo": "Cafeteira Elétrica Electrolux Efficient ECM10 15 Xícaras com Jarra de Vidro (Inox/Preto, 600 W, 127V)",
+    "subtitulo": "Cafezinho passado fresco e quentinho na medida certa para o seu dia, com filtro permanente lavável, jarra de vidro resistente e acabamento elegante em aço inox escovado",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/cafeteira-eletrica-electrolux-efficient-ecm10-15-xicaras-127v.jpg",
+    "data_revisao": "2026-11-03",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Cafeteira Elétrica Electrolux Efficient ECM10 é a escolha ideal para quem não abre mão do aconchego de um bom café passado fresco, mas não quer perder tempo nem ocupar espaço na bancada. Com potência de 600W e capacidade de 600 ml (até 15 xícaras de 40 ml), ela entrega a quantidade exata para o café da manhã ou a pausa do trabalho sem gerar desperdício de pó. Seu filtro permanente lavável traz sustentabilidade e alívio para o bolso ao eliminar a obrigatoriedade dos filtros de papel, enquanto o sistema corta-pingos e a base de aquecimento garantem que você sirva sua bebida quente a qualquer momento sem respingos e sem complicações.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09CC72K1X?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela rotina corrida da manhã em que você só precisa de um café passado bem quentinho para começar o dia, mas bate aquela preguiça de ferver água na chaleira, montar coador de pano ou papel e ainda correr o risco de entornar pó na bancada da pia? Ou quando bate a vontade de tomar um café fresco à tarde no home office, mas preparar uma garrafa térmica inteira acaba gerando sobra fria e desperdício? Para quem tem pouco espaço na cozinha ou na mesa de trabalho, ter um equipamento prático e rápido faz toda a diferença para o cafezinho diário sair sem esforço. A Cafeteira Elétrica Electrolux Efficient ECM10 foi desenvolvida exatamente para descomplicar esse ritual diário.",
+      "O principal atrativo da Electrolux ECM10 está no equilíbrio entre um corpo super compacto e a entrega de até 600 ml de café por ciclo. Segundo a Electrolux, essa capacidade rende até 15 cafezinhos de 40 ml, a medida perfeita para quem mora sozinho, para casais ou pequenas equipes que querem a bebida feita na hora sem ocupar espaço desnecessário na bancada. Outro benefício central é o seu filtro permanente lavável: ele é totalmente removível e reutilizável, o que dispensa o gasto contínuo e a preocupação em lembrar de comprar filtros de papel descartáveis, além de diminuir o volume de resíduos na sua lixeira. Se você preferir o sabor ou a praticidade do filtro de papel tradicional número 101, o encaixe também é compatível.",
+      "No cotidiano, a operação é descomplicada e intuitiva. Basta abrir o compartimento superior, colocar a água observando o indicador transparente de nível de água com marcação em xícaras, abastecer o pó com a colher dosadora inclusa e acionar o interruptor luminoso na lateral. Se a vontade de tomar o primeiro gole falar mais alto antes mesmo do preparo terminar por completo, o sistema corta-pingos permite que você retire a jarra de vidro da base sem que gotas caiam sobre a placa aquecida, evitando estalos, manchas e fumaça de café queimado. Após o término do ciclo, a placa de aquecimento inferior entra em ação para conservar a bebida quente até a hora do segundo copo.",
+      "Com potência de 600W, segundo a fabricante, a cafeteira atinge a temperatura ideal para a extração em poucos minutos, filtrando a jarra completa de 600 ml com velocidade e agilidade. Esse aquecimento controlado ajuda a extrair o corpo e as notas do café sem queimar o pó. Além disso, a jarra é fabricada em vidro resistente com tampa articulada e alça ergonômica, podendo ser levada à mesa com segurança ou lavada diretamente na máquina de lava-louças sem riscos de deformação, o que reduz consideravelmente o tempo gasto na higienização pós-café.",
+      "Para tirar o melhor proveito do equipamento e garantir café sempre aromático, uma dica prática de uso é desligar o interruptor luminoso após cerca de 30 a 40 minutos mantendo a jarra na base. Embora a placa aquecida mantenha a temperatura de forma eficiente, deixar o café sobre calor constante por períodos muito prolongados pode evaporar água e alterar o sabor, deixando a bebida mais amarga. Na limpeza, basta enxaguar o filtro permanente e o porta-filtro sob água corrente com detergente neutro e uma esponja macia, evitando palhas de aço para preservar o acabamento em inox escovado e a transparência do reservatório.",
+      "Um último cuidado: a Cafeteira Elétrica Electrolux Efficient ECM10 não é um aparelho bivolt, sendo disponibilizada em versões dedicadas de 127V (código comercial 4910ANBR405) e de 220V (código comercial 4910ANBR505). Este artigo e o link de compra selecionado correspondem ao modelo oficial de 127V. Antes de confirmar a compra na Amazon Brasil, confira sempre a voltagem selecionada para garantir perfeita compatibilidade com a rede elétrica da sua casa e assegurar o respaldo do 1 ano de garantia de fábrica da Electrolux."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Efficient (ECM10)"
+      },
+      {
+        "chave": "Código Comercial",
+        "valor": "4910ANBR405 (versão 127V)"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Cafeteira elétrica de filtro para café coado"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "600 W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Capacidade da Jarra",
+        "valor": "600 ml (rende até 15 cafezinhos de 40 ml)"
+      },
+      {
+        "chave": "Tipo de Jarra",
+        "valor": "Vidro refratário com graduação e compatível com lava-louças"
+      },
+      {
+        "chave": "Tipo de Filtro",
+        "valor": "Filtro permanente removível e lavável (compatível com filtro de papel tamanho 101)"
+      },
+      {
+        "chave": "Sistema Corta-Pingos",
+        "valor": "Sim (permite servir o café durante o preparo sem respingos na base)"
+      },
+      {
+        "chave": "Placa de Aquecimento",
+        "valor": "Sim (função manter aquecido preserva a temperatura após o preparo)"
+      },
+      {
+        "chave": "Indicador do Nível de Água",
+        "valor": "Transparente com graduação de xícaras"
+      },
+      {
+        "chave": "Interruptor",
+        "valor": "Botão lateral com lâmpada piloto indicadora de funcionamento"
+      },
+      {
+        "chave": "Material do Corpo",
+        "valor": "Plástico com acabamento frontal em aço inoxidável escovado"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "0,65 metro com enrolador de cabo embutido na base"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "26,2 cm x 14,6 cm x 22,2 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "0,94 kg, segundo a Electrolux"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896347181723"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses), segundo a Electrolux"
+      }
+    ],
+    "pontos_fortes": [
+      "Filtro permanente lavável e removível que economiza com filtros descartáveis e diminui o descarte de resíduos de papel",
+      "Capacidade de 600 ml que prepara até 15 xícaras na medida ideal para consumo individual, casais ou pequenos escritórios sem desperdício",
+      "Sistema corta-pingos eficiente que permite servir a primeira xícara durante o ciclo de filtragem sem respingos na base",
+      "Base de aquecimento que preserva a bebida quentinha e pronta para consumo por mais tempo após o término do preparo",
+      "Design compacto com detalhes frontais em aço inoxidável escovado que valoriza a bancada e ocupa pouquíssimo espaço",
+      "Jarra de vidro refratário com tampa articulada e alça ergonômica, apta para higienização em máquina de lava-louças",
+      "Potência de 600W que garante filtragem rápida e temperatura balanceada para extrair o melhor aroma do pó"
+    ],
+    "pontos_atencao": [
+      "Aparelho monovolt de 127V (não é bivolt), exigindo seleção atenta da voltagem de acordo com a tomada da cozinha",
+      "Reservatório de água integrado e não removível, necessitando do uso da própria jarra ou de um copo para o abastecimento",
+      "Jarra de vidro requer cuidado no manuseio diário contra impactos e choques térmicos sobre superfícies frias",
+      "Não possui timer programável nem desligamento automático cronometrado, exigindo desligar manualmente o botão após o uso"
+    ],
+    "para_quem_e": "Para pessoas que moram sozinhas, casais e famílias pequenas ou escritórios compactos que buscam um café passado fresco, rápido e quente no dia a dia, com praticidade de limpeza e sem depender de filtros de papel descartáveis.",
+    "para_quem_nao_e": "Para famílias muito numerosas ou eventos que demandam preparar de 30 a 40 xícaras de café em uma única rodada, ou para quem necessita de funções digitais de programação de horário de início ou aparelho bivolt."
   }
 ];
 
