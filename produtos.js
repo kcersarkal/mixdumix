@@ -3086,6 +3086,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias de até 4 pessoas, casais ou quem mora sozinho e busca água pura, fresca e gelada de forma prática no dia a dia, com aparelho compacto, painel touch moderno e sem complicações de voltagem por ser bivolt.",
     "para_quem_nao_e": "Para estabelecimentos comerciais, consultórios de alto fluxo ou famílias muito grandes que necessitam retirar litros ininterruptos de água extremamente gelada ao mesmo tempo, cenários que exigem bebedouros de grande porte com compressor."
+  },
+  {
+    "asin": "B09DLCTPWR",
+    "id": "air-fryer-electrolux-experience-eaf20-3-2l-127v",
+    "titulo": "Air Fryer Electrolux por Rita Lobo 3,2L Digital Cinza Experience (EAF20, 1400W, 127V)",
+    "subtitulo": "Praticidade digital com aviso inteligente para virar alimentos, 1400 W de potência e o tamanho compacto de 3,2L perfeito para a sua bancada",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/air-fryer-electrolux-experience-eaf20-3-2l-127v.jpg",
+    "data_revisao": "2026-11-04",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Air Fryer Electrolux Digital Experience EAF20 de 3,2L (parceria com Rita Lobo) é a opção ideal para solteiros, casais e lares pequenos que valorizam precisão digital e praticidade no balcão da cozinha. Com 1400 W de potência, painel touch com 9 receitas pré-programadas e aviso sonoro inteligente para virar os alimentos, ela entrega refeições crocantes e saudáveis sem complicação e com limpeza muito fácil.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09DLCTPWR?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele dia corrido em que você quer um jantar rápido e saboroso — seja um frango grelhado suculento, legumes tostados ou até uma porção de batatas crocantes —, mas só de pensar em ligar a boca do fogão, espirrar gordura no azulejo e ter que esfregar panela pesada depois, já dá desânimo? As fritadeiras elétricas conquistaram as cozinhas justamente por resolverem essa equação, mas muitos modelos compactos pecam por botões analógicos imprecisos ou por deixarem a comida crua de um lado e queimada do outro se você esquecer de mexer.",
+      "É nesse ponto que a Air Fryer Electrolux Digital Experience (EAF20), desenvolvida em parceria com a chef Rita Lobo, se destaca no balcão. O grande diferencial está no painel digital Assistant Touch, que traz 9 programas pré-definidos para receitas comuns do cotidiano e uma função inteligente que avisa a hora de virar os alimentos. Em vez de adivinhar o momento em que a carne precisa ser girada ou ficar abrindo a gaveta a cada cinco minutos, o painel emite alertas sonoro e luminoso na metade do tempo ideal de preparo, garantindo que o calor circule por igual e deixe tudo dourado de forma uniforme.",
+      "No dia a dia, a capacidade de 3,2 litros no cesto é na medida para quem mora sozinho, casais ou famílias pequenas de até três pessoas que desejam porções rápidas sem ocupar a bancada inteira. Com 1400 W de potência, o ar superaquecido circula em alta velocidade dentro do compartimento, dispensando o uso de óleo e reduzindo o tempo total de preparo em comparação ao forno convencional. Outro recurso prático é a função de pré-aquecimento com tecla exclusiva, que prepara a câmara térmica na temperatura desejada antes de você colocar os alimentos, evitando que petiscos percam a umidade ou fiquem encharcados.",
+      "Segundo as especificações divulgadas pela Electrolux, a combinação de alta circulação térmica e potência de 1400 W permite preparar refeições com teor de gordura reduzido em até 90% em comparação à fritura tradicional por imersão, além de operar com timer digital preciso de até 30 minutos com desligamento automático ao final. Isso significa que você pode colocar o prato para assar e cuidar de outras tarefas da casa sem receio de queimar os ingredientes ou correr riscos, já que o aparelho cessa o aquecimento sozinho assim que o tempo se esgota.",
+      "Para manter a fritadeira em ótimo estado por anos, o manuseio correto do cesto é fundamental. O recipiente possui revestimento antiaderente que solta resíduos com facilidade, mas exige utensílios de silicone, madeira ou nylon para não riscar a camada protetora. Na hora de limpar, espere o cesto esfriar completamente e use apenas o lado macio da esponja com detergente neutro. Uma dica prática de preparo: ao fazer legumes ou frango em cubos, distribua-os em camada única no fundo sem empilhar em excesso, permitindo que o fluxo de ar envolva cada pedaço e atinja aquela textura sequinha por fora e macia por dentro.",
+      "Um último cuidado: este anúncio corresponde especificamente à versão de 127V com acabamento em cinza grafite (modelo EAF20, código comercial 5210AABR403). Como o produto não é bivolt, verifique com atenção se a voltagem das tomadas da sua cozinha é 110V/127V antes de concluir a compra para evitar danos ao eletrodoméstico e garantir uma instalação segura."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Modelo / Linha",
+        "valor": "EAF20 (Linha Experience Rita Lobo)"
+      },
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Capacidade do Cesto",
+        "valor": "3,2 litros"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1400 W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Painel de Controle",
+        "valor": "Digital Assistant Touch"
+      },
+      {
+        "chave": "Receitas Pré-Programadas",
+        "valor": "9 funções pré-definidas"
+      },
+      {
+        "chave": "Função Virar (Shake Remind)",
+        "valor": "Sim (alerta sonoro e luminoso para girar o alimento)"
+      },
+      {
+        "chave": "Função Pré-Aquecer",
+        "valor": "Sim (tecla dedicada para atingir a temperatura ideal prévia)"
+      },
+      {
+        "chave": "Timer",
+        "valor": "Até 30 minutos com desligamento automático e aviso sonoro"
+      },
+      {
+        "chave": "Cesto",
+        "valor": "Removível e com revestimento antiaderente"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Cinza Grafite"
+      },
+      {
+        "chave": "Dimensões do Produto (L x A x P)",
+        "valor": "29,0 cm x 32,5 cm x 39,4 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "5,5 kg, segundo a Electrolux"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896347181662"
+      },
+      {
+        "chave": "Código Comercial",
+        "valor": "5210AABR403"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses concedidos pela Electrolux)"
+      }
+    ],
+    "pontos_fortes": [
+      "Painel digital Assistant Touch intuitivo com 9 receitas pré-programadas para ajustar tempos e temperaturas com apenas um toque",
+      "Função Virar com alerta sonoro e luminoso que avisa a hora exata de mexer o alimento para assar uniformemente",
+      "Função Pré-Aquecer dedicada que estabiliza a temperatura da câmara antes do preparo e garante crocância superior",
+      "Potência de 1400 W com circulação rápida de ar superaquecido que doura e cozinha refeições com até 90% menos gordura",
+      "Cesto antiaderente removível de 3,2 litros que atende confortavelmente até 3 pessoas e facilita a lavagem após o uso",
+      "Timer digital com desligamento automático e aviso sonoro que elimina o risco de queimar a comida caso se esqueça do tempo",
+      "Design moderno em acabamento cinza grafite desenvolvido em parceria com a chef Rita Lobo, valorizando a bancada"
+    ],
+    "pontos_atencao": [
+      "Aparelho não é bivolt, exigindo confirmação da rede elétrica (esta versão opera em 127V)",
+      "Capacidade de 3,2 litros atende muito bem solteiros e casais, mas pode exigir preparo em etapas para famílias de 4 ou mais pessoas",
+      "Timer digital programável limitado a 30 minutos contínuos por ciclo, demandando reinício para pratos de cozimento prolongado",
+      "O revestimento antiaderente exige cuidados preventivos com utensílios de silicone ou madeira e limpeza com esponja macia"
+    ],
+    "para_quem_e": "Para pessoas que moram sozinhas, casais ou famílias pequenas que buscam uma air fryer moderna, com painel digital preciso, receitas pré-definidas e alertas inteligentes para refeições rápidas e saudáveis sem ocupar muito espaço na cozinha.",
+    "para_quem_nao_e": "Para famílias numerosas que precisam preparar grandes volumes de uma só vez (como frangos inteiros ou grandes assados) ou cozinhas que necessitem de aparelhos exclusivamente bivolt."
   }
 ];
 
