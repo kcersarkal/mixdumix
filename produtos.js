@@ -2936,6 +2936,156 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora em apartamentos ou casas e procura um aspirador vertical potente, leve e ágil para substituir a vassoura no recolhimento diário de pelos de animais, poeira e farelos, com a versatilidade de limpar sofás e frestas no modo portátil.",
     "para_quem_nao_e": "Para quem necessita de um aspirador com função de sucção de água/líquidos, para quem faz limpeza pesada pós-obra com gesso e entulho grosso, ou para quem busca um modelo com recolhimento automático de cabo ou bateria sem fio."
+  },
+  {
+    "asin": "B08X5Z81LK",
+    "id": "purificador-agua-electrolux-pure-4x-pe12b-bivolt",
+    "titulo": "Purificador de Água Electrolux Pure 4X PE12B com Painel Touch e 3 Temperaturas (Branco, Bivolt)",
+    "subtitulo": "Água pura, fresca e gelada sem ocupar espaço na pia: conheça o purificador compacto que aposenta de vez os galões pesados e as garrafas na geladeira",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/purificador-agua-electrolux-pure-4x-pe12b-bivolt.jpg",
+    "data_revisao": "2026-11-04",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Se você cansou de carregar galão de 20 litros pela casa, de encher garrafinhas de água para colocar na geladeira ou de desconfiar do cheiro de cloro da água da torneira, o Electrolux Pure 4X PE12B é a solução prática que resolve o problema sem entulhar a bancada. Com apenas 16 cm de largura, ele cabe mesmo nas cozinhas mais compactas e oferece três temperaturas (natural, fria e gelada) acionadas por um toque suave no painel touch. Seu sistema de filtragem Acqua Pure retém partículas e elimina o gosto de cloro, enquanto o fluxo PowerJet e o modo contínuo enchem copos e jarras em segundos, tudo com a facilidade da alimentação bivolt automática.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B08X5Z81LK?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela rotina cansativa de descobrir que a água gelada da geladeira acabou bem na hora do almoço porque alguém esqueceu de encher as garrafas? Ou o transtorno de ter que virar um galão pesado de 20 litros na base de um bebedouro antigo, correndo o risco de molhar o piso e machucar as costas? Para quem mora em apartamento ou tem uma cozinha planejada com espaço concorrido na pia, encontrar uma alternativa prática que entregue água filtrada de verdade e em boa temperatura sem ocupar metade da bancada é um verdadeiro alívio. O purificador Electrolux Pure 4X PE12B nasceu justamente para suprir essa necessidade do dia a dia sem complicação.",
+      "O principal trunfo deste modelo está no seu projeto arquitetônico ultra compacto. Com somente 16 cm de largura frontal, ele consegue se encaixar em vãos estreitos entre eletrodomésticos, nichos ou ao lado da cuba da pia sem roubar a área útil de preparo de alimentos. Além da silhueta esguia, o visual moderno é complementado por uma superfície branca em polipropileno de alta densidade sem pintura superficial a pistola — o que evita descascamentos ou manchas amareladas com o passar dos anos — e um painel eletrônico totalmente sensível ao toque (touch), trazendo um ar contemporâneo que valoriza o ambiente da cozinha.",
+      "No cotidiano, a experiência é pensada para quem tem pressa e não quer perder tempo. O painel superior permite alternar instantaneamente entre três opções: água natural, fria (refrescante) e gelada. Graças à tecnologia PowerJet combinada ao fluxo contínuo, você não precisa ficar segurando o botão pressionado com o dedo: basta dar um toque para acionar o fluxo contínuo e encher uma jarra de suco ou uma panela inteira para o arroz. A bandeja coletora de respingos inferior é totalmente removível e lavável, permitindo apoiar recipientes mais altos ou garrafas esportivas diretamente sob o bico dispensador sem qualquer malabarismo.",
+      "Por dentro do aparelho, a segurança hídrica da família é garantida pelo refil original com tecnologia Acqua Pure. Ele reúne duas barreiras em um único bloco: uma camada de polipropileno para reter areia, barro e sedimentos da tubulação, e carvão ativado com íons de prata, que age diretamente na redução do cloro livre e inibe a proliferação interna de microrganismos e bactérias. Segundo os dados técnicos da Electrolux e ensaios de conformidade, cada cartucho tem capacidade nominal para purificar até 3.000 litros de água (o equivalente a poupar o descarte de aproximadamente 2.000 garrafas plásticas de 1,5L) ou durar cerca de 6 meses. E você não precisa marcar no calendário nem tentar adivinhar a hora da troca: uma luz de LED indicadora no próprio painel pisca para alertar quando o filtro atingiu o nível de saturação.",
+      "Para tirar o melhor proveito do Electrolux PE12B, duas dicas práticas são fundamentais. A primeira diz respeito à refrigeração: como ele utiliza tecnologia de resfriamento eletrônico (placa Peltier de baixo ruído e consumo de apenas 65W) com reservatório interno de 800 ml de água resfriada, seu rendimento é ideal para residências com até 3 a 4 pessoas com consumo espaçado ao longo do dia. Caso a sua família tenha uma demanda intensa e simultânea de vários litros de água muito gelada em sequência nos dias de calor extremo, vale alternar com cubos de gelo. A segunda dica é na instalação: mantenha uma distância mínima de pelo menos 10 cm das saídas traseiras e laterais de ventilação em relação à parede para assegurar a dissipação térmica correta do motoventilador.",
+      "Um último cuidado: este produto é fabricado com sistema bivolt automático (100V a 240V), funcionando perfeitamente em tomadas de 110V/127V ou 220V sem necessidade de seletor manual ou transformador. No entanto, lembre-se de conferir se o seu ponto de instalação hidráulica possui pressão de água compatível (entre 4 e 40 mca) e utilize a mangueira e o adaptador de 1/2 polegada que acompanham o kit na embalagem original para garantir uma vedação impecável e sem vazamentos desde o primeiro dia."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "Pure 4X Compacto / Experience (PE12B)"
+      },
+      {
+        "chave": "Tipo de Aparelho",
+        "valor": "Purificador de água eletrônico de bancada"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Branco (plástico injetado sem pintura superficial)"
+      },
+      {
+        "chave": "Tensão / Alimentação",
+        "valor": "Bivolt automático (100V a 240V, 50/60 Hz)"
+      },
+      {
+        "chave": "Potência de Consumo",
+        "valor": "65 W, segundo a Electrolux"
+      },
+      {
+        "chave": "Opções de Temperatura",
+        "valor": "3 opções (Natural, Fria e Gelada)"
+      },
+      {
+        "chave": "Sistema de Refrigeração",
+        "valor": "Eletrônico (placa termoelétrica Peltier com motoventilador)"
+      },
+      {
+        "chave": "Capacidade do Reservatório Gelado",
+        "valor": "0,8 litro (800 ml), segundo a Electrolux"
+      },
+      {
+        "chave": "Capacidade de Refrigeração",
+        "valor": "0,15 L/h (água resfriada abaixo de 10°C), segundo a Electrolux"
+      },
+      {
+        "chave": "Tecnologia de Filtragem",
+        "valor": "Filtro Acqua Pure (polipropileno e carvão ativado com íons de prata)"
+      },
+      {
+        "chave": "Retenção de Partículas",
+        "valor": "Classe C (partículas de 5 a 15 µm), certificado pelo INMETRO"
+      },
+      {
+        "chave": "Redução de Cloro Livre",
+        "valor": "Eficiência comprovada (redução superior a 75% do cloro)"
+      },
+      {
+        "chave": "Controle Bacteriológico",
+        "valor": "Sim (inibe o desenvolvimento de bactérias por ação dos íons de prata)"
+      },
+      {
+        "chave": "Vida Útil do Filtro",
+        "valor": "3.000 litros ou cerca de 6 meses de uso (o que ocorrer primeiro)"
+      },
+      {
+        "chave": "Alerta de Troca do Filtro",
+        "valor": "Sim (luz indicadora em LED no painel avisando a saturação)"
+      },
+      {
+        "chave": "Painel de Controle",
+        "valor": "Painel Touch capacitivo sensível ao toque"
+      },
+      {
+        "chave": "Tecnologia de Fluxo",
+        "valor": "PowerJet com opção de acionamento contínuo"
+      },
+      {
+        "chave": "Pressão de Operação Recomendada",
+        "valor": "4 a 40 metros de coluna d'água (mca)"
+      },
+      {
+        "chave": "Bandeja Coletora",
+        "valor": "Removível e lavável (facilita o encaixe de garrafas e jarras)"
+      },
+      {
+        "chave": "Pés de Apoio",
+        "valor": "Borracha antiderrapante de alta estabilidade"
+      },
+      {
+        "chave": "Dimensões do Produto (L x A x P)",
+        "valor": "16,0 cm x 35,0 cm x 42,0 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "4,5 kg (com aparelho vazio), segundo a Electrolux"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7909569346099"
+      },
+      {
+        "chave": "Código de Referência de Fábrica",
+        "valor": "946521578 (PE12B)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses concedidos pela Electrolux)"
+      }
+    ],
+    "pontos_fortes": [
+      "Sistema de filtragem Acqua Pure com polipropileno e carvão ativado com íons de prata que retém impurezas, reduz cloro e inibe bactérias",
+      "Design ultra compacto com apenas 16 cm de largura frontal que se encaixa perfeitamente em cozinhas pequenas e bancadas disputadas",
+      "Três opções de temperatura (natural, fria e gelada) selecionáveis instantaneamente por meio de painel touch moderno",
+      "Tecnologia PowerJet com fluxo contínuo de água que enche copos rapidamente e permite abastecer jarras sem cansar o dedo",
+      "Alerta inteligente de troca de refil em LED que avisa com antecedência a hora exata da substituição do filtro",
+      "Troca do refil rápida e prática pelo topo do aparelho, feita por você mesmo sem necessidade de técnico ou ferramentas",
+      "Alimentação bivolt automática (100V a 240V), compatível com qualquer tomada residencial sem risco de queima"
+    ],
+    "pontos_atencao": [
+      "Sistema de refrigeração eletrônica com reservatório de 800 ml indicado para famílias de até 4 pessoas com consumo moderado, não sendo indicado para comércio de alta demanda",
+      "Requer ponto de água com pressão mínima de 4 mca para que o fluxo de água mantenha a velocidade ideal",
+      "Necessita de cerca de 10 cm de espaço livre ao redor para a circulação de ar e ventilação do sistema de resfriamento",
+      "O filtro original Acqua Pure requer substituição periódica a cada 6 meses ou 3.000 litros para assegurar a retenção bacteriológica"
+    ],
+    "para_quem_e": "Para famílias de até 4 pessoas, casais ou quem mora sozinho e busca água pura, fresca e gelada de forma prática no dia a dia, com aparelho compacto, painel touch moderno e sem complicações de voltagem por ser bivolt.",
+    "para_quem_nao_e": "Para estabelecimentos comerciais, consultórios de alto fluxo ou famílias muito grandes que necessitam retirar litros ininterruptos de água extremamente gelada ao mesmo tempo, cenários que exigem bebedouros de grande porte com compressor."
   }
 ];
 
