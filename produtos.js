@@ -3204,6 +3204,132 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para pessoas que moram sozinhas, casais ou famílias pequenas que buscam uma air fryer moderna, com painel digital preciso, receitas pré-definidas e alertas inteligentes para refeições rápidas e saudáveis sem ocupar muito espaço na cozinha.",
     "para_quem_nao_e": "Para famílias numerosas que precisam preparar grandes volumes de uma só vez (como frangos inteiros ou grandes assados) ou cozinhas que necessitem de aparelhos exclusivamente bivolt."
+  },
+  {
+    "asin": "B076HRRJVZ",
+    "id": "panela-de-arroz-eletrica-electrolux-rcb50-1-3l-127v",
+    "titulo": "Panela de Arroz Elétrica Electrolux 1,3L Branca Efficient por Rita Lobo (RCB50, 500W, 127V)",
+    "subtitulo": "Arroz soltinho no ponto certo sem vigiar o fogão, suporte para legumes a vapor e função manter aquecido para descomplicar a sua rotina",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/panela-de-arroz-eletrica-electrolux-rcb50-1-3l-127v.jpg",
+    "data_revisao": "2026-11-05",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A panela de arroz elétrica Electrolux RCB50 (1,3L / 7 xícaras) é a escolha ideal para quem quer arroz soltinho todo dia sem ter que vigiar a chama do fogão. Com acionamento automático por alavanca, modo manter aquecido que não queima o fundo, cuba com revestimento antiaderente e bandeja superior para legumes a vapor, ela resolve o almoço e o jantar com praticidade e limpeza fácil.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076HRRJVZ?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele dia corrido em que você está com mil tarefas pela casa ou no trabalho e precisa fazer o almoço, mas se bobear cinco minutos longe da boca do fogão a água seca, o arroz queima e a panela fica com aquela crosta preta terrível de lavar? Preparar arroz na panela tradicional sempre exige atenção constante para diminuir o fogo, tampar no momento exato e evitar que a água transborde no fogão, disputando espaço com os outros pratos da refeição.",
+      "A Panela de Arroz Elétrica Electrolux Efficient (RCB50), desenvolvida em parceria com a chef Rita Lobo, foi projetada justamente para transformar essa rotina em um processo automático de um único toque. Você apenas coloca o arroz e a água na medida do recipiente, aperta o botão seletor para baixo e esquece a preocupação. O sistema monitora a absorção da água e a temperatura interna: no instante em que o arroz termina de cozinhar, o mecanismo desarma a fervura sozinho e comuta para o modo Manter Aquecido.",
+      "Na rotina diária, a capacidade de 1,3 litro comporta até 7 xícaras de arroz cozido, o que atende com folga desde quem mora sozinho ou casais até lares familiares com quatro ou cinco pessoas. O grande trunfo de versatilidade está na vaporeira inclusa: uma bandeja perfurada que se encaixa na parte superior da cuba. Enquanto o arroz ganha forma embaixo, o vapor do preparo cozinha legumes frescos como brócolis, cenoura, vagem ou abobrinha na parte de cima, entregando uma refeição completa, saudável e equilibrada sem sujar duas panelas.",
+      "Segundo as especificações divulgadas pela Electrolux, o modelo conta com potência de 500 W que entrega o arroz branco pronto em cerca de 20 minutos, reduzindo o tempo de espera antes das refeições. O visor de vidro temperado transparente com saída para o vapor permite conferir o ponto das receitas em tempo real sem a necessidade de abrir a tampa e resfriar a cuba. Já o acabamento interno com revestimento antiaderente garante que nenhum grão fique grudado, preservando a textura aerada dos grãos.",
+      "Para conservar a cuba antiaderente em perfeitas condições por muitos anos, basta adotar cuidados bem simples: use exclusivamente a espátula plástica que vem na caixa ou colheres de silicone, nunca garfos ou talheres metálicos. Na pia, aguarde o recipiente esfriar e higienize com água morna e o lado amarelo macio da esponja. Uma dica valiosa de preparo: utilize o copo medidor para acertar o volume exato de água para cada tipo de grão (arroz agulhinha, parboilizado ou integral) e evite mexer o arroz durante o ciclo de aquecimento para que os grãos permaneçam inteiros e soltos.",
+      "Um último cuidado: este anúncio corresponde especificamente ao modelo Electrolux RCB50 na cor branca operando em 127V (código comercial 4330ABBR487). O aparelho não é bivolt, por isso confira com atenção se as tomadas da sua bancada são de 110V/127V antes de fechar a compra para garantir total compatibilidade e segurança."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Modelo / Linha",
+        "valor": "RCB50 (Linha Efficient Rita Lobo)"
+      },
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Capacidade em Litros",
+        "valor": "1,3 litros"
+      },
+      {
+        "chave": "Rendimento em Xícaras",
+        "valor": "Até 7 xícaras de arroz cozido"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "500 W, segundo a Electrolux"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Tipo de Painel",
+        "valor": "Manual com botão seletor e lâmpadas piloto indicativas"
+      },
+      {
+        "chave": "Função Manter Aquecido",
+        "valor": "Sim (acionamento automático após o cozimento)"
+      },
+      {
+        "chave": "Desligamento Automático",
+        "valor": "Sim (desliga a função de alta temperatura ao secar a água)"
+      },
+      {
+        "chave": "Tampa",
+        "valor": "Vidro temperado com orifício para liberação de vapor"
+      },
+      {
+        "chave": "Cuba Interna",
+        "valor": "Removível e com revestimento antiaderente"
+      },
+      {
+        "chave": "Suporte de Cozimento a Vapor",
+        "valor": "Sim (bandeja plástica acoplável para legumes inclusa)"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Bandeja para cozimento a vapor, copo dosador e espátula plástica"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Branco"
+      },
+      {
+        "chave": "Dimensões Embalado (L x A x P)",
+        "valor": "27,8 cm x 21,8 cm x 28,7 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,8 kg, segundo a Electrolux"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896347148931"
+      },
+      {
+        "chave": "Código Comercial",
+        "valor": "4330ABBR487"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela Electrolux)"
+      }
+    ],
+    "pontos_fortes": [
+      "Operação automática descomplicada com alavanca de um toque que desliga a fervura no ponto certo sem exigir acompanhamento",
+      "Função Manter Aquecido com acionamento automático que mantém a refeição quentinha para servir a qualquer hora sem queimar",
+      "Bandeja de cozimento a vapor acoplável para preparar legumes frescos simultaneamente ao arroz na mesma operação",
+      "Capacidade equilibrada de 1,3L (até 7 xícaras) que atende solteiros, casais e famílias com eficiência e economia",
+      "Cuba interna removível com película antiaderente de alta qualidade que evita que os alimentos grudem e facilita a limpeza",
+      "Tampa de vidro temperado que viabiliza o acompanhamento visual do preparo em tempo real sem dispersar o calor e o vapor",
+      "Kit completo com espátula plástica que preserva o fundo antiaderente e copo dosador para proporção precisa de água e grãos"
+    ],
+    "pontos_atencao": [
+      "Aparelho não é bivolt, demandando conferência prévia da rede elétrica local (esta versão opera em 127V)",
+      "Exige o uso exclusivo de utensílios plásticos ou silicone para conservar o revestimento antiaderente da cuba",
+      "Projetada especificamente para arroz, legumes a vapor e mingaus simples, sem funções de panela de pressão ou receitas lentas pesadas",
+      "A carcaça externa e a saída da tampa aquecem durante o uso, exigindo manuseio pelas alças laterais isoladas"
+    ],
+    "para_quem_e": "Para pessoas que moram sozinhas, casais e famílias pequenas a médias que desejam arroz soltinho todo dia com praticidade total, legumes frescos no vapor sem sujar louça extra e limpeza rápida sem esforço.",
+    "para_quem_nao_e": "Para cozinhas que necessitam de aparelhos exclusivamente em 220V ou bivolt, ou para quem procura uma panela de pressão elétrica multifuncional com programação digital avançada."
   }
 ];
 
