@@ -3330,6 +3330,128 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para pessoas que moram sozinhas, casais e famílias pequenas a médias que desejam arroz soltinho todo dia com praticidade total, legumes frescos no vapor sem sujar louça extra e limpeza rápida sem esforço.",
     "para_quem_nao_e": "Para cozinhas que necessitam de aparelhos exclusivamente em 220V ou bivolt, ou para quem procura uma panela de pressão elétrica multifuncional com programação digital avançada."
+  },
+  {
+    "asin": "B07G1HWM9D",
+    "id": "pipoqueira-eletrica-mondial-popflix-pp-03-1200w-110v",
+    "titulo": "Pipoqueira Elétrica Mondial Popflix PP-03 1200W (Vermelho, 110V)",
+    "subtitulo": "Pipoca crocante e sequinha pronta em menos de 3 minutos sem uma gota de óleo, sem sujar panela e com manteiga derretida na medida certa",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/pipoqueira-eletrica-mondial-popflix-pp-03-1200w-110v.jpg",
+    "data_revisao": "2026-11-05",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A pipoqueira elétrica Mondial Popflix PP-03 é a solução ideal para quem adora uma sessão de cinema em casa sem ter que vigiar panela no fogo ou lidar com respingos de gordura no fogão. Utilizando ar quente para estourar até 100g de milho em menos de 3 minutos sem óleo, ela alia praticidade, um lanche mais leve e limpeza sem complicação, além de contar com colher dosadora que derrete a manteiga durante o próprio preparo.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07G1HWM9D?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem nunca sentiu aquela vontade incontrolável de comer um balde de pipoca no meio da noite para acompanhar um bom filme ou maratonar uma série, mas desanimou só de lembrar do trabalho de pegar a panela, encher de óleo, mexer sem parar no fogão e depois ter que arear o fundo engordurado enquanto o cheiro de fritura toma conta da casa? Ou pior: apelar para a pipoca de micro-ondas industrializada e conviver com aquele excesso de gordura vegetal e conservantes artificiais.",
+      "A Pipoqueira Elétrica Mondial Popflix (PP-03) surge exatamente para quebrar essa preguiça e tornar o momento do lanche muito mais leve, rápido e descomplicado. Ela funciona inteiramente por circulação contínua de ar quente em alta velocidade, dispensando qualquer gota de óleo ou gordura para fazer o milho estourar. Isso se traduz em um alimento muito mais sequinho e nutritivo, sem fumaça na cozinha e sem panelas ou travessas engorduradas para lavar depois.",
+      "Na rotina diária, a operação é praticamente instantânea: você só precisa colocar uma tigela alta posicionada bem na frente do bocal direcionador, despejar o milho no compartimento com o auxílio da colher dosadora inclusa e acionar o botão de ligar. Em cerca de dois a três minutos, os grãos começam a pipocar vigorosamente e saltam direto para dentro da sua tigela, quentinhos e crocantes. A tampa transparente superior permite acompanhar toda a mágica dos grãos se abrindo em tempo real, tornando o preparo uma verdadeira diversão para toda a família.",
+      "Segundo as especificações técnicas da Mondial, a Popflix conta com 1200 W de potência, gerando o fluxo térmico imediato necessário para expandir os grãos com máxima eficiência sem queimá-los e reduzindo a sobra de milho não estourado. A capacidade de 100g de milho por ciclo rende uma porção bastante farta, ideal para compartilhar entre duas ou três pessoas. Para completar, a colher dosadora que fecha a tampa superior tem uma função dupla engenhosa: enquanto a pipoca estoura embaixo, o calor ascendente derrete cubinhos de manteiga para quem aprecia aquela cobertura clássica de cinema.",
+      "Para manter o aparelho com vida útil longa, adote alguns cuidados fundamentais: nunca coloque óleo, manteiga, água ou sal dentro da câmara de ar de alumínio, pois o contato de líquidos com a resistência interna pode queimar o produto. Qualquer manteiga, azeite ou sal deve ser adicionado exclusivamente na tigela após os grãos estourados. Como a pipoca feita por ar quente sai completamente seca, uma dica prática para o sal não descer para o fundo do pote é borrifar uma levíssima névoa de azeite ou regar a manteiga já derretida da colher antes de misturar o tempero. Após o término, basta aguardar alguns minutos para esfriar e passar um pano seco na câmara, enxaguando a tampa plástica em água corrente.",
+      "Um último cuidado: este anúncio corresponde especificamente à Pipoqueira Mondial Popflix PP-03 na cor vermelha operando em 110V/127V (EAN 7899882304985). O modelo não é bivolt, por isso confira com atenção se as tomadas da sua bancada são de 110V/127V antes de concluir a compra para garantir total compatibilidade e segurança."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Modelo / Linha",
+        "valor": "PP-03 (Linha Popflix)"
+      },
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1200 W, segundo a Mondial"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (110V - não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Sistema de Funcionamento",
+        "valor": "Circulação de ar quente de alta velocidade (sem óleo)"
+      },
+      {
+        "chave": "Capacidade por Ciclo",
+        "valor": "Até 100g de milho de pipoca"
+      },
+      {
+        "chave": "Tempo Médio de Preparo",
+        "valor": "Menos de 3 minutos, segundo a Mondial"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Vermelho"
+      },
+      {
+        "chave": "Bocal Direcionador",
+        "valor": "Sim (conduz as pipocas estouradas diretamente para a tigela)"
+      },
+      {
+        "chave": "Colher Dosadora Multiuso",
+        "valor": "Sim (dosagem de 100g e reservatório para derreter manteiga no topo)"
+      },
+      {
+        "chave": "Dispositivo de Segurança",
+        "valor": "Proteção térmica contra superaquecimento"
+      },
+      {
+        "chave": "Base com Pés Antiderrapantes",
+        "valor": "Sim"
+      },
+      {
+        "chave": "Porta-Fio Integrado",
+        "valor": "Sim (localizado na base para facilitar o armazenamento)"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "31,0 cm x 23,7 cm x 16,5 cm, segundo a Mondial"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "0,950 kg (950 g), segundo a Mondial"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899882304985"
+      },
+      {
+        "chave": "Código de Referência",
+        "valor": "PP-03_110"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Preparo 100% livre de óleo e gorduras por meio de circulação contínua de ar quente, resultando em uma pipoca sequinha, leve e saudável",
+      "Potência eficiente de 1200W que aquece com rapidez e estoura até 100g de milho em menos de 3 minutos",
+      "Bocal direcionador amplo que despeja as pipocas diretamente na tigela ou bowl de sua preferência sem sujeira pela bancada",
+      "Colher dosadora multifuncional que mede a quantidade exata de milho e derrete manteiga ou coberturas com o calor ascendente durante o preparo",
+      "Limpeza prática e sem complicação, dispensando o uso de detergentes pesados na câmara interna de alumínio",
+      "Estrutura compacta, leve (menos de 1 kg) e com porta-fio embutido na base, ideal para guardar em qualquer armário da cozinha",
+      "Sistema de proteção térmica contra superaquecimento que garante total segurança e estabilidade operacional"
+    ],
+    "pontos_atencao": [
+      "Aparelho não é bivolt, demandando conferência da voltagem da tomada antes da compra (esta versão opera em 127V)",
+      "Proibido colocar óleo, manteiga, água ou temperos dentro da câmara interna de alumínio sob risco de danificar a resistência",
+      "Exige o uso de tigela de bordas altas bem alinhada ao bocal para conter as pipocas que saltam com velocidade",
+      "Recomenda-se aguardar alguns minutos de resfriamento entre ciclos consecutivos se for preparar múltiplas porções"
+    ],
+    "para_quem_e": "Para quem ama cinema e quer preparar pipoca crocante, sequinha e saudável em menos de 3 minutos, sem precisar vigiar a chama do fogão e sem sujar panela com óleo.",
+    "para_quem_nao_e": "Para cozinhas que necessitam de eletrodomésticos exclusivamente em 220V ou para quem busca modelos específicos para caramelizar pipoca doce diretamente no recipiente de aquecimento."
   }
 ];
 
