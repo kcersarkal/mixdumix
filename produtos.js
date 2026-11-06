@@ -3452,6 +3452,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem ama cinema e quer preparar pipoca crocante, sequinha e saudável em menos de 3 minutos, sem precisar vigiar a chama do fogão e sem sujar panela com óleo.",
     "para_quem_nao_e": "Para cozinhas que necessitam de eletrodomésticos exclusivamente em 220V ou para quem busca modelos específicos para caramelizar pipoca doce diretamente no recipiente de aquecimento."
+  },
+  {
+    "asin": "B07DP2S4PC",
+    "id": "aparador-de-pelos-mondial-super-groom-10-bg-03-bivolt",
+    "titulo": "Aparador de Pelos Mondial Super Groom 10 BG-03 Bivolt (Preto/Azul, 6W, Sem Fio)",
+    "subtitulo": "Uma solução completa 10 em 1 para aparar barba, cabelo e pelos do corpo sem fios enrolados na pia e com base que deixa tudo organizado",
+    "categoria": "Saúde & Beleza",
+    "imagem": "assets/produtos/aparador-de-pelos-mondial-super-groom-10-bg-03-bivolt.jpg",
+    "data_revisao": "2026-11-06",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O aparador de pelos Mondial Super Groom 10 BG-03 é a escolha ideal para quem quer manter barba alinhada, costeletas desenhadas e pelos do corpo ou do nariz sob controle no conforto de casa, sem depender de visitas frequentes à barbearia ou acumular vários aparelhos espalhados pelo banheiro. Com 10 acessórios intercambiáveis, lâminas em aço inoxidável e bateria de íons de lítio com até 90 minutos de autonomia sem fio, ele centraliza todos os cuidados pessoais em uma prática base organizadora e funciona em qualquer tomada por ser bivolt automático.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07DP2S4PC?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já passou pela cena de tentar dar aquele trato rápido na barba ou no contorno do cabelo antes de sair e se deparar com a bancada do banheiro tomada por cabos enrolados, lâminas descartáveis cegas irritando a pele ou uma máquina pesada que precisa ficar grudada na tomada? Para quem gosta de manter a rotina de autocuidado em dia sem perder tempo nem transformar o banheiro em um canteiro de ferramentas, ter vários cortadores diferentes para cada cantinho do corpo costuma ser sinônimo de bagunça e frustração.",
+      "O aparador de pelos Mondial Super Groom 10 (modelo BG-03) resolve esse dilema ao reunir a funcionalidade de dez itens em um único conjunto compacto e sem fio. Em vez de comprar aparelhos separados para o nariz, para o bigode e para aparar o cabelo, o kit conta com cinco cabeças de corte dedicadas e cinco opções de pentes de altura. Essa versatilidade permite alternar desde um acabamento rente e preciso na linha do pescoço até o nivelamento suave dos pelos corporais, tudo encaixado no mesmo corpo ergonômico.",
+      "No dia a dia, a experiência se destaca pela liberdade total de movimentos. Como opera com bateria recarregável, você não fica preso à proximidade de um espelho com tomada nem corre o risco de derrubar objetos da pia com o cabo esticado. A troca das cabeças e dos pentes é feita por encaixe rápido: basta desacoplar a ponteira atual e travar o acessório desejado. E para não deixar peças soltas pelas gavetas, o aparelho acompanha uma base organizadora com nichos específicos para cada pente e cabeçote, servindo também como ponto de recarga fixo.",
+      "Segundo a Mondial, o aparelho conta com bateria recarregável de íons de lítio (Li-Ion) capaz de entregar até 90 minutos de autonomia contínua com uma carga completa. Na prática, como uma manutenção rotineira de barba e costeletas costuma levar cerca de cinco a dez minutos, uma única carga é suficiente para várias semanas de uso tranquilo antes de precisar plugar o carregador. Além disso, as lâminas são fabricadas em aço inoxidável com afiação duradoura, o que assegura cortes uniformes sem puxões desconfortáveis nos fios, mesmo nos pelos mais grossos.",
+      "Para garantir a máxima durabilidade do seu conjunto, alguns hábitos simples fazem toda a diferença. O modelo BG-03 é projetado estritamente para uso a seco, o que significa que ele não deve ser levado para debaixo do chuveiro nem lavado diretamente com água corrente na base motora. Após o uso, retire o pente ou a cabeça e use a escovinha de limpeza inclusa para varrer os resquícios de pelos acumulados na câmara interna. Aplicar periodicamente uma gotinha do óleo lubrificante fornecido sobre as lâminas metálicas mantém o deslizamento suave e evita o aquecimento excessivo por atrito.",
+      "Um último cuidado: este anúncio refere-se especificamente ao Aparador de Pelos Mondial Super Groom 10 modelo BG-03 nas cores Preto e Azul (EAN 7899882305487). O modelo é bivolt automático (100V a 240V), permitindo ligar a base carregadora em qualquer tomada do país ou levar o aparelho em viagens sem preocupação com a tensão da rede elétrica, mas lembre-se de conferir na caixa a presença de todos os dez acessórios originais para garantir que sua estação de cuidados fique completa."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Modelo / Linha",
+        "valor": "BG-03 (Linha Super Groom 10)"
+      },
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "6 W, segundo a Mondial"
+      },
+      {
+        "chave": "Alimentação / Tensão",
+        "valor": "Bivolt automático (100V - 240V)"
+      },
+      {
+        "chave": "Tipo de Bateria",
+        "valor": "Bateria recarregável de Íons de Lítio (Li-Ion)"
+      },
+      {
+        "chave": "Autonomia de Uso",
+        "valor": "Até 90 minutos sem fio, segundo a Mondial"
+      },
+      {
+        "chave": "Material das Lâminas",
+        "valor": "Aço inoxidável"
+      },
+      {
+        "chave": "Tipo de Uso",
+        "valor": "Uso exclusivamente a seco (não submergir em água)"
+      },
+      {
+        "chave": "Cabeças Aparadoras Inclusas",
+        "valor": "5 cabeças (aparador de cabelo/corpo, aparador de barba/bigode, aparador de precisão, aparador de nariz/orelha e microbarbeador rente à pele)"
+      },
+      {
+        "chave": "Pentes de Altura Inclusos",
+        "valor": "4 pentes fixos (3mm, 6mm, 9mm, 12mm) e 1 pente ajustável com 16 níveis de corte"
+      },
+      {
+        "chave": "Base Organizadora e Carregadora",
+        "valor": "Sim (acomoda o aparelho e todos os 10 acessórios)"
+      },
+      {
+        "chave": "Luz Indicadora de Carga",
+        "valor": "Sim (LED indicador de status da bateria)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Preto com detalhes em Azul"
+      },
+      {
+        "chave": "Peso do Aparelho",
+        "valor": "0,130 kg (130 g), segundo a Mondial"
+      },
+      {
+        "chave": "Itens Inclusos no Kit",
+        "valor": "01 Aparador BG-03, 05 cabeças aparadoras, 04 pentes de corte, 01 pente ajustável, 01 base carregadora/organizadora, 01 carregador bivolt, 01 escova de limpeza, 01 óleo lubrificante e manual"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899882305487"
+      },
+      {
+        "chave": "Código de Referência",
+        "valor": "BG-03"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Sistema multifuncional 10 em 1 com 5 cabeças intercambiáveis e 5 opções de pentes para cuidar de cabelo, barba, bigode, nariz, orelhas e pelos do corpo",
+      "Bateria recarregável de íons de lítio com até 90 minutos de autonomia sem fio, garantindo semanas de uso rotineiro sem necessidade de recarga frequente",
+      "Lâminas em aço inoxidável de alta precisão que cortam com suavidade sem puxar ou machucar a pele",
+      "Base organizadora completa que mantém todas as lâminas e pentes devidamente organizados na bancada enquanto recarrega o aparelho",
+      "Pente ajustável com 16 níveis de altura e 4 pentes fixos (3, 6, 9 e 12 mm) para total flexibilidade no comprimento do corte",
+      "Funcionamento bivolt automático que facilita viagens e elimina preocupações com a voltagem das tomadas",
+      "Design ergonômico e corpo extremamente leve (apenas 130g), proporcionando manuseio firme e preciso nos detalhes"
+    ],
+    "pontos_atencao": [
+      "Projetado exclusivamente para uso a seco, não sendo à prova d'água nem indicado para uso durante o banho ou lavagem da base motora em água corrente",
+      "O microbarbeador é indicado para aparar pelos já bem baixos e raspar contornos, não substituindo uma lâmina de barbear tradicional para barbas longas ou densas",
+      "Por ser um aparelho voltado ao cuidado pessoal doméstico, não foi projetado para jornadas contínuas e pesadas de salão profissional",
+      "Exige lubrificação periódica com uma gota de óleo nas lâminas para manter o corte suave e evitar o aquecimento das lâminas"
+    ],
+    "para_quem_e": "Para quem busca uma estação completa e prática de cuidados pessoais para manter barba, cabelo e corpo alinhados em casa, com total mobilidade sem fios e tudo guardado em um só lugar.",
+    "para_quem_nao_e": "Para quem procura um barbeador 100% à prova d'água para usar debaixo do chuveiro ou profissionais que precisam de uma máquina pesada para cortes comerciais contínuos o dia todo."
   }
 ];
 
