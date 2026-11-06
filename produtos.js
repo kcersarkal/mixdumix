@@ -3570,6 +3570,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca uma estação completa e prática de cuidados pessoais para manter barba, cabelo e corpo alinhados em casa, com total mobilidade sem fios e tudo guardado em um só lugar.",
     "para_quem_nao_e": "Para quem procura um barbeador 100% à prova d'água para usar debaixo do chuveiro ou profissionais que precisam de uma máquina pesada para cortes comerciais contínuos o dia todo."
+  },
+  {
+    "asin": "B0BJHGBJHS",
+    "id": "escova-secadora-mondial-by-juliette-es-ju-01-bivolt",
+    "titulo": "Escova Secadora Mondial By Juliette Golden Rose ES-JU-01 Bivolt (1200W)",
+    "subtitulo": "Seca, alisa e modela o cabelo com agilidade em casa, sem o malabarismo de equilibrar secador e escova ao mesmo tempo",
+    "categoria": "Saúde & Beleza",
+    "imagem": "assets/produtos/escova-secadora-mondial-by-juliette-es-ju-01-bivolt.jpg",
+    "data_revisao": "2026-11-06",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem deseja um cabelo alinhado, seco e com aspecto de salão sem perder tempo na rotina diária, a Mondial By Juliette ES-JU-01 resolve um dos maiores incômodos do cuidado pessoal: o malabarismo de segurar o secador em uma mão e a escova redonda na outra. Com revestimento especial de quatro elementos (cerâmica, titânio, tourmaline e nano silver), potência de 1200W e chave seletora bivolt, ela combina calor uniforme e emissão de íons para reduzir o frizz e dar movimento natural aos fios, tornando-se uma escolha prática tanto para o dia a dia quanto para levar em viagens.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BJHGBJHS?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Se você já tentou fazer uma escova caprichada em casa, conhece bem o cansaço: segurar o secador pesado com um braço enquanto a outra mão tenta enrolar a mecha na escova redonda, tudo isso na frente do espelho do banheiro vendo o braço doer e os fios escaparem. No final, o cabelo até seca, mas muitas vezes fica com frizz, volume desalinhado ou as pontas arrepiadas. A escova secadora surgiu justamente para simplificar essa operação, unindo o fluxo de ar quente do secador ao formato anatômico de uma escova de modelagem em uma única ferramenta que você conduz com uma só mão.",
+      "Na Mondial ES-JU-01, desenvolvida na linha em colaboração com a Juliette, o grande destaque está no revestimento do tubo oval com a tecnologia Qu4tro Elementos. Segundo a Mondial, essa combinação traz infusão de cerâmica, titânio, tourmaline e nano silver. Na prática, a cerâmica garante uma distribuição homogênea do calor sem criar pontos superaquecidos que queimam os fios; o titânio acelera a secagem reduzindo a exposição térmica; a tourmaline emite íons negativos que selam as cutículas capilares diminuindo o arrepiado; e o nano silver age como agente protetor contra a proliferação de bactérias nas cerdas.",
+      "No uso diário, o formato oval do corpo faz toda a diferença mecânica: os lados mais largos e planos funcionam como uma prancha suave para alisar e esticar a raiz, enquanto as bordas curvas permitem virar as pontas para dentro ou para fora, criando aquele acabamento polido de salão com movimento natural. As cerdas são mistas, mesclando cerdas flexíveis com pontas arredondadas que deslizam suavemente sem arranhar o couro cabeludo e cerdas menores de nylon que seguram bem a mecha sem embolar. O aparelho oferece 3 níveis de ajuste entre velocidade e calor, permitindo começar na temperatura mais alta para retirar a umidade inicial e finalizar com ar morno para fixar a modelagem.",
+      "O motor entrega 1200W de potência nominal quando configurado em 127V (e até 1300W em redes 220V, conforme especificações do fabricante), o que significa fluxo de ar abundante para secar mechas grossas sem demoras excessivas. Outro detalhe elogiado em análises de especialistas é a ergonomia: além da ponta fria superior para você apoiar os dedos da mão livre na hora de puxar a mecha com mais firmeza, a escova conta com um cabo de alimentação giratório de 360 graus com generosos 2,5 metros de comprimento, evitando que o fio fique retorcido ou limite seus movimentos caso a tomada do quarto ou do banheiro fique longe da bancada.",
+      "Para aproveitar o melhor rendimento do aparelho e preservar a integridade dos seus cabelos, a melhor prática é nunca usar a escova com os fios pingando água: retire o excesso de umidade com uma toalha macia, aplique sempre um bom protetor térmico e desembarace previamente com um pente comum antes de começar a escovar. Um cuidado muito inteligente da Mondial foi incluir na embalagem um suporte exclusivo de apoio para bancada. Ele permite pousar a escova quente com segurança entre uma mecha e outra, evitando que as cerdas fiquem pressionadas contra a mesa e acabem deformando com o calor.",
+      "Um último cuidado: este modelo possui chave seletora bivolt manual (127V / 220V) localizada na base do aparelho. Embora o sistema bivolt seja excelente para quem viaja pelo país sem ter que se preocupar com a voltagem dos hotéis, é indispensável conferir e posicionar a chavinha na tensão exata da sua tomada antes de ligar o produto na rede elétrica. No anúncio oficial da Amazon, confira a disponibilidade da versão Bivolt na cor Golden Rose e leia com atenção as condições de entrega para a sua região."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Linha",
+        "valor": "By Juliette (Qu4tro Elementos)"
+      },
+      {
+        "chave": "Modelo / Referência",
+        "valor": "ES-JU-01 (Código 1114)"
+      },
+      {
+        "chave": "Funções",
+        "valor": "3 em 1 (Seca, alisa e modela)"
+      },
+      {
+        "chave": "Formato do Tubo",
+        "valor": "Design oval (para alisamento e modelagem das pontas)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1200W (em 127V) / até 1300W (em 220V), segundo a Mondial"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "Bivolt manual com chave seletora (127V / 220V)"
+      },
+      {
+        "chave": "Tecnologia de Revestimento",
+        "valor": "Qu4tro Elementos (Infusão de Cerâmica, Titânio, Tourmaline e Nano Silver)"
+      },
+      {
+        "chave": "Tipo de Cerdas",
+        "valor": "Cerdas mistas (flexíveis com pontas arredondadas e cerdas de nylon)"
+      },
+      {
+        "chave": "Ajustes de Temperatura e Velocidade",
+        "valor": "3 níveis combinados de temperatura e fluxo de ar"
+      },
+      {
+        "chave": "Cabo de Energia",
+        "valor": "Giratório 360° com 2,5 metros de comprimento"
+      },
+      {
+        "chave": "Ponta Fria de Segurança",
+        "valor": "Sim (apoio anatômico para as mãos durante a modelagem)"
+      },
+      {
+        "chave": "Suporte de Bancada Incluso",
+        "valor": "Sim (suporte exclusivo para apoiar o aparelho e proteger as cerdas)"
+      },
+      {
+        "chave": "Peso do Aparelho",
+        "valor": "0,55 kg (550 g), segundo a Mondial"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Golden Rose com detalhes em acabamento premium"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "01 Escova Secadora ES-JU-01, 01 Suporte de apoio para bancada e 01 Manual de Instruções"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899882315509"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Revestimento com tecnologia Qu4tro Elementos combinando cerâmica, titânio, tourmaline e nano silver para calor uniforme, redução eficaz do frizz e brilho luminoso",
+      "Chave seletora bivolt (127V / 220V) que proporciona total versatilidade para utilizar em casa ou levar na mala para viagens em qualquer cidade",
+      "Potência de 1200W que seca e alinha os fios rapidamente, poupando tempo valioso na rotina da manhã",
+      "Design oval com cerdas mistas que permite alisar a raiz e modelar as pontas com movimento e curvatura natural",
+      "Cabo giratório 360° de 2,5 metros que oferece total liberdade de movimentos sem prender na tomada",
+      "Ponta fria anatômica que viabiliza apoio firme dos dedos da outra mão para tracionar as mechas com precisão",
+      "Acompanha suporte de bancada exclusivo que preserva o formato das cerdas ao apoiar a escova ainda aquecida"
+    ],
+    "pontos_atencao": [
+      "Por ter chave seletora bivolt manual, é fundamental conferir e posicionar a chave na voltagem certa da tomada antes de ligar para não danificar o aparelho",
+      "Possui tubo fixo (não é rotativa automática), necessitando do movimento manual de rotação dos punhos para modelar",
+      "Com peso em torno de 550g e estrutura oval robusta, pode exigir pausas para descansar os braços em cabelos muito longos e volumosos",
+      "Requer a prévia remoção do excesso de umidade dos cabelos com toalha e desembaraço antes do uso para máxima eficiência e preservação dos fios"
+    ],
+    "para_quem_e": "Para quem quer a praticidade de secar, alinhar e modelar o cabelo rapidamente em casa usando apenas uma mão, além de valorizar um aparelho bivolt fácil de levar em viagens.",
+    "para_quem_nao_e": "Para quem procura uma escova rotativa que gire o cilindro automaticamente com acionamento por botão ou pessoas com cabelos extremamente curtos que exigem diâmetros bem menores de escovação."
   }
 ];
 
