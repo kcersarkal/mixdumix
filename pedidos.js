@@ -230,58 +230,6 @@ window.PEDIDOS = [
     "para_quem_nao_e": "Para bolos muito grandes, onde uma vela maior e mais grossa aparece melhor."
   },
   {
-    "id": "B0CK3Q4RTH",
-    "asin": "B0CK3Q4RTH",
-    "titulo": "Caixa de Bombons Sortidos Sonho de Valsa e Ouro Branco, 220g",
-    "imagem": "assets/logo.png",
-    "preco": null,
-    "link": "https://www.amazon.com.br/dp/B0CK3Q4RTH?tag=mdm0c7-20",
-    "descricao": "Caixa de 220 g com dois bombons que todo brasileiro conhece: Sonho de Valsa e Ouro Branco.",
-    "categoria": "Festas & Doces",
-    "subtitulo": "Dois clássicos da Lacta na mesma caixa, para presentear ou dividir com a família",
-    "data_revisao": "2026-10-26",
-    "tempo_leitura": "3 min de leitura",
-    "veredito_resumo": "Tem presente que nunca erra, e uma caixa de bombons com Sonho de Valsa e Ouro Branco é um deles. São dois dos bombons mais conhecidos do Brasil, da Lacta, juntos numa caixa de 220 g. Serve para agradecer alguém, levar numa visita, deixar na mesa do escritório ou simplesmente ter em casa para a sobremesa.",
-    "visao_geral": [
-      "Quase todo mundo tem uma memória com um desses dois bombons: o Sonho de Valsa no papel rosa que alguém trouxe de presente, o Ouro Branco disputado na caixa da festa de fim de ano. É justamente essa familiaridade que faz desta caixa um presente fácil de acertar.",
-      "São dois clássicos da Lacta na mesma embalagem. O Sonho de Valsa é o bombom de papel rosa, e o Ouro Branco é o de cobertura de chocolate branco. Com os dois sabores, cada pessoa pega o seu preferido e ninguém fica de fora.",
-      "A caixa tem 220 g, um tamanho bom para presentear sem exagero, para levar numa visita ou para dividir em casa depois do almoço de domingo. Também funciona como lembrança de Páscoa, Dia das Mães, Natal ou amigo secreto.",
-      "Como é chocolate, vale guardar em lugar fresco e longe do sol, principalmente no verão. Em dias muito quentes, a geladeira ajuda, mas tire alguns minutos antes de servir para o sabor aparecer melhor.",
-      "Um último cuidado: os bombons contêm leite, glúten e podem conter amendoim e castanhas. Se for presente para alguém com alergia ou restrição, confira a lista de ingredientes na página do produto."
-    ],
-    "especificacoes": [
-      {
-        "chave": "Marca",
-        "valor": "Lacta"
-      },
-      {
-        "chave": "Bombons",
-        "valor": "Sonho de Valsa e Ouro Branco, sortidos"
-      },
-      {
-        "chave": "Peso líquido",
-        "valor": "220 g"
-      },
-      {
-        "chave": "Embalagem",
-        "valor": "Caixa"
-      }
-    ],
-    "pontos_fortes": [
-      "Dois bombons que quase todo brasileiro conhece e gosta",
-      "Sabores diferentes na mesma caixa, para agradar a todos",
-      "Tamanho certo para presentear ou dividir",
-      "Funciona em qualquer data: visita, aniversário, Páscoa, Natal"
-    ],
-    "pontos_atencao": [
-      "Chocolate derrete com calor: guarde em lugar fresco",
-      "Contém leite e glúten; confira alérgenos na embalagem",
-      "A proporção entre os dois bombons pode variar"
-    ],
-    "para_quem_e": "Para quem quer um presente simples e certeiro ou uma sobremesa prática para dividir em família.",
-    "para_quem_nao_e": "Para quem tem restrição a leite, glúten ou açúcar."
-  },
-  {
     "id": "B0G51Y99CC",
     "asin": "B0G51Y99CC",
     "titulo": "Mini Máquina de Lavar Roupas 11L Peças Íntimas, Centrifuga Dobrável Portátil Moderna Para Roupas Pequena mini lavadora de roupas Viagens e Pequenos Espaços(Lilás)",
@@ -1918,5 +1866,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "",
     "descricao": ""
+  },
+  {
+    "id": "B0CK3Q4RTH",
+    "asin": "B0CK3Q4RTH",
+    "titulo": "Caixa de Bombons Sortidos Sonho de Valsa e Ouro Branco, 220g",
+    "imagem": "https://m.media-amazon.com/images/I/71kHOEX5UXL._AC_SL1500_.jpg",
+    "preco": 21.97,
+    "link": "https://www.amazon.com.br/dp/B0CK3Q4RTH?tag=mdm0c7-20",
+    "descricao": "Sonho de Valsa e Ouro Branco juntos em uma só caixa. Uma experiência deliciosa para todos os amantes do sabor de chocolate. Embalagem ideal para presentear ou compartilhar. Transforme pequenos momentos em lembranças especiais com sabor de chocolate. Caixa com 11 unidades sortidas de 20g"
   }
 ];
