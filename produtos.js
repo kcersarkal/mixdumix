@@ -3688,6 +3688,128 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer a praticidade de secar, alinhar e modelar o cabelo rapidamente em casa usando apenas uma mão, além de valorizar um aparelho bivolt fácil de levar em viagens.",
     "para_quem_nao_e": "Para quem procura uma escova rotativa que gire o cilindro automaticamente com acionamento por botão ou pessoas com cabelos extremamente curtos que exigem diâmetros bem menores de escovação."
+  },
+  {
+    "asin": "B076H5R5ZK",
+    "id": "aspirador-po-agua-electrolux-gt30n-1300w-20l-127v",
+    "titulo": "Aspirador de Pó e Água Electrolux GT30N 1300W com Capacidade de 20L e Função Sopro (Amarelo/Preto, 127V)",
+    "subtitulo": "Força de sobra para sugar lama, poeira pesada e poças d'água na faxina pesada ou na oficina sem risco de queimar o motor",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-agua-electrolux-gt30n-1300w-20l-127v.jpg",
+    "data_revisao": "2026-11-07",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem lida com faxinas pesadas em quintais, garagens, lavanderias ou reformas e não quer arriscar a integridade de um aspirador comum, o Electrolux GT30N é um dos modelos mais consagrados do mercado brasileiro. Com motor robusto de 1300W, reservatório generoso de 20 litros para pó e água, e função de sopro integrada, ele resolve desde a água acumulada por um cano que vazou até a serragem ou a sujeira do carro com agilidade. O formato barril exige um pouco mais de espaço para armazenamento, mas a versatilidade e a durabilidade do conjunto compensam amplamente para quem busca eficiência sem complicação.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076H5R5ZK?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Se você já passou pelo desespero de ver uma máquina de lavar transbordar na área de serviço, o ralo entupir no banheiro ou encarar a poeira espessa de uma pequena reforma na casa, sabe que um aspirador vertical comum ou robô não foi feito para esse tipo de missão. Tentar aspirar poça d'água ou detritos pesados com um eletroportátil convencional é certeza de queimar o motor ou rasgar os filtros. É para resolver essas demandas pesadas do dia a dia — onde balde, rodo e vassoura demoram horas e deixam tudo úmido — que o clássico aspirador barril de água e pó se torna indispensável.",
+      "O Electrolux GT30N (da tradicional linhagem GT3000) entrega uma proposta de força bruta e confiabilidade. Equipado com motor de 1300W de potência nominal, ele gera vácuo com pressão contínua para engolir sujeiras sólidas volumosas, terra, pelos de animais grudados em tapetes grossos e até líquidos derramados diretamente pelo piso. O tambor conta com capacidade total para 20 litros, o que significa poder limpar uma varanda inteira ou secar um vazamento sem a obrigação de interromper a tarefa várias vezes para esvaziar o balde.",
+      "No uso diário, o alcance de trabalho surpreende pela liberdade: a combinação do cabo elétrico longo de 5 metros com a mangueira flexível e os tubos extensores proporciona um raio de ação total de 7,7 metros. Isso permite aspirar o interior completo de um carro na garagem ou um cômodo espaçoso sem precisar ficar trocando de tomada a todo minuto. Além disso, a base conta com rodízios plásticos de 360 graus que acompanham os movimentos com fluidez e apoios específicos para acomodar os bocais e o cabo de alimentação quando o aparelho não estiver em uso.",
+      "Outro recurso bastante prático é a função sopro, acionada ao encaixar a mangueira na saída de ar superior em vez do duto de sucção frontal. Essa vazão de ar invertida serve como um soprador eficiente para varrer folhas secas da calçada, expulsar a serragem acumulada em cantos difíceis de ferramentas na bancada, acelerar o acendimento do carvão na churrasqueira ou encher colchões de ar e brinquedos infláveis sem esforço.",
+      "Para obter o melhor rendimento e manter a vida útil do equipamento em dia, vale uma dica de ouro de operação: ao aspirar pó seco e sujeira comum, utilize sempre o saco coletor descartável (com capacidade de até 8 litros) para reter as partículas finas e preservar a higiene. Já na hora de aspirar líquidos, retire previamente o saco de papel e encaixe o filtro de espuma protetor na boia do motor. Essa boia mecânica atua como dispositivo de segurança: conforme o nível de água sobe até o limite do tanque, ela fecha a passagem de ar automaticamente para impedir que a água atinja a turbina.",
+      "Um último cuidado: este modelo não é bivolt e está disponível nas opções de tensão de 127V (110V) e 220V. Por se tratar de um equipamento de 1300W voltado para tarefas intensas, certifique-se de escolher a voltagem exata da sua rede doméstica na página do anúncio antes de confirmar a compra. Vale também considerar que suas dimensões de 60,4 cm de altura por 35 cm de largura exigem um espaço reservado na lavanderia, área de serviço ou garagem para o armazenamento confortável do barril."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "GT30N (Linha GT 3000 Profissional)"
+      },
+      {
+        "chave": "Código Comercial",
+        "valor": "3011AEBR410 (127V) / 3011AEBR510 (220V)"
+      },
+      {
+        "chave": "Tipo de Aspirador",
+        "valor": "Água e Pó (Sólidos e Líquidos)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1300W, segundo a Electrolux"
+      },
+      {
+        "chave": "Capacidade Total do Barril",
+        "valor": "20 litros"
+      },
+      {
+        "chave": "Capacidade para Líquidos",
+        "valor": "Até 20 litros no reservatório (com proteção por boia mecânica)"
+      },
+      {
+        "chave": "Capacidade do Saco para Pó",
+        "valor": "8 litros (saco descartável)"
+      },
+      {
+        "chave": "Função Sopro",
+        "valor": "Sim (bocal superior dedicado para soprar folhas e encher infláveis)"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "5 metros"
+      },
+      {
+        "chave": "Raio de Ação Total",
+        "valor": "7,7 metros (cabo + mangueira + extensores)"
+      },
+      {
+        "chave": "Sistema de Locomoção",
+        "valor": "Rodízios com rotação 360° para movimentação suave"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "94 dB, segundo o fabricante"
+      },
+      {
+        "chave": "Peso do Produto",
+        "valor": "4,2 kg"
+      },
+      {
+        "chave": "Dimensões do Produto",
+        "valor": "60,4 cm (A) x 35,0 cm (L) x 33,5 cm (P)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Amarelo com detalhes em Preto"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Bocal para pisos (carpete e piso frio), bocal para cantos e frestas, 2 tubos prolongadores, mangueira flexível, saco para pó e filtro de proteção"
+      },
+      {
+        "chave": "Código EAN (127V)",
+        "valor": "7896347144193"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela Electrolux)"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor potente de 1300W que proporciona sucção consistente para encarar sujeira pesada, poeira de obra e líquidos acumulados",
+      "Reservatório amplo com capacidade para 20 litros, reduzindo a necessidade de paradas para esvaziamento durante limpezas extensas",
+      "Aspira sólidos e líquidos com segurança graças ao sistema de boia mecânica que protege o motor contra transbordamento",
+      "Função sopro prática para remover folhas secas de calçadas, soprar resíduos em cantos difíceis e inflar itens de lazer",
+      "Raio de ação de 7,7 metros com cabo de 5 metros, oferecendo liberdade de circulação sem trocas constantes de tomada",
+      "Rodízios com giro de 360 graus e suportes no corpo para guardar os bocais e enrolar o cabo de forma organizada",
+      "Construção robusta e tradicional com excelente disponibilidade de peças de reposição e sacos coletores no mercado"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt: o consumidor deve escolher com atenção a versão de 127V ou 220V correspondente à sua tomada",
+      "Por ser um modelo de barril de 20 litros com 60,4 cm de altura, exige um espaço considerável para guardar no armário ou lavanderia",
+      "Nível de ruído de 94 dB típico de aspiradores pesados de alta potência, não sendo indicado para quem prioriza aparelhos silenciosos",
+      "Exige a troca/remoção do saco de pó de papel antes de aspirar líquidos para evitar que o papel rasgue e molhe os resíduos secos"
+    ],
+    "para_quem_e": "Para quem precisa de um aspirador potente e resistente para faxinas pesadas em quintais, oficinas, garagens ou reformas, e valoriza a capacidade de sugar água e detritos volumosos.",
+    "para_quem_nao_e": "Para quem procura um aspirador super compacto e silencioso apenas para pequenas manutenções diárias em apartamentos pequenos ou quem prefere a conveniência leve de modelos verticais sem fio."
   }
 ];
 
