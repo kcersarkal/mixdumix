@@ -3810,6 +3810,140 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem precisa de um aspirador potente e resistente para faxinas pesadas em quintais, oficinas, garagens ou reformas, e valoriza a capacidade de sugar água e detritos volumosos.",
     "para_quem_nao_e": "Para quem procura um aspirador super compacto e silencioso apenas para pequenas manutenções diárias em apartamentos pequenos ou quem prefere a conveniência leve de modelos verticais sem fio."
+  },
+  {
+    "asin": "B076QDQVMJ",
+    "id": "lavadora-alta-pressao-wap-atacama-smart-2200-1400w-127v",
+    "titulo": "Lavadora de Alta Pressão WAP Atacama Smart 2200 1400W 1500 PSI (Amarelo/Preto, 127V)",
+    "subtitulo": "Pressão na medida certa para tirar lodo da calçada e lavar o carro no final de semana sem dor nas costas nem desperdício de água",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/lavadora-alta-pressao-wap-atacama-smart-2200-1400w-127v.jpg",
+    "data_revisao": "2026-11-07",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem tem quintal, calçada, garagem ou área externa e quer dar adeus ao cansaço de esfregar lodo e barro na vassoura, a WAP Atacama Smart 2200 é uma das lavadoras de alta pressão residenciais mais práticas e consagradas do Brasil. Com motor de 1400W gerando 1500 PSI de pressão máxima, ela limpa sujeiras incrustadas com rapidez e gasta até 80% menos água do que uma mangueira comum de jardim, segundo medições do fabricante. O formato leve de apenas 4 kg e os suportes embutidos para mangueira e pistola fazem dela um modelo muito fácil de guardar até em lavanderias pequenas.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076QDQVMJ?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem tem quintal com piso cerâmico, calçada de pedra ou muros expostos ao tempo conhece bem a frustração de ver o lodo verde e o barro se acumularem a cada chuva. Esfregar tudo no braço com balde, vassoura de piaçava e sabão em pó consome horas do fim de semana, esgota a coluna e desperdiça rios de água tratada pela torneira. É para transformar essa faxina pesada em uma tarefa rápida e prática que uma lavadora de alta pressão compacta se mostra um investimento tão valioso no dia a dia da casa.",
+      "A WAP Atacama Smart 2200 entrega exatamente o equilíbrio que a rotina doméstica exige. Equipada com motor universal de 1400W de potência e bomba axial com cabeçote de alumínio e pistões em aço inox, ela desenvolve uma pressão máxima de 1500 PSI (libras) com vazão contínua de 330 litros por hora. Na prática, esse jato de pressão concentrada arranca a sujeira encardida e as crostas de musgo sem exigir esforço mecânico, consumindo até 80% menos água se comparada ao fluxo contínuo de uma mangueira de jardim tradicional, segundo dados fornecidos pela WAP.",
+      "No uso rotineiro, o manuseio se destaca pela conveniência: pesando apenas 4 kg e dotada de uma alça superior ergonômica, você desloca o aparelho de um lado para o outro do quintal sem esforço. O modelo acompanha lança com bico regulável que permite alternar o tipo de spray com um simples giro com a mão: o jato concentrado foca a pressão em frestas de rejunte, grelhas e cantos difíceis, enquanto o jato em leque abre o leque de água para varrer poeira de calçadas amplas ou ensaboar e enxaguar a lataria de carros e motos com suavidade e sem risco de lascar a tinta.",
+      "Outro ponto essencial de comodidade é o consagrado sistema Stop Total da WAP. Esse mecanismo corta imediatamente o fluxo de água e interrompe o funcionamento elétrico do motor no instante em que você solta o gatilho da pistola de alta pressão. Além de economizar energia e água a cada pausa para reposicionar objetos, a tecnologia preserva os componentes internos da bomba hidráulica contra sobreaquecimento, prolongando a durabilidade do equipamento por anos.",
+      "Uma dica de ouro para a montagem e manutenção: antes de plugar o aparelho na tomada elétrica e ligar a chave geral, conecte a mangueira da torneira à entrada de água com o engate rápido incluso e mantenha o gatilho da pistola pressionado por alguns segundos até sair um fluxo contínuo de água sem bolhas. Esse procedimento simples purga o ar acumulado no sistema da bomba e evita o funcionamento a seco, garantindo que a lavadora atinja a pressão nominal instantaneamente no primeiro disparo.",
+      "Um último cuidado: este modelo não é bivolt e está disponível nas tensões de 127V (código FW001535) e 220V (código FW001536). Na página do anúncio na Amazon, selecione com atenção a voltagem compatível com a rede da sua residência antes de concluir a compra. Vale também lembrar que, com 3 metros de mangueira de alta pressão e 5 metros de cabo elétrico, ela oferece 8 metros de raio total de ação, o que atende com folga garagens e quintais médios, bastando manter a lavadora perto da torneira durante a limpeza de veículos mais compridos."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "WAP"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "Atacama Smart 2200"
+      },
+      {
+        "chave": "Código do Fabricante",
+        "valor": "FW001535 (127V) / FW001536 (220V)"
+      },
+      {
+        "chave": "Pressão Máxima",
+        "valor": "1500 PSI (libras por polegada quadrada), segundo a WAP"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1400 W"
+      },
+      {
+        "chave": "Vazão de Água",
+        "valor": "330 L/h (litros por hora)"
+      },
+      {
+        "chave": "Tipo de Motor",
+        "valor": "Motor Universal"
+      },
+      {
+        "chave": "Tipo de Bomba",
+        "valor": "Bomba axial com cabeçote em alumínio e pistões em aço inoxidável"
+      },
+      {
+        "chave": "Sistema de Desligamento",
+        "valor": "Stop Total (corta fluxo e desliga motor ao soltar o gatilho)"
+      },
+      {
+        "chave": "Comprimento da Mangueira",
+        "valor": "3 metros (mangueira de alta pressão em nylon)"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "5 metros (plugue de 2 pinos, 10A)"
+      },
+      {
+        "chave": "Raio de Ação",
+        "valor": "8 metros (mangueira + cabo elétrico)"
+      },
+      {
+        "chave": "Tipo de Bico",
+        "valor": "Bico regulável (jato leque para áreas amplas e concentrado para sujeiras difíceis)"
+      },
+      {
+        "chave": "Porta-Acessórios",
+        "valor": "Sim (suportes no corpo para pistola, lança, baioneta e cabo)"
+      },
+      {
+        "chave": "Engate Rápido",
+        "valor": "Sim, incluso para conexão ágil da mangueira de jardim"
+      },
+      {
+        "chave": "Classe de Isolação",
+        "valor": "Classe II (dupla isolação de proteção elétrica)"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "4,0 kg (peso bruto na caixa: 6,0 kg)"
+      },
+      {
+        "chave": "Dimensões do Produto",
+        "valor": "22 cm (C) x 25 cm (L) x 45 cm (A)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Amarelo com detalhes em Preto"
+      },
+      {
+        "chave": "Itens Inclusos",
+        "valor": "1 Lavadora WAP Atacama Smart 2200, 1 Pistola com trava de segurança, 1 Baioneta de conexão rápida, 1 Lança com bico regulável, 1 Mangueira de 3 m, 1 Engate rápido, 1 Agulha de limpeza e Manual de instruções"
+      },
+      {
+        "chave": "Código EAN (127V)",
+        "valor": "7898152189550"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela WAP)"
+      }
+    ],
+    "pontos_fortes": [
+      "Pressão de 1500 PSI combinada com 1400W de potência que remove limo, barro e poeira encardida sem esforço",
+      "Economia de até 80% de água em comparação direta com o fluxo de uma mangueira de jardim comum, segundo a WAP",
+      "Sistema Stop Total inteligente que poupa energia elétrica e preserva o conjunto mecânico da bomba a cada pausa",
+      "Bico regulável versátil com regulagem contínua entre jato concentrado para cantos difíceis e leque aberto para enxágue",
+      "Extremamente compacta e leve, pesando somente 4 kg e com porta-acessórios integrado para fácil transporte e organização",
+      "Bomba axial robusta com cabeçote de alumínio e pistões de inox, oferecendo boa durabilidade para a rotina doméstica",
+      "Acompanha engate rápido e agulha de limpeza de bico, dispensando ferramentas na hora de montar"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt: o consumidor deve escolher com atenção a versão de 127V ou 220V correspondente à sua tomada",
+      "Mangueira de alta pressão com 3 metros de comprimento requer posicionar a lavadora próxima ao veículo durante a lavagem de carros compridos",
+      "Não acompanha frasco aplicador de detergente na caixa (acessório snow foam precisa ser adquirido separadamente caso deseje espuma grossa)",
+      "Emite ruído característico de motor universal de alta rotação, comum a lavadoras de alta pressão residenciais"
+    ],
+    "para_quem_e": "Para quem busca uma lavadora de alta pressão leve, compacta e eficiente para limpar calçadas, quintais, garagens, muros, motos e carros no final de semana sem desperdiçar água e sem cansaço físico.",
+    "para_quem_nao_e": "Para quem necessita de um equipamento de uso profissional ou industrial contínuo para limpeza de caminhões, tratores e frotas, ou quem exige mangueiras ultra longas sem necessidade de mover a máquina."
   }
 ];
 
