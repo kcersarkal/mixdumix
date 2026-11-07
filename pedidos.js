@@ -1873,9 +1873,111 @@ window.PEDIDOS = [
     "id": "B07L8X97SR",
     "asin": "B07L8X97SR",
     "titulo": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 220V - NPF-53",
-    "imagem": "https://m.media-amazon.com/images/I/51OmxaZFbNL._AC_SL1000_.jpg",
-    "preco": 469.79,
+    "imagem": "assets/pedidos/B07L8X97SR.jpg",
+    "preco": null,
     "link": "https://www.amazon.com.br/dp/B07L8X97SR?tag=mdm0c7-20",
-    "descricao": "9 programas de preparo;. Potência de 700W; Timer de 15 horas;. Forma antiaderente; Design moderno na cor preta e prata;. Painel digital; Ajuste de Tonalidade (Claro, Médio e Escuro)"
+    "descricao": "Com 19 programas automáticos, timer de 15 horas e potência de 700W, prepara pães de até 1 kg, bolos e massas caseiras sem esforço manual.",
+    "categoria": "Cozinha & Utilidades",
+    "subtitulo": "Pão caseiro quentinho e fresco sem sovar na mão: programe os ingredientes à noite e acorde com aroma de padaria",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Panificadora Master Bread Mondial NPF-53 é uma das soluções mais completas e acessíveis para quem sonha em ter pão fresco todo dia sem a trabalheira de sovar e cuidar do forno. Com 700W de potência e 19 funções pré-programadas, ela assume todo o processo: mistura, sova, fermenta e assa receitas de 500g, 750g ou 1kg com apenas alguns cliques no painel digital. Seu timer de até 15 horas permite planejar o café da manhã com antecedência, enquanto a forma antiaderente facilita a desenformagem e a limpeza diária.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07L8X97SR?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Fazer pão artesanal em casa tem um charme indiscutível, mas a rotina quase nunca colabora. Medir farinha, gastar vinte minutos sovando a massa com força na bancada, esperar o fermento agir e ainda vigiar o forno para não queimar exige um tempo que a maioria das pessoas não tem durante a semana. A Panificadora Mondial Master Bread NPF-53 foi projetada exatamente para eliminar essa barreira, assumindo cada etapa do preparo do início ao fim.",
+      "Basta colocar os ingredientes na cuba e escolher uma das 19 opções pré-programadas no painel digital. O motor de 700W movimenta a pá misturadora com firmeza, sovando desde pães tradicionais de casca macia até massas mais pesadas, como integral, centeio ou panetone, além de preparar bolos, massas de pizza, geleias e iogurtes. Você também escolhe o tamanho do pão (500g, 750g ou 1kg) e o nível de tostagem da casca entre claro, médio ou escuro, adequando o resultado ao gosto da família.",
+      "Para quem tem manhãs corridas, a função timer com programação de até 15 horas de antecedência é o maior diferencial prático. É perfeitamente viável abastecer a máquina antes de dormir, ajustar o temporizador e acordar com o cheiro de pão assado tomando conta da casa. O visor transparente de acrílico na tampa permite espiar o crescimento da massa sem abrir o aparelho, mantendo a temperatura interna estável durante o cozimento.",
+      "Uma dica fundamental para obter sempre pães fofos e bem desenvolvidos é a ordem de colocação dos ingredientes: despeje primeiro os líquidos (água, leite, ovos ou óleo), adicione a farinha, o sal e o açúcar, e coloque o fermento biológico seco por último, em uma pequena cavidade no topo da farinha para não entrar em contato prematuro com o líquido ou o sal. A cuba e o batedor contam com revestimento antiaderente, o que permite soltar o pão morno sem grudar e lavar tudo em poucos minutos com água e esponja macia.",
+      "Um último cuidado: este anúncio refere-se especificamente à versão de 220V com tomada padrão de 10A (a Mondial também produz o modelo em 127V sob outro código). Certifique-se da voltagem correta da sua cozinha antes da compra e nunca utilize facas ou garfos metálicos para remover o batedor ou o pão da forma, preservando a camada antiaderente contra riscos."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Master Bread NPF-53"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "220V (anúncio deste modelo; tomada 10A)"
+      },
+      {
+        "chave": "Potência nominal",
+        "valor": "700 W"
+      },
+      {
+        "chave": "Opções pré-programadas",
+        "valor": "19 funções automáticas (pães, bolos, massas, iogurte, geleia e mais)"
+      },
+      {
+        "chave": "Tamanhos de pão",
+        "valor": "3 opções: 500 g, 750 g e 1 kg"
+      },
+      {
+        "chave": "Ajuste de tonalidade",
+        "valor": "3 níveis de tostagem da casca (claro, médio e escuro)"
+      },
+      {
+        "chave": "Função Timer",
+        "valor": "Programável com até 15 horas de antecedência"
+      },
+      {
+        "chave": "Painel de controle",
+        "valor": "Digital com botões de seleção rápida"
+      },
+      {
+        "chave": "Cuba e batedor",
+        "valor": "Removíveis com revestimento antiaderente"
+      },
+      {
+        "chave": "Visor da tampa",
+        "valor": "Acrílico transparente para acompanhar o ciclo"
+      },
+      {
+        "chave": "Acessórios inclusos",
+        "valor": "Copo medidor, colher dosadora e manual com receitas"
+      },
+      {
+        "chave": "Comprimento do cabo",
+        "valor": "1,50 metro"
+      },
+      {
+        "chave": "Dimensões (A x L x P)",
+        "valor": "29,5 x 28,0 x 33,5 cm"
+      },
+      {
+        "chave": "Peso aproximado",
+        "valor": "4,3 kg"
+      },
+      {
+        "chave": "Garantia",
+        "valor": "1 ano contra defeitos de fabricação, segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "19 funções automáticas que preparam desde pães e bolos até massas de pizza, geleias e iogurtes",
+      "Função timer de até 15 horas que permite acordar ou chegar em casa com pão quente e cheiroso",
+      "Permite selecionar 3 tamanhos de pão (500g, 750g e 1kg) e 3 tonalidades de casca",
+      "Motor de 700W com força suficiente para sovar massas densas e integrais sem sobreaquecer",
+      "Forma antiaderente removível que facilita o desenforme do pão e a limpeza da cuba",
+      "Visor de acrílico na tampa superior para acompanhar o crescimento sem perder calor"
+    ],
+    "pontos_atencao": [
+      "Aparelho não é bivolt: este anúncio corresponde à versão de 220V",
+      "A pá batedora fica sob a massa durante o cozimento, deixando um pequeno furo na base do pão ao desenformar",
+      "O topo do pão costuma ficar com a casca ligeiramente mais clara que as laterais",
+      "Ocupa espaço considerável na bancada da cozinha (cerca de 33,5 cm de profundidade)"
+    ],
+    "para_quem_e": "Quem busca praticidade para consumir pão fresco e caseiro todos os dias sem perder tempo sovando na bancada, além de quem deseja preparar massas com ingredientes selecionados.",
+    "para_quem_nao_e": "Padeiros artesanais profissionais que exigem modelagem manual de formatos variados ou quem dispõe de espaço extremamente limitado na bancada da cozinha."
   }
 ];
