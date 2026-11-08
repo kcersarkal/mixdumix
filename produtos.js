@@ -3944,6 +3944,128 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca uma lavadora de alta pressão leve, compacta e eficiente para limpar calçadas, quintais, garagens, muros, motos e carros no final de semana sem desperdiçar água e sem cansaço físico.",
     "para_quem_nao_e": "Para quem necessita de um equipamento de uso profissional ou industrial contínuo para limpeza de caminhões, tratores e frotas, ou quem exige mangueiras ultra longas sem necessidade de mover a máquina."
+  },
+  {
+    "asin": "B094LRS14T",
+    "id": "cooktop-inducao-portatil-electrolux-ie3tp-1-boca",
+    "titulo": "Cooktop de Indução Portátil 1 Boca Electrolux IE3TP com Painel Touch e Timer (Preto)",
+    "subtitulo": "Aqueça água em minutos e prepare suas refeições em qualquer canto da casa com a agilidade da indução e a facilidade de limpar a mesa vitrocerâmica com um simples pano úmido",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/cooktop-inducao-portatil-electrolux-ie3tp-1-boca.jpg",
+    "data_revisao": "2026-11-08",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem mora em quitinete ou apartamento compacto, adora fazer fondue e refeições direto na mesa da varanda gourmet ou simplesmente precisa de uma boca extra potente quando o fogão principal está lotado, o Electrolux IE3TP é uma das opções mais práticas e seguras do mercado. Por funcionar por indução eletromagnética, ele transfere o calor diretamente para a base da panela sem gerar chama aberta nem esquentar desnecessariamente o ambiente. Com 10 níveis de potência, timer digital integrado e mesa de vidro vitrocerâmico ultra fácil de limpar, ele entrega a agilidade de uma cozinha moderna ocupando menos espaço do que uma tábua de corte.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B094LRS14T?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem mora em apartamento pequeno, estúdio sem tubulação de gás encanado ou costuma reunir os amigos na varanda para um jantar descontraído sabe como um fogão convencional pode engessar o espaço. Ter que cozinhar sempre isolado na cozinha ou lidar com fogareiros elétricos de resistência espiral — que demoram uma eternidade para ferver a água e deixam a base da panela encardida — tira boa parte do prazer de cozinhar no dia a dia. É nesse cenário que um cooktop portátil de indução faz toda a diferença.",
+      "O grande trunfo do Electrolux IE3TP está na tecnologia de indução eletromagnética. Em vez de queimar gás ou aquecer uma resistência de metal incandescente, o aparelho gera um campo magnético que aquece de forma direta e quase instantânea apenas o fundo metálico da panela. Isso significa que a perda de energia para o ar ao redor é mínima e a água ferve em uma fração do tempo de uma boca a gás comum, tornando o preparo de massas, legumes e grelhados surpreendentemente rápido.",
+      "No uso rotineiro, o manuseio é descomplicado e bastante intuitivo. O painel Touch Control conta com 10 níveis de potência ajustáveis com um simples toque de dedo: nos níveis mais baixos, você mantém um molho aquecido ou derrete chocolate sem queimar; nos níveis intermediários e altos, sela carnes e refoga com vigor. Já o timer digital permite programar o tempo exato de cozimento com desligamento automático, permitindo que você deixe o arroz no ponto ou o caldo apurando enquanto assiste à TV ou toma banho, sem qualquer risco de a panela secar no fogo.",
+      "Em termos de segurança e sustentabilidade, o sistema traz benefícios claros para a rotina familiar. Como o vidro só recebe o calor secundário transferido pela própria panela, as bordas externas permanecem mornas, e o aparelho interrompe a emissão de energia imediatamente se a panela for retirada da base. Além disso, segundo dados de testes de eficiência da Electrolux, a indução reduz em até 95% a emissão direta de gases e calor no ambiente em comparação a sistemas tradicionais a gás. O modelo conta ainda com trava de segurança no painel, impedindo que crianças ou toques acidentais durante a limpeza alterem a potência configurada.",
+      "A hora da limpeza é outro ponto onde o cooktop ganha o dia: sua mesa é feita inteiramente em vidro vitrocerâmico plano e liso, sem grelhas, queimadores removíveis ou cantinhos onde a gordura costuma se alojar. Como a superfície não fica em brasa, qualquer respingo de molho que transborde não queima nem gruda no vidro: basta passar um pano úmido ou uma esponja macia com algumas gotas de detergente neutro para deixar tudo brilhando em poucos segundos.",
+      "Um último cuidado: por funcionar exclusivamente por indução, o IE3TP exige panelas com fundo imantado (ferro fundido, aço inox magnético ou panelas com selo específico para indução). Recipientes de vidro, cerâmica pura ou alumínio sem base de aço não acionam o campo magnético. Vale também atentar para a voltagem no momento da compra: o aparelho não é bivolt e está disponível nas opções de 127V e 220V, alcançando 1500W de potência nominal na versão de 127V. Antes de finalizar o pedido na Amazon, verifique a tensão da tomada onde pretende usá-lo para garantir o funcionamento ideal."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "IE3TP (Cooktop de Indução Portátil 1 Boca)"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto"
+      },
+      {
+        "chave": "Acabamento da Mesa",
+        "valor": "Vidro vitrocerâmico plano de alta resistência"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1500 W (versão 127V) / 2000 W (versão 220V), segundo a Electrolux"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V ou 220V (não é bivolt; selecione no anúncio)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Níveis de Potência",
+        "valor": "10 níveis ajustáveis de temperatura e potência"
+      },
+      {
+        "chave": "Painel de Controle",
+        "valor": "Touch Control sensível ao toque com display digital"
+      },
+      {
+        "chave": "Função Timer",
+        "valor": "Timer digital integrado com desligamento automático"
+      },
+      {
+        "chave": "Recursos de Segurança",
+        "valor": "Trava de segurança do painel, detecção automática de panela e indicador de calor residual"
+      },
+      {
+        "chave": "Compatibilidade de Panelas",
+        "valor": "Panelas de fundo plano ferromagnético (ferro fundido, aço inox próprio para indução)"
+      },
+      {
+        "chave": "Diâmetro Recomendado de Recipientes",
+        "valor": "12 cm a 22 cm de base plana"
+      },
+      {
+        "chave": "Dimensões do Produto (L x P x A)",
+        "valor": "28,0 cm (Largura) x 35,8 cm (Profundidade) x 6,2 cm (Altura)"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "2,5 kg (127V) / 2,3 kg (220V)"
+      },
+      {
+        "chave": "Dimensões Embalado (L x P x A)",
+        "valor": "33,5 cm x 40,7 cm x 10,8 cm (Peso embalado: ~2,9 kg)"
+      },
+      {
+        "chave": "Códigos Comerciais",
+        "valor": "52301TBA135 (127V) / 52301TBA235 (220V)"
+      },
+      {
+        "chave": "Códigos EAN",
+        "valor": "7909569389775 (127V) / 7909569389782 (220V)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses oferecidos pela Electrolux)"
+      }
+    ],
+    "pontos_fortes": [
+      "Aquecimento por indução ultrarrápido que direciona a energia diretamente para a base da panela sem perdas de calor",
+      "Painel Touch Control sensível com 10 níveis de potência, permitindo desde o derretimento suave de caldas até fervura intensa",
+      "Timer digital integrado com desligamento automático que encerra o aquecimento no tempo programado e evita queimar a receita",
+      "Mesa plana em vidro vitrocerâmico sem ranhuras, facilitando a limpeza diária com apenas um pano úmido e detergente neutro",
+      "Trava de segurança no painel e sensor inteligente que desliga automaticamente o aparelho caso a panela seja retirada da mesa",
+      "Design leve e compacto com apenas 2,5 kg e 6,2 cm de espessura, fácil de transportar para a mesa de jantar, varanda ou viagens",
+      "Cozimento mais seguro e sem chama aberta, gerando até 95% menos emissão de calor no ambiente do que fogões a gás, segundo a Electrolux"
+    ],
+    "pontos_atencao": [
+      "Exige o uso exclusivo de panelas com fundo ferromagnético (panelas comuns de alumínio, cobre, vidro ou barro puro não funcionam)",
+      "Aparelho não é bivolt automático: é fundamental selecionar a voltagem correta (127V ou 220V) compatível com a sua tomada",
+      "Possui apenas 1 zona de aquecimento, sendo indicado para preparos individuais, apoio auxiliar ou pratos únicos por vez",
+      "O ventilador interno de resfriamento emite um ruído contínuo de ventilação durante o funcionamento, comum em cooktops de indução"
+    ],
+    "para_quem_e": "Para quem busca agilidade, precisão térmica e praticidade em cozinhas pequenas, estúdios, áreas gourmet ou quer uma boca de cocção portátil e segura para cozinhar direto na mesa.",
+    "para_quem_nao_e": "Para famílias grandes que precisam preparar várias panelas grandes simultaneamente na mesma refeição ou quem possui apenas jogos de panelas de alumínio tradicional e não pretende renovar o acervo de utensílios."
   }
 ];
 
