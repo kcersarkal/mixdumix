@@ -4066,6 +4066,132 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca agilidade, precisão térmica e praticidade em cozinhas pequenas, estúdios, áreas gourmet ou quer uma boca de cocção portátil e segura para cozinhar direto na mesa.",
     "para_quem_nao_e": "Para famílias grandes que precisam preparar várias panelas grandes simultaneamente na mesma refeição ou quem possui apenas jogos de panelas de alumínio tradicional e não pretende renovar o acervo de utensílios."
+  },
+  {
+    "asin": "B09V1SM8QB",
+    "id": "parafusadeira-furadeira-wap-bpf-12k3-12v-bivolt",
+    "titulo": "Parafusadeira e Furadeira Sem Fio WAP BPF 12K3 12V Bivolt (com Maleta e 13 Acessórios)",
+    "subtitulo": "Monte móveis, instale prateleiras e faça reparos domésticos sem cansar os pulsos nem ficar refém de extensões elétricas pela casa",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/parafusadeira-furadeira-wap-bpf-12k3-12v-bivolt.jpg",
+    "data_revisao": "2026-11-08",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Se você quer aposentar de vez a chave de fenda manual e busca uma ferramenta prática para montar móveis comprados na internet, fixar suportes de TV, instalar varões de cortina ou apertar dobradiças bambas, a WAP BPF 12K3 é uma das alternativas de maior custo-benefício do mercado brasileiro. Equipada com bateria recarregável de íon-lítio de 12V e mandril de aperto rápido de 10 mm, ela permite alternar entre brocas e bits sem usar chaves auxiliares. Por pesar pouco mais de 1 kg e já vir acompanhada de maleta de transporte e kit com 13 acessórios, ela resolve com agilidade as manutenções da casa sem ocupar espaço nem exigir fiação estendida pela sala.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem já passou uma tarde inteira montando um guarda-roupa, uma mesa de trabalho ou uma estante usando apenas chaves de fenda manuais sabe exatamente a sensação: dedos cheios de bolhas, punho dolorido e parafusos que nunca chegam até o fim da rosca. Para piorar, ter que desenrolar extensões de fio pela casa para usar uma furadeira pesada de tomada em pequenos reparos desanima qualquer um antes mesmo de começar o serviço. Ter uma ferramenta compacta sem fio à mão é o tipo de comodidade que transforma a manutenção da casa em uma tarefa rápida e indolor.",
+      "O grande atrativo da WAP BPF 12K3 está no equilíbrio entre tamanho compacto, leveza e força necessária para tarefas domésticas. Pesando apenas 1,1 kg com a bateria acoplada, ela cabe com facilidade no fundo de gavetas ou armários e não cansa o braço mesmo quando você precisa trabalhar com as mãos levantadas para fixar um trilho de cortina. O mandril de aperto rápido de 3/8\" (10 mm) dispensa aquela tradicional chave metálica que sempre some na hora errada: basta segurar o anel com os dedos e acionar o gatilho suavemente para prender ou soltar qualquer acessório em poucos segundos.",
+      "Na rotina do dia a dia, a precisão no controle faz toda a diferença. O seletor de torque com 18 posições de aperto, além da posição exclusiva para perfuração, permite dosar exatamente a força necessária para cada trabalho: nos níveis mais baixos, você aperta dobradiças delicadas e puxadores plásticos sem perigo de quebrar o material; nos níveis superiores, entrega os 17 Nm de torque máximo declarados pela WAP para afundar parafusos de 40 a 50 mm em painéis de compensado ou MDF. O gatilho conta ainda com controle progressivo de rotação (até 740 RPM) e chave de reversão imediata com trava de segurança central.",
+      "Trabalhar no interior de armários escuros, cantos de pias ou sob bancadas costuma ser um desafio de visibilidade. A WAP resolveu isso integrando um LED de iluminação frontal que acende automaticamente ao toque do gatilho, clareando exatamente o ponto de fixação sem a necessidade de segurar a lanterna do smartphone ao mesmo tempo. Outro ponto elogiado em análises de ferramentas especializadas é o indicador LED de nível de carga no corpo da máquina, que avisa antecipadamente quando a bateria de 1.500 mAh precisa ir para o carregador, evitando surpresas no meio de uma montagem.",
+      "Uma dica de ouro para obter o melhor acabamento: ao parafusar móveis de madeira macia ou MDF novo, faça sempre um pré-furo rápido usando uma das brocas finas de aço rápido do kit e regule o anel de torque em um número intermediário (entre 5 e 8). Esse simples cuidado garante que a rosca entre perfeitamente alinhada e previne o estufamento ou rachaduras na lâmina da madeira. Além disso, a maleta plástica inclusa mantém as 6 brocas e 6 pontas de bit organizadas e protegidas contra poeira e ferrugem.",
+      "Um último cuidado: este modelo foi projetado exclusivamente para parafusar e perfurar madeira (até 20 mm de diâmetro, segundo a WAP), plásticos e chapas finas de metal (até 6 mm), não dispondo de função de impacto (martelete) para furar concreto ou tijolos maciços. Caso precise furar paredes pesadas de alvenaria, será necessária uma furadeira de impacto específica. Vale ressaltar que a bateria de íon-lítio não sofre do efeito vício de memória e seu carregador bivolt automático (100V a 240V) opera em qualquer tomada residencial, levando de 3 a 5 horas para completar a carga. Antes de concluir seu pedido na Amazon, confira se o anúncio traz a versão acompanhada da maleta rígida e do estojo de 13 acessórios para receber o conjunto completo."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "WAP"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "BPF 12K3 (FW008649)"
+      },
+      {
+        "chave": "Tipo de Ferramenta",
+        "valor": "Parafusadeira e Furadeira sem Fio a Bateria"
+      },
+      {
+        "chave": "Tensão da Bateria",
+        "valor": "12V (Íon de Lítio - Li-Ion)"
+      },
+      {
+        "chave": "Capacidade da Bateria",
+        "valor": "1.500 mAh (sem efeito memória)"
+      },
+      {
+        "chave": "Carregador",
+        "valor": "Bivolt Automático (100V - 240V, 50/60 Hz)"
+      },
+      {
+        "chave": "Tempo de Carregamento",
+        "valor": "3 a 5 horas, segundo a WAP"
+      },
+      {
+        "chave": "Torque Máximo",
+        "valor": "17 Nm (1,7 kgf.m)"
+      },
+      {
+        "chave": "Níveis de Torque",
+        "valor": "18 ajustes de torque + 1 posição para furação"
+      },
+      {
+        "chave": "Velocidade de Rotação",
+        "valor": "0 a 740 RPM (velocidade variável no gatilho)"
+      },
+      {
+        "chave": "Função Reversível",
+        "valor": "Sim (seletor de rotação horária, anti-horária e trava)"
+      },
+      {
+        "chave": "Mandril",
+        "valor": "Aperto rápido de 3/8\" (10 mm)"
+      },
+      {
+        "chave": "Capacidade de Perfuração em Madeira",
+        "valor": "Até 20 mm de diâmetro (segundo a WAP)"
+      },
+      {
+        "chave": "Capacidade de Perfuração em Aço",
+        "valor": "Até 6 mm de diâmetro (segundo a WAP)"
+      },
+      {
+        "chave": "Recursos Integrados",
+        "valor": "LED frontal de trabalho, indicador luminoso de carga e empunhadura emborrachada"
+      },
+      {
+        "chave": "Peso do Aparelho",
+        "valor": "Aproximadamente 1,1 kg (com bateria instalada)"
+      },
+      {
+        "chave": "Dimensões do Produto (C x L x A)",
+        "valor": "21,5 cm x 6,9 cm x 19,0 cm"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Maleta plástica rígida, 6 brocas de aço rápido (1,5 a 6 mm), 6 bits (PH, PZ, Fenda) e 1 extensor magnético 1/4\""
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899831309771"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano de garantia para o aparelho e 6 meses para a bateria pela WAP"
+      }
+    ],
+    "pontos_fortes": [
+      "Excelente ergonomia com apenas 1,1 kg e pegador emborrachado, permitindo trabalhar por horas sem fadiga nos pulsos",
+      "Mandril de aperto rápido de 10 mm (3/8\") que dispensa chaves e acelera a troca entre brocas e pontas de parafusar",
+      "Seletor de torque versátil com 18 opções de aperto mais função furadeira, ideal para evitar aperto excessivo em MDF e plásticos",
+      "Bateria de íon-lítio de 12V sem efeito memória, conservando a carga guardada no armário por semanas sem descarregar sozinha",
+      "Luz LED embutida que ilumina diretamente a área de trabalho, facilitando reparos no interior de armários escuros e sob bancadas",
+      "Acompanha maleta rígida para transporte e kit com 13 acessórios essenciais (brocas HSS, bits phillips/fenda/pozidrive e extensor magnético)",
+      "Carregador bivolt automático (100-240V) compatível com qualquer tomada residencial brasileira"
+    ],
+    "pontos_atencao": [
+      "Não conta com mecanismo de impacto (martelete), não sendo recomendada para furar concreto maciço ou paredes de alvenaria densa",
+      "Tempo de recarga de 3 a 5 horas no carregador de fábrica, exigindo planejamento prévio para trabalhos mais longos",
+      "Possui apenas uma faixa de velocidade mecânica no gatilho, sem chave de marcha alta/baixa encontrada em linhas industriais",
+      "Motor com escovas de carvão projetado para tarefas domésticas e hobby, sem suporte a rotinas profissionais pesadas e ininterruptas"
+    ],
+    "para_quem_e": "Para quem busca autonomia e praticidade para montar móveis, consertar utensílios, pendurar quadros, instalar suportes e realizar manutenções domésticas rotineiras sem depender de ferramentas manuais cansativas nem cabos de energia.",
+    "para_quem_nao_e": "Para instaladores profissionais de construção civil ou pedreiros que necessitam de furadeiras de impacto para alvenaria pesada, ou marcenarias industriais que exigem ferramentas com motor brushless e recarga ultra-rápida."
   }
 ];
 
