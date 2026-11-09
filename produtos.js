@@ -4314,6 +4314,132 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias de 3 a 5 pessoas, casais ou quem gosta de cozinhar refeições completas de uma só vez, buscando a melhor relação custo-benefício em uma air fryer espaçosa, potente e fácil de limpar.",
     "para_quem_nao_e": "Para quem mora sozinho em kitnets ou possui bancadas extremamente estreitas onde uma fritadeira de 5 litros ficaria desproporcional, ou para quem faz questão de comandos digitais sensíveis ao toque e conexão com aplicativo."
+  },
+  {
+    "asin": "B0C3V5X3QT",
+    "id": "fone-de-ouvido-jbl-tune-520bt-bluetooth-preto",
+    "titulo": "Fone de Ouvido Sem Fio JBL Tune 520BT com Bluetooth 5.3 e Bateria de até 57 Horas (Preto)",
+    "subtitulo": "Bateria para semanas inteiras longe da tomada, graves encorpados Pure Bass e conexão multiponto para descomplicar seu dia a dia.",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/fone-de-ouvido-jbl-tune-520bt-bluetooth-preto.jpg",
+    "data_revisao": "2026-11-09",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O JBL Tune 520BT é um dos fones sem fio mais equilibrados do mercado de entrada, combinando uma autonomia inacreditável de até 57 horas com a tradicional pegada sonora JBL Pure Bass. Leve, dobrável e compatível com aplicativo de equalização, ele é a escolha certeira para quem quer escutar músicas, podcasts e atender chamadas sem a preocupação constante de recarregar a bateria.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0C3V5X3QT?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando você coloca o fone de ouvido para começar o treino ou entrar em uma chamada importante de trabalho e descobre que a bateria zerou bem na hora que você mais precisava? Ou aquele fone com fio que vive enrolando na mochila, dando nós irritantes e quebrando o conector com pouco tempo de uso? Essa rotina cansativa é comum para quem depende do áudio em movimento e quer praticidade sem pagar uma fortuna por modelos de topo de linha.",
+      "É exatamente nesse cenário que o JBL Tune 520BT se destaca com muita força, apostando onde realmente faz a diferença na rotina: autonomia de verdade. Enquanto boa parte dos fones sem fio da categoria exige recarga a cada dois ou três dias, o Tune 520BT entrega até 57 horas contínuas de reprodução, segundo a fabricante. Para quem escuta duas ou três horas de música por dia nos trajetos e no expediente, isso significa passar facilmente três a quatro semanas longe do carregador sem sustos.",
+      "No dia a dia, a usabilidade agrada pela leveza e praticidade. Pesando apenas 157 gramas, o modelo possui conchas articuladas que giram e se dobram para dentro, facilitando o transporte seguro em qualquer bolso da mochila. O formato on-ear apoia as almofadas acolchoadas diretamente sobre as orelhas com boa vedação passiva, enquanto os botões físicos integrados na concha direita permitem alternar músicas, controlar o volume e atender ligações telefônicas sem precisar pegar o celular a todo momento.",
+      "A sonoridade é marcada pela clássica assinatura JBL Pure Bass gerada por drivers dinâmicos de 33 mm. Conforme apontam análises especializadas do Canaltech e do Tecnoblog, a afinação entrega frequências graves encorpadas e presentes, valorizando batidas de pop, eletrônica, hip-hop e dando corpo a vozes em reuniões e podcasts. Além disso, o suporte ao aplicativo oficial JBL Headphones traz um diferencial de peso para essa faixa: você pode ajustar o equalizador do seu jeito ou ativar o modo de vídeo para reduzir a latência e assistir a séries sem dessincronização.",
+      "Outro recurso valioso para quem trabalha com múltiplos aparelhos é a conexão multiponto: você pode manter o fone pareado simultaneamente no computador e no celular via Bluetooth 5.3. Se você estiver ouvindo um vídeo no notebook e o celular tocar, o áudio migra automaticamente para a chamada sem que você precise abrir as configurações do sistema. E se um dia você esquecer de carregar, o carregamento rápido via USB-C oferece cerca de 3 horas de autonomia com apenas 5 minutos na tomada, segundo a JBL.",
+      "Um último cuidado: o JBL Tune 520BT opera exclusivamente via Bluetooth (não conta com entrada auxiliar com fio P2) e seu formato é supra-auricular (on-ear), apoiando diretamente sobre a cartilagem da orelha. Se você utiliza óculos ou pretende usá-lo por seis a oito horas seguidas sem interrupção, recomenda-se fazer pequenas pausas para aliviar a pressão do arco. Na página do anúncio, confira sempre a cor selecionada (aqui avaliamos a versão Preto fosco) e confirme a voltagem do seu adaptador de parede USB para mantê-lo seguro nas recargas."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Linha",
+        "valor": "JBL (Harman) - Série Tune"
+      },
+      {
+        "chave": "Modelo Exato",
+        "valor": "JBL Tune 520BT (JBLT520BTBLK)"
+      },
+      {
+        "chave": "Tipo de Fone",
+        "valor": "Headphone Sem Fio Supra-auricular (On-Ear) Dobrável"
+      },
+      {
+        "chave": "Tamanho do Driver",
+        "valor": "Driver dinâmico de 33 mm"
+      },
+      {
+        "chave": "Resposta de Frequência",
+        "valor": "20 Hz a 20 kHz"
+      },
+      {
+        "chave": "Impedância",
+        "valor": "30 ohms"
+      },
+      {
+        "chave": "Sensibilidade",
+        "valor": "102 dB SPL a 1 kHz / 1 mW"
+      },
+      {
+        "chave": "SPL Máximo",
+        "valor": "95 dB"
+      },
+      {
+        "chave": "Versão do Bluetooth",
+        "valor": "Bluetooth 5.3"
+      },
+      {
+        "chave": "Perfis Bluetooth",
+        "valor": "HFP 1.7.2, AVRCP 1.6.2, A2DP 1.3.2"
+      },
+      {
+        "chave": "Conexão Multiponto",
+        "valor": "Sim (conecta simultaneamente a até 2 dispositivos Bluetooth)"
+      },
+      {
+        "chave": "Autonomia de Bateria",
+        "valor": "Até 57 horas de reprodução contínua (segundo a JBL)"
+      },
+      {
+        "chave": "Tempo de Carregamento",
+        "valor": "Aproximadamente 2 horas para carga completa"
+      },
+      {
+        "chave": "Carregamento Rápido",
+        "valor": "5 minutos de carga proporcionam até 3 horas adicionais de reprodução"
+      },
+      {
+        "chave": "Tipo de Conector de Carga",
+        "valor": "USB Tipo-C (cabo incluso na embalagem)"
+      },
+      {
+        "chave": "Microfone Integrado",
+        "valor": "Sim, com tecnologia VoiceAware para retorno de voz"
+      },
+      {
+        "chave": "Suporte a Aplicativo",
+        "valor": "Compatível com aplicativo oficial JBL Headphones (Android e iOS)"
+      },
+      {
+        "chave": "Peso do Fone",
+        "valor": "Aproximadamente 157 gramas"
+      },
+      {
+        "chave": "Itens Inclusos na Caixa",
+        "valor": "01 Fone JBL Tune 520BT, 01 Cabo de Carregamento USB-C, 01 Guia de Início Rápido e Termo de Garantia"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano de garantia de fábrica pela Harman do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Autonomia colossal de até 57 horas de reprodução contínua, permitindo semanas de uso comum longe do carregador",
+      "Carregamento rápido via USB-C que entrega até 3 horas de som com apenas 5 minutos conectado à energia",
+      "Conexão multiponto com tecnologia Bluetooth 5.3, alternando fluidamente entre o computador de trabalho e as chamadas no celular",
+      "Assinatura sonora JBL Pure Bass com graves encorpados e dinâmicos através dos drivers de 33 mm",
+      "Compatibilidade completa com o aplicativo JBL Headphones para personalização do equalizador e modo de baixa latência",
+      "Construção ultraleve de apenas 157 g com almofadas macias e conchas giratórias dobráveis para transporte",
+      "Microfone embutido com recurso VoiceAware para gerenciar o retorno da própria voz em chamadas viva-voz"
+    ],
+    "pontos_atencao": [
+      "Não conta com cancelamento ativo de ruído (ANC), dependendo unicamente da vedação mecânica das almofadas contra sons externos",
+      "Não possui entrada P2 de 3,5 mm para uso com fio, dependendo obrigatoriamente da conexão Bluetooth ativa",
+      "O formato on-ear pode causar desconforto ou pressão sobre a orelha em sessões muito prolongadas, especialmente para quem usa óculos",
+      "Estrutura articulada toda em termoplástico que requer cuidado ao manusear e guardar solto em mochilas pesadas"
+    ],
+    "para_quem_e": "Para estudantes, profissionais em home office, frequentadores de academia e quem busca um fone sem fio extremamente confiável para o dia a dia, com graves de respeito e bateria suficiente para esquecer o carregador por semanas.",
+    "para_quem_nao_e": "Para audiófilos que necessitam de conexão cabeada P2 de alta fidelidade para edição de áudio, para quem exige isolamento ativo de ruído (ANC) para voos frequentes ou para quem não se adapta a fones supra-auriculares que pressionam as orelhas."
   }
 ];
 
