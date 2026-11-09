@@ -4192,6 +4192,128 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca autonomia e praticidade para montar móveis, consertar utensílios, pendurar quadros, instalar suportes e realizar manutenções domésticas rotineiras sem depender de ferramentas manuais cansativas nem cabos de energia.",
     "para_quem_nao_e": "Para instaladores profissionais de construção civil ou pedreiros que necessitam de furadeiras de impacto para alvenaria pesada, ou marcenarias industriais que exigem ferramentas com motor brushless e recarga ultra-rápida."
+  },
+  {
+    "asin": "B08HZBX16R",
+    "id": "air-fryer-mondial-grand-family-afn-50-bi-5l-127v",
+    "titulo": "Fritadeira Sem Óleo Mondial Grand Family Inox 5L AFN-50-BI (Preto/Inox, 1900W, 127V)",
+    "subtitulo": "Cesto quadrado amplo de 5 litros e 1900W de potência para preparar refeições completas para toda a família de uma só vez, com rapidez e crocância sem óleo.",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/air-fryer-mondial-grand-family-afn-50-bi-5l-127v.jpg",
+    "data_revisao": "2026-11-09",
+    "tempo_leitura": "6 min de leitura",
+    "veredito_resumo": "Indicada para famílias de 3 a 5 pessoas que buscam praticidade e velocidade na cozinha sem gastar uma fortuna em modelos premium. A Mondial Grand Family AFN-50-BI entrega 1900W de aquecimento rápido e um cesto quadrado de 5 litros com revestimento antiaderente Duraflon, permitindo distribuir os alimentos em uma única camada para assar por igual sem precisar cozinhar em várias rodadas.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B08HZBX16R?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem já tentou fazer o jantar de uma família de quatro ou cinco pessoas em uma fritadeira comum de 3 litros conhece bem o sufoco: os pedaços de frango ou os filés de peixe ficam empilhados, o alimento de baixo cozinha no vapor em vez de dourar e você é obrigado a preparar tudo em duas ou três etapas cansativas. Quando a última leva finalmente fica pronta, a primeira já esfriou na mesa. Ter uma fritadeira sem óleo com capacidade generosa resolve exatamente esse gargalo, trazendo agilidade para o cotidiano sem exigir que você fique preso ao fogão ou tenha que limpar fogão engordurado.",
+      "O grande trunfo da Mondial AFN-50-BI está no aproveitamento do seu espaço interno. Enquanto muitas fritadeiras utilizam cestos cilíndricos que desperdiçam cantos úteis, o modelo adota um cesto com formato quadrado de 5 litros, que, segundo a Mondial, proporciona a maior área plana útil da categoria. Isso significa que você consegue acomodar com facilidade uma peça inteira de carne, até quatro hambúrgueres grandes lado a lado ou um pacote inteiro de pão de queijo sem sobreposição, garantindo que o fluxo de ar circule uniformemente por todas as superfícies do alimento.",
+      "Na rotina corrida da casa, os 1900W de potência fazem toda a diferença no tempo de preparo. A fritadeira aquece quase instantaneamente e atinge temperaturas de até 200°C com rapidez, selando carnes para manter a suculência interna e criando aquela casca dourada e crocante em batatas e empanados. O controle é totalmente intuitivo através de dois seletores mecânicos giratórios: o superior ajusta a temperatura de 80°C a 200°C, enquanto o inferior programa o timer de até 60 minutos. Quando o tempo programado se encerra, ela emite um aviso sonoro metálico e desliga a resistência automaticamente, permitindo que você tome um banho ou cuide de outras tarefas sem risco de queimar o prato.",
+      "A facilidade de higienização é outro destaque muito elogiado em análises de eletroportáteis da imprensa especializada. A cuba e o cesto contam com o revestimento antiaderente exclusivo Duraflon da Mondial, que impede que queijos derretidos, molhos e gorduras fiquem grudados nas paredes. Para servir, uma trava plástica de proteção sobre a alça evita que o botão de desencaixe seja pressionado por engano, permitindo levar apenas o cesto perfurado direto para a bancada com total segurança e leveza.",
+      "Para obter a melhor performance e prolongar a durabilidade do aparelho por anos, duas dicas práticas são fundamentais: sempre pré-aqueça a fritadeira vazia por cerca de 3 a 5 minutos a 200°C antes de inserir os alimentos e agite o cesto na metade do tempo estipulado em receitas de batatas fritas ou legumes para equalizar a textura. Além disso, faça a limpeza utilizando apenas o lado macio da esponja com detergente neutro logo após o resfriamento da cuba, preservando a camada antiaderente intacta.",
+      "Um último cuidado: devido à sua elevada potência de 1900W, a versão de 127V deste produto vem equipada de fábrica com plugue de 20A (pinos mais grossos de 4,8 mm), sendo indispensável conectá-la a uma tomada compatível de 20 amperes devidamente instalada na sua cozinha, evitando o uso de adaptadores benjamins ou extensões inadequadas. Já o modelo de 220V utiliza tomada convencional de 10A. Como o corpo do aparelho mede cerca de 36 cm de profundidade considerando o puxador, certifique-se de reservar um espaço livre na bancada para boa ventilação traseira antes de escolher a sua voltagem ideal no anúncio da Amazon."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "Grand Family Inox AFN-50-BI"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Fritadeira Elétrica sem Óleo (Air Fryer)"
+      },
+      {
+        "chave": "Capacidade Total",
+        "valor": "5 Litros"
+      },
+      {
+        "chave": "Formato do Cesto",
+        "valor": "Cesto quadrado removível com ampla área plana"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1900W (em 127V e 220V)"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (versão analisada; disponível também em 220V)"
+      },
+      {
+        "chave": "Tipo de Plugue",
+        "valor": "Padrão brasileiro de 20A para 127V (pinos 4,8 mm) / 10A para 220V"
+      },
+      {
+        "chave": "Faixa de Temperatura",
+        "valor": "De 80°C até 200°C"
+      },
+      {
+        "chave": "Timer",
+        "valor": "Mecânico até 60 minutos com aviso sonoro e desligamento automático"
+      },
+      {
+        "chave": "Revestimento Antiaderente",
+        "valor": "Tecnologia antiaderente Duraflon Mondial no cesto e na cuba"
+      },
+      {
+        "chave": "Acabamento e Cor",
+        "valor": "Preto com painel frontal em Aço Inox escovado"
+      },
+      {
+        "chave": "Luzes Indicadoras",
+        "valor": "LEDs pilotos luminosos para funcionamento e aquecimento"
+      },
+      {
+        "chave": "Consumo de Energia",
+        "valor": "1,9 kWh (segundo a Mondial)"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "33,0 cm x 28,5 cm x 36,0 cm (com puxador)"
+      },
+      {
+        "chave": "Peso do Produto",
+        "valor": "Aproximadamente 4,6 kg (líquido) / 5,25 kg (com embalagem)"
+      },
+      {
+        "chave": "Itens Inclusos na Caixa",
+        "valor": "01 Fritadeira Elétrica, 01 Cesto Removível, 01 Livro de Receitas Mondial e Manual de Instruções"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899882312218 (127V) / 7899882312225 (220V)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano de garantia de fábrica pela Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Cesto quadrado com capacidade de 5 litros e fundo plano alargado, acomodando alimentos lado a lado sem necessidade de empilhamento",
+      "Potência robusta de 1900W que proporciona aquecimento rápido e prepara refeições crocantes em menor tempo",
+      "Antiaderente Duraflon exclusivo da marca, facilitando o desprendimento dos alimentos e agilizando a lavagem diária",
+      "Painel com acabamento frontal em aço inox escovado, combinando elegância com alta durabilidade na bancada da cozinha",
+      "Painel mecânico intuitivo com timer de até 60 minutos, aviso sonoro e desligamento automático de segurança",
+      "Trava de proteção plástica no puxador para desacoplamento seguro do cesto interno, evitando quedas acidentais",
+      "Acompanha livro de receitas físico oficial da Mondial com sugestões práticas para o dia a dia"
+    ],
+    "pontos_atencao": [
+      "A versão de 127V possui plugue de 20A com pinos grossos, exigindo tomada compatível de 20 amperes instalada na cozinha",
+      "Dimensões generosas de bancada (36 cm de profundidade com alça), exigindo espaço livre para ventilação ao redor",
+      "Acabamento plástico externo e botões de controle possuem construção mais simples em comparação a concorrentes de alto custo",
+      "Não conta com painel digital touch nem receitas pré-programadas em tela, operando via botões mecânicos giratórios"
+    ],
+    "para_quem_e": "Para famílias de 3 a 5 pessoas, casais ou quem gosta de cozinhar refeições completas de uma só vez, buscando a melhor relação custo-benefício em uma air fryer espaçosa, potente e fácil de limpar.",
+    "para_quem_nao_e": "Para quem mora sozinho em kitnets ou possui bancadas extremamente estreitas onde uma fritadeira de 5 litros ficaria desproporcional, ou para quem faz questão de comandos digitais sensíveis ao toque e conexão com aplicativo."
   }
 ];
 
