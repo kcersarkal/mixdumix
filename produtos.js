@@ -4554,6 +4554,112 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora em casas ou apartamentos e busca uma alternativa leve, barata e muito eficiente para substituir a vassoura no dia a dia, recolhendo pelos de pets, farelos e poeira em pisos, sofás e cantos sem esforço.",
     "para_quem_nao_e": "Para quem precisa aspirar poça d'água ou líquidos, para quem executa faxinas pesadas de pós-obra com entulho e pó de gesso, ou para quem procura um aparelho com recolhimento retrátil de cabo e bateria sem fio."
+  },
+  {
+    "asin": "B07D6X7PPS",
+    "id": "umidificador-de-ar-ultrassonico-mondial-comfort-air-2-nua-02-bivolt",
+    "titulo": "Umidificador de Ar Ultrassônico Mondial Comfort Air 2 NUA-02 2,2L (Branco/Azul, Bivolt)",
+    "subtitulo": "Dormir sem acordar com a garganta arranhando ou nariz ressecado: névoa ultrassônica fresca, até 10 horas de autonomia contínua e funcionamento silencioso bivolt para noites restauradoras.",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/umidificador-de-ar-ultrassonico-mondial-comfort-air-2-nua-02-bivolt.jpg",
+    "data_revisao": "2026-11-10",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Mondial Comfort Air 2 NUA-02 é uma das alternativas mais eficientes e acessíveis para quem sofre com o ar seco do inverno ou com a desidratação causada pelo uso constante do ar-condicionado. Equipado com tecnologia ultrassônica que gera uma névoa fria sem aquecer o ambiente ou fazer barulho perturbador, ele oferece um reservatório de 2,2 litros com autonomia de até 10 horas contínuas, cobrindo com tranquilidade uma noite inteira de sono. O controle analógico frontal permite graduar a vazão de névoa conforme a sua necessidade, o bico giratório orienta o fluxo para a área desejada e o desligamento automático inteligente corta o funcionamento assim que a água chega ao nível mínimo, tornando-o um parceiro indispensável para o conforto respiratório da sua casa.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07D6X7PPS?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquelas manhãs em que você acorda com a garganta arranhando, os lábios ressecados e aquela sensação incômoda de nariz entupido por causa do tempo seco ou porque o ar-condicionado passou a madrugada inteira ligado sugando toda a umidade do quarto? Esse desconforto não só atrapalha o descanso profundo como costuma desencadear crises de rinite, sinusite e alergias em quem tem vias respiratórias mais sensíveis, transformando uma noite que deveria ser de recuperação em um tormento silencioso.",
+      "É exatamente para solucionar esse incômodo cotidiano de forma prática que o Mondial Comfort Air 2 NUA-02 se consolidou como um dos modelos mais procurados no país. No lugar de métodos improvisados como toalhas molhadas ou bacias de água que pouco resolvem, o aparelho adota um sistema transdutor ultrassônico de alta frequência. Segundo a Mondial, essa tecnologia quebra as moléculas de água líquida em microgotículas ultrafinas que são lançadas no ar como uma névoa fria e fresca, restabelecendo os níveis adequados de umidade do ambiente em poucos minutos sem elevar a temperatura da sala e sem condensar água empoçada sobre os móveis.",
+      "No uso rotineiro, o que mais agrada é a simplicidade e a autonomia pensada para o repouso noturno. O reservatório translúcido de 2,2 litros proporciona até 10 horas ininterruptas de emissão contínua em regulagens intermediárias, permitindo que você abasteça o tanque ao se deitar e durma a madrugada inteira sem precisar acordar para repor água. Pelo botão giratório frontal, você ajusta a densidade da névoa de maneira gradual conforme o clima do dia, enquanto o bico superior direcionador com rotação de 360 graus permite apontar o fluxo diretamente para a área de circulação, evitando que o vapor seja soprado contra paredes, cortinas ou aparelhos eletrônicos.",
+      "Outro grande mérito do NUA-02 está na união entre economia e operação ultrassilenciosa. Seu motor ultrassônico opera com um ruído quase imperceptível de suave gotejamento interno, sendo perfeito para quartos infantis, berçários de bebês e pessoas que têm sono excessivamente leve. Além disso, com potência de apenas 30W e consumo aproximado de 0,03 kWh, segundo a fabricante, ele pode funcionar todas as noites do mês consumindo uma fração irrisória de energia elétrica. E caso a água do reservatório termine antes de você despertar, o sistema de desligamento automático interrompe a operação imediatamente e acende uma luz indicadora vermelha, protegendo o transdutor elétrico contra superaquecimento.",
+      "Para manter o aparelho sempre higienizado e garantir que o ar emitido seja sempre puro, alguns cuidados simples de manutenção fazem toda a diferença. O ideal é não deixar sobras de água parada no tanque por vários dias consecutivos e dar preferência ao uso de água filtrada, evitando que minerais naturalmente presentes na água de torneira gerem aquela leve película de pó calcário sobre as superfícies ao redor. Para a limpeza semanal, basta enxaguar o reservatório e passar uma haste flexível macia com algumas gotas de vinagre de álcool suave na pastilha cerâmica do fundo da base, retirando qualquer resíduo sem danificar o sensor ultrassônico.",
+      "Um último cuidado: este modelo opera em sistema bivolt automático (compatível com tensões de 127V e 220V) e traz reservatório compacto de 2,2 litros com capacidade recomendada para cômodos de até 20 metros quadrados, sendo ideal para quartos, quartos de bebê ou escritórios (para grandes salas integradas, umidificadores de 4L a 5L podem ser mais recomendados). Na página do anúncio na Amazon, confira a disponibilidade e certifique-se de selecionar o modelo Comfort Air 2 NUA-02 Bivolt da Mondial para desfrutar de noites com respiração muito mais livre e confortável."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "Mondial Eletrodomésticos"
+      },
+      {
+        "chave": "Modelo Exato",
+        "valor": "Comfort Air 2 NUA-02 (Código de Fábrica NUA-02)"
+      },
+      {
+        "chave": "Tipo de Umidificação",
+        "valor": "Ultrassônico de névoa fria de alta frequência"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "Bivolt (compatível com redes de 127V e 220V)"
+      },
+      {
+        "chave": "Potência Elétrica e Consumo",
+        "valor": "30W de potência / Consumo aproximado de 0,03 kWh, segundo a Mondial"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "2,2 litros"
+      },
+      {
+        "chave": "Autonomia de Funcionamento",
+        "valor": "Até 10 horas contínuas (dependendo da intensidade de névoa selecionada), segundo a Mondial"
+      },
+      {
+        "chave": "Controle de Névoa",
+        "valor": "Botão giratório com ajuste de vazão gradual e bico direcionador 360°"
+      },
+      {
+        "chave": "Recursos de Segurança",
+        "valor": "Desligamento automático inteligente com luz indicadora de alerta ao esvaziar o reservatório"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "Operação ultrassilenciosa, indicada para repouso noturno e quartos infantis"
+      },
+      {
+        "chave": "Dimensões do Produto",
+        "valor": "23,5 cm de altura x 21,3 cm de largura x 15,5 cm de profundidade"
+      },
+      {
+        "chave": "Peso do Aparelho",
+        "valor": "Aproximadamente 810 g (0,810 kg), segundo a Mondial"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,50 metro"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899882301991 (versão Bivolt)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses de garantia de fábrica pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Tecnologia ultrassônica de névoa fria que restabelece a umidade ideal do ambiente rapidamente sem aquecer o quarto nem molhar os móveis",
+      "Reservatório de 2,2 litros com autonomia de até 10 horas contínuas, permitindo noites completas de sono tranquilo sem interrupções para reabastecimento",
+      "Funcionamento extremamente silencioso com suave sussurro, perfeito para berçários de bebês, quartos de crianças e quem tem sono leve",
+      "Botão analógico para regulagem gradual de fluxo de névoa e bico rotativo 360° para direcionamento preciso da evaporação",
+      "Desligamento automático com luz indicadora que cessa a operação quando a água atinge o nível mínimo, protegendo o motor contra danos",
+      "Consumo de energia elétrico mínimo de 30W (0,03 kWh, segundo a Mondial), viabilizando o uso noturno diário sem pesar na conta de luz",
+      "Alimentação elétrica bivolt versátil que funciona diretamente em tomadas residenciais de 127V ou 220V sem necessitar de transformador"
+    ],
+    "pontos_atencao": [
+      "Capacidade de 2,2 litros dimensionada prioritariamente para quartos e cômodos de até 20 m², exigindo reabastecimento regular a cada ciclo noturno",
+      "Não conta com higrostato digital integrado para corte automático por umidade relativa percentual, exigindo desligamento manual quando desejado",
+      "Por operar com pastilha ultrassônica, requer higienização periódica suave da base e do tanque para evitar acúmulo de biofilme ou minerais da água",
+      "Não é indicado para gotejamento de óleos essenciais diretamente no tanque de água, sob risco de corrosão do plástico do reservatório e da membrana"
+    ],
+    "para_quem_e": "Para quem sofre com ar seco, irritação na garganta, boca seca ou crises alérgicas intensificadas pelo tempo seco ou ar-condicionado, e busca um umidificador compacto, muito silencioso, bivolt e econômico para ter noites de sono confortáveis no quarto.",
+    "para_quem_nao_e": "Para quem precisa climatizar grandes salões ou áreas comerciais abertas acima de 30 m², para quem faz questão de reservatórios volumosos de 4 a 5 litros que fiquem dias sem encher, ou para quem procura difusor aromático compatível com óleos essenciais diretamente na água."
   }
 ];
 
