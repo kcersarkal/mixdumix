@@ -4440,6 +4440,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para estudantes, profissionais em home office, frequentadores de academia e quem busca um fone sem fio extremamente confiável para o dia a dia, com graves de respeito e bateria suficiente para esquecer o carregador por semanas.",
     "para_quem_nao_e": "Para audiófilos que necessitam de conexão cabeada P2 de alta fidelidade para edição de áudio, para quem exige isolamento ativo de ruído (ANC) para voos frequentes ou para quem não se adapta a fones supra-auriculares que pressionam as orelhas."
+  },
+  {
+    "asin": "B07JFTS6BS",
+    "id": "aspirador-po-vertical-mondial-turbo-cycle-ap-36-1100w-127v",
+    "titulo": "Aspirador de Pó Vertical Mondial Turbo Cycle AP-36 1100W 2 em 1 (Vermelho/Preto, 127V)",
+    "subtitulo": "A praticidade de varrer a casa sem levantar poeira: 1100W de potência, haste removível para estofados e coletor lavável que dispensa sacos de papel.",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-vertical-mondial-turbo-cycle-ap-36-1100w-127v.jpg",
+    "data_revisao": "2026-11-10",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Mondial Turbo Cycle AP-36 é um dos maiores clássicos da limpeza residencial brasileira por um motivo simples: ele resolve a faxina do dia a dia sem complicar a sua vida nem pesar no bolso. Com 1100W de potência e tecnologia de dupla filtragem ciclônica, ele aspira com vigor farelos, poeira acumulada em rodapés e pelos de animais em pisos frios, laminados e tapetes baixos. Pesando apenas 1,5 kg e transformando-se em aspirador portátil de mão com bocais dedicados para cantos e estofados, ele substitui a vassoura tradicional com folga e aposenta de vez os sacos descartáveis graças ao reservatório transparente e lavável de 1,3 litro.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07JFTS6BS?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele fim de tarde em que você olha para o chão da sala ou da cozinha e percebe aquela fina camada de poeira, migalhas do lanche e tufos de pelos de cachorro ou gato espalhados, mas só de imaginar puxar uma vassoura que levanta o pó no ar ou arrastar um aspirador de rodinhas pesado e barulhento do armário bate um desânimo imediato? Para quem quer manter a casa em ordem sem perder meia hora montando mangueiras e canos, o aspirador vertical virou um item quase obrigatório na rotina moderna.",
+      "É exatamente aí que o Mondial Turbo Cycle AP-36 construiu sua reputação no Brasil. Em vez de firulas complicadas, ele foca no que resolve a faxina diária com rapidez: um motor de 1100W de potência aliado ao sistema Turbo Cycle de dupla filtragem. Segundo a Mondial, essa tecnologia ciclônica gera um turbilhão de ar interno que separa as partículas mais pesadas de sujeira e mantém o filtro livre de entupimentos prematuros, garantindo fluxo de sucção constante desde o primeiro minuto de uso até o término da limpeza dos cômodos.",
+      "Na prática diária, a primeira coisa que você nota é o peso pena de apenas 1,5 kg. Você manuseia o aparelho com uma única mão de forma ágil, contornando pernas de mesa, cadeiras e rodapés sem sobrecarregar os braços ou a lombar. Quando precisa higienizar o sofá da sala, o banco do carro ou tirar teias de aranha do teto, basta destravar a haste metálica ergonômica: ele se converte imediatamente em um aspirador de mão compacto. O conjunto traz três bocais intercambiáveis — o bocal multiuso para piso e tapetes com rodinhas suaves, o bocal estreito para cantos e frestas de gavetas, e o bocal para estofados e tecidos.",
+      "O raio de ação conta com um cabo elétrico de 4 metros de extensão, com ganchos práticos na própria carcaça e na haste para enrolar o fio com facilidade ao terminar. Em testes de portais especializados como o Escolha Agora e o Guia Pesquisei Comprei, essa metragem atende confortavelmente cômodos médios e apartamentos sem a necessidade constante de trocar de tomada a cada dois passos. Além disso, o bocal para pisos possui articulação que facilita alcançar a poeira sob camas e móveis com pés mais altos, recolhendo farelos, areia de gato e cabelos sem deixá-los para trás.",
+      "A manutenção do AP-36 é outro ponto prático pensado para economizar tempo e dinheiro. O coletor translúcido de 1,3 litro permite ver com clareza o volume de sujeira recolhido e desencaixa com um simples toque de botão para descarte direto na lixeira, aposentando para sempre os sacos de papel descartáveis. O filtro Cyclone interno é totalmente lavável em água corrente. Uma dica valiosa de conservação: esvazie o reservatório após cada faxina e, ao lavar o filtro, deixe-o secar 100% à sombra por pelo menos 24 horas antes de recolocá-lo no aparelho, evitando que a umidade atinja o motor elétrico ou gere odores.",
+      "Um último cuidado: este modelo avaliado opera na tensão elétrica monovolt de 127V (código EAN 7899882306484) e não é bivolt, havendo também a versão específica para redes elétricas de 220V (código EAN 7899882306491). Além disso, por se tratar de um aspirador compacto de 1100W refrigerado a ar, ele foi projetado para limpezas ágeis e residuais secos (não aspira água nem pós ultrafinos de obras como gesso e cimento). Na página do anúncio na Amazon, confirme atentamente a voltagem compatível com as tomadas da sua casa antes de fechar o pedido para desfrutar de toda a praticidade dele sem surpresas."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "Mondial Eletrodomésticos"
+      },
+      {
+        "chave": "Modelo Exato",
+        "valor": "Turbo Cycle AP-36 (Código de Fábrica AP-36 / AP-36-NC)"
+      },
+      {
+        "chave": "Tipo de Aspirador",
+        "valor": "Aspirador de Pó Vertical e Portátil de Mão (2 em 1)"
+      },
+      {
+        "chave": "Potência do Motor",
+        "valor": "1100 W, segundo a Mondial"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (monovolt, não é bivolt)"
+      },
+      {
+        "chave": "Frequência",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Sistema de Filtragem",
+        "valor": "Dupla filtragem Turbo Cycle com filtro Cyclone removível e lavável"
+      },
+      {
+        "chave": "Tipo de Coletor",
+        "valor": "Compartimento translúcido permanente (sem saco de papel)"
+      },
+      {
+        "chave": "Capacidade do Coletor de Pó",
+        "valor": "1,3 litros, segundo a Mondial"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "4 metros (com suporte enrolador de fio na carcaça)"
+      },
+      {
+        "chave": "Bocais e Acessórios Inclusos",
+        "valor": "01 Bocal multiuso para pisos e carpetes, 01 Bocal para cantos e frestas, 01 Bocal para estofados e Manual de Instruções"
+      },
+      {
+        "chave": "Material do Corpo",
+        "valor": "Polipropileno (PP) de alta resistência com haste metálica ergonômica"
+      },
+      {
+        "chave": "Dimensões do Produto",
+        "valor": "109 cm de altura x 23 cm de largura x 13,5 cm de profundidade"
+      },
+      {
+        "chave": "Peso do Aparelho",
+        "valor": "Aproximadamente 1,5 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Aspiração de Líquidos",
+        "valor": "Não (indicado exclusivamente para poeiras e detritos secos)"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7899882306484 (versão 127V)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "1 ano (12 meses de garantia de fábrica pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 1100W com sistema ciclônico de dupla filtragem que oferece sucção ágil para migalhas, poeira e pelos de pets",
+      "Versatilidade 2 em 1 que se transforma de aspirador vertical para aspirador portátil de mão com apenas um clique",
+      "Estrutura superleve de apenas 1,5 kg, permitindo manuseio confortável sem cansar o braço ou a lombar durante o uso",
+      "Acompanha conjunto completo de bocais: multiuso para pisos, bocal fino para cantos e bocal específico para estofados",
+      "Reservatório translúcido de 1,3 litro lavável com descarte direto no lixo, dispensando o gasto com sacos descartáveis",
+      "Filtro Cyclone removível e lavável em água corrente, facilitando a manutenção e garantindo maior vida útil ao aparelho",
+      "Cabo elétrico de 4 metros com suporte para enrolar no próprio corpo da máquina, oferecendo ótimo raio de ação em cômodos residenciais"
+    ],
+    "pontos_atencao": [
+      "Aparelho monovolt de 127V (não é bivolt), exigindo atenção à voltagem correta das tomadas da sua casa antes da compra",
+      "Não é indicado para aspirar líquidos nem resíduos pesados pós-reforma como pó de gesso, cimento ou cinzas",
+      "O cabo elétrico de 4 metros necessita de enrolamento manual no suporte externo, não contando com mecanismo retrátil automático",
+      "Em limpezas muito extensas e ininterruptas acima de 15 minutos, o corpo do motor pode apresentar aquecimento natural típico da categoria compacta"
+    ],
+    "para_quem_e": "Para quem mora em casas ou apartamentos e busca uma alternativa leve, barata e muito eficiente para substituir a vassoura no dia a dia, recolhendo pelos de pets, farelos e poeira em pisos, sofás e cantos sem esforço.",
+    "para_quem_nao_e": "Para quem precisa aspirar poça d'água ou líquidos, para quem executa faxinas pesadas de pós-obra com entulho e pó de gesso, ou para quem procura um aparelho com recolhimento retrátil de cabo e bateria sem fio."
   }
 ];
 
