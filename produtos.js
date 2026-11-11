@@ -4774,6 +4774,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem ama cozinhar, fazer bolos fofos, doces, tortas e pães caseiros para a família, e busca uma batedeira planetária potente, completa com 3 batedores e com excelente custo-benefício para aposentar o esforço braçal na cozinha.",
     "para_quem_nao_e": "Para padarias e confeitarias comerciais que necessitam de batedeiras industriais de uso ininterrupto com estrutura maciça em aço fundido, ou para quem procura um modelo bivolt automático."
+  },
+  {
+    "asin": "B0BJL39X4P",
+    "id": "vaporizador-portatil-wap-wapore-fast-1250-127v",
+    "titulo": "Vaporizador de Roupas e Tecidos Portátil WAP Wapore Fast 1250W (Branco/Vermelho/Cinza, 127V)",
+    "subtitulo": "Roupas desamassadas direto no cabide em segundos sem tábua de passar: 1250W de potência, aquecimento em 25s, vapor a 160°C que elimina odores e escova para pelos.",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/vaporizador-portatil-wap-wapore-fast-1250-127v.jpg",
+    "data_revisao": "2026-11-11",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Vaporizador Portátil WAP Wapore Fast 1250 é a solução perfeita para quem odeia perder tempo montando tábua de passar roupa só para desamassar uma camisa ou vestido antes de sair de casa. Com 1250W de potência e pronto para uso em apenas 25 segundos, ele gera um jato contínuo de vapor a até 160°C que suaviza vincos leves e médios diretamente no cabide. Além de desamassar tecidos delicados que queimariam num ferro comum, o calor do vapor neutraliza odores de roupa guardada e higieniza cortinas, almofadas e estofados, acompanhado de uma escova prática que recolhe pelos de pets enquanto você passa.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BJL39X4P?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela manhã corrida em que você já está quase atrasado para o trabalho ou um compromisso, escolhe uma camisa ou vestido no armário e percebe que a peça está cheia de marcas de cabide ou amassada de ficar dobrada na gaveta? Montar aquela tábua pesada no meio do quarto, esperar o ferro esquentar e correr o risco de queimar um tecido fino ou deixar marcas brilhantes de ferro quente é exatamente o tipo de dor de cabeça que ninguém quer enfrentar na correria matinal.",
+      "O WAP Wapore Fast 1250 foi concebido justamente para simplificar essa rotina, funcionando como um higienizador e desamassador a vapor vertical de mão. O grande diferencial está na velocidade e na praticidade de uso: em apenas 25 segundos após ligar na tomada, a caldeira interna já atinge a temperatura operacional e começa a produzir vapor denso a até 160°C. Você simplesmente pendura a peça num cabide comum preso a uma porta ou varão e passa o bocal de vapor de cima para baixo, vendo as rugas e marcas se desfazerem diante dos seus olhos sem necessidade de tábua.",
+      "No dia a dia, a experiência com o Wapore Fast se destaca pela leveza e versatilidade em tecidos nobres e delicados. Peças de seda, viscose, cetim, crepe, linho fino ou roupas com pedrarias, pregas e estampas emborrachadas — que exigiriam cuidado redobrado ou correriam risco iminente de queimar na base de um ferro tradicional — são alisadas com total segurança pelo vapor quente. O aparelho pesa apenas cerca de 900 gramas vazio e tem empunhadura anatômica com gatilho acionador que possui trava de vapor contínuo, para que você não precise ficar com o dedo apertado o tempo todo durante a aplicação.",
+      "Equipado com 1250W de potência elétrica e vazão de vapor constante de 16,8 g/min, segundo a WAP, o calor profundo de 160°C vai muito além da estética do tecido: ele penetra nas fibras atuando na higienização rápida. Essa alta temperatura ajuda a eliminar ácaros, bactérias e odores característicos de roupas que passaram meses guardadas no fundo do armário ou peças que pegaram cheiro de ambiente e não precisam de uma lavagem completa. Além disso, o bocal acompanha uma escova com cerdas especiais que, acoplada à ponta, recolhe pelos de cães e gatos de casacos, sofás e almofadas ao mesmo tempo em que o vapor higieniza a superfície.",
+      "Para obter o melhor rendimento, uma dica prática de ouro é sempre manter a barra da roupa levemente esticada com a outra mão enquanto você desliza o bico na vertical, facilitando a penetração uniforme do vapor nas tramas do tecido. O reservatório de água tem capacidade de 200 ml e é totalmente transparente e removível com trava rápida, rendendo até 11,5 minutos de autonomia ininterrupta segundo a fabricante — volume ideal para desamassar de 2 a 3 peças leves com rapidez antes de sair. Para preservar a vida útil e evitar entupimentos causados pelo acúmulo de sais minerais, o ideal é usar água filtrada e esvaziar o reservatório antes de guardar o equipamento.",
+      "Um último cuidado: este modelo específico WAP Wapore Fast opera em 127V (não é bivolt, havendo código próprio FW008938 para 127V e FW008939 para 220V) e foi desenhado como um desamassador vertical de alta velocidade para roupas do cotidiano e peças delicadas, e não como substituto de ferros pesados na criação de vincos rígidos em ternos de alfaiataria ou tecidos muito grossos como jeans pesado. Antes de concluir a sua compra no anúncio oficial da Amazon, certifique-se de selecionar a voltagem de 127V correspondente às tomadas da sua residência."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "WAP (Fábrica de Lavadoras de Alta Pressão e Eletroportáteis)"
+      },
+      {
+        "chave": "Modelo Exato",
+        "valor": "WAP Wapore Fast 1250 (Código WAP: FW008938)"
+      },
+      {
+        "chave": "Tipo de Aparelho",
+        "valor": "Vaporizador e Higienizador Portátil de Roupas e Tecidos"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Branco com detalhes em vermelho e cinza"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (60 Hz) - Não é bivolt"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1250W"
+      },
+      {
+        "chave": "Temperatura Máxima do Vapor",
+        "valor": "Até 160 °C, segundo a WAP"
+      },
+      {
+        "chave": "Tempo de Aquecimento",
+        "valor": "Aproximadamente 25 segundos"
+      },
+      {
+        "chave": "Vazão de Vapor",
+        "valor": "16,8 g/min, segundo a WAP"
+      },
+      {
+        "chave": "Autonomia de Vapor Contínuo",
+        "valor": "Até 11,5 minutos, segundo a WAP"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "200 ml (transparente e removível com trava de segurança)"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "01 Copo dosador medidor de água; 01 Escova com cerdas para tecidos delicados e remoção de pelos"
+      },
+      {
+        "chave": "Recursos do Gatilho",
+        "valor": "Gatilho anatômico com trava para emissão de vapor contínuo e luz indicadora de aquecimento"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,8 metro de extensão flexível"
+      },
+      {
+        "chave": "Dimensões do Produto (C x L x A)",
+        "valor": "11,0 x 14,5 x 28,5 cm"
+      },
+      {
+        "chave": "Peso do Aparelho",
+        "valor": "Aproximadamente 0,9 kg (peso líquido sem água), segundo a WAP"
+      },
+      {
+        "chave": "Classe de Isolação",
+        "valor": "Classe I"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "12 meses (1 ano de garantia de fábrica pela WAP)"
+      }
+    ],
+    "pontos_fortes": [
+      "Aquecimento ultra-rápido em cerca de 25 segundos, ideal para desamassar roupas de última hora sem perda de tempo",
+      "Potência de 1250W que gera vapor quente a até 160°C, higienizando tecidos e neutralizando odores de mofo ou armário",
+      "Desamassa direto no cabide na posição vertical, dispensando o uso e o espaço de tábuas de passar convencionais",
+      "Totalmente seguro para tecidos finos e delicados (seda, viscose, linho e rendas) que danificariam no contato com ferro quente",
+      "Acompanha escova de cerdas removível que auxilia na remoção de pelos de animais de estimação e fiapos em tecidos",
+      "Reservatório de 200 ml transparente e de fácil desacoplamento, oferecendo até 11,5 minutos de autonomia contínua segundo a WAP",
+      "Gatilho ergonômico com trava para fluxo contínuo de vapor e cabo elétrico longo de 1,8 metro que proporciona boa mobilidade"
+    ],
+    "pontos_atencao": [
+      "Não substitui o ferro tradicional na confecção de vincos rígidos em calças de alfaiataria ou tecidos pesados como jeans espesso",
+      "Reservatório de 200 ml voltado para retoques rápidos (cerca de 2 a 3 peças por abastecimento), exigindo reposição para lotes maiores",
+      "Pode cansar o braço se utilizado por longos períodos contínuos sustentando peças no alto",
+      "Aparelho não é bivolt: esta versão opera exclusivamente em tensão de 127V"
+    ],
+    "para_quem_e": "Para quem quer agilidade no dia a dia para desamassar roupas direto no cabide sem montar tábua, precisa higienizar e tirar odores de peças guardadas ou casacos, e cuida de tecidos delicados ou quem viaja e busca praticidade.",
+    "para_quem_nao_e": "Para quem precisa passar pilhas grandes de roupas de cama pesadas e jeans grossos de uma só vez, faz questão de vincos duros e afiados em calças sociais, ou procura um equipamento bivolt automático."
   }
 ];
 
