@@ -4660,6 +4660,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem sofre com ar seco, irritação na garganta, boca seca ou crises alérgicas intensificadas pelo tempo seco ou ar-condicionado, e busca um umidificador compacto, muito silencioso, bivolt e econômico para ter noites de sono confortáveis no quarto.",
     "para_quem_nao_e": "Para quem precisa climatizar grandes salões ou áreas comerciais abertas acima de 30 m², para quem faz questão de reservatórios volumosos de 4 a 5 litros que fiquem dias sem encher, ou para quem procura difusor aromático compatível com óleos essenciais diretamente na água."
+  },
+  {
+    "asin": "B07WGHXCJX",
+    "id": "batedeira-planetaria-mondial-bp-03-b-700w-110v",
+    "titulo": "Batedeira Planetária Mondial BP-03-B 700W 4,5L 12 Velocidades (Preto, 110V)",
+    "subtitulo": "Bolos fofos, merengues no ponto e massas sovadas sem cansar os braços: 700W de potência, movimento planetário, 3 batedores e tigela de 4,5 litros para a sua cozinha.",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/batedeira-planetaria-mondial-bp-03-b-700w-110v.jpg",
+    "data_revisao": "2026-11-11",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Batedeira Planetária Mondial BP-03-B é a escolha certeira para quem quer dar um salto na confeitaria caseira e no preparo de pães sem gastar o valor de equipamentos industriais. Com 700W de potência e 12 velocidades ajustáveis, ela entrega força de sobra para transformar claras líquidas em suspiros firmes em poucos minutos ou sovar massas de tortas e pães caseiros com facilidade. Seu grande trunfo é o movimento planetário aliado ao trio de batedores específicos (globo, raquete e gancho), permitindo que você prepare desde bolos aerados até receitas pesadas de família na ampla tigela de 4,5 litros, tudo sem sujeira na bancada graças à tampa antirrespingos com bocal de abastecimento.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07WGHXCJX?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando você decide fazer aquele pão caseiro macio ou um bolo fofo de domingo, mas desanima só de pensar em ficar 15 minutos sovando massa grudenta na bancada ou batendo claras no garfo até o braço queimar de cansaço? Quem já tentou usar uma batedeira de mão comum para receitas um pouco mais encorpadas sabe exatamente o drama: o motorzinho aquece, a massa sobe pelas hastes e a cozinha termina salpicada de farinha e massa crua por todos os lados.",
+      "A Mondial BP-03-B foi desenvolvida para acabar com esse esforço desnecessário trazendo a tecnologia das cozinhas profissionais para o ambiente doméstico. O grande diferencial está no seu sistema de movimento planetário: enquanto o acessório gira em torno do próprio eixo, ele também orbita simultaneamente por toda a extensão da tigela de 4,5 litros. Segundo a Mondial, essa dupla rotação alcança os cantos e o fundo do recipiente com total homogeneidade, incorporando ar às misturas de forma muito mais rápida e garantindo receitas com maior volume e maciez.",
+      "No dia a dia, a praticidade dos três batedores intercambiáveis transforma a rotina culinária. O batedor tipo globo (arame elíptico) é o rei das massas leves: levanta claras em neve em ponto de pico firme, chantilly consistente e mousses delicadas com velocidade surpreendente. A pá plana (raquete) assume o comando em massas médias, perfeita para bolos amanteigados, tortas, biscoitos e recheios densos sem criar grumos. Já o batedor gancho em espiral foi desenhado sob medida para massas pesadas, sovando massas de pão caseiro, focaccia, brioches e massas de pizza com o vigor mecânico que poupa seus punhos.",
+      "Toda essa versatilidade é impulsionada pelo motor de 700W de potência, gerenciado por um seletor giratório frontal com 12 velocidades graduais. Na prática, você pode iniciar no nível 1 para misturar farinhas secas e líquidos lentamente sem criar aquela incômoda nuvem branca de pó pela bancada, acelerando de forma progressiva até as velocidades mais altas conforme a textura da receita exigir. Para assegurar estabilidade durante o batimento vigoroso, a base do equipamento conta com pés em ventosa emborrachadas que se fixam com firmeza sobre mármore ou granito, evitando que a máquina deslize enquanto trabalha.",
+      "Uma dica valiosa de uso cotidiano é aproveitar o bocal dosador integrado à tampa antirrespingos transparente: você pode verter leite morno, ovos ou óleo aos poucos com a batedeira em pleno funcionamento, sem precisar interromper o processo ou desencaixar a tigela. Na hora da higienização, a ampla abertura da tigela de polipropileno facilita a lavagem manual com esponja macia, e a trava basculante lateral levanta a cabeça do motor com um simples toque, liberando espaço para remover os batedores sem lambuzar as mãos. Para manter a durabilidade do motor por muitos anos, lembre-se de respeitar o limite de 500g a 600g de farinha seca em receitas de pães densos, operando massas pesadas sempre entre as velocidades 1 e 3 recomendadas pelo fabricante.",
+      "Um último cuidado: este modelo BP-03-B opera em 110V (127V) com acabamento na cor preta e tigela resistente de polipropileno de 4,5 litros (não é bivolt, havendo também a versão em 220V no mercado). Antes de concluir o seu pedido na página do anúncio na Amazon, certifique-se de que a voltagem de 110V corresponde à rede elétrica da sua cozinha para aproveitar toda a potência e comodidade dessa batedeira no seu dia a dia."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "Mondial Eletrodomésticos"
+      },
+      {
+        "chave": "Modelo Exato",
+        "valor": "BP-03-B (Batedeira Planetária 700W)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Preto com detalhes cromados"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "110V (127V - 60 Hz)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "700W"
+      },
+      {
+        "chave": "Consumo Aproximado",
+        "valor": "0,70 kWh, segundo a Mondial"
+      },
+      {
+        "chave": "Capacidade da Tigela",
+        "valor": "4,5 litros em polipropileno (PP) de alta resistência"
+      },
+      {
+        "chave": "Velocidades",
+        "valor": "12 velocidades ajustáveis por controle giratório analógico"
+      },
+      {
+        "chave": "Tipo de Movimento",
+        "valor": "Planetário (rotação simultânea no eixo e órbita pela tigela)"
+      },
+      {
+        "chave": "Batedores Inclusos",
+        "valor": "3 batedores: massas leves (globo), massas médias (raquete) e massas pesadas (gancho)"
+      },
+      {
+        "chave": "Acessórios Complementares",
+        "valor": "01 tampa antirrespingos com bocal dosador de ingredientes"
+      },
+      {
+        "chave": "Estabilidade e Segurança",
+        "valor": "Base com pés de ventosas fixadoras e botão de acionamento para abertura basculante"
+      },
+      {
+        "chave": "Dimensões do Aparelho",
+        "valor": "33,5 cm de altura x 22,0 cm de largura x 38,0 cm de profundidade"
+      },
+      {
+        "chave": "Peso do Produto",
+        "valor": "Aproximadamente 3,32 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Comprimento do Cabo de Alimentação",
+        "valor": "1,50 metro"
+      },
+      {
+        "chave": "Plugue / Tomada",
+        "valor": "Padrão brasileiro 3 pinos (10A)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "12 meses (1 ano de garantia de fábrica pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor robusto de 700W de potência que fornece força contínua para massas leves, bolos e massas pesadas de pão",
+      "Sistema de movimento planetário que mistura com rapidez e homogeneidade superior sem deixar ingredientes parados nas laterais",
+      "Tigela ampla com 4,5 litros de capacidade útil, perfeita para receitas familiares volumosas sem risco de transbordamento",
+      "Conjunto completo com 3 batedores especializados (globo para aeração, raquete para misturas homogêneas e gancho para sova)",
+      "12 velocidades graduais que permitem desde a incorporação delicada de pós secos até o batimento ultra-rápido de claras em neve",
+      "Tampa antirrespingos com bocal alimentador prático para adicionar ingredientes sem respingos e sem interromper o funcionamento",
+      "Pés com ventosas de borracha na base que mantêm o equipamento fixo e estável na bancada durante as preparações"
+    ],
+    "pontos_atencao": [
+      "Nível de ruído sonoro perceptível nas velocidades mais elevadas, típico de motores potentes de 700W da categoria",
+      "Construção externa predominantemente em termoplástico, exigindo manuseio suave no acionamento da trava de elevação basculante",
+      "Indicada para uso doméstico moderado (não projetada para produção comercial contínua de panificação em larga escala)",
+      "Não é bivolt: este modelo específico requer rede elétrica residencial de 110V (127V)"
+    ],
+    "para_quem_e": "Para quem ama cozinhar, fazer bolos fofos, doces, tortas e pães caseiros para a família, e busca uma batedeira planetária potente, completa com 3 batedores e com excelente custo-benefício para aposentar o esforço braçal na cozinha.",
+    "para_quem_nao_e": "Para padarias e confeitarias comerciais que necessitam de batedeiras industriais de uso ininterrupto com estrutura maciça em aço fundido, ou para quem procura um modelo bivolt automático."
   }
 ];
 
