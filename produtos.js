@@ -5014,6 +5014,144 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer praticidade e agilidade para ter café fresco coado na hora todos os dias, busca economizar dinheiro eliminando o uso de filtros de papel descartáveis e prefere uma cafeteira bonita, compacta e fácil de higienizar.",
     "para_quem_nao_e": "Para quem busca bebidas à base de café espresso pressurizado com crema espessa, faz questão do uso de cápsulas monodose ou necessita de um aparelho bivolt para transportar com frequência entre cidades com voltagens diferentes."
+  },
+  {
+    "asin": "B07KFP1DYP",
+    "id": "robo-aspirador-wap-robot-w300-bivolt",
+    "titulo": "Robô Aspirador de Pó WAP Robot W300 Bivolt com Controle Remoto e Autorrecarga (Vermelho/Preto, 18W)",
+    "subtitulo": "Tudo o que você precisa saber antes de automatizar a limpeza diária com um robô que volta sozinho para a base e tem filtro HEPA",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/robo-aspirador-wap-robot-w300-bivolt.jpg",
+    "data_revisao": "2026-11-12",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O WAP Robot W300 é o passo ideal para quem deseja manter o piso sempre limpo sem precisar investir em modelos caros com mapeamento a laser. Com apenas 7,8 cm de altura para passar tranquilamente sob sofás e camas, filtro HEPA lavável que retém ácaros e pelos de animais, controle remoto completo e o conforto da base que recarrega a bateria de forma autônoma, ele assume a manutenção diária do chão enquanto você ganha tempo livre.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07KFP1DYP?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela sensação desgastante de passar uma vassoura na casa toda pela manhã e, no meio da tarde, já notar tufos de poeira, fios de cabelo e pelos de pet flutuando pelos corredores ou se acumulando nos cantos dos móveis? Em apartamentos urbanos ou casas com animais de estimação, manter o chão impecável exige uma dedicação quase diária que consome um tempo precioso do seu descanso. Ter um aparelho autônomo que cuide dessa manutenção constante sem que você precise sequer lembrar de colocá-lo na tomada é a grande promessa dos robôs aspiradores intermediários, e o WAP Robot W300 se consolidou como uma das alternativas mais equilibradas do mercado nacional para cumprir essa missão.",
+      "O grande salto deste modelo em relação aos robôs de entrada mais simples é a presença da base de carregamento automático combinada ao controle remoto físico. Enquanto aparelhos básicos exigem que você procure o robô descarregado pela casa e espete o plugue na tomada manualmente, o W300 monitora a própria carga: assim que a bateria se aproxima do fim ou ao receber o comando de encerramento pelo controle, ele localiza a estação por sensores infravermelhos e acopla sozinho para iniciar a recarga. Além disso, pelo controle remoto com visor digital você seleciona a direção da limpeza, alterna entre os 5 modos pré-programados e ainda pode agendar o horário fixo para ele começar a varrer enquanto você está no trabalho.",
+      "No cotidiano prático, a estatura do aparelho faz toda a diferença: são apenas 7,8 cm de perfil baixo, segundo a WAP. Essa altura reduzida permite que ele passe com tranquilidade por baixo de camas box, sofás retráteis, cômodas e racks suspensos — exatamente os esconderijos onde a vassoura comum não alcança e a sujeira mais se acumula. Suas duas escovas giratórias laterais trabalham em sincronia varrendo a poeira das bordas dos rodapés em direção ao bocal central de sucção de 5 mbar. Para pisos frios, laminados, porcelanatos e vinílicos, ele recolhe com facilidade farelos de comida, areia trazida no calçado e aquela penugem fina que costuma provocar espirros logo cedo.",
+      "Equipado com motor elétrico de 18W e bateria de Ni-MH de 1500 mAh, o W300 entrega entre 45 minutos e 1h15 de autonomia por ciclo, segundo dados técnicos do fabricante. Em avaliações práticas de canais especializados como o Escolha Segura e o Robô Aspirador Tech, destaca-se a eficiência do sistema de dupla filtragem com filtro HEPA: ao contrário de aspiradores convencionais que soltam ar empoeirado de volta na sala, o filtro do W300 retém partículas microscópicas de ácaros, bactérias e alérgenos, promovendo um ar sensivelmente mais limpo para quem sofre de rinite. Quando se depara com um tapete baixo ou uma área com sujeira mais densa, o botão 'Super' no controle eleva a força de sucção para extrair resíduos incrustados com maior agilidade, emitindo um nível sonoro de cerca de 74 dB(A), conforme medições oficiais da WAP.",
+      "Para tirar o melhor proveito do equipamento e garantir que ele volte à base sem se perder, uma dica prática essencial é o preparo do ambiente: recolha fios de carregador, cadarços de tênis e pequenos objetos espalhados pelo chão antes de iniciar o ciclo, pois eles podem se enrolar nas escovas giratórias. Posicione a base de recarga encostada em uma parede plana, deixando ao menos 1 metro livre nas laterais e à frente para não bloquear o feixe infravermelho. A manutenção do aparelho também é bastante intuitiva: o reservatório coletor de 300 ml é retirado por trás com um clique sem contato com o pó, e os filtros de tela e HEPA podem ser higienizados regularmente com o pincel que já vem na caixa.",
+      "Um último cuidado: o WAP Robot W300 acompanha carregador bivolt automático (100V a 240V, segundo a fabricante), permitindo ligar a base carregadora tanto em tomadas de 110V/127V quanto de 220V sem qualquer risco de queima. Vale lembrar que este modelo foi desenvolvido com foco estrito na aspiração a seco (não passa pano com MOP úmido nem aspira poças de líquidos) e utiliza navegação reflexiva por impacto suave e sensores antiqueda, não gerando mapas digitais da casa em aplicativo de celular. Para quem tem tapetes felpudos de pelos muito altos, a recomendação é isolá-los durante o ciclo, garantindo que as rodas emborrachadas circulem com máxima fluidez pelos pisos lisos da residência."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "WAP (Fresnomaq Indústria de Máquinas S/A)"
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "WAP Robot W300"
+      },
+      {
+        "chave": "Código do Fabricante (SKU)",
+        "valor": "FW006247"
+      },
+      {
+        "chave": "Código de Barras Oficial (EAN)",
+        "valor": "7898152185552"
+      },
+      {
+        "chave": "Tensão Elétrica de Alimentação",
+        "valor": "Carregador Bivolt Automático (Entrada 100-240V ~ 50/60 Hz; Saída 19V DC 0,6A)"
+      },
+      {
+        "chave": "Potência Elétrica Nominal",
+        "valor": "18 W, segundo a WAP"
+      },
+      {
+        "chave": "Bateria e Autonomia",
+        "valor": "Bateria recarregável Ni-MH de 14,4 VDC (1500 mAh), com autonomia de 45 min a 1h15 por ciclo, segundo o fabricante"
+      },
+      {
+        "chave": "Tempo Médio de Recarga",
+        "valor": "De 3 a 5 horas na base carregadora"
+      },
+      {
+        "chave": "Base de Autorrecarga",
+        "valor": "Sim (retorno automático autônomo à estação ao detectar bateria fraca ou por comando)"
+      },
+      {
+        "chave": "Controle Remoto Multifunção",
+        "valor": "Sim, com display digital, seleção de modos, agendamento de horário e função Super (inclui 2 pilhas AAA)"
+      },
+      {
+        "chave": "Modos de Operação",
+        "valor": "5 modos programados (Limpeza de Bordas/Cantos, Limpeza em Espiral/Especial, Limpeza em Zigue-zague, Limpeza Aleatória e Autolimpeza Automática)"
+      },
+      {
+        "chave": "Função Super (Turbo)",
+        "valor": "Sim (aumento da potência de sucção para áreas com maior concentração de poeira)"
+      },
+      {
+        "chave": "Capacidade do Reservatório de Pó",
+        "valor": "300 ml (coletor removível lavável com descarte rápido)"
+      },
+      {
+        "chave": "Sistema de Filtragem",
+        "valor": "Duplo estágio com Filtro HEPA lavável (retém ácaros e alérgenos) e pré-filtro de tela"
+      },
+      {
+        "chave": "Sensores de Navegação e Segurança",
+        "valor": "Sensores eletrônicos infravermelhos antiqueda (evitam escadas) e amortecedores frontais emborrachados anti-impacto"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "74 dB(A), segundo dados técnicos oficiais da WAP"
+      },
+      {
+        "chave": "Poder de Vácuo / Sucção",
+        "valor": "5 mbar (0,5 kPa), segundo a WAP"
+      },
+      {
+        "chave": "Função Passa Pano (MOP) e Aspiração de Água",
+        "valor": "Não possui (projeto dedicado exclusivamente à aspiração a seco de poeira e detritos)"
+      },
+      {
+        "chave": "Dimensões do Aparelho (D x A)",
+        "valor": "30,0 x 7,8 cm (perfil baixo ultra slim), segundo a WAP"
+      },
+      {
+        "chave": "Peso Líquido do Produto",
+        "valor": "Aproximadamente 2,7 kg (peso com embalagem: 3,5 kg)"
+      },
+      {
+        "chave": "Padrão de Plugue da Fonte",
+        "valor": "Padrão brasileiro de 2 pinos redondos (10A)"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "01 Robô Aspirador WAP Robot W300; 01 Base de carregamento; 01 Carregador Bivolt; 01 Controle remoto com pilhas; 04 Escovas giratórias laterais (2 instaladas e 2 reservas); 01 Filtro HEPA lavável; 01 Filtro de tela; 01 Pincel de limpeza e Manual de instruções oficial"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano de garantia oficial WAP para o aparelho; 6 meses para a bateria)"
+      }
+    ],
+    "pontos_fortes": [
+      "Base de autorrecarga inteligente que permite ao robô retornar sozinho para a estação ao final da bateria sem intervenção manual",
+      "Controle remoto multifunção com display que possibilita agendar horários, selecionar os modos de limpeza e direcionar o robô sem depender de rede Wi-Fi ou aplicativos",
+      "Perfil ultra slim com apenas 7,8 cm de altura, permitindo deslizar com facilidade por baixo de camas box, sofás retráteis e racks suspensos",
+      "Sistema de filtragem dupla com filtro HEPA lavável que retém ácaros, fungos e bactérias, promovendo um ar mais puro para quem tem alergias",
+      "Cinco modos de limpeza programados (cantos, zigue-zague, espiral, aleatório e automático) somados à função Super para turbinar a sucção",
+      "Sensores eletrônicos antiqueda e para-choque emborrachado com amortecedores que previnem quedas em degraus e preservam os móveis da casa",
+      "Carregador bivolt automático (100V a 240V) e kit com 2 escovas laterais extras de reposição inclusas diretamente na embalagem"
+    ],
+    "pontos_atencao": [
+      "Navegação aleatória por impacto e sensores de proximidade, não realizando mapeamento a laser nem salvando plantas de cômodos em aplicativo",
+      "Aparelho projetado estritamente para aspiração a seco, não possuindo compartimento de água, pano MOP ou capacidade para sugar poças líquidas",
+      "Reservatório coletor de 300 ml que demanda esvaziamento frequente, especialmente em casas com múltiplos animais que soltam pelos",
+      "Inadequado para uso sobre tapetes felpudos ou carpetes altos, nos quais as cerdas giratórias podem sofrer atrito e sobrecarga"
+    ],
+    "para_quem_e": "Para quem quer manter a casa ou apartamento com pisos lisos sempre livre de poeira diária, pelos de pet e farelos com o mínimo de esforço, valoriza a conveniência de um robô que volta sozinho para recarregar na base e prefere a praticidade de um controle remoto físico sem complicações de aplicativos de celular.",
+    "para_quem_nao_e": "Para quem exige controle por aplicativo com mapeamento de cômodos a laser, busca um aparelho com função passa pano integrada com reservatório de água ou possui uma residência repleta de tapetes felpudos de pelos altos."
   }
 ];
 
