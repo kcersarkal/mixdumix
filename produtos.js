@@ -4892,6 +4892,128 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer agilidade no dia a dia para desamassar roupas direto no cabide sem montar tábua, precisa higienizar e tirar odores de peças guardadas ou casacos, e cuida de tecidos delicados ou quem viaja e busca praticidade.",
     "para_quem_nao_e": "Para quem precisa passar pilhas grandes de roupas de cama pesadas e jeans grossos de uma só vez, faz questão de vincos duros e afiados em calças sociais, ou procura um equipamento bivolt automático."
+  },
+  {
+    "asin": "B0955QFBH2",
+    "id": "cafeteira-eletrica-mondial-dolce-arome-c-30-18x-110v",
+    "titulo": "Cafeteira Elétrica Mondial Dolce Arome Black 18 Xícaras C-30-18X-FB (Preto, 550W, 127V)",
+    "subtitulo": "Café fresco e aromático para toda a família sem gastar com filtros descartáveis: 550W de potência, jarra de vidro com base aquecida, sistema corta-pingos e visual All Black compacto.",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/cafeteira-eletrica-mondial-dolce-arome-c-30-18x-110v.jpg",
+    "data_revisao": "2026-11-12",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Cafeteira Elétrica Mondial Dolce Arome Black C-30-18X-FB é a solução ideal para quem busca praticidade e aquele café passado quentinho logo pela manhã sem perder tempo no fogão. Com capacidade para servir até 18 xícaras de uma só vez e potência de 550W, ela extrai o café na temperatura certa e mantém a bebida aquecida na jarra de vidro sobre a placa de aquecimento da base. Seu grande diferencial prático é o filtro permanente lavável com porta-filtro removível, que economiza no orçamento mensal ao dispensar filtros de papel descartáveis, além do sistema corta-pingos que permite retirar a jarra para se servir antes mesmo do término do preparo.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0955QFBH2?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Acordar cedo com a casa em silêncio ou encarar uma rotina corrida de trabalho e estudos exige aquele cafezinho feito na hora para despertar a mente. Só que esperar a chaleira ferver no fogão, posicionar o coador e ficar despejando água quente em fios finos enquanto você tenta organizar as coisas para sair de casa é exatamente o tipo de processo manual demorado que ninguém quer enfrentar na pressa da manhã. Pior ainda é abrir o armário e perceber que o estoque de filtros de papel descartáveis acabou justo no dia em que você mais precisava de energia.",
+      "A Mondial Dolce Arome C-30-18X-FB foi desenhada com o objetivo de eliminar essas fricções cotidianas, automatizando o preparo do café coado com muita simplicidade. O grande destaque do modelo está no equilíbrio entre tamanho e capacidade: ela rende até 18 cafezinhos em um único ciclo, atendendo perfeitamente o consumo familiar ou de quem trabalha em home office, mas sem ocupar a bancada inteira. Sua estrutura tem acabamento integralmente preto (\"All Black\"), conferindo discrição e um toque moderno ao cantinho do café.",
+      "No dia a dia, a experiência é extremamente direta e intuitiva. A tampa superior basculante abre com suavidade, permitindo visualizar com clareza o reservatório de água e o cesto do filtro. O visor com escala graduada na lateral mostra com precisão o nível de líquido para que você dose a quantidade exata de água sem precisar de medidores externos. Basta abastecer com água limpa, dosar o pó diretamente no filtro, fechar a tampa e acionar o botão luminoso: a máquina cuida de todo o processo de extração de forma rápida e silenciosa.",
+      "Equipada com 550W de potência elétrica, segundo a Mondial, a cafeteira conduz a água pelo bloco de aquecimento na temperatura ideal para extrair os óleos essenciais do grão sem queimá-lo nem provocar amargor excessivo. A base conta com placa de aquecimento termostatizada que mantém o café quente na jarra de vidro durante toda a refeição. E caso a vontade de tomar o primeiro gole fale mais alto, a válvula mecânica corta-pingos interrompe o fluxo no instante em que a jarra é retirada, possibilitando que você encha a primeira xícara sem sujeira na base quente.",
+      "Além da comodidade diária, o modelo se destaca pela economia e sustentabilidade: o filtro permanente reutilizável e o porta-filtro são totalmente removíveis e laváveis sob água corrente, eliminando em definitivo a dependência de filtros de papel descartáveis. Para garantir a longevidade da jarra de vidro refratário, recomenda-se evitar o contato da base ainda aquecida com superfícies molhadas ou metálicas muito geladas para prevenir choques térmicos, lavando-a sempre com o lado macio da esponja e detergente neutro.",
+      "Um último cuidado: este modelo específico Mondial Dolce Arome C-30-18X-FB opera exclusivamente em tensão de 127V (110V convencional com plugue padrão brasileiro de 10A e 2 pinos, existindo também em versão de 220V no catálogo da marca), não sendo um aparelho bivolt automático. Trata-se de uma cafeteira elétrica tradicional de filtro para café coado, não preparando café espresso pressurizado nem sendo compatível com cápsulas comerciais. Antes de concluir a compra no anúncio oficial da Amazon, certifique-se de selecionar a voltagem de 127V compatível com as tomadas da sua residência."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "Mondial Eletrodomésticos"
+      },
+      {
+        "chave": "Modelo Exato",
+        "valor": "Dolce Arome Black C-30-18X-FB (Linha C-30 18X)"
+      },
+      {
+        "chave": "Tipo de Aparelho",
+        "valor": "Cafeteira Elétrica de Filtro Tradicional (Gotejamento / Café Coado)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Preto (Acabamento All Black)"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (60 Hz) - Não é bivolt"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "550W, segundo a Mondial"
+      },
+      {
+        "chave": "Capacidade Máxima",
+        "valor": "Até 18 xícaras de café"
+      },
+      {
+        "chave": "Material da Jarra",
+        "valor": "Vidro refratário com tampa protetora e alça anatômica"
+      },
+      {
+        "chave": "Tipo de Filtro",
+        "valor": "Filtro permanente lavável e porta-filtro removível (dispensa filtro de papel)"
+      },
+      {
+        "chave": "Sistema Corta-Pingos",
+        "valor": "Sim (permite servir o café antes do término do ciclo sem gotejar na base)"
+      },
+      {
+        "chave": "Base com Aquecimento",
+        "valor": "Sim (conserva a temperatura do café na jarra sem queimar o sabor)"
+      },
+      {
+        "chave": "Indicador de Nível de Água",
+        "valor": "Sim (graduado no reservatório para controle do número de xícaras)"
+      },
+      {
+        "chave": "Interruptor de Operação",
+        "valor": "Botão liga/desliga com luz piloto indicadora de funcionamento"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,50 metro de extensão flexível"
+      },
+      {
+        "chave": "Padrão de Tomada",
+        "valor": "Padrão brasileiro de 2 pinos redondos (10A)"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "26,0 x 16,5 x 23,0 cm, segundo a Mondial"
+      },
+      {
+        "chave": "Peso Líquido do Aparelho",
+        "valor": "Aproximadamente 0,91 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Itens Inclusos na Caixa",
+        "valor": "01 Cafeteira Elétrica Mondial C-30-18X-FB com jarra de vidro e filtro permanente; 01 Manual de Instruções oficial"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "12 meses (1 ano de garantia de fábrica pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Capacidade equilibrada para até 18 xícaras de café, atendendo com conforto famílias e pequenos ambientes de trabalho",
+      "Filtro permanente ecológico lavável e porta-filtro removível que geram economia contínua e dispensam a compra de filtros de papel descartáveis",
+      "Jarra de vidro refratário fácil de lavar que não absorve odores e permite servir com elegância à mesa",
+      "Base de aquecimento termostatizada que mantém a bebida aquecida na jarra sem queimar nem alterar as notas aromáticas",
+      "Sistema corta-pingos mecânico que permite servir uma xícara antes do término da extração sem sujar a placa quente",
+      "Design compacto 'All Black' que valoriza a bancada e se encaixa em cantinhos reduzidos sem ocupar espaço excessivo",
+      "Reservatório de água com marcações graduadas visíveis que simplificam o abastecimento na medida desejada"
+    ],
+    "pontos_atencao": [
+      "Jarra em vidro que requer atenção no manuseio diário e na lavagem para prevenir quedas e choque térmico com superfícies geladas",
+      "Aparelho não é bivolt automático: esta versão opera exclusivamente em tensão de 127V",
+      "Não possui desligamento automático programado por timer digital, exigindo o desligamento manual no botão após o uso",
+      "Sistema de filtragem por gotejamento tradicional (café coado), não preparando café espresso sob alta pressão de bomba nem aceitando cápsulas"
+    ],
+    "para_quem_e": "Para quem quer praticidade e agilidade para ter café fresco coado na hora todos os dias, busca economizar dinheiro eliminando o uso de filtros de papel descartáveis e prefere uma cafeteira bonita, compacta e fácil de higienizar.",
+    "para_quem_nao_e": "Para quem busca bebidas à base de café espresso pressurizado com crema espessa, faz questão do uso de cápsulas monodose ou necessita de um aparelho bivolt para transportar com frequência entre cidades com voltagens diferentes."
   }
 ];
 
