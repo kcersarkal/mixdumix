@@ -2110,6 +2110,69 @@ window.PEDIDOS = [
     "imagem": "assets/logo.png",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/8584911308?tag=mdm0c7-20",
-    "descricao": "Confira as principais ofertas, seleções de produtos e condições especiais na página da Black Friday da Amazon Brasil."
+    "descricao": "Guia editorial completo para planejar compras conscientes de tecnologia, eletrônicos e utilidades na Black Friday da Amazon Brasil com foco em segurança.",
+    "categoria": "Tecnologia",
+    "subtitulo": "Como se planejar para encontrar as melhores oportunidades de eletrônicos, casa inteligente e informática sem cair em compras por impulso",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O hub da Black Friday 2026 da Amazon Brasil centraliza as principais campanhas de compras de fim de ano em tecnologia, eletrônicos e utilidades domésticas. Para quem deseja renovar equipamentos de informática, periféricos ou dispositivos inteligentes para casa conectada, a temporada reúne lançamentos e marcas consolidadas com a infraestrutura de entrega e segurança de compra da plataforma. Planejar a lista de prioridades com antecedência e focar em especificações técnicas reais é o caminho mais seguro para aproveitar a temporada sem dor de cabeça.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/8584911308?tag=mdm0c7-20",
+        "destaque": "Confira seleções, marcas oficiais e condições de entrega na página do evento",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem acompanha o calendário do ano sabe que a chegada de novembro desperta aquela vontade de trocar o smartphone antigo, investir em um monitor novo para o trabalho ou finalmente equipar a casa com aparelhos que facilitem a rotina. O problema é que o volume gigantesco de campanhas espalhadas pela internet costuma gerar sobrecarga: são centenas de abas abertas ao mesmo tempo, o que muitas vezes leva a compras por impulso de itens que você nem precisava de verdade.",
+      "Navegar pelo catálogo oficial da Black Friday na Amazon Brasil é uma forma prática de concentrar a busca em fabricantes consagrados de tecnologia, informática e eletrodomésticos. Em vez de percorrer dezenas de sites desconhecidos com políticas de pós-venda duvidosas, a plataforma reúne marcas oficiais em um ecossistema estruturado, com atendimento centralizado e acompanhamento transparente de cada etapa do envio até a sua porta.",
+      "Para tirar o melhor proveito da temporada, a recomendação prática é montar a sua lista de prioridades antes de começar a explorar os departamentos. Se o seu foco é um eletrônico de maior valor — como um notebook, smartwatch, fone de ouvido ou televisão —, anote com antecedência os modelos compatíveis com o seu dia a dia. Assim, ao conferir as seleções do evento, você já sabe exatamente quais configurações procura, comparando fichas técnicas com calma e assertividade.",
+      "Um último cuidado: durante eventos de grande escala como a Black Friday, a rotatividade de estoques de tecnologia e periféricos é muito alta e os lotes mais disputados costumam esgotar rapidamente. Além disso, ao escolher eletrônicos e aparelhos de cozinha, certifique-se sempre de selecionar a voltagem correta para a sua região (110V ou 220V) e confirme os detalhes da garantia de fábrica para ter total tranquilidade na sua escolha."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Evento Oficial",
+        "valor": "Black Friday Amazon Brasil 2026"
+      },
+      {
+        "chave": "Período Principal",
+        "valor": "Novembro de 2026"
+      },
+      {
+        "chave": "Categorias em Destaque",
+        "valor": "Tecnologia, Informática, Casa Inteligente, Áudio e Eletroportáteis"
+      },
+      {
+        "chave": "Plataforma de Acesso",
+        "valor": "Amazon.com.br (Navegador Web e Aplicativo Oficial)"
+      },
+      {
+        "chave": "Procedência dos Produtos",
+        "valor": "Lojas oficiais de fabricantes homologados e distribuidores autorizados"
+      },
+      {
+        "chave": "Garantia dos Produtos",
+        "valor": "Garantia legal de fábrica nacional (conforme ficha técnica de cada item)"
+      },
+      {
+        "chave": "Rastreamento e Segurança",
+        "valor": "Ambiente com criptografia segura e rastreamento ponto a ponto do pedido"
+      }
+    ],
+    "pontos_fortes": [
+      "Concentração de marcas renomadas de tecnologia, áudio e casa conectada em um único ambiente seguro",
+      "Infraestrutura de entrega e logística estruturada com acompanhamento detalhado de envio",
+      "Variedade extensa de categorias que permite resolver compras de fim de ano em um só lugar",
+      "Disponibilidade de especificações técnicas completas para comparação rápida entre modelos",
+      "Filtros de busca eficientes por categoria, voltagem, marca e características técnicas"
+    ],
+    "pontos_atencao": [
+      "Lotes de produtos de marcas muito disputadas podem esgotar estoques rapidamente nos dias de maior movimento",
+      "Exige atenção rigorosa na conferência da voltagem (110V ou 220V) antes de confirmar compras de eletroeletrônicos",
+      "Volume elevado de opções simultâneas exige planejamento prévio para não desviar do orçamento planejado"
+    ],
+    "para_quem_e": "Consumidores que planejam renovar equipamentos de tecnologia, informática ou eletroportáteis e preferem a segurança de comprar de marcas reconhecidas em uma plataforma consolidada com suporte e logística integrados.",
+    "para_quem_nao_e": "Pessoas que compram por impulso sem checar especificações técnicas mínimas ou quem busca produtos artesanais sob encomenda fora do catálogo oficial do varejo."
   }
 ];
