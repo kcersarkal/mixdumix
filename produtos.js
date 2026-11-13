@@ -5270,6 +5270,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem cozinha com frequência em casa, quer reduzir drasticamente o tempo gasto picando, ralando e fatiando ingredientes manualmente, e valoriza a praticidade de ter processador, liquidificador e espremedor reunidos em uma mesma base de 1000W com trava de segurança.",
     "para_quem_nao_e": "Para quem dispõe de espaço extremamente reduzido em armários para acomodar jarras e múltiplos acessórios, busca um equipamento industrial para volumes comerciais contínuos ou procura um modelo bivolt automático para usar em qualquer tomada sem checar a voltagem."
+  },
+  {
+    "asin": "B0BT22CQQ9",
+    "id": "aspirador-po-vertical-wap-high-speed-plus-1350w-127v",
+    "titulo": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1 1350W (Vermelho/Cinza, 127V)",
+    "subtitulo": "Potência de 1350W com tecnologia Cyclone e filtro HEPA lavável para aspirar pisos, tapetes e cantos com rapidez, sem o incômodo do saco descartável e da vassoura levantando poeira",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-vertical-wap-high-speed-plus-1350w-127v.jpg",
+    "data_revisao": "2026-11-13",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O WAP High Speed Plus 3 em 1 é um dos aspiradores de pó verticais mais práticos e potentes da categoria para a faxina doméstica do dia a dia. Com motor de 1350W e tecnologia Cyclone, ele entrega sucção vigorosa (134 mbar de vácuo, segundo a fabricante) em um corpo leve de apenas 1,25 kg. Podendo ser usado como aspirador de chão vertical ou desacoplado como modelo portátil de mão com bico de cantos e frestas, o aparelho dispensa sacos descartáveis e conta com filtro HEPA lavável, tornando-se uma solução ágil e de excelente relação custo-benefício para quem quer manter a casa livre de pelos, poeira e migalhas sem perder tempo.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BT22CQQ9?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele fim de tarde em que você percebe o chão da sala cheio de tufos de pelo do pet, farelos de biscoito perto do sofá e poeira acumulada nos cantos, mas bate um desânimo enorme só de pensar em pegar vassoura e pá? Varrer a casa muitas vezes só espalha a sujeira mais fina no ar, faz a rinite atacar e ainda exige agachar para recolher cada monte com a pá. Por outro lado, tirar do armário aquele aspirador tradicional de rodinhas pesado, montar a mangueira e ficar arrastando o trambolho pela casa toda cansa antes mesmo de começar. O aspirador vertical WAP High Speed Plus foi pensado sob medida para esse momento: ele fica em pé no cantinho da lavanderia e resolve a sujeira em poucos minutos.",
+      "O grande ponto forte deste modelo é a combinação de 1350W de potência nominal com a versatilidade 3 em 1. Em vez de ficar preso a um único formato rígido, você pode usá-lo como aspirador de chão convencional com a haste metálica e o bico articulado, retirar a haste com um clique para transformá-lo em um prático aspirador portátil de mão para sofás e teclados, ou acoplar o bico de canto longo direto na base para alcançar frestas estreitas e trilhos de janelas. Pesando apenas 1,25 kg, ele é tão leve que permite limpar rodapés, cortinas e até teias de aranha no teto sem cansar os braços nem sobrecarregar as costas.",
+      "No uso diário, o bico múltiplo articulado 360° desliza com suavidade e tem perfil baixo o suficiente para passar por baixo de mesas de centro, camas e aparadores com facilidade. O cabo elétrico de 4 metros de extensão oferece um bom raio de ação, permitindo limpar um cômodo inteiro ou ligar o aparelho no corredor e alcançar vários quartos sem precisar trocar de tomada o tempo todo. Na hora de guardar, a própria haste conta com suportes embutidos para enrolar o cabo de forma organizada, ocupando pouquíssimo espaço atrás de portas ou em pequenos armários de serviço.",
+      "Em termos de desempenho de sucção, o High Speed Plus atinge um vácuo de 134 mbar, segundo os dados de engenharia da WAP. Esse poder de arrasto é impulsionado pelo sistema Cyclone, que faz o ar girar em espiral dentro do reservatório, separando as partículas pesadas do fluxo de ar e evitando que a poeira obstrua a passagem logo no início da limpeza. Conforme testes práticos de portais especializados como Mundo Reviews e avaliações de bancada, essa dinâmica garante que a sucção se mantenha constante mesmo quando o recipiente de 1,2 litro vai se enchendo. Além disso, o conjunto conta com filtro HEPA de retenção para micropartículas e ácaros, o que devolve um ar bem mais puro para o ambiente durante a faxina.",
+      "Para manter a potência sempre no auge e garantir longa vida útil ao motor, alguns cuidados simples de manutenção são essenciais. O reservatório transparente de 1,2 litro é removível e possui sistema de descarte rápido com trava: basta colocar sobre a lixeira e abrir para soltar o pó sem sujar as mãos. O filtro HEPA é totalmente lavável em água corrente, mas lembre-se de nunca recolocá-lo ainda úmido no motor; deixe-o secar completamente à sombra por 24 horas antes de um novo ciclo. Vale lembrar também que este é um aspirador exclusivamente para resíduos secos; portanto, nunca o utilize para puxar líquidos ou pó de gesso e cinzas finas de reforma, que podem danificar as camadas filtrantes.",
+      "Um último cuidado: este anúncio da Amazon corresponde especificamente à versão em 127V (110V) com acabamento na tonalidade Vermelho e Cinza (código de fábrica WAP FW009104). Por ser um eletroportátil de 1350W com motor universal monofásico, ele não é bivolt automático; portanto, confira sempre a voltagem da sua residência antes de fechar o pedido na página oficial da loja para garantir o funcionamento correto e seguro na tomada da sua casa."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "Frescobaldi Indústria e Comércio Ltda. (WAP)"
+      },
+      {
+        "chave": "Linha e Modelo",
+        "valor": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1"
+      },
+      {
+        "chave": "Código de Referência do Fabricante",
+        "valor": "FW009104 (versão 127V)"
+      },
+      {
+        "chave": "Código de Barras Oficial (EAN)",
+        "valor": "7899831311354"
+      },
+      {
+        "chave": "Categoria do Produto",
+        "valor": "Casa & Eletro / Aspirador de Pó Vertical"
+      },
+      {
+        "chave": "Tensão Elétrica de Alimentação",
+        "valor": "127V ~ 60 Hz (Plugue bipolar de 10A, padrão NBR 14136)"
+      },
+      {
+        "chave": "Potência Elétrica Nominal",
+        "valor": "1350 W, segundo a WAP"
+      },
+      {
+        "chave": "Poder de Sucção (Vácuo)",
+        "valor": "134 mbar (127V), segundo especificações técnicas da WAP"
+      },
+      {
+        "chave": "Nível de Ruído Acústico",
+        "valor": "84 dB(A), conforme dados oficiais da WAP"
+      },
+      {
+        "chave": "Capacidade do Recipiente Coletor",
+        "valor": "1,2 litros de capacidade total (recipiente transparente lavável)"
+      },
+      {
+        "chave": "Sistema de Filtragem",
+        "valor": "Sistema Cyclone com Filtro HEPA lavável (2 níveis de filtragem)"
+      },
+      {
+        "chave": "Versatilidade de Uso (3 em 1)",
+        "valor": "Aspirador vertical para pisos, aspirador portátil de mão e modo com bico de cantos e frestas"
+      },
+      {
+        "chave": "Tipo de Resíduos Suportados",
+        "valor": "Exclusivamente resíduos sólidos secos (não aspira líquidos ou água)"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "4,0 metros com suporte embutido na haste para enrolar o cabo"
+      },
+      {
+        "chave": "Dimensões do Produto Montado (C x L x A)",
+        "valor": "25,0 x 14,5 x 108,0 cm"
+      },
+      {
+        "chave": "Peso Líquido do Produto",
+        "valor": "1,25 kg (peso bruto na caixa com todos os acessórios: 2,0 kg)"
+      },
+      {
+        "chave": "Acessórios Inclusos no Kit",
+        "valor": "01 Aspirador WAP High Speed Plus, 01 Haste metálica com alça extensora, 01 Bico múltiplo articulado para pisos, 01 Bico de cantos e frestas, 01 Filtro HEPA lavável e Manual de Instruções oficial"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (01 ano de garantia oficial concedida pelo fabricante WAP)"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor potente de 1350W que entrega 134 mbar de vácuo para sucção ágil e profunda em pisos frios, laminados e carpetes baixos",
+      "Versatilidade 3 em 1 que permite alternar rapidamente entre aspirador vertical de piso, portátil de mão e bocal para frestas",
+      "Corpo ultraleve de apenas 1,25 kg que facilita a limpeza de rodapés, sofás, frestas de janelas e cantos de teto sem cansar os braços",
+      "Tecnologia Cyclone que separa e compacta a sujeira no reservatório, mantendo o fluxo de sucção constante durante toda a limpeza",
+      "Filtro HEPA lavável que retém micropartículas e alérgenos, eliminando a despesa contínua com sacos descartáveis de papel",
+      "Bico múltiplo articulado 360° com perfil baixo que alcança com agilidade embaixo de camas, sofás e armários",
+      "Cabo elétrico de 4 metros com suporte organizador na própria haste, garantindo bom raio de alcance nos cômodos"
+    ],
+    "pontos_atencao": [
+      "Aparelho projetado exclusivamente para poeira e resíduos secos, não sendo indicado para aspirar água, lama ou líquidos",
+      "Monofásico em 127V, não sendo bivolt automático, exigindo seleção atenta da voltagem na página da Amazon",
+      "O filtro HEPA precisa estar 100% seco antes de ser reinstalado, demandando tempo de secagem à sombra após cada lavagem com água",
+      "Nível de ruído de 84 dB(A), padrão da categoria de alta potência com motor de 1350W"
+    ],
+    "para_quem_e": "Para quem busca agilidade e leveza na faxina diária, quer aposentar a vassoura para se livrar de pelos de pets e migalhas, e valoriza um aparelho potente de 1350W com filtro HEPA e versatilidade 3 em 1 sem gastar com sacos descartáveis.",
+    "para_quem_nao_e": "Para quem precisa aspirar água ou líquidos derramados no chão, procura um modelo sem fio a bateria ou necessita de um aspirador industrial de grande porte para pó pesado de reformas e obras."
   }
 ];
 
