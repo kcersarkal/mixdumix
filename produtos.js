@@ -5152,6 +5152,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer manter a casa ou apartamento com pisos lisos sempre livre de poeira diária, pelos de pet e farelos com o mínimo de esforço, valoriza a conveniência de um robô que volta sozinho para recarregar na base e prefere a praticidade de um controle remoto físico sem complicações de aplicativos de celular.",
     "para_quem_nao_e": "Para quem exige controle por aplicativo com mapeamento de cômodos a laser, busca um aparelho com função passa pano integrada com reservatório de água ou possui uma residência repleta de tapetes felpudos de pelos altos."
+  },
+  {
+    "asin": "B09NXD2DGR",
+    "id": "multiprocessador-mondial-turbo-chef-7-em-1-mpn-01-be-1000w-110v",
+    "titulo": "Multiprocessador Mondial Turbo Chef 7 em 1 MPN-01-BE 1000W (Preto, 110V)",
+    "subtitulo": "Sete funções em uma única base de 1000W para fatiar, ralar, picar, bater e espremer com rapidez, deixando as facas e os raladores manuais de lado",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/multiprocessador-mondial-turbo-chef-7-em-1-mpn-01-be-1000w-110v.jpg",
+    "data_revisao": "2026-11-13",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Multiprocessador Mondial Turbo Chef 7 em 1 MPN-01-BE é uma solução versátil e potente para quem busca aposentar facas e raladores manuais, economizando tempo precioso no preparo diário das refeições. Com 1000W de potência e conjunto que integra jarra de liquidificador de 3L com filtro, copo de processador de 3,2L, espremedor e discos de corte em aço inox (ralador, fatiador e palitador), ele centraliza o processamento de saladas, carnes, massas e sucos em um só aparelho com excelente relação custo-benefício para a cozinha da família.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09NXD2DGR?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele almoço especial de fim de semana em que você decide reunir a família para uma receita caprichada, mas passa quase uma hora inteira em pé na pia picando cebola com os olhos ardendo, fatiando quilos de legumes na faca e ralando queijo até os dedos doerem? Cozinhar em casa é gratificante, mas a etapa de pré-preparo costuma ser cansativa, deixando uma pilha de tábuas encardidas, raladores perigosos e louça acumulada na bancada. O Multiprocessador Mondial Turbo Chef 7 em 1 MPN-01-BE foi desenvolvido exatamente para resolver essa dor diária: em uma única base compacta, ele assume as tarefas mais pesadas e repetitivas em questão de segundos.",
+      "O grande diferencial desta versão é reunir as funções de múltiplos eletroportáteis que normalmente ocupariam metade dos armários da sua cozinha. O conjunto traz uma jarra de processador espaçosa com 3,2 litros de capacidade total (2,0 litros úteis) e um copo de liquidificador de 3,0 litros (2,1 litros úteis) equipado com filtro interno. Na prática do dia a dia, essa combinação permite moer carne bovina ou peito de frango para hambúrgueres artesanais, processar temperos frescos em lote e, logo em seguida, encaixar a jarra de liquidificador para bater um suco natural ou a massa fofa de uma torta salgada, sem precisar lavar tudo às pressas no meio do preparo.",
+      "No uso prático, a variedade de acessórios e lâminas em aço inoxidável transforma o preparo das refeições. Quem gosta de saladas volumosas prepara um bowl completo de repolho e cenoura ralados de forma ultrafina em menos de meio minuto, utilizando o disco ralador e o bocal alimentador com pilão. Para batatas rústicas, chips ou legumes gratinados, o disco fatiador garante rodelas padronizadas que cozinham por igual. O aparelho conta ainda com o disco palitador para corte estilo julienne, a lâmina picadora/batedora para pastinhas, patês e massas, além do cone espremedor para extrair laranjas e limões direto para a jarra com excelente rendimento.",
+      "Equipado com motor de 1000 W de potência nominal, segundo a Mondial, o aparelho oferece duas velocidades contínuas e função Turbo/Pulsar para dosar a consistência exata de cada receita. Em análises de veículos de tecnologia doméstica como o MegaReview e avaliações do setor, esse torque elevado se destaca por processar ingredientes densos como grãos, castanhas e queijo meia cura sem desacelerar ou emitir aquele odor de superaquecimento típico de motores de baixa potência. Além disso, todos os recipientes plásticos são totalmente livres de bisfenol A (BPA Free), garantindo total tranquilidade para a saúde da família e evitando que as jarras fiquem com cheiro residual de alho e condimentos após a lavagem.",
+      "Para aproveitar o multiprocessador com máxima tranquilidade e prolongar sua durabilidade, duas dicas de uso fazem toda a diferença. A primeira é prestar atenção ao sistema duplo de trava de segurança: por projeto, o motor só liga quando o copo estiver perfeitamente travado na base e a tampa estiver girada até ouvir o clique de travamento no bocal. Se o aparelho não ligar ao ser conectado, confira o alinhamento da tampa antes de qualquer outra coisa. Na hora da limpeza, todas as peças cortantes são desmontáveis; o ideal é limpá-las com água corrente e o lado macio da esponja imediatamente após o término do preparo para preservar o fio das lâminas e evitar riscos no polímero das jarras.",
+      "Um último cuidado: este modelo opera em tensão elétrica monofásica de 110V (127V), com plugue de 2 pinos de 10A adequado ao padrão brasileiro de tomadas. Como o aparelho não é bivolt automático, verifique com atenção se a voltagem das tomadas da sua bancada é de 127V ou selecione a opção de 220V no seletor de voltagem da página da Amazon antes de finalizar a compra. Vale pontuar também que, devido à força expressiva do motor de 1000W, o funcionamento produz um nível sonoro considerável durante a trituração de ingredientes pesados, o que é natural para a categoria, e que o encaixe das peças nas travas plásticas deve ser feito de maneira suave, sem forçar as abas."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "MK Eletrodomésticos Mondial S.A."
+      },
+      {
+        "chave": "Modelo / Linha",
+        "valor": "Mondial Turbo Chef 7 em 1 (MPN-01-BE)"
+      },
+      {
+        "chave": "Código de Referência do Fabricante",
+        "valor": "1030"
+      },
+      {
+        "chave": "Código de Barras Oficial (EAN)",
+        "valor": "7899882313628 (versão 127V)"
+      },
+      {
+        "chave": "Categoria do Produto",
+        "valor": "Cozinha & Utilidades / Multiprocessador de Alimentos"
+      },
+      {
+        "chave": "Tensão Elétrica de Alimentação",
+        "valor": "127V ~ 60 Hz (Plugue bipolar de 10A no padrão NBR 14136)"
+      },
+      {
+        "chave": "Potência Elétrica Nominal",
+        "valor": "1000 W, segundo especificações oficiais da Mondial"
+      },
+      {
+        "chave": "Velocidades de Operação",
+        "valor": "2 velocidades de giro contínuo + Função Turbo / Pulsar"
+      },
+      {
+        "chave": "Capacidade da Jarra do Processador",
+        "valor": "3,2 litros totais (capacidade útil de 2,0 litros), segundo a Mondial"
+      },
+      {
+        "chave": "Capacidade da Jarra do Liquidificador",
+        "valor": "3,0 litros totais (capacidade útil de 2,1 litros) com filtro removível em aço inox"
+      },
+      {
+        "chave": "Material das Jarras e Componentes",
+        "valor": "Polímero plástico cristal de alta resistência, 100% livre de BPA (BPA Free)"
+      },
+      {
+        "chave": "Tipo de Lâminas e Discos Cortantes",
+        "valor": "Lâminas e discos fatiador, ralador e palitador em aço inoxidável"
+      },
+      {
+        "chave": "Acessórios Inclusos no Kit (7 em 1)",
+        "valor": "01 Base motora 1000W; 01 Jarra de processador com tampa e pilão dosador; 01 Copo de liquidificador de 3L com tampa e filtro; 01 Lâmina picadora e batedora; 01 Disco fatiador; 01 Disco ralador e granulador; 01 Disco palitador; 01 Acessório espremedor de frutas cítricas e Manual de Instruções oficial"
+      },
+      {
+        "chave": "Mecanismos de Segurança",
+        "valor": "Dupla trava de segurança inteligente (o motor só gira com jarra e tampa devidamente travadas) e base com pés de sucção antiderrapantes"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,50 metro com sistema porta-fio embutido na base"
+      },
+      {
+        "chave": "Dimensões do Aparelho (L x A x P)",
+        "valor": "Aproximadamente 26,0 x 38,0 x 24,0 cm"
+      },
+      {
+        "chave": "Peso Líquido do Produto",
+        "valor": "Aproximadamente 3,0 kg (peso com embalagem e todos os acessórios: 3,6 kg)"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano de garantia oficial de fábrica Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor robusto de 1000 W que entrega torque elevado para processar grãos, carnes e massas consistentes sem engasgar",
+      "Conjunto completo 7 em 1 que reúne jarra de processador, copo de liquidificador com filtro, espremedor e 3 lâminas de corte em disco",
+      "Jarras de grande capacidade volumétrica (3,2L totais no processador e 3,0L no liquidificador) confeccionadas em material livre de BPA",
+      "Discos em aço inoxidável para fatiar, ralar e cortar em palito (julienne), gerando cortes uniformes e ágeis para saladas e guarnições",
+      "Duplo mecanismo de trava de segurança na base e na tampa que impede o funcionamento involuntário se as peças estiverem destravadas",
+      "Dois níveis de velocidade somados à função Turbo/Pulsar para controle exato da textura e granulometria das receitas",
+      "Bocal alimentador com pilão empurrador que permite adicionar ingredientes durante o preparo com total proteção para as mãos"
+    ],
+    "pontos_atencao": [
+      "Aparelho monofásico em 110V (127V), não sendo bivolt automático, exigindo seleção correta da voltagem na página da Amazon",
+      "Exige travamento milimétrico da tampa e da jarra nos sensores para acionar o motor, o que requer atenção nas primeiras utilizações",
+      "Conjunto volumoso com duas jarras e múltiplos acessórios que exige espaço livre reservado nos armários da cozinha",
+      "Jarras de acrílico que pedem higienização cuidadosa com o lado macio da esponja para evitar riscos superficiais ao longo do tempo"
+    ],
+    "para_quem_e": "Para quem cozinha com frequência em casa, quer reduzir drasticamente o tempo gasto picando, ralando e fatiando ingredientes manualmente, e valoriza a praticidade de ter processador, liquidificador e espremedor reunidos em uma mesma base de 1000W com trava de segurança.",
+    "para_quem_nao_e": "Para quem dispõe de espaço extremamente reduzido em armários para acomodar jarras e múltiplos acessórios, busca um equipamento industrial para volumes comerciais contínuos ou procura um modelo bivolt automático para usar em qualquer tomada sem checar a voltagem."
   }
 ];
 
