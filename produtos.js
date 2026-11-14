@@ -5388,6 +5388,121 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca agilidade e leveza na faxina diária, quer aposentar a vassoura para se livrar de pelos de pets e migalhas, e valoriza um aparelho potente de 1350W com filtro HEPA e versatilidade 3 em 1 sem gastar com sacos descartáveis.",
     "para_quem_nao_e": "Para quem precisa aspirar água ou líquidos derramados no chão, procura um modelo sem fio a bateria ou necessita de um aspirador industrial de grande porte para pó pesado de reformas e obras."
+  },
+  {
+    "asin": "B0764H7W59",
+    "id": "extrator-sucos-mondial-turbo-premium-e-10-bivolt",
+    "titulo": "Extrator de Sucos Mondial Turbo Premium E-10 250W com Jarra de 1L (Preto/Inox, Bivolt)",
+    "subtitulo": "Motor potente de 250W com rolamento blindado, sistema de dupla rotação e dois cones dedicados para extrair até a última gota de laranjas e limões sem esforço manual e sem travar",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/extrator-sucos-mondial-turbo-premium-e-10-bivolt.jpg",
+    "data_revisao": "2026-11-14",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Mondial Turbo Premium E-10 é um dos extratores de suco mais eficientes e confiáveis do mercado para quem ama suco natural de frutas cítricas e quer se livrar do cansaço dos espremedores manuais ou dos modelos plásticos fracos que travam na primeira pressão. Equipado com motor robusto de 250W de rolamento blindado, corpo com detalhes em aço inox e sistema inteligente de dupla rotação, ele extrai rapidamente todo o sumo de laranjas e limões aproveitando ao máximo a fruta. Acompanhado de jarra de 1 litro com peneira integrada, duas castanhas de tamanhos diferentes e chave seletora bivolt, o modelo entrega durabilidade, agilidade e excelente relação custo-benefício para a rotina da cozinha.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0764H7W59?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele desejo gostoso de tomar um suco de laranja bem fresquinho e natural logo de manhã ou em uma tarde quente, mas que vai por água abaixo só de imaginar a trabalheira? Espremer fruta na mão cansa o pulso, deixa sementes caindo no copo e quase sempre metade do caldo fica desperdiçada no bagaço. Por outro lado, aqueles espremedores caseiros de plástico bem fraquinhos costumam engasgar e parar assim que você aperta a metade da laranja com um pouco mais de vontade, tornando o preparo de um simples lanche um teste de paciência. O extrator de sucos Mondial Turbo Premium E-10 foi desenhado exatamente para tirar essa preguiça da frente e transformar o suco fresco em um hábito rápido no seu dia a dia.",
+      "O grande diferencial deste modelo em relação aos espremedores comuns de entrada está na robustez do seu motor de 250W de potência nominal com sistema de dupla rotação. Em vez de perder força ou travar quando você pressiona a fruta contra o cone, ele mantém o giro firme, vigoroso e constante. Além disso, o mecanismo de giro bidirecional faz com que a castanha inverta a rotação de forma alternada, alcançando cada fibra da fruta e retirando até a última gota de suco sem que você precise fazer força com o braço ou torcer a casca manualmente. Em menos de três minutos, você prepara uma jarra cheia para a família toda sem qualquer dor nas mãos.",
+      "No cotidiano da cozinha, a praticidade impressiona pela inteligência dos acessórios dedicados. O aparelho acompanha duas castanhas (cones de extração) intercambiáveis em polipropileno de alta densidade: uma castanha maior com perfil anatômico desenhado especialmente para laranjas de diversos tamanhos e uma castanha menor que encaixa perfeitamente no miolo de limões e tangerinas. A jarra transparente com capacidade para 1 litro possui bico dosador e já vem com uma peneira acoplada que filtra caroços e o excesso de polpa grossa diretamente durante a extração. Na base, pés antiderrapantes garantem total firmeza na bancada da pia, enquanto o porta-fio embutido permite enrolar o cabo de 1,50 metro de forma organizada na hora de guardar no armário.",
+      "Em termos de engenharia e confiabilidade, o motor do E-10 possui rolamento blindado e proteção térmica com desligamento automático em caso de sobrecarga, segundo as especificações técnicas da Mondial. Esse recurso protege a fiação elétrica interna mesmo durante o preparo contínuo de volumes maiores de suco em reuniões familiares. Em comparativos técnicos e avaliações práticas de portais especializados como o Melhores.com, o revestimento frontal em aço inox escovado também recebeu destaque por conferir peso estrutural extra (2,4 kg no total) e estabilidade superior contra vibrações em comparação a espremedores 100% de plástico, além de evitar manchas causadas pela acidez natural das frutas cítricas ao longo dos anos.",
+      "Para manter o extrator sempre higiênico e funcionando como novo, a rotina de limpeza é extremamente rápida e descomplicada. Todas as peças que têm contato com os alimentos — a jarra, a peneira de polpa e os cones de extração — são completamente removíveis e podem ser lavadas em água corrente com detergente neutro logo após o término do uso, evitando que açúcares e resíduos sequem nas ranhuras. Já o corpo principal com motor e acabamento em aço inox nunca deve ser submerso em água; uma simples passada de pano levemente umedecido seguido de uma flanela seca mantém o acabamento metálico brilhante e protegido. Lembre-se também de que este é um equipamento voltado para citrinos, não devendo ser utilizado com sementes duras ou frutas compactas como maçãs e cenouras.",
+      "Um último cuidado: o modelo Mondial Turbo Premium E-10 conta com alimentação Bivolt com chave seletora manual (127V / 220V) estrategicamente posicionada na base inferior do aparelho. Antes de ligá-lo pela primeira vez na tomada da sua casa, vire a base e confirme se a chavinha está ajustada na voltagem correspondente à rede elétrica da sua região (127V ou 220V) para garantir a segurança e o perfeito desempenho do motor. Na página oficial da Amazon, confira também os detalhes do anúncio para ter a certeza de que está selecionando o modelo oficial Turbo Premium E-10 com todos os acessórios inclusos."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "MK Eletrodomésticos Mondial S.A."
+      },
+      {
+        "chave": "Linha e Modelo",
+        "valor": "Extrator de Sucos Turbo Premium Mondial (E-10)"
+      },
+      {
+        "chave": "Código de Referência do Fabricante",
+        "valor": "0245-01 / 4190-01 (Modelo E-10)"
+      },
+      {
+        "chave": "Código de Barras Oficial (EAN)",
+        "valor": "7898216296781"
+      },
+      {
+        "chave": "Categoria do Produto",
+        "valor": "Cozinha & Utilidades / Espremedores e Extratores de Sucos"
+      },
+      {
+        "chave": "Tensão Elétrica de Alimentação",
+        "valor": "Bivolt manual (127V / 220V ~ 60 Hz com chave seletora na base)"
+      },
+      {
+        "chave": "Potência Elétrica Nominal",
+        "valor": "250 W, segundo especificações oficiais da Mondial"
+      },
+      {
+        "chave": "Tipo de Motor",
+        "valor": "Motor com rolamento blindado e proteção térmica automática"
+      },
+      {
+        "chave": "Sistema de Extração",
+        "valor": "Acionamento por pressão na castanha com dupla rotação bidirecional"
+      },
+      {
+        "chave": "Capacidade da Jarra",
+        "valor": "1,0 Litro de capacidade total com bico direcionador e peneira de polpa acoplada"
+      },
+      {
+        "chave": "Acessórios Inclusos no Kit",
+        "valor": "01 Extrator Mondial E-10, 01 Castanha grande (laranja), 01 Castanha pequena (limão), 01 Jarra de 1L com peneira e tampa, 01 Manual de instruções oficial"
+      },
+      {
+        "chave": "Material de Fabricação",
+        "valor": "Corpo em Polipropileno (PP) de alta densidade com revestimento frontal em Aço Inox escovado"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,50 metro com compartimento organizador guarda-fio na base"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "31,5 x 18,5 x 18,0 cm (aproximadamente, segundo catálogo oficial)"
+      },
+      {
+        "chave": "Peso Líquido do Produto",
+        "valor": "2,4 kg, segundo a fabricante Mondial"
+      },
+      {
+        "chave": "Indicação de Uso",
+        "valor": "Uso doméstico residencial para frutas cítricas (laranjas, limões e tangerinas)"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (01 ano de garantia oficial concedida pelo fabricante Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor potente de 250W com rolamento blindado que mantém rotação vigorosa e não engasga nem sob pressão constante",
+      "Sistema de dupla rotação inteligente que inverte o giro e extrai o sumo até a última gota de forma uniforme",
+      "Duas castanhas dedicadas em formatos anatômicos para extrair o máximo tanto de laranjas quanto de limões",
+      "Jarra graduada de 1 litro com peneira integrada que retém sementes e excesso de bagaço direto na extração",
+      "Corpo com acabamento frontal em aço inox escovado, combinando elegância e resistência à acidez dos sucos cítricos",
+      "Motor com termostato de proteção térmica que desliga preventivamente para evitar superaquecimento da fiação",
+      "Alimentação Bivolt (127V/220V por chave seletora), permitindo instalação e uso em qualquer tomada residencial brasileira",
+      "Base com pés antiderrapantes e guarda-fio embutido para organizar o cabo elétrico de 1,50m no armário"
+    ],
+    "pontos_atencao": [
+      "Equipamento projetado exclusivamente para frutas cítricas (laranja, limão e tangerina), não servindo para frutas duras ou legumes",
+      "A voltagem deve ser verificada e ajustada manualmente na chave seletora inferior antes de conectar o plugue na tomada",
+      "O aparelho foi dimensionado para uso doméstico, exigindo intervalos de descanso em preparos contínuos de grandes caixas de fruta",
+      "A carcaça principal abriga o motor elétrico e não pode ser lavada na torneira nem submergida na pia"
+    ],
+    "para_quem_e": "Para quem busca praticidade e agilidade para saborear sucos naturais de laranja e limão diariamente, quer um motor forte de 250W que não trave na hora de espremer e valoriza a robustez do acabamento em inox com chave bivolt.",
+    "para_quem_nao_e": "Para quem precisa de maquinário industrial de alta tiragem contínua para comércio ou lanchonete, ou busca um eletroportátil multifuncional para processar maçãs inteiras, legumes duros ou folhas verdes."
   }
 ];
 
