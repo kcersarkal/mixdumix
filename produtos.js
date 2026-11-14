@@ -5503,6 +5503,121 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca praticidade e agilidade para saborear sucos naturais de laranja e limão diariamente, quer um motor forte de 250W que não trave na hora de espremer e valoriza a robustez do acabamento em inox com chave bivolt.",
     "para_quem_nao_e": "Para quem precisa de maquinário industrial de alta tiragem contínua para comércio ou lanchonete, ou busca um eletroportátil multifuncional para processar maçãs inteiras, legumes duros ou folhas verdes."
+  },
+  {
+    "asin": "B07L8PWVW5",
+    "id": "panela-de-pressao-eletrica-mondial-master-cooker-pe-38-5l-127v",
+    "titulo": "Panela de Pressão Elétrica Digital Mondial Master Cooker PE-38 5L (Preto/Inox, 900W, 127V)",
+    "subtitulo": "Capacidade farta de 5 litros, painel digital intuitivo com 14 funções pré-programadas e timer de até 24h para cozinhar feijão macio e carnes suculentas sem barulho de fogão e com total segurança",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/panela-de-pressao-eletrica-mondial-master-cooker-pe-38-5l-127v.jpg",
+    "data_revisao": "2026-11-14",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Mondial Master Cooker PE-38 de 5L é uma das panelas de pressão elétricas mais completas e equilibradas do mercado brasileiro para quem quer aposentar o medo do chiado no fogão tradicional e ganhar tempo livre na rotina. Com 900W de potência, acabamento refinado em aço inox e painel digital com 14 receitas pré-programadas, ela assume o preparo de feijão, carnes de panela, sopas, arroz e até sobremesas com apenas um toque, desligando e mantendo a comida quentinha de forma automática. Sua cuba antiaderente espaçosa e removível facilita tanto o preparo de almoços fartos para a família quanto a limpeza pós-refeição, fazendo dela um investimento certeiro em praticidade, segurança e economia de gás.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07L8PWVW5?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Se você ainda sente aquele frio na espinha toda vez que coloca uma panela de pressão convencional no fogão a gás, saiba que não está sozinho. Aquele chiado alto e contínuo, a fumaça tomando conta do teto e a obrigação de ficar plantado perto da boca do fogão controlando a chama para nada queimar ou transbordar transformam o preparo de um simples feijão em um evento tenso. Além disso, esquecer o fogo ligado por dez minutos a mais pode estragar o almoço inteiro ou colar o fundo da panela para sempre. A panela de pressão elétrica digital Mondial Master Cooker PE-38 surge exatamente para eliminar esse estresse da sua rotina e devolver a paz à hora de cozinhar.",
+      "A principal virada de chave da Master Cooker PE-38 é aliar a força dos seus 900W de potência a uma operação surpreendentemente silenciosa e inteligente. Em vez de apitar feito trem e soltar vapores constantes pela cozinha, ela cozinha em silêncio absoluto sob controle eletrônico de temperatura e pressão. No painel digital com display luminoso, você encontra 14 funções pré-programadas cobrindo desde os clássicos diários, como feijão, arroz e legumes, até carnes bovinas, suínas, músculo, sopas e até pudim. Basta selecionar a receita desejada com um clique ou ajustar os minutos pelo teclado se preferir personalizar o ponto exato da sua receita.",
+      "No cotidiano corrido, a liberdade que esse eletroportátil proporciona é transformadora. Você pode dourar o alho, a cebola e refogar a carne diretamente na cuba interna usando a função apropriada, adicionar os temperos e a água, tampar, apertar o botão e simplesmente sair da cozinha para trabalhar, cuidar dos filhos ou assistir a uma série. Ao atingir o tempo programado, a panela emite um aviso sonoro, encerra o ciclo de cozimento por conta própria e aciona a função de manter aquecido. Isso significa que, mesmo se você só for abrir a tampa duas horas depois, a comida continuará na temperatura perfeita para servir sem ressecar e sem risco algum de queimar.",
+      "Com capacidade nominal de 5 litros, a PE-38 tem o tamanho ideal para famílias de quatro a seis pessoas ou para quem gosta de tirar o domingo para cozinhar grandes porções de feijão e marmitas para a semana inteira. Segundo a Mondial, o aparelho apresenta consumo de energia moderado de apenas 0,9 kWh, o que na ponta do lápis representa uma economia considerável quando comparado ao gasto contínuo de gás de cozinha em cozimentos longos de carnes duras. Outro recurso valioso é o timer integrado programável com até 24 horas de antecedência: dá para deixar os grãos e os temperos na panela antes de dormir e programar para o cozimento iniciar de manhã cedo, encontrando tudo pronto na hora do almoço.",
+      "Para garantir que a sua panela dure muitos anos com aspecto de nova, alguns cuidados simples no dia a dia fazem toda a diferença. A cuba interna é removível e possui revestimento antiaderente de qualidade, o que impede que restos de alimentos fiquem grudados; para higienizá-la, utilize apenas água morna, detergente neutro e o lado macio da esponja, evitando talheres de metal para não riscar a camada interna (utilize a colher plástica inclusa ou espátulas de silicone). Após cada uso, retire e lave o anel de vedação de silicone da tampa e o copinho coletor de condensação traseiro. Para liberar a pressão após o cozimento, você pode optar por deixar a panela despressurizar naturalmente ou girar a válvula com o auxílio de um talher comprido para não aproximar os dedos do vapor quente.",
+      "Um último cuidado: este modelo opera em 127V (110V) com potência de 900W e plugue padrão brasileiro de 10A, mas não possui chave bivolt automática. Por isso, certifique-se da voltagem das tomadas da sua bancada antes de finalizar a compra (caso a sua rede elétrica seja de 220V, basta selecionar a versão correspondente na página do produto para garantir o funcionamento perfeito sem riscos)."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Mondial Eletrodomésticos"
+      },
+      {
+        "chave": "Linha / Modelo",
+        "valor": "Master Cooker Digital 5L (PE-38)"
+      },
+      {
+        "chave": "Capacidade Total da Cuba",
+        "valor": "5 Litros (ideal para famílias de 4 a 6 pessoas)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "900 W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (plugue padrão brasileiro 10A, não é bivolt)"
+      },
+      {
+        "chave": "Consumo de Energia",
+        "valor": "0,90 kWh (segundo a fabricante Mondial)"
+      },
+      {
+        "chave": "Material da Estrutura",
+        "valor": "Corpo em aço inoxidável escovado com detalhes em polipropileno (PP) preto"
+      },
+      {
+        "chave": "Cuba Interna",
+        "valor": "Cuba removível com revestimento antiaderente próprio para lavagem fácil"
+      },
+      {
+        "chave": "Painel de Controle",
+        "valor": "Display digital LED com botões de toque suave e 14 funções pré-programadas"
+      },
+      {
+        "chave": "Funções Pré-programadas",
+        "valor": "14 opções (feijão, sopa, arroz, arroz integral, peixe, carne de porco, carne bovina, músculo, legumes, refogados, doces, aquecer e timer)"
+      },
+      {
+        "chave": "Timer Programável",
+        "valor": "Ajuste manual de tempo e programação de início com até 24 horas de antecedência"
+      },
+      {
+        "chave": "Sistemas de Segurança",
+        "valor": "Válvula de controle de pressão, trava de segurança mecânica na tampa, sensor térmico e desligamento automático"
+      },
+      {
+        "chave": "Dimensões do Produto",
+        "valor": "31,5 cm (A) x 33,5 cm (L) x 30,5 cm (P), segundo a Mondial"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "4,70 kg, segundo a fabricante Mondial"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "1,50 metro"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "01 Panela de Pressão Elétrica PE-38, 01 colher plástica de servir, 01 copo medidor graduado e manual de instruções com guia de receitas"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (01 ano de garantia oficial concedida pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Painel digital inteligente com display LED e 14 receitas pré-programadas que iniciam com apenas um clique",
+      "Capacidade farta de 5 litros, ideal para o preparo de refeições familiares e organização de marmitas semanais",
+      "Cozimento sob pressão extremamente silencioso e seguro, eliminando o chiado contínuo e a tensão das panelas convencionais",
+      "Timer programável com até 24 horas de antecedência que permite deixar os ingredientes prontos e agendar o horário de cozimento",
+      "Cuba interna removível com acabamento antiaderente de alta qualidade que impede que a comida grude e simplifica a higienização",
+      "Função manter aquecido acionada de forma automática ao término do preparo, preservando os pratos quentes e frescos até a hora de servir",
+      "Múltiplos mecanismos de segurança com tampa de trava hermética, válvula de escape protegida e aviso sonoro com corte térmico",
+      "Acabamento elegante em aço inox escovado que confere durabilidade, modernidade e sofisticação à bancada da cozinha"
+    ],
+    "pontos_atencao": [
+      "Dimensões robustas que exigem um espaço reservado na bancada da cozinha ou prateleira alta do armário",
+      "Aparelho monovolt (127V nesta versão), exigindo conferência das tomadas residenciais antes da instalação",
+      "A cuba antiaderente requer o uso exclusivo de colheres de silicone ou plástico e esponja não abrasiva para preservar a camada protetora",
+      "O tempo total de preparo deve levar em consideração o período inicial para pressurização e a despressurização natural da panela"
+    ],
+    "para_quem_e": "Para quem quer a agilidade e a maciez da panela de pressão na cozinha sem o medo do chiado no fogão, buscando programar refeições completas para a família com a praticidade de um painel digital com 14 funções e desligamento automático.",
+    "para_quem_nao_e": "Para quem mora sozinho em quitinetes muito compactas com bancadas mínimas e prefere panelas pequenas de 2 a 3 litros, ou quem faz questão de modelos portáteis sem fio para levar em viagens."
   }
 ];
 
