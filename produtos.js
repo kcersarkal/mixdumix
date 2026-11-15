@@ -5720,6 +5720,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora em apartamento, quitinete ou casa sem quintal e não abre mão de saborear churrascos e grelhados saborosos no dia a dia com rapidez, sem a sujeira do carvão e sem empestear a residência de fumaça.",
     "para_quem_nao_e": "Para churrasqueiros tradicionalistas que fazem questão absoluta do aroma defumado da brasa de lenha/carvão ou para quem costuma reunir grandes grupos acima de 8 pessoas e necessita de grelhas gigantes de alta produção simultânea."
+  },
+  {
+    "asin": "B0B9PSBNYL",
+    "id": "robo-aspirador-wap-robot-w90-bivolt",
+    "titulo": "Robô Aspirador de Pó WAP Robot W90 Bivolt (Preto, 30W, 3 em 1: Varre, Aspira e Passa Pano)",
+    "subtitulo": "Uma solução prática e direta ao ponto para manter pisos lisos sem poeira ou pelos no dia a dia",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/robo-aspirador-wap-robot-w90-bivolt.jpg",
+    "data_revisao": "2026-11-15",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem quer se livrar da rotina exaustiva de varrer a casa todo dia mas não quer gastar uma pequena fortuna em aparelhos complexos, o WAP Robot W90 entrega exatamente o essencial com excelente custo-benefício. Com perfil baixo de 8 cm que alcança embaixo de camas e sofás, bateria com autonomia de até 1h40 segundo a WAP e acionamento por botão único, ele mantém pisos de cerâmica, porcelanato e laminados limpos de pelos de pets e poeira fina enquanto você aproveita o seu tempo livre.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0B9PSBNYL?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já teve a sensação de terminar de varrer a sala e, poucas horas depois, encontrar tufos de pelos de cachorro, fiapos de tecido e aquela poeirinha chata reaparecendo pelos cantos? Em uma rotina corrida de trabalho e estudos, tirar o aspirador convencional do armário e ficar puxando fio pela casa inteira consome um tempo e uma energia preciosos. É exatamente essa dor que um robô aspirador de entrada se propõe a resolver sem complicar a sua vida.",
+      "O WAP Robot W90 aposta na simplicidade funcional: aqui não há aplicativos que desconfiguram, pareamento com Wi-Fi que cai nem comandos confusos. Para colocar a faxina em andamento, basta apertar o botão no topo do aparelho e deixá-lo trabalhar. Com apenas 8 cm de altura, ele consegue deslizar com facilidade por baixo de camas box, sofás, poltronas e racks suspensos, acessando cantos onde o rodo e a vassoura comum raramente conseguem chegar sem ter que arrastar móveis pesados.",
+      "O sistema 3 em 1 do modelo combina varrição, sucção e passagem de pano. A escova giratória lateral puxa a sujeira acumulada nas quinas e rodapés diretamente para o bocal de sucção central, enquanto as rodas emborrachadas protegem o piso contra arranhões. Na parte traseira, o pano MOP em microfibra lavável incluído ajuda a recolher aquela camada fininha de poeira que costuma escapar das vassouras tradicionais.",
+      "Em termos de desempenho, o aparelho é equipado com uma bateria recarregável de íons de lítio de 2600 mAh que oferece autonomia de até 1h40 de uso contínuo, segundo a WAP. O nível de ruído fica em torno de 72 dB(A), segundo a fabricante — um som suave e constante que permite assistir a uma série ou conversar tranquilamente enquanto a limpeza acontece. O robô navega alternando entre três padrões automáticos: movimentos aleatórios pelo centro, contorno de cantos e trajetórias em espiral para concentrar a limpeza em áreas mais sujas.",
+      "Para aproveitar o melhor rendimento do W90 no dia a dia, algumas dicas práticas de uso fazem toda a diferença: utilize o robô de cômodo em cômodo, deixando a porta fechada para que ele cubra todo o espaço com foco antes de levá-lo ao próximo quarto. Antes de dar a partida, recolha do chão fios de carregadores, cadarços e tapetes muito finos com franjas que possam enroscar na escova. Ao terminar a sessão, basta puxar a tampa superior, retirar o coletor de 250 ml, jogar a sujeira no lixo e, se necessário, lavar o filtro de tecido em água corrente.",
+      "Um último cuidado: o WAP Robot W90 é alimentado por uma fonte carregadora bivolt automático (100V a 240V), permitindo recarregá-lo com total segurança em qualquer tomada residencial do país sem risco de curto ou queima. Vale destacar que o modelo não possui base de recarga nem volta sozinho para a tomada; assim que a bateria se esgota ou a faxina é finalizada, você conecta o plugue do carregador diretamente na lateral do aparelho."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "WAP Robot W90 (FW009026)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Preto"
+      },
+      {
+        "chave": "Tipo de Aparelho",
+        "valor": "Robô Aspirador de Pó 3 em 1 (Varre, aspira e passa pano)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "30 W"
+      },
+      {
+        "chave": "Bateria",
+        "valor": "Li-Ion 2600 mAh (3,6 VDC)"
+      },
+      {
+        "chave": "Autonomia da Bateria",
+        "valor": "Até 1h40 de operação contínua, segundo a WAP"
+      },
+      {
+        "chave": "Tempo de Carregamento",
+        "valor": "Até 4 horas"
+      },
+      {
+        "chave": "Tensão do Carregador",
+        "valor": "Bivolt Automático (100V a 240V, 50/60 Hz)"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "250 ml com filtro de tecido lavável"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "72 dB(A), segundo a WAP"
+      },
+      {
+        "chave": "Modos de Limpeza",
+        "valor": "3 modos automáticos: aleatório, cantos e espiral"
+      },
+      {
+        "chave": "Sensores Integrados",
+        "valor": "Sensores infravermelhos antiqueda e para-choque com sensores de impacto"
+      },
+      {
+        "chave": "Dimensões do Produto (C x L x A)",
+        "valor": "27 x 28,5 x 8 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,2 kg, segundo a WAP"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "1 Robô Aspirador WAP Robot W90, 1 escova giratória lavável, 1 MOP de microfibra, 1 filtro lavável, 1 carregador bivolt e manual de instruções"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses para o aparelho e 6 meses para a bateria, segundo a WAP"
+      }
+    ],
+    "pontos_fortes": [
+      "Perfil compacto com apenas 8 cm de altura, permitindo limpar facilmente embaixo de sofás, poltronas e camas box",
+      "Acionamento intuitivo por botão único no topo, sem necessidade de aplicativos ou conexão Wi-Fi",
+      "Excelente autonomia de até 1h40 com bateria recarregável de lítio de 2600 mAh, segundo a WAP",
+      "Função 3 em 1 com escova giratória para cantos e acessório MOP de microfibra lavável para poeira fina",
+      "Rodas emborrachadas e sensores antiqueda que evitam acidentes em degraus e protegem o piso contra riscos",
+      "Reservatório de 250 ml e filtro laváveis em água corrente, sem gastos adicionais com sacos descartáveis",
+      "Carregador bivolt automático (100V a 240V), garantindo compatibilidade total com tomadas de 110V/127V ou 220V"
+    ],
+    "pontos_atencao": [
+      "Não conta com base de recarga automática; o carregador deve ser plugado manualmente no robô pelo usuário",
+      "Não dispõe de mapeamento a laser ou por câmera, navegando por sistema de toque e desvio de obstáculos",
+      "Reservatório coletor de 250 ml requer esvaziamento frequente, especialmente em lares com múltiplos pets",
+      "Não é apropriado para tapetes altos ou felpudos, sendo projetado primordialmente para pisos rígidos e lisos"
+    ],
+    "para_quem_e": "Para quem tem pisos lisos (cerâmica, porcelanato, madeira ou laminado), convive com pelos de animais ou poeira frequente e procura uma solução simples, prática e acessível para automatizar a manutenção diária da casa.",
+    "para_quem_nao_e": "Para quem busca mapeamento inteligente de cômodos pelo celular, agendamento de horários por aplicativo, retorno autônomo para base de recarga ou possui a casa coberta por carpetes e tapetes felpudos."
   }
 ];
 
