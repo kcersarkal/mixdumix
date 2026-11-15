@@ -5618,6 +5618,108 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer a agilidade e a maciez da panela de pressão na cozinha sem o medo do chiado no fogão, buscando programar refeições completas para a família com a praticidade de um painel digital com 14 funções e desligamento automático.",
     "para_quem_nao_e": "Para quem mora sozinho em quitinetes muito compactas com bancadas mínimas e prefere panelas pequenas de 2 a 3 litros, ou quem faz questão de modelos portáteis sem fio para levar em viagens."
+  },
+  {
+    "asin": "B07CNVHCVX",
+    "id": "churrasqueira-eletrica-mondial-grand-steak-grill-ch-05-1800w-110v",
+    "titulo": "Churrasqueira Elétrica Mondial Grand Steak & Grill CH-05 1800W (Preto, 110V)",
+    "subtitulo": "Aquele cheiro de churrasco de domingo dentro do apartamento sem defumar a sala e sem briga com o condomínio",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/churrasqueira-eletrica-mondial-grand-steak-grill-ch-05-1800w-110v.jpg",
+    "data_revisao": "2026-11-15",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Mondial Grand Steak & Grill CH-05 resolve um dos maiores dilemas de quem mora em apartamento ou casa sem quintal: a vontade inegociável de saborear um bom churrasco no fim de semana sem precisar encarar a sujeira de carvão, a cinza espalhada e a fumaça tomando conta da casa. Com 1800W de potência e uma bandeja com água que impede a queima da gordura, ela entrega carnes douradas, legumes tenros e pão de alho crocante direto na bancada da pia ou na sacada, com a vantagem de ser totalmente desmontável e muito fácil de lavar.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07CNVHCVX?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele sábado ensolarado em que bate uma vontade imediata de saborear uma picanha fatiada, uma linguiça toscana bem douradinha ou aquele queijo coalho com crosta crocante, mas a realidade do apartamento cobra o preço? Quem já tentou improvisar grelhados no fogão conhece o pesadelo: a cozinha engordurada, o cheiro de fritura impregnado no tecido do sofá por três dias e o medo constante de disparar o alarme de incêndio do corredor. É exatamente nessa rotina que a Churrasqueira Elétrica Mondial Grand Steak & Grill CH-05 entra para transformar o seu fim de semana.",
+      "O segredo que torna este aparelho viável para ambientes fechados está no seu engenhoso sistema de bandeja coletora de água posicionado logo abaixo da resistência elétrica. Quando a carne chia na grelha, toda a gordura derretida pinga direto na lâmina de água fria da bandeja. Ao invés de queimar em contato com uma superfície de ferro em brasa — que é o que normalmente cria aquela fumaça espessa e sufocante —, a gordura é imediatamente resfriada e contida. O resultado prático é um preparo limpo, onde você sente apenas o aroma apetitoso do grelhado, sem nuvens de fumaça na sala.",
+      "Usar a CH-05 na rotina é surpreendentemente simples e descomplicado: basta apoiar o aparelho sobre uma bancada nivelada próxima a uma tomada adequada, encher a bandeja inferior com água até a marcação recomendada, encaixar a resistência e ligar o botão do termostato. Em poucos minutos a grelha de aço cromado de 40 x 24 cm atinge a temperatura ideal para acomodar desde cortes generosos de carne bovina e sobrecoxas de frango até hambúrgueres artesanais, legumes fatiados e o indispensável pão de alho da família. O termostato rotativo oferece regulagem contínua de intensidade, permitindo selar carnes rapidamente em potência máxima ou manter aperitivos bem aquecidos enquanto os convidados conversam.",
+      "Equipada com 1800W de potência nesta versão de 110V, a churrasqueira entrega calor rápido e consistente por toda a extensão da serpentina, garantindo marcas clássicas de grelhado sem ressecar o interior dos cortes. Além da conveniência, a economia no bolso chama atenção: segundo a Mondial, o consumo elétrico do aparelho durante uma hora de uso contínuo chega a ser até 80% mais econômico do que a compra de um saco convencional de carvão de 2,5 kg. Conforme destacam análises da imprensa especializada, como no Estadão Recomenda e no portal Análise Melhor, a possibilidade de ajustar a grelha em dois níveis de altura também garante versatilidade real para dosar o ponto de cocção de alimentos mais delicados, como peixes e fatias de abobrinha.",
+      "Uma dica de ouro para o churrasco perfeito: nunca ligue a churrasqueira a seco e fique de olho no nível da bandeja durante preparos mais longos, repondo um pouco de água caso comece a evaporar com o calor prolongado. Na hora do pós-churrasco, o alívio é garantido: todas as partes estruturais são desmontáveis. O bloco de controle com a resistência é retirado com um clique seguro, permitindo lavar a grelha cromada e a bandeja coletora na pia com detergente neutro e esponja macia sem complicação ou fuligem pelas mãos. As alças laterais em material antitérmico ainda oferecem segurança para manusear e guardar o equipamento sem riscos de queimaduras acidentais.",
+      "Um último cuidado: este anúncio refere-se à versão de 110V (127V) com 1800W de potência nominal, exigindo atenção à rede elétrica do seu imóvel. Por ser um aparelho térmico de alta potência, ele utiliza plugue de tomada com pinos de 20A (4,8 mm de espessura) e nunca deve ser conectado em adaptadores tipo 'benjamim' ou extensões finas não homologadas. Antes de fechar a compra na página oficial, certifique-se de escolher a voltagem correspondente à sua cozinha e confirme se a sua bancada dispõe de uma tomada de 20 amperes dedicada para curtir seus grelhados com total tranquilidade."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Modelo do Produto",
+        "valor": "Grand Steak & Grill CH-05"
+      },
+      {
+        "chave": "Fabricante / Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Cor do Acabamento",
+        "valor": "Preto com grelha em aço cromado"
+      },
+      {
+        "chave": "Voltagem / Tensão",
+        "valor": "110V / 127V (Monovolt)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1800 W (segundo a fabricante Mondial)"
+      },
+      {
+        "chave": "Área Útil da Grelha",
+        "valor": "40 cm de largura x 24 cm de profundidade"
+      },
+      {
+        "chave": "Controle de Temperatura",
+        "valor": "Termostato giratório com regulagem contínua e lâmpada-piloto"
+      },
+      {
+        "chave": "Ajuste de Altura da Grelha",
+        "valor": "2 opções de regulagem de proximidade da resistência"
+      },
+      {
+        "chave": "Sistema Sem Fumaça",
+        "valor": "Bandeja coletora inferior para abastecimento com água"
+      },
+      {
+        "chave": "Estrutura e Limpeza",
+        "valor": "Totalmente desmontável, resistência e bandeja removíveis e alças antitérmicas"
+      },
+      {
+        "chave": "Padrão de Plugue",
+        "valor": "Padrão brasileiro de 20 Amperes (pinos grossos de 4,8 mm)"
+      },
+      {
+        "chave": "Comprimento do Cabo Elétrico",
+        "valor": "Aproximadamente 0,90 metro"
+      },
+      {
+        "chave": "Peso Líquido do Aparelho",
+        "valor": "Aproximadamente 1,74 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (01 ano de garantia oficial concedida pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Preparo de grelhados praticamente sem fumaça graças à bandeja de água que retém os resíduos e impede a queima da gordura",
+      "Potência expressiva de 1800W na versão 110V, aquecendo rapidamente a grelha para selar carnes mantendo a suculência",
+      "Área generosa de grelha (40 x 24 cm) em aço cromado com suporte a dois níveis de altura para diferentes tipos de alimentos",
+      "Controle contínuo de temperatura por termostato que permite calibrar desde fogo brando para queijos até calor intenso para bifes",
+      "Estrutura 100% desmontável com resistência e bandeja removíveis, simplificando radicalmente a higienização pós-refeição",
+      "Alças laterais antitérmicas que protegem contra queimaduras e facilitam o deslocamento da churrasqueira na bancada",
+      "Muito mais limpa e econômica para o dia a dia do que o uso de carvão tradicional em sacadas e apartamentos"
+    ],
+    "pontos_atencao": [
+      "Plugue com pinos de 20 Amperes (4,8 mm), exigindo tomada reforçada compatível e desaconselhando o uso de adaptadores convencionais",
+      "Não proporciona o sabor defumado característico da queima de carvão vegetal ou lenha de churrasqueiras tradicionais",
+      "Cabo elétrico com cerca de 90 cm de comprimento, requerendo proximidade direta da tomada ou extensão de alta amperagem",
+      "Exige monitoramento periódico para manter o nível mínimo de água na bandeja coletora durante sessões longas de preparo"
+    ],
+    "para_quem_e": "Para quem mora em apartamento, quitinete ou casa sem quintal e não abre mão de saborear churrascos e grelhados saborosos no dia a dia com rapidez, sem a sujeira do carvão e sem empestear a residência de fumaça.",
+    "para_quem_nao_e": "Para churrasqueiros tradicionalistas que fazem questão absoluta do aroma defumado da brasa de lenha/carvão ou para quem costuma reunir grandes grupos acima de 8 pessoas e necessita de grelhas gigantes de alta produção simultânea."
   }
 ];
 
