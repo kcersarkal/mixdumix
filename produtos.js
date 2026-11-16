@@ -5830,6 +5830,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem tem pisos lisos (cerâmica, porcelanato, madeira ou laminado), convive com pelos de animais ou poeira frequente e procura uma solução simples, prática e acessível para automatizar a manutenção diária da casa.",
     "para_quem_nao_e": "Para quem busca mapeamento inteligente de cômodos pelo celular, agendamento de horários por aplicativo, retorno autônomo para base de recarga ou possui a casa coberta por carpetes e tapetes felpudos."
+  },
+  {
+    "asin": "B07QCVJHN5",
+    "id": "panela-de-arroz-eletrica-mondial-bianca-rice-5-npe-05-5x-400w-110v",
+    "titulo": "Panela de Arroz Elétrica Mondial Bianca Rice 5 NPE-05-5X (Branca, 400W, 110V)",
+    "subtitulo": "Arroz soltinho no ponto certo e legumes no vapor sem precisar vigiar a boca do fogão",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/panela-de-arroz-eletrica-mondial-bianca-rice-5-npe-05-5x-400w-110v.jpg",
+    "data_revisao": "2026-11-16",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem quer simplificar o preparo das refeições do dia a dia e nunca mais queimar o arroz na panela convencional, a Mondial Bianca Rice 5 entrega praticidade sem complicações. Com capacidade para 5 xícaras, potência econômica de 400W, cuba com revestimento antiaderente e cesto cozi-vapor para preparar legumes simultaneamente, ela automatiza todo o processo e ainda mantém a comida quentinha por até 8 horas, segundo a Mondial, liberando seu tempo para o que realmente importa.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07QCVJHN5?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já passou pela frustração de colocar o arroz no fogão, se distrair com uma mensagem no celular ou uma tarefa de trabalho e, minutos depois, sentir aquele cheiro inconfundível de grão queimando no fundo da panela? Ou pior: ter que lidar com água borbulhando e transbordando pela tampa, sujando todo o fogão que você acabou de limpar. No ritmo agitado da rotina diária, ficar parado ao lado da boca do fogão vigiando se a água já secou é uma perda de tempo e de paciência que você pode facilmente evitar.",
+      "A proposta da panela elétrica Mondial Bianca Rice 5 (modelo NPE-05-5X) é justamente assumir essa etapa da cozinha de forma 100% autônoma. O funcionamento é dos mais descomplicados: basta colocar o arroz, a água e os temperos de sua preferência utilizando o copo medidor incluso, baixar a alavanca no painel frontal e deixar que ela faça o restante do trabalho. O aparelho conta com um sensor térmico na base que monitora a temperatura interna e detecta com exatidão o instante em que toda a água foi absorvida pelos grãos, desligando a fase de cozimento por conta própria.",
+      "Assim que o cozimento termina, a Bianca Rice 5 comuta automaticamente para a função de aquecimento, indicada pela lâmpada-piloto verde no painel. Esse recurso mantém o arroz quente e saboroso por até 8 horas, segundo a Mondial, o que é perfeito para lares onde os horários de refeição da família não coincidem. Além do arroz branco ou integral tradicional, a panela é surpreendentemente versátil: seu cesto cozi-vapor incluído na caixa permite preparar brócolis, cenouras, mandioquinha ou até peito de frango desfiado aproveitando o vapor do cozimento, sem sujar outra panela e preservando as vitaminas dos alimentos.",
+      "Com potência calibrada de 400W, segundo a fabricante, o modelo aquece rapidamente sem gerar gastos desnecessários na conta de luz. Sua cuba interna possui capacidade para até 5 xícaras de arroz cru (cerca de 1 a 1,1 litro), gerando volume suficiente para servir com folga de 2 a 4 pessoas em cada preparo. O acabamento interno é antiaderente, impedindo que a receita forme aquela crosta dura e queimada no fundo, e a tampa basculante conta com válvula de escape para liberar a pressão com segurança, além de coletor lateral que recolhe a condensação para não molhar a bancada.",
+      "Na prática do dia a dia, alguns cuidados simples garantem a máxima vida útil da sua panela: use sempre a espátula plástica fornecida junto com o produto para mexer e servir, evitando garfos, colheres metálicas ou esponjas de aço que possam arranhar a cuba antiaderente. A limpeza é muito rápida, já que o recipiente interno é completamente removível e sai com facilidade para ser lavado com sabão neutro e esponja macia na pia. Outro detalhe muito elogiado em análises especializadas é o cabo de força removível de 1,5 metro: ao final do preparo, basta desconectar o fio e levar a panela diretamente à mesa para servir com elegância.",
+      "Um último cuidado: a Mondial Bianca Rice 5 (NPE-05-5X) deste anúncio é configurada especificamente para tomadas de 110V/127V (padrão brasileiro de 10A com dois ou três pinos) e não possui sistema bivolt automático. Antes de concluir seu pedido, confira a voltagem da sua tomada residencial para garantir o funcionamento correto e seguro, além de checar as condições de envio e a disponibilidade para a sua região."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Mondial Bianca Rice 5 (NPE-05-5X)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Branco"
+      },
+      {
+        "chave": "Tipo de Panela",
+        "valor": "Panela Elétrica de Arroz com Cesto Cozi-Vapor"
+      },
+      {
+        "chave": "Capacidade",
+        "valor": "5 xícaras (aproximadamente 1,1 litro)"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "400 W"
+      },
+      {
+        "chave": "Consumo Aproximado",
+        "valor": "0,4 kWh, segundo a Mondial"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "110V / 127V (não é bivolt)"
+      },
+      {
+        "chave": "Plugue e Tomada",
+        "valor": "Padrão ABNT 10A (cabo elétrico removível de 1,50 m)"
+      },
+      {
+        "chave": "Revestimento Interno",
+        "valor": "Cuba removível com revestimento antiaderente"
+      },
+      {
+        "chave": "Funções Principais",
+        "valor": "Cozinhar e Manter Aquecido (comutação automática)"
+      },
+      {
+        "chave": "Tempo de Aquecimento",
+        "valor": "Mantém aquecido por até 8 horas, segundo a Mondial"
+      },
+      {
+        "chave": "Recursos de Segurança",
+        "valor": "Tampa basculante com trava, válvula de vapor e coletor de gotas condensadas"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "21 x 21 x 24 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,4 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "1 Panela Elétrica Mondial NPE-05-5X, 1 cesto cozi-vapor, 1 colher plástica, 1 copo medidor e manual de instruções com receitas"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Preparo 100% automático com desligamento e comutação para modo aquecer assim que a água seca",
+      "Capacidade de 5 xícaras (cerca de 1,1 L), perfeita para as refeições diárias de 1 a 4 pessoas",
+      "Acompanha cesto cozi-vapor para cozinhar legumes simultaneamente ao arroz aproveitando o mesmo calor",
+      "Função Manter Aquecido automática por até 8 horas, segundo a Mondial, garantindo comida quente a qualquer hora",
+      "Cuba removível com revestimento antiaderente que evita que o arroz grude e torna a lavagem muito simples",
+      "Cabo elétrico destacável de 1,5 m e alça na tampa, facilitando levar a panela diretamente à mesa para servir",
+      "Potência eficiente de 400W com tomada comum de 10A, garantindo baixo consumo elétrico residencial"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt: o modelo analisado opera em 110V/127V, exigindo conferir a rede da sua tomada antes da compra",
+      "Capacidade de 5 xícaras pode ser limitada para famílias grandes ou ocasiões com muitos convidados",
+      "A cuba antiaderente requer cuidados com esponjas abrasivas e utensílios de metal para preservar a camada protetora",
+      "O corpo externo da panela esquenta durante o cozimento, sendo recomendável manusear pela alça superior"
+    ],
+    "para_quem_e": "Para casais, pessoas que moram sozinhas ou famílias de até 4 pessoas que buscam arroz sempre soltinho no dia a dia, praticidade no preparo de legumes e menos louça para lavar após o almoço.",
+    "para_quem_nao_e": "Para quem precisa cozinhar grandes quantidades para mais de 5 pessoas com frequência, procura painel digital com timer programável ou necessita de um aparelho com voltagem 220V ou bivolt."
   }
 ];
 
