@@ -5940,6 +5940,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para casais, pessoas que moram sozinhas ou famílias de até 4 pessoas que buscam arroz sempre soltinho no dia a dia, praticidade no preparo de legumes e menos louça para lavar após o almoço.",
     "para_quem_nao_e": "Para quem precisa cozinhar grandes quantidades para mais de 5 pessoas com frequência, procura painel digital com timer programável ou necessita de um aparelho com voltagem 220V ou bivolt."
+  },
+  {
+    "asin": "B08DFCF9HW",
+    "id": "liquidificador-oster-1400-full-oliq610-3-2l-127v",
+    "titulo": "Liquidificador Oster 1400 Full OLIQ610 3,2L 1400W 15 Velocidades (Preto, 127V)",
+    "subtitulo": "Muita potência e espaço de sobra para vitaminas, massas pesadas e receitas de família sem travar o motor",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/liquidificador-oster-1400-full-oliq610-3-2l-127v.jpg",
+    "data_revisao": "2026-11-16",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem cozinha para toda a família ou precisa bater receitas pesadas, sucos e massas sem ver o liquidificador engasgar ou cheirar a queimado, o Oster 1400 Full (OLIQ610) é uma escolha certeira. Com potência de 1400W, jarra robusta com capacidade total de 3,2 litros (cerca de 2 litros úteis), 15 velocidades graduadas mais função Pulsar e tampa com dosador de 100 ml (meia xícara), segundo a Oster, ele une força bruta e versatilidade para encarar o cotidiano da cozinha com velocidade e praticidade.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B08DFCF9HW?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já tentou bater uma vitamina mais densa, um bolo de cenoura ou uma massa de torta e sentiu aquele cheiro desagradável de motor superaquecido, enquanto as lâminas giravam em falso no fundo da jarra sem misturar os ingredientes de cima? Ou talvez já tenha precisado dividir uma receita de família em duas ou três etapas porque o copo do liquidificador comum simplesmente não comportava o volume necessário. Nada é mais cansativo na cozinha do que ter que pausar o preparo a cada trinta segundos para mexer o conteúdo com a colher e torcer para o motor não queimar.",
+      "O liquidificador Oster 1400 Full (código OLIQ610) foi desenvolvido justamente para eliminar esses gargalos na bancada. O grande destaque do aparelho é a combinação de um motor robusto de 1400W de potência nominal com uma jarra plástica de generosos 3,2 litros de capacidade total (com cerca de 2 litros de capacidade útil recomendada para líquidos em movimento). Essa estrutura entrega força bruta para triturar frutas congeladas, polpas duras, gelo e massas densas com rapidez, sem fazer você perder tempo dividindo os preparos.",
+      "No dia a dia, a versatilidade fica por conta do botão seletor com 15 velocidades graduadas, além da função Pulsar. Isso significa que você não fica refém de uma rotação única e agressiva: dá para começar misturando ingredientes secos em velocidades suaves (evitando que a farinha suba em nuvem pela cozinha) e acelerar progressivamente até atingir uma emulsão homogênea em cremes, sopas e mousses. Outro diferencial muito prático é a sobretampa dosadora com graduação de até 100 ml — o equivalente a meia xícara —, permitindo adicionar óleo, leite ou temperos no meio do processo sem precisar retirar a tampa principal nem sujar medidores avulsos.",
+      "Em testes independentes da imprensa especializada, como no portal Harpyja, o Oster 1400 Full foi elogiado pela facilidade de trituração e pela robustez do conjunto mecânico, destacando-se pelo encaixe estável da jarra na base motora. As lâminas em aço inoxidável trabalham em rotações elevadas para puxar o fluxo de alimentos para o centro do vórtice. O consumo elétrico fica em torno de 1,4 kWh, segundo a fabricante, e a base conta com porta-fio integrado, o que ajuda a manter a bancada sempre organizada após o uso.",
+      "Para extrair o melhor rendimento do aparelho e preservar sua durabilidade, alguns cuidados são fundamentais na rotina: ao bater gelo ou ingredientes rígidos, sempre coloque uma quantidade inicial de líquido no fundo da jarra e acione a função Pulsar em toques rápidos antes de engatar velocidades contínuas. Como em praticamente todo liquidificador de alta potência (acima de 1000W), o nível de ruído em velocidade máxima é considerável e deve ser levado em conta em ambientes silenciosos. A limpeza é simplificada pela ausência de cantos vivos na jarra de material antimicrobiano, e o botão frontal pode ser higienizado facilmente com pano úmido e detergente neutro.",
+      "Um último cuidado: este modelo Oster 1400 Full (OLIQ610-127) opera exclusivamente em tensão de 127V (tomada residencial padrão de 10A/20A) e não conta com chaveamento bivolt automático. Antes de finalizar o seu pedido, verifique se a voltagem das tomadas da sua cozinha corresponde a 127V ou se a sua residência requer a versão de 220V, garantindo assim uma experiência segura desde o primeiro uso."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Oster 1400 Full (OLIQ610)"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Preto"
+      },
+      {
+        "chave": "Tipo de Eletroportátil",
+        "valor": "Liquidificador de Alta Potência"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1400 W"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Capacidade Total da Jarra",
+        "valor": "3,2 litros"
+      },
+      {
+        "chave": "Capacidade Útil Recomendada",
+        "valor": "Aproximadamente 2,0 litros"
+      },
+      {
+        "chave": "Material da Jarra",
+        "valor": "Plástico resistente (SAN) com agente antimicrobiano"
+      },
+      {
+        "chave": "Quantidade de Velocidades",
+        "valor": "15 velocidades + Função Pulsar"
+      },
+      {
+        "chave": "Material das Lâminas",
+        "valor": "4 lâminas em aço inoxidável integradas"
+      },
+      {
+        "chave": "Consumo Aproximado",
+        "valor": "1,4 kWh, segundo a Oster"
+      },
+      {
+        "chave": "Tampa com Dosador",
+        "valor": "Sim (sobretampa graduada de 100 ml / 1/2 xícara)"
+      },
+      {
+        "chave": "Recursos da Base",
+        "valor": "Pés antiderrapantes e porta-fio embutido"
+      },
+      {
+        "chave": "Dimensões do Produto (L x A x P)",
+        "valor": "20,5 x 42,2 x 22,0 cm, segundo a Oster"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "2,3 kg, segundo a Oster"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "1 Base com motor Oster 1400 Full, 1 jarra plástica de 3,2L com lâminas integradas, 1 tampa com sobretampa dosadora de 100 ml e manual de instruções"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano), segundo a Oster"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor potente de 1400W que bate massas densas, vitaminas e tritura ingredientes sem engasgar",
+      "Jarra espaçosa de 3,2L (cerca de 2L úteis) em plástico resistente com tecnologia antimicrobiana",
+      "Controle preciso com 15 velocidades graduadas mais função Pulsar para diferentes tipos de receitas",
+      "Sobretampa medidora de 100 ml (1/2 xícara) para acrescentar ingredientes durante o funcionamento sem sujeira",
+      "Lâminas em aço inox que garantem rotação rápida e mistura uniforme de misturas pesadas",
+      "Base estável com pés antiderrapantes e porta-fio retrátil para fácil armazenamento no armário",
+      "Garantia oficial de 12 meses da fabricante Oster com ampla rede de assistência técnica no Brasil"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt: o modelo selecionado funciona em 127V, sendo necessário checar a tomada antes da compra",
+      "Nível de ruído elevado nas velocidades mais altas, algo comum em motores potentes de 1400W",
+      "Capacidade útil para líquidos é de 2,0L (respeitando o limite de segurança contra respingos pela tampa)",
+      "Lâminas fixas integradas ao fundo do copo exigem atenção ao limpar manualmente para evitar cortes"
+    ],
+    "para_quem_e": "Para quem cozinha para a família, gosta de bater vitaminas volumosas, sucos com polpa congelada e massas de torta e busca um liquidificador potente com jarra grande que não trave nas receitas diárias.",
+    "para_quem_nao_e": "Para quem precisa de um modelo compacto para porções individuais, busca jarra de vidro pesado tradicional estilo Osterizer ou necessita de aparelho que funcione em 220V ou bivolt."
   }
 ];
 
