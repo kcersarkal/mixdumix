@@ -6054,6 +6054,124 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem cozinha para a família, gosta de bater vitaminas volumosas, sucos com polpa congelada e massas de torta e busca um liquidificador potente com jarra grande que não trave nas receitas diárias.",
     "para_quem_nao_e": "Para quem precisa de um modelo compacto para porções individuais, busca jarra de vidro pesado tradicional estilo Osterizer ou necessita de aparelho que funcione em 220V ou bivolt."
+  },
+  {
+    "asin": "B076HBQW66",
+    "id": "ferro-de-passar-vapor-mondial-ceramic-express-f-40-127v",
+    "titulo": "Ferro de Passar a Vapor Mondial Ceramic Express F-40 (Branco/Roxo, 1200W, 127V)",
+    "subtitulo": "Deslizamento suave com base cerâmica, vapor vertical prático e reservatório de 300 ml para desamassar suas roupas sem esforço",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/ferro-de-passar-vapor-mondial-ceramic-express-f-40-127v.jpg",
+    "data_revisao": "2026-11-17",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem busca eliminar a briga diária com vincos difíceis e deseja um ferro leve, que aqueça rapidamente e deslize com suavidade sobre as peças sem grudar nos tecidos, o Mondial Ceramic Express F-40 é uma das opções mais práticas e equilibradas para a casa. Com 1200W de potência na versão 127V, base com revestimento cerâmico, reservatório amplo de 300 ml e funções completas de vapor extra, vapor vertical e spray umedecedor, segundo a Mondial, ele entrega agilidade e acabamento alinhado para o guarda-roupa da família sem cansar o braço na tábua.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076HBQW66?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já precisou sair com pressa para um compromisso de trabalho ou evento especial e, na hora de tirar aquela camisa favorita do armário, deu de cara com dobras marcadas e vincos difíceis de sumir? Pior ainda é quando você liga um ferro antigo e pesado, espera minutos até que ele esquente, e na primeira passada sente a base metálica quase agarrando no tecido, com risco de queimar a peça ou puxar fios em roupas delicadas. Passar roupa já é uma das tarefas domésticas que a maioria das pessoas prefere evitar; fazer isso com um aparelho que trava nos botões e exige força excessiva no braço só torna a rotina ainda mais cansativa.",
+      "O ferro de passar a vapor Mondial Ceramic Express (modelo F-40) foi desenvolvido justamente para trazer mais fluidez e rapidez a essa tarefa. O grande destaque do aparelho está na sua base com revestimento cerâmico, que distribui o calor de maneira homogênea e desliza com muito menos atrito sobre algodão, linho, poliéster ou viscose. Diferente de bases de alumínio simples que costumam prender com facilidade, a superfície cerâmica preserva o acabamento das tramas e ajuda a desfazer as marcas já nas primeiras passadas, exigindo menos pressão física e reduzindo o tempo total na tábua de passar.",
+      "Na rotina prática, a versatilidade do modelo aparece no conjunto de vapor e umidificação: ele traz seletor de temperatura com 6 níveis ajustáveis para diferentes categorias de fibras, além de botão de spray frontal para umedecer áreas ressecadas e gatilho de vapor extra para suavizar dobras persistentes. Outro recurso muito elogiado no cotidiano é o vapor vertical, que possibilita aplicar jatos de vapor diretamente em vestidos, paletós ou cortinas ainda pendurados no cabide, ideal para fazer aquele retoque express de última hora sem precisar desdobrar a tábua de passar. O reservatório transparente tem capacidade para 300 ml de água, oferecendo boa autonomia para passar várias peças em sequência sem idas constantes à torneira.",
+      "Com 1200W de potência elétrica na tensão de 127V, o Ceramic Express F-40 atinge a temperatura operacional com bastante rapidez, sinalizada por um LED piloto que apaga quando o ferro está pronto para o uso. Segundo a Mondial, o aparelho conta ainda com o sistema salva-botões em toda a borda da base — uma cava perimetral estratégica que contorna os botões de camisas sociais sem quebrá-los nem arranhar o revestimento cerâmico —, cabo com articulação giratória em 360 graus de 1,50 metro de comprimento para não enrolar nos braços durante o movimento e alça com acabamento emborrachado para uma pegada mais firme e confortável.",
+      "Para manter a eficiência do ferro e prolongar sua vida útil ao longo dos anos, alguns cuidados preventivos fazem toda a diferença: utilize água limpa e filtrada para abastecer o reservatório e, ao terminar a sessão, esvazie o restante de líquido e acione o sistema de autolimpeza (Self Clean) periodicamente. Essa função utiliza a pressão do vapor para expelir minerais e pequenos resíduos acumulados nos orifícios da base, evitando manchas acidentais nas roupas brancas. Como a base de cerâmica pode sofrer arranhões se entrar em contato forçado com fechos de metal, zíperes pesados ou rebites, basta redobrar a atenção ao passar por essas regiões.",
+      "Um último cuidado: este modelo Mondial Ceramic Express F-40 opera especificamente na voltagem de 127V (antigo 110V) e não possui chave seletora nem conversão bivolt automática. Antes de fechar o seu pedido na página do anúncio, confira se a tensão da tomada onde você pretende utilizar o ferro na sua residência é de 127V ou 220V, garantindo que o eletroportátil funcione com a máxima eficiência térmica e com total segurança desde a primeira ligação."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Ceramic Express (F-40)"
+      },
+      {
+        "chave": "Tipo de Eletroportátil",
+        "valor": "Ferro de Passar Roupa a Vapor e a Seco"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Branco com Roxo / Lilás"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "1200 W (versão 127V), segundo a Mondial"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Material da Base",
+        "valor": "Base com revestimento cerâmico antiaderente"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "300 ml de água"
+      },
+      {
+        "chave": "Funções de Vapor e Spray",
+        "valor": "Vapor contínuo, vapor extra, vapor vertical e spray frontal umedecedor"
+      },
+      {
+        "chave": "Níveis de Temperatura",
+        "valor": "6 níveis com seletor giratório para diferentes tecidos"
+      },
+      {
+        "chave": "Sistema Salva-Botões",
+        "valor": "Sim (cava em toda a extensão perimetral da base)"
+      },
+      {
+        "chave": "Recursos de Higienização",
+        "valor": "Sistema de autolimpeza (Self Clean) integrado"
+      },
+      {
+        "chave": "Cabo de Alimentação",
+        "valor": "1,50 m com junta giratória em 360°"
+      },
+      {
+        "chave": "Design e Empunhadura",
+        "valor": "Alça anatômica com acabamento emborrachado"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "14,5 x 28,0 x 12,0 cm, segundo a Mondial"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,0 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "1 Ferro de Passar a Vapor Mondial Ceramic Express F-40 e Manual de Instruções"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Base com revestimento cerâmico que desliza suavemente sobre os tecidos sem prender nem puxar fios",
+      "Potência de 1200W com aquecimento ágil para economizar tempo na rotina diária de passadoria",
+      "Reservatório amplo de 300 ml que oferece excelente autonomia sem exigir reabastecimento a todo momento",
+      "Funções de vapor vertical e vapor extra que ajudam a desamassar camisas no cabide e eliminar vincos difíceis",
+      "Sistema salva-botões contornando toda a base para passar entre os botões de roupas sociais sem estragá-los",
+      "Cabo giratório 360° de 1,5 metro e alça emborrachada para maior conforto e liberdade de movimento",
+      "Função autolimpante (Self Clean) que remove o acúmulo de minerais e preserva a saída de vapor limpa"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt: aparelho opera na tensão de 127V, sendo necessário conferir a voltagem da residência",
+      "Requer esvaziar a água após o uso para evitar gotejamento acidental quando o aparelho estiver frio e guardado",
+      "Exige cuidado ao passar por zíperes de metal e botões de pressão metálicos para não riscar a cerâmica",
+      "Potência de 1200W é voltada para a rotina doméstica, podendo exigir spray extra em tecidos muito grossos como sarja pesada"
+    ],
+    "para_quem_e": "Para quem procura um ferro de passar leve, prático e ágil para a rotina doméstica, com base cerâmica de ótimo deslizamento e vapor vertical para desamassar camisas, vestidos e roupas do dia a dia sem esforço.",
+    "para_quem_nao_e": "Para quem precisa de um modelo bivolt para viagens frequentes, busca uma caldeira ou estação a vapor para passadoria pesada e contínua em escala comercial ou necessita da versão em 220V."
   }
 ];
 
