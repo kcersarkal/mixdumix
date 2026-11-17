@@ -6172,6 +6172,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem procura um ferro de passar leve, prático e ágil para a rotina doméstica, com base cerâmica de ótimo deslizamento e vapor vertical para desamassar camisas, vestidos e roupas do dia a dia sem esforço.",
     "para_quem_nao_e": "Para quem precisa de um modelo bivolt para viagens frequentes, busca uma caldeira ou estação a vapor para passadoria pesada e contínua em escala comercial ou necessita da versão em 220V."
+  },
+  {
+    "asin": "B076FJY2MD",
+    "id": "sanduicheira-e-grill-mondial-premium-s-07-800w-110v",
+    "titulo": "Grill e Sanduicheira Mondial Premium S-07 (Preto/Inox, 800W, 110V)",
+    "subtitulo": "Lanches tostados com queijo derretido no ponto certo, aquecimento duplo ágil de 800W e acabamento em inox para a sua rotina",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/sanduicheira-e-grill-mondial-premium-s-07-800w-110v.jpg",
+    "data_revisao": "2026-11-17",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Grill e Sanduicheira Mondial Premium S-07 (800W, 110V) é uma das opções mais consagradas e práticas para quem busca lanches crocantes e queijo derretido por igual em poucos minutos. Com chapas duplas onduladas antiaderentes, acabamento em aço inox e alça com trava, ela atende perfeitamente à rotina do café da manhã e jantar rápido sem complicações.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076FJY2MD?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem nunca acordou com o tempo contado para sair ou chegou em casa à noite querendo um misto-quente bem dourado, crocante por fora e com o queijo derretido no ponto, sem ter que ligar o fogão ou sujar frigideiras? Preparar sanduíches na boca do fogão exige atenção constante para não queimar o pão de um lado enquanto o recheio por dentro continua frio, sem falar na gordura da manteiga que costuma espirrar pela bancada. No meio da correria do dia a dia, ter um eletroportátil dedicado que faça esse trabalho de maneira uniforme e em minutos transforma o café da manhã ou o lanche da tarde em uma tarefa rápida e sem dor de cabeça.",
+      "A Grill e Sanduicheira Mondial Premium (modelo S-07) se destaca exatamente por sua versatilidade 2 em 1: além de tostar pães de forma, pães franceses ou broas com fechamento firme, ela funciona como um mini grill prático de bancada. Isso significa que você pode utilizá-la não só para prensar sanduíches, mas também para grelhar carnes finas, filés de frango, linguiças, queijo coalho e fatias de vegetais como abobrinha e berinjela. O acabamento frontal em aço inox escovado confere um aspecto elegante que se integra com facilidade a qualquer bancada, além de oferecer resistência para o uso contínuo.",
+      "No cotidiano da cozinha, o funcionamento é direto e descomplicado: suas chapas duplas onduladas contam com revestimento antiaderente que distribui o calor simultaneamente nos dois lados do alimento, prensando o lanche sem exigir adição de manteiga ou óleo na chapa. Uma dica de uso recomendada para manter o desempenho por muito tempo: antes da primeira utilização, realize a cura do antiaderente aplicando uma camada fina de azeite e ligando o aparelho por alguns minutos; no dia a dia, aguarde as chapas ficarem levemente mornas e faça a limpeza apenas com um papel toalha ou esponja macia, evitando palhas de aço e utensílios metálicos pontiagudos para preservar o revestimento intacto.",
+      "Com 800W de potência elétrica na versão de 110V (127V nominal), o aquecimento das resistências é ágil e suficiente para preparar dois sanduíches ao mesmo tempo em cerca de 3 a 5 minutos, segundo a Mondial. O modelo conta com controle automático de temperatura que mantém o calor equilibrado para evitar que o pão queime antes de o recheio aquecer. O painel superior é equipado com duas lâmpadas-piloto: a luz vermelha acende ao plugar o cabo para indicar o funcionamento, e a luz verde sinaliza quando a temperatura ideal de tostagem foi atingida. Para reforçar a segurança durante o manuseio, a alça frontal possui isolamento térmico (não aquece) e trava de fechamento para acomodar lanches mais altos.",
+      "Por se tratar de um produto compacto voltado para a rotina familiar, alguns pontos de atenção no manuseio são importantes: as placas de aquecimento são fixas (não removíveis), de forma que o aparelho jamais deve ser colocado debaixo da torneira ou submerso em água, exigindo higienização cuidadosa apenas com panos úmidos na parte interna. Além disso, o cabo de alimentação possui 68 cm de comprimento, segundo a Mondial, o que requer uma tomada próxima da bancada ou mesa de apoio. O aparelho também não conta com interruptor liga/desliga físico, iniciando o ciclo térmico logo ao ser conectado à tomada.",
+      "Um último cuidado: este modelo Mondial Premium S-07 opera especificamente na tensão de 110V (127V nominal) e não dispõe de seletor de voltagem nem recurso bivolt automático. Antes de finalizar a sua compra no anúncio da Amazon, verifique atentamente se a voltagem das tomadas da sua cozinha corresponde a 110V/127V ou 220V, garantindo que o eletroportátil funcione com a máxima eficiência térmica e total segurança desde a primeira ligação."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "S-07 (Linha Premium)"
+      },
+      {
+        "chave": "Categoria",
+        "valor": "Cozinha & Utilidades"
+      },
+      {
+        "chave": "Tipo de Aparelho",
+        "valor": "2 em 1: Grill e Sanduicheira Elétrica"
+      },
+      {
+        "chave": "Potência Elétrica",
+        "valor": "800 W, segundo a Mondial"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "110V (127V nominal), não bivolt"
+      },
+      {
+        "chave": "Tipo de Chapa",
+        "valor": "Chapas duplas onduladas com revestimento antiaderente"
+      },
+      {
+        "chave": "Aquecimento",
+        "valor": "Grelha dupla simultânea nos dois lados do alimento"
+      },
+      {
+        "chave": "Acabamento e Estrutura",
+        "valor": "Aço inoxidável e polipropileno (PP) preto resistente"
+      },
+      {
+        "chave": "Alça e Fechamento",
+        "valor": "Alça isotérmica (antitérmica) com trava de travamento integrada"
+      },
+      {
+        "chave": "Sinalização Luminosa",
+        "valor": "Lâmpadas-piloto (vermelha: ligado; verde: aquecimento pronto)"
+      },
+      {
+        "chave": "Controle de Temperatura",
+        "valor": "Automático com termostato interno integrado"
+      },
+      {
+        "chave": "Comprimento do Cabo",
+        "valor": "68 cm, segundo a Mondial"
+      },
+      {
+        "chave": "Padrão de Tomada",
+        "valor": "Plugue de 3 pinos (10A), padrão brasileiro NBR 14136"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "1,2 kg, segundo a Mondial"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "1 Grill e Sanduicheira Mondial Premium S-07 e Manual de Instruções"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano), segundo a Mondial"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 800W com aquecimento ágil que doura o pão e derrete o queijo por completo em poucos minutos",
+      "Chapas duplas onduladas com revestimento antiaderente que grelham os dois lados por igual sem grudar e sem exigir manteiga na chapa",
+      "Versatilidade 2 em 1 para preparar desde mistos-quentes e pães na chapa até hambúrgueres caseiros, filés de frango e legumes grelhados",
+      "Design clássico com acabamento frontal em aço inox escovado, combinando elegância na bancada e boa durabilidade",
+      "Alça com isolamento térmico e trava de fechamento para prensar lanches altos com segurança e conforto no manuseio",
+      "Lâmpadas-piloto intuitivas que sinalizam quando o aparelho está ligado e quando a temperatura ideal de preparo foi atingida",
+      "Tamanho compacto e leve (1,2 kg) que ocupa pouco espaço na bancada e facilita o armazenamento nos armários"
+    ],
+    "pontos_atencao": [
+      "Chapas não removíveis, exigindo higienização cuidadosa com papel toalha ou pano macio úmido sem molhar a carcaça",
+      "Cabo elétrico curto de aproximadamente 68 cm, demandando uma tomada bem posicionada próxima à bancada de uso",
+      "Não possui botão liga/desliga dedicado: o aquecimento inicia imediatamente ao plugar na tomada e cessa ao desconectar",
+      "Aparelho opera na tensão de 110V (127V nominal) e não é bivolt, exigindo conferir a rede elétrica da residência"
+    ],
+    "para_quem_e": "Para quem quer rapidez e praticidade no café da manhã e lanches rápidos da noite, preparando queijos quentes crocantes, mistos recheados e grelhados simples sem sujar frigideiras nem o fogão.",
+    "para_quem_nao_e": "Para quem procura chapas removíveis para lavagem completa na pia, busca controle manual de termostato por graus ou necessita de um aparelho com voltagem de 220V ou funcionamento bivolt."
   }
 ];
 
