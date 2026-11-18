@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Cupons Shopee — MixDuMix Ofertas</title>
+  <script>
+    (function () {
+      var DEFAULT_URL = "https://s.shopee.com.br/114Zf07NtI";
+      var ALLOWED_RE = /^https:\/\/(s\.shopee\.com\.br|shopee\.com\.br|shope\.ee)\//i;
+      var params = new URLSearchParams(window.location.search);
+      var raw = params.get("u") || params.get("url") || "";
+      var target = ALLOWED_RE.test(raw) ? raw : DEFAULT_URL;
+      window.__MIX_TARGET__ = target;
+      window.__MIX_NOAPP__ = params.get("noapp") === "1";
+      var ua = navigator.userAgent || "";
+      var isMobile = /Android|iPhone|iPad|iPod|Mobile/i.test(ua);
+      if (!isMobile) {
+        window.location.replace(target);
+      }
+    })();
+  </script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      color-scheme: dark;
+      --bg: #090d16;
+      --card: #111726;
+      --surface: #1a2234;
+      --border: #222d42;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --accent: #ee4d2d;
+      --accent-hover: #f05d40;
+      --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    html, body {
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background-image: radial-gradient(circle at 50% 0%, rgba(238, 77, 45, 0.09), transparent 55%);
+    }
+    .card {
+      width: 100%;
+      max-width: 400px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px 24px;
+      box-shadow: 0 20px 48px rgba(0, 0, 0, 0.45);
+      animation: fadeUp 280ms var(--ease) both;
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    .badge-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      background: rgba(238, 77, 45, 0.12);
+      border: 1px solid rgba(238, 77, 45, 0.28);
+      color: #ff6b4a;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .brand-meta {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .brand-name {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .brand-status {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 500;
+      color: #34d399;
+    }
+    .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #34d399;
+    }
+    h1 {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 8px;
+      letter-spacing: -0.01em;
+    }
+    .desc {
+      font-size: 14px;
+      line-height: 1.5;
+      color: var(--muted);
+      margin-bottom: 22px;
+    }
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      width: 100%;
+      min-height: 48px;
+      padding: 12px 16px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform 160ms var(--ease), background-color 180ms var(--ease), border-color 180ms var(--ease);
+    }
+    .btn:active { transform: scale(0.985); }
+    .btn-primary {
+      background: var(--accent);
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 8px 20px rgba(238, 77, 45, 0.25);
+    }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-secondary {
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      font-size: 14px;
+      font-weight: 500;
+    }
+    .btn-secondary:hover { border-color: #334155; background: #1f293d; }
+    .hint {
+      margin-top: 18px;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      font-size: 12px;
+      line-height: 1.45;
+      color: var(--muted);
+    }
+    .hint svg { flex-shrink: 0; margin-top: 1px; color: #64748b; }
+    .direct-wrap {
+      margin-top: 12px;
+      text-align: center;
+    }
+    .direct-link {
+      font-size: 12px;
+      color: #64748b;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="brand">
+      <div class="badge-icon" aria-hidden="true">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/>
+          <path d="M13 5v2"/><path d="M13 17v2"/><path d="M13 11v2"/>
+        </svg>
+      </div>
+      <div class="brand-meta">
+        <span class="brand-name">MixDuMix Ofertas</span>
+        <span class="brand-status"><span class="dot"></span>Link Oficial Shopee</span>
+      </div>
+    </div>
+
+    <h1>Cupons de Frete e Desconto</h1>
+    <p class="desc" id="descText">Toque no botão abaixo para abrir a central de cupons diretamente no aplicativo da Shopee sem travar o navegador do Telegram.</p>
+
+    <div class="actions">
+      <a id="btnApp" class="btn btn-primary" href="https://s.shopee.com.br/114Zf07NtI" rel="noopener noreferrer">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"/>
+          <path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/>
+        </svg>
+        <span id="btnAppLabel">Abrir Cupons no App da Shopee</span>
+      </a>
+
+      <a id="btnBrowser" class="btn btn-secondary" href="https://s.shopee.com.br/114Zf07NtI" target="_blank" rel="noopener noreferrer" style="display:none">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+        </svg>
+        <span>Abrir no Navegador (Chrome)</span>
+      </a>
+    </div>
+
+    <div class="hint">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/>
+      </svg>
+      <span id="hintText">Para garantir abertura direta sem travar o navegador interno do Telegram, use um dos botões acima.</span>
+    </div>
+
+    <div class="direct-wrap">
+      <a id="directLink" class="direct-link" href="https://s.shopee.com.br/114Zf07NtI" target="_blank" rel="noopener noreferrer">Link direto Shopee</a>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      var target = window.__MIX_TARGET__ || "https://s.shopee.com.br/114Zf07NtI";
+      var ua = navigator.userAgent || "";
+      var isAndroid = /Android/i.test(ua);
+      var isIOS = /iPhone|iPad|iPod/i.test(ua);
+      var btnApp = document.getElementById("btnApp");
+      var btnBrowser = document.getElementById("btnBrowser");
+      var directLink = document.getElementById("directLink");
+      var descText = document.getElementById("descText");
+
+      directLink.href = target;
+
+      if (isAndroid) {
+        var hostAndPath = target.replace(/^https?:\/\//i, "");
+        var selfFallback = window.location.origin + window.location.pathname +
+          "?u=" + encodeURIComponent(target) + "&noapp=1";
+        var intentShopee = "intent://" + hostAndPath +
+          "#Intent;scheme=https;package=com.shopee.br;S.browser_fallback_url=" +
+          encodeURIComponent(selfFallback) + ";end";
+        var intentChrome = "intent://" + hostAndPath +
+          "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" +
+          encodeURIComponent(target) + ";end";
+
+        btnApp.href = intentShopee;
+        btnBrowser.href = intentChrome;
+        btnBrowser.style.display = "inline-flex";
+
+        if (window.__MIX_NOAPP__) {
+          descText.textContent = "Aplicativo Shopee não detectado pelo atalho do app. Toque em \"Abrir no Navegador (Chrome)\" abaixo para resgatar seus cupons.";
+        }
+      } else if (isIOS) {
+        btnApp.href = target;
+        btnApp.setAttribute("target", "_blank");
+      } else {
+        window.location.replace(target);
+      }
+    })();
+  </script>
+</body>
+</html>
