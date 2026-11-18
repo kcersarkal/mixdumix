@@ -6286,6 +6286,138 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer rapidez e praticidade no café da manhã e lanches rápidos da noite, preparando queijos quentes crocantes, mistos recheados e grelhados simples sem sujar frigideiras nem o fogão.",
     "para_quem_nao_e": "Para quem procura chapas removíveis para lavagem completa na pia, busca controle manual de termostato por graus ou necessita de um aparelho com voltagem de 220V ou funcionamento bivolt."
+  },
+  {
+    "asin": "B07XLML2YS",
+    "id": "camera-de-seguranca-wi-fi-tp-link-tapo-c200-full-hd-bivolt",
+    "titulo": "Câmera de Segurança Wi-Fi 360° TP-Link Tapo C200 Full HD 1080p (Visão Noturna, Áudio Bidirecional, Bivolt)",
+    "subtitulo": "Monitoramento residencial completo com rotação 360°, visão noturna nítida de até 9m e áudio bidirecional direto no celular",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/camera-de-seguranca-wi-fi-tp-link-tapo-c200-full-hd-bivolt.jpg",
+    "data_revisao": "2026-11-18",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A TP-Link Tapo C200 é uma das soluções mais eficientes e consagradas para quem busca proteger a residência, acompanhar pets ou monitorar o sono dos filhos sem complicações nem custos de instalação técnica. Com resolução Full HD 1080p, movimento panorâmico de 360° na horizontal e visão noturna infravermelha com alcance de até 9 metros, ela reúne ótima definição de imagem, áudio bidirecional e suporte para gravação local em cartão microSD de até 512 GB, dispensando qualquer mensalidade obrigatória para funcionar no dia a dia.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07XLML2YS?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem nunca sentiu aquela ponta de preocupação ao passar o dia fora de casa, imaginando se o cachorro está bem, se o gato não derrubou nada ou se as crianças chegaram em segurança da escola? No passado, montar um sistema de monitoramento interno exigia passar cabos pelas paredes, furar forros e contratar serviços especializados caros com mensalidades intermináveis. Hoje em dia, a busca por tranquilidade e proteção no lar pede aparelhos compactos, fáceis de configurar e que permitam dar uma olhada em tempo real pelo celular de onde você estiver, sem exigir reformas nem conhecimentos técnicos avançados.",
+      "A Câmera de Segurança Wi-Fi TP-Link Tapo C200 se consolidou como uma das maiores referências do mercado nacional exatamente por unir simplicidade extrema com recursos completos de vigilância. Seu grande destaque é o mecanismo Pan/Tilt motorizado com cobertura panorâmica de 360° na horizontal e 114° na vertical, controlado suavemente por setas na tela do aplicativo Tapo. Isso significa que, em vez de depender de uma câmera de ângulo fixo que deixa cantos mortos na sala ou no corredor, você pode varrer todo o ambiente com apenas alguns toques no smartphone e acompanhar qualquer movimentação sem perder detalhes.",
+      "No cotidiano, o aplicativo da TP-Link se destaca pela estabilidade e praticidade: além de transmitir imagens ao vivo com resolução Full HD 1080p nítida e cores equilibradas, o sistema oferece comunicação por áudio bidirecional graças ao microfone e ao alto-falante integrados. Essa função é especialmente útil para quem tem animais de estimação, permitindo falar com o pet para acalmá-lo ou chamar a atenção caso ele tente subir no sofá, além de permitir conversar rapidamente com alguém que esteja em casa sem precisar fazer uma chamada telefônica.",
+      "Para a vigilância noturna, a Tapo C200 conta com iluminação infravermelha de 850 nm que ativa automaticamente assim que a luz do cômodo diminui, alcançando até 9 metros de visibilidade no escuro total, segundo a TP-Link. Essa clareza noturna é ideal para quem pretende usar o aparelho como babá eletrônica de cabeceira, contando inclusive com alertas inteligentes no celular configuráveis para detecção de movimento e identificação de choro de bebê. O modelo também integra sirene sonora com volume de até 93 dB a 10 cm e alertas luminosos, recursos úteis para inibir presenças indesejadas em momentos de ausência prolongada.",
+      "No quesito armazenamento, a grande vantagem prática da linha Tapo é a liberdade de escolha: a câmera dispõe de slot local para cartão de memória microSD com capacidade de até 512 GB (vendido separadamente), gravando os eventos por detecção ou em ciclo contínuo sem cobrar nenhuma taxa mensal pelo uso do aplicativo. Uma dica essencial recomendada por especialistas: utilize sempre um cartão microSD de classe 10 e de marca original conhecida para suportar a constante regravação de vídeos sem falhas. Para quem preferir redundância, a TP-Link também disponibiliza o serviço opcional em nuvem Tapo Care com teste inicial, embora o cartão de memória sozinho atenda com sobras à rotina doméstica.",
+      "É importante ter em mente algumas características estruturais para tirar o melhor proveito do equipamento: a Tapo C200 foi desenvolvida exclusivamente para uso em ambientes internos e cobertos, não possuindo vedação contra chuva, sol direto ou umidade excessiva (sem certificação IP de resistência externa). Além disso, ela opera conectada via Wi-Fi estritamente na faixa de frequência de 2,4 GHz (não suportando conexões em redes 5 GHz puras) e não possui bateria recarregável embutida, devendo permanecer sempre ligada à tomada através da fonte de energia bivolt automática com cabo longo de 3 metros já inclusa na embalagem.",
+      "Um último cuidado: antes de concluir sua compra no anúncio da Amazon, verifique se o seu roteador Wi-Fi doméstico está configurado com a rede 2,4 GHz ativa (recurso padrão em praticamente todos os modens de operadoras) e lembre-se de conferir se você já possui ou pretende adquirir junto um cartão microSD compatível caso queira salvar o histórico de gravações localmente. A fonte de alimentação inclusa é bivolt automática (100V a 240V), permitindo ligar o aparelho com total segurança em qualquer tomada residencial do país."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca e Fabricante",
+        "valor": "TP-Link"
+      },
+      {
+        "chave": "Linha / Modelo",
+        "valor": "Tapo C200 (Câmera Wi-Fi Residencial Pan/Tilt 360°)"
+      },
+      {
+        "chave": "Categoria",
+        "valor": "Tecnologia"
+      },
+      {
+        "chave": "Resolução de Vídeo",
+        "valor": "Full HD 1080p (1920 × 1080 pixels) a 15 fps"
+      },
+      {
+        "chave": "Sensor de Imagem",
+        "valor": "1/3\" Progressive Scan CMOS, segundo a TP-Link"
+      },
+      {
+        "chave": "Alcance de Movimentação",
+        "valor": "Pan/Tilt: 360° na horizontal e 114° na vertical"
+      },
+      {
+        "chave": "Visão Noturna",
+        "valor": "Infravermelho 850 nm com alcance de até 9 metros no escuro total"
+      },
+      {
+        "chave": "Áudio Integrado",
+        "valor": "Bidirecional (microfone e alto-falante embutidos com cancelamento de ruído)"
+      },
+      {
+        "chave": "Alarme e Sirene",
+        "valor": "Alarme sonoro e luminoso (sirene de até 93 dB a 10 cm)"
+      },
+      {
+        "chave": "Detecção Inteligente",
+        "valor": "Detecção de movimento, detecção de pessoas e alerta de choro de bebê"
+      },
+      {
+        "chave": "Armazenamento Local",
+        "valor": "Slot para cartão MicroSD de até 512 GB (cartão não incluso)"
+      },
+      {
+        "chave": "Armazenamento em Nuvem",
+        "valor": "Suporte opcional ao serviço de assinatura Tapo Care"
+      },
+      {
+        "chave": "Conectividade Sem Fio",
+        "valor": "Wi-Fi IEEE 802.11 b/g/n (apenas faixa de 2,4 GHz)"
+      },
+      {
+        "chave": "Segurança e Protocolos",
+        "valor": "Criptografia AES de 128 bits com SSL/TLS, WPA/WPA2-PSK/WPA3, RTSP e ONVIF"
+      },
+      {
+        "chave": "Compatibilidade com Assistentes",
+        "valor": "Amazon Alexa e Google Assistente"
+      },
+      {
+        "chave": "Ambiente de Instalação",
+        "valor": "Exclusivo para uso interno (não resistente à água ou intempéries)"
+      },
+      {
+        "chave": "Alimentação Elétrica",
+        "valor": "Fonte externa bivolt automática (100-240V, saída 9V / 0,6A) com cabo de 3 metros"
+      },
+      {
+        "chave": "Consumo de Energia",
+        "valor": "Típico de 2,0 W e máximo de 4,5 W, segundo a TP-Link"
+      },
+      {
+        "chave": "Dimensões e Peso",
+        "valor": "86,6 × 85 × 117,7 mm; peso de 190 g"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "1 Câmera Tapo C200, 1 Adaptador de energia (cabo de 3 m), 1 Base de montagem, parafusos, buchas e Guia Rápido"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses (1 ano), segundo a TP-Link Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Cobertura panorâmica de 360° na horizontal e 114° na vertical controlada suavemente na tela do celular",
+      "Resolução Full HD 1080p nítida aliada a visão noturna infravermelha com alcance de até 9 metros no escuro total",
+      "Comunicação por áudio bidirecional para ouvir e falar em tempo real com familiares ou acalmar animais de estimação",
+      "Aplicativo Tapo renomado por sua alta estabilidade, facilidade de conexão e interface intuitiva em português",
+      "Liberdade de armazenamento local em cartão microSD de até 512 GB, eliminando a obrigação de mensalidades em nuvem",
+      "Detecção inteligente de movimento com alertas no smartphone e recurso dedicado de alerta para choro de bebê",
+      "Fonte bivolt com cabo longo de 3 metros e acessórios inclusos para fixação prática tanto sobre mesas quanto no teto",
+      "Compatibilidade com comandos de voz e exibição de vídeo via Amazon Alexa e Google Assistente"
+    ],
+    "pontos_atencao": [
+      "Desenvolvida para uso exclusivamente interno, não possuindo resistência contra chuva, respingos ou poeira externa",
+      "Conecta-se somente a redes Wi-Fi de 2,4 GHz, sendo incompatível com a faixa exclusiva de 5 GHz dos roteadores",
+      "Não possui bateria interna, exigindo ficar permanentemente plugada à tomada pela fonte de alimentação",
+      "Cartão de memória microSD para gravação local não acompanha o produto e precisa ser adquirido separadamente"
+    ],
+    "para_quem_e": "Para quem busca uma forma simples, acessível e confiável de monitorar cômodos da casa, acompanhar pets, idosos ou bebês pelo celular com imagens nítidas tanto de dia quanto à noite, sem mensalidades obrigatórias.",
+    "para_quem_nao_e": "Para quem necessita de uma câmera para fachadas e áreas externas expostas à chuva, busca resolução superior 2K/4K ou procura um modelo totalmente sem fios movido a bateria interna recarregável."
   }
 ];
 
