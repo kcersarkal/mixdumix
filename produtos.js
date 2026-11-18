@@ -6418,6 +6418,115 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca uma forma simples, acessível e confiável de monitorar cômodos da casa, acompanhar pets, idosos ou bebês pelo celular com imagens nítidas tanto de dia quanto à noite, sem mensalidades obrigatórias.",
     "para_quem_nao_e": "Para quem necessita de uma câmera para fachadas e áreas externas expostas à chuva, busca resolução superior 2K/4K ou procura um modelo totalmente sem fios movido a bateria interna recarregável."
+  },
+  {
+    "asin": "B0D9C6BF2F",
+    "id": "ventilador-de-coluna-mondial-turbo-40cm-nvt-40c-8p-b-110v",
+    "titulo": "Ventilador de Coluna 40cm Mondial Turbo 8 Pás NVT-40C-8P-B (Preto/Prata, 140W, 110V)",
+    "subtitulo": "Vento forte e amplo com hélice de 8 pás, coluna ajustável até 1,50 m e oscilação contínua para refrescar qualquer ambiente",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/ventilador-de-coluna-mondial-turbo-40cm-nvt-40c-8p-b-110v.jpg",
+    "data_revisao": "2026-11-18",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Mondial Turbo 8 Pás NVT-40C-8P-B é a escolha certeira para quem precisa espantar o calor em quartos ou salas médias sem depender de móveis de apoio para alcançar a altura certa. Com 140W de potência, hélice aerodinâmica de 8 pás de 40 cm e pedestal ajustável de 1,19 m a 1,50 m, ele entrega uma ventilação ampla e uniforme com oscilação contínua, unindo facilidade na desmontagem para limpeza e ótima estabilidade no chão.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0D9C6BF2F?tag=mdm0c7-20",
+        "destaque": "Confira disponibilidade, opções de entrega e condições na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem nunca passou por aquela situação incômoda de chegar em casa num dia abafado, sentir o ar parado na sala ou no quarto e perceber que o ventilador de mesa comum simplesmente não alcança a altura do sofá ou da cama? Muitas vezes, a única saída improvisada é colocar o ventilador sobre uma banqueta ou cadeira, correndo o risco de quedas ou barulhos de vibração na madeira. Quando o calor aperta, o que você realmente quer é uma corrente de ar constante, fresca e na altura exata do seu descanso, sem precisar fazer malabarismos de móveis pelo cômodo.",
+      "O Ventilador de Coluna Mondial Turbo NVT-40C-8P-B resolve esse problema unindo a flexibilidade do pedestal ajustável com o poder da sua hélice exclusiva de 8 pás em 40 cm de diâmetro. Segundo a Mondial, o formato aerodinâmico dessas oito pás foi desenhado para movimentar um volume de ar significativamente maior do que hélices tradicionais de 4 ou 6 pás, gerando um fluxo de vento contínuo e menos 'cortante'. Na prática, isso significa que o ar é distribuído de forma mais homogênea pelo ambiente, diminuindo a sensação de abafamento em poucos minutos.",
+      "No dia a dia, a praticidade de ajuste faz toda a diferença na sua rotina. Com a coluna telescópica permitindo regular a altura entre 1,19 m e 1,50 m, você pode deixar o ventilador mais baixo enquanto trabalha na escrivaninha ou elevá-lo ao ponto mais alto para que o vento passe suavemente por cima do colchão durante a noite. O seletor giratório oferece 3 velocidades bem calibradas: a velocidade mínima é suave e silenciosa para acompanhar o sono ou momentos de leitura, a média equilibra frescor e conforto para a tarde, e a velocidade máxima Turbo aciona toda a força dos 140W para aliviar rapidamente os dias de mormaço pesado.",
+      "Conforme testes técnicos destacados pelo portal especializado TopComparativos, os 140W de potência do motor operam com estabilidade notável, sem que a base balance ou vibre mesmo na velocidade mais alta. Além disso, o sistema oscilante horizontal amplia o raio de varredura do ar por todo o quarto, enquanto a inclinação vertical permite direcionar o vento levemente para cima ou para baixo. Para quem divide o cômodo com a família ou precisa arejar uma sala de 15 a 20 m², a oscilação garante que ninguém fique no canto quente sem ventilação.",
+      "A manutenção periódica também foi pensada para não dar trabalho: as grades frontal e traseira, assim como a própria hélice plástica, são totalmente removíveis através de travas rápidas, permitindo lavar as peças na pia com água e sabão neutro para remover o pó acumulado. Uma dica de ouro para os dias quentes é posicionar o ventilador próximo a uma janela aberta voltada para a sombra no início da noite: com a oscilação ativada, ele puxa o ar mais fresco de fora para dentro e expulsa o calor acumulado no teto ao longo do dia, refrescando o quarto muito mais rápido.",
+      "Um último cuidado: este modelo (NVT-40C-8P-B) opera na tensão de 110V (127V) com potência de 140W e não é bivolt automático. Antes de concluir a compra, verifique se a voltagem selecionada é a correspondente à rede elétrica da sua residência e, na hora da montagem, certifique-se de apertar bem o parafuso da base da coluna para garantir a rigidez ideal durante os giros de oscilação contínua."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca Fabricante",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo de Referência",
+        "valor": "NVT-40C-8P-B"
+      },
+      {
+        "chave": "Categoria do Produto",
+        "valor": "Casa & Eletro / Ventilação"
+      },
+      {
+        "chave": "Tipo de Ventilador",
+        "valor": "Ventilador de Coluna (pedestal regulável)"
+      },
+      {
+        "chave": "Tensão Elétrica de Alimentação",
+        "valor": "110V ~ 60 Hz (Plugue bipolar de 10A, padrão NBR 14136)"
+      },
+      {
+        "chave": "Potência Elétrica Nominal",
+        "valor": "140 W, segundo a Mondial"
+      },
+      {
+        "chave": "Diâmetro da Grade e Hélice",
+        "valor": "40 cm de diâmetro"
+      },
+      {
+        "chave": "Quantidade de Pás",
+        "valor": "8 pás com design aerodinâmico Turbo"
+      },
+      {
+        "chave": "Número de Velocidades",
+        "valor": "3 velocidades (Mínima Silencioso, Média Conforto e Máxima Turbo)"
+      },
+      {
+        "chave": "Altura da Coluna Ajustável",
+        "valor": "Regulagem telescópica de 1,19 m até 1,50 m"
+      },
+      {
+        "chave": "Movimentação do Fluxo de Ar",
+        "valor": "Sistema oscilante horizontal contínuo e inclinação vertical regulável"
+      },
+      {
+        "chave": "Facilidade de Higienização",
+        "valor": "Grades frontal e traseira e hélice removíveis para lavagem"
+      },
+      {
+        "chave": "Dimensões do Produto Montado",
+        "valor": "150,0 cm x 48,5 cm x 48,5 cm (Altura máxima x Largura x Profundidade)"
+      },
+      {
+        "chave": "Peso Líquido do Produto",
+        "valor": "5,70 kg, segundo a ficha técnica da Mondial"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "01 Ventilador de Coluna Mondial NVT-40C-8P-B e 01 Manual de Instruções oficial"
+      },
+      {
+        "chave": "Garantia Oficial do Fabricante",
+        "valor": "12 meses (01 ano de garantia de fábrica pela Mondial)"
+      }
+    ],
+    "pontos_fortes": [
+      "Hélice de 8 pás com 40 cm de diâmetro que empurra um volume de ar denso e contínuo, refrescando ambientes médios com rapidez",
+      "Coluna telescópica com regulagem de altura de 1,19 m até 1,50 m, permitindo direcionar o vento na altura exata da cama ou sofá sem apoios improvisados",
+      "Motor potente de 140W com 3 velocidades, permitindo alternar de uma brisa suave para dormir até vento intenso para dias de mormaço",
+      "Oscilação horizontal ampla que distribui o frescor por todo o ambiente de forma uniforme, evitando pontos abafados no cômodo",
+      "Grades frontal e traseira e hélice removíveis que facilitam a lavagem periódica na pia, prevenindo acúmulo de poeira e ácaros",
+      "Base de sustentação firme com peso total de 5,7 kg, mantendo excelente estabilidade no chão sem trepidações excessivas"
+    ],
+    "pontos_atencao": [
+      "Na velocidade máxima (Turbo), o fluxo vigoroso de ar gera ruído sonoro perceptível do vento, o que pode incomodar quem exige silêncio total para o sono",
+      "Não acompanha controle remoto nem função de timer, exigindo ajuste manual direto no seletor da coluna",
+      "Aparelho monofásico em 110V (127V), não sendo bivolt automático, exigindo conferência atenta da voltagem na página de compra",
+      "Ocupa maior área de piso em comparação a ventiladores de mesa tradicionais devido à base ampla necessária para sustentar a coluna"
+    ],
+    "para_quem_e": "Para quem quer uma ventilação forte e abrangente em salas ou quartos médios, valoriza a liberdade de regular a altura do vento diretamente na linha da cama ou do sofá sem improvisar banquetas, e busca um aparelho durável de 140W com 8 pás e fácil de desmontar para limpar.",
+    "para_quem_nao_e": "Para quem busca um ventilador ultracompacto para mesas de escritório com espaço restrito, exige aparelho com controle remoto e timer programável, ou precisa de um modelo bivolt ou com alimentação em 220V."
   }
 ];
 
