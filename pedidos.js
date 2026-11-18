@@ -97,10 +97,94 @@ window.PEDIDOS = [
     "id": "B07DTN9W36",
     "asin": "B07DTN9W36",
     "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
-    "imagem": "assets/logo.png",
+    "imagem": "assets/pedidos/B07DTN9W36.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B07DTN9W36?tag=mdm0c7-20",
-    "descricao": "Brilhante Limpeza Total possui tecnologia que evita o amarelamento das roupas brancas e mantém os coloridos muito mais vivos. Este lava-roupas líquido deixa suas peças e tecidos com brancos impecáveis. A nova fórmula deste detergente líquido contém o poder das enzimas, que proporciona uma limpeza profunda e evita que a sujeira se deposite nas roupas. O sabão líquido que cuida das cores! Brilhante Limpeza Total mantém os coloridos muito mais vivos, prevenindo os sinais de desgaste das suas peças preferidas. Com Brilhante Limpeza Total suas roupas terão as cores muito mais vivas e mais impactantes após cada lavagem"
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07DTN9W36?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "descricao": "Com fórmula líquida de dissolução imediata, enzimas ativas e tecnologia Brilho Ativo, o Brilhante Limpeza Total 3L cuida de brancos e coloridos sem deixar resíduos, rendendo até 40 lavagens.",
+    "categoria": "Casa & Eletro",
+    "subtitulo": "Poder enzimático que combate manchas difíceis sem desbotar roupas coloridas nem deixar resíduos esbranquiçados nas peças escuras",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O Lava Roupas Líquido Brilhante Limpeza Total 3L é uma opção certeira para quem deseja aposentar os resíduos do sabão em pó tradicional sem abrir mão da força contra sujeiras do dia a dia. Com tecnologia de enzimas ativas e o complexo Brilho Ativo da Unilever, ele se dissolve de forma instantânea na água, penetra nas fibras para evitar o encardido em roupas brancas e protege o brilho de peças coloridas. Seu galão de 3 litros oferece alto rendimento para famílias que lavam roupas com frequência e buscam praticidade tanto em máquinas quanto em lavagens manuais.",
+    "visao_geral": [
+      "Você já tirou uma camisa preta ou calça escura da máquina de lavar e encontrou aquelas listras e manchinhas esbranquiçadas de sabão que simplesmente não se dissolveu? Ou percebeu aquele lençol branco que vai ficando opaco e acinzentado a cada ciclo, enquanto as camisetas coloridas parecem perder a vivacidade rapidamente? Lidar com a pilha de roupas do dia a dia é sempre um desafio entre conseguir remover manchas de suor, molhos ou poeira e não desgastar o tecido precocemente.",
+      "O Brilhante Limpeza Total no formato líquido de 3 litros foi formulado exatamente para eliminar esses problemas na raiz. Por ser um detergente líquido homogêneo, ele se mistura à água logo nos primeiros giros do tambor, alcançando as fibras em profundidade sem empelotar no dispenser nem grudar nas tramas. Segundo a Unilever, a fórmula traz o poder das enzimas ativas em conjunto com a tecnologia de Brilho Ativo, criada para agir em duas frentes complementares: enquanto agentes limpadores soltam a sujeira e evitam que ela volte a se depositar nas peças durante a agitação, os componentes protetores evitam o desbotamento precoce dos tons vivos e previnem o amarelamento dos tecidos claros.",
+      "Na rotina da lavanderia, a consistência líquida traz outra grande vantagem: a facilidade de pré-tratar manchas pontuais. Sabe aquela sujeira persistente de colarinho, punho de camisa ou mancha de gordura na toalha de mesa? Basta aplicar algumas gotas do produto puro diretamente sobre a área afetada, esfregar delicadamente com os dedos ou com uma escova macia e deixar descansar por alguns minutos antes de colocar a peça na máquina para o ciclo padrão. Além disso, a embalagem plástica de 3 litros é 100% reciclável e conta com tensoativos biodegradáveis, unindo cuidado têxtil à responsabilidade ecológica.",
+      "Um último cuidado: para aproveitar ao máximo a capacidade do galão e alcançar o rendimento indicado de até 40 lavagens, respeite a dosagem sugerida pelo fabricante. A recomendação da Unilever para uma máquina cheia de abertura superior (referência de 11 kg) com sujeira normal é de cerca de 75 a 100 ml (menos de meio copo americano), evitando excesso de produto que gere espuma desnecessária. Lembre-se também de que fórmulas lava-roupas potentes não são recomendadas para tecidos de extrema delicadeza, como seda pura ou lã virgem — que exigem sabão neutro específico —, e nunca devem ser combinadas diretamente com alvejantes à base de cloro no mesmo compartimento."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Unilever Brasil"
+      },
+      {
+        "chave": "Linha / Versão",
+        "valor": "Brilhante Limpeza Total"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Lava-roupas líquido concentrado"
+      },
+      {
+        "chave": "Volume da Embalagem",
+        "valor": "3 Litros (3.000 ml)"
+      },
+      {
+        "chave": "Rendimento Estimado",
+        "valor": "De 30 a 40 lavagens (considerando ciclo em máquina cheia de até 11 kg)"
+      },
+      {
+        "chave": "Princípio Ativo",
+        "valor": "Tensoativo aniônico biodegradável, enzimas ativas e agentes antirredeposição"
+      },
+      {
+        "chave": "Tecnologia",
+        "valor": "Brilho Ativo (ação antimanchas, antiamarelamento e preservação de cores)"
+      },
+      {
+        "chave": "Indicação Têxtil",
+        "valor": "Roupas brancas e coloridas de algodão, fibras sintéticas e tecidos mistos"
+      },
+      {
+        "chave": "Compatibilidade",
+        "valor": "Máquinas de abertura superior (Top Load), abertura frontal (Front Load) e tanques manuais"
+      },
+      {
+        "chave": "Restrições Têxteis",
+        "valor": "Não indicado para lã natural, seda pura, couro e algodão cru delicado"
+      },
+      {
+        "chave": "Sustentabilidade",
+        "valor": "Fórmula com tensoativos biodegradáveis e garrafa plástica 100% reciclável"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7891150020672"
+      }
+    ],
+    "pontos_fortes": [
+      "Dissolução instantânea na água fria que não deixa resíduos gomosos na gaveta nem películas brancas em roupas pretas",
+      "Fórmula com enzimas ativas que decompõem manchas de alimentos, gordura e suor desde o primeiro ciclo",
+      "Tecnologia Brilho Ativo que previne o amarelamento de tecidos claros e preserva o brilho das roupas coloridas",
+      "Permite aplicação pura diretamente sobre colarinhos e manchas pontuais para pré-tratamento rápido",
+      "Embalagem familiar de 3 litros com ótimo custo-benefício por lavagem, rendendo até 40 ciclos completos",
+      "Tensoativos biodegradáveis e garrafa 100% reciclável segundo as diretrizes de sustentabilidade da Unilever"
+    ],
+    "pontos_atencao": [
+      "O galão de 3 litros é volumoso e pesado quando novo, exigindo firmeza e as duas mãos na hora de dosar",
+      "Não é indicado para peças finas de lã pura ou seda natural, que demandam produtos neutros específicos",
+      "Não deve ser misturado a alvejantes ou produtos à base de cloro diretamente durante o ciclo de lavagem"
+    ],
+    "para_quem_e": "Famílias, donas e donos de casa que buscam um lava-roupas líquido versátil e confiável para a rotina diária de roupas brancas e coloridas, eliminando manchas e resíduos de pó com excelente rendimento por galão.",
+    "para_quem_nao_e": "Quem precisa higienizar peças nobres e ultrassensíveis que exigem sabão neutro exclusivo (como seda pura e lã virgem) ou quem prefere embalagens menores e mais leves para facilitar a manipulação diária."
   },
   {
     "id": "B0FHCHBRGF",
