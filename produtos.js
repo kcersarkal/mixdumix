@@ -6527,6 +6527,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer uma ventilação forte e abrangente em salas ou quartos médios, valoriza a liberdade de regular a altura do vento diretamente na linha da cama ou do sofá sem improvisar banquetas, e busca um aparelho durável de 140W com 8 pás e fácil de desmontar para limpar.",
     "para_quem_nao_e": "Para quem busca um ventilador ultracompacto para mesas de escritório com espaço restrito, exige aparelho com controle remoto e timer programável, ou precisa de um modelo bivolt ou com alimentação em 220V."
+  },
+  {
+    "asin": "B07VPFC6RN",
+    "id": "secador-de-cabelo-taiff-style-2000w-preto-127v",
+    "titulo": "Secador de Cabelo Taiff Style 2000W com Motor AC Profissional (Preto, 127V)",
+    "subtitulo": "A força e a agilidade do motor de salão levadas para a sua rotina em casa, encurtando o tempo de secagem sem cansar o braço",
+    "categoria": "Saúde & Beleza",
+    "imagem": "assets/produtos/secador-de-cabelo-taiff-style-2000w-preto-127v.jpg",
+    "data_revisao": "2026-11-19",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Taiff Style 2000W é o secador ideal para quem cansou de perder tempo na frente do espelho com aparelhos fracos que esquentam demais e sopram de menos. Equipado com um legítimo motor AC profissional de 2000W, ele entrega vento forte e calor constante para secar mechas densas com agilidade, enquanto o botão de jato de ar frio e o bico direcionador ajudam a alinhar os fios e diminuir o frizz. Leve, ergonômico e fabricado pela marca mais tradicional em cuidados capilares do Brasil, ele é o investimento certo para ter resultado de salão na correria do dia a dia.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando você precisa lavar o cabelo logo cedo antes de sair para o trabalho ou no final do dia depois de um treino intenso, mas só de lembrar do tempo que vai passar na frente do espelho dá desânimo? Pior ainda é usar aquele secador antigo que esquenta a carcaça a ponto de queimar a mão, sopra fraquinho e deixa o braço dormente antes mesmo de secar a metade da cabeça. O resultado quase sempre é o mesmo: cabelo úmido por dentro, pontas arrepiadas e uma sensação de que secar os fios em casa é uma verdadeira maratona.",
+      "É exatamente nessa rotina corrida que o Taiff Style 2000W mostra o seu valor. Diferente dos secadores domésticos mais básicos, que usam pequenos motores DC que giram forçados e dependem apenas de resistências incandescentes muito quentes, este modelo traz um motor AC profissional autêntico. Segundo a Taiff, essa arquitetura produz um fluxo de ar vigoroso e contínuo que não perde rendimento com o passar dos minutos. Na prática, você seca o cabelo pela força e pelo volume do vento, e não apenas 'torrando' os fios com calor excessivo, o que preserva a hidratação e a saúde da fibra capilar.",
+      "No uso diário, o manuseio surpreende pelo equilíbrio. Com peso na casa dos 688 gramas e empunhadura anatômica, o peso do motor fica bem distribuído no centro da mão, evitando aquela alavanca que cansa o punho durante uma escovação mais caprichada. A chave seletora lateral permite alternar entre duas velocidades e diferentes intensidades de calor, somando 5 combinações de temperatura para você encontrar o ponto exato para a textura do seu cabelo — desde fios finos que pedem ar morno até cabelos volumosos que exigem secagem rápida.",
+      "Um dos grandes destaques do Taiff Style é o botão de jato de ar frio instantâneo (Cold Shot) localizado estrategicamente na parte frontal do cabo, ao alcance do indicador. Uma dica prática que transforma o resultado: comece secando a raiz e o comprimento com o fluxo quente para evaporar a água rapidamente; em seguida, encaixe o bico direcionador de ar para puxar as mechas com a escova redonda e, ao terminar cada mecha, aperte o botão de ar frio por cerca de cinco segundos. O choque térmico sela imediatamente as cutículas dos fios, fixando a forma do penteado e proporcionando aquele brilho polido com muito menos frizz ao longo do dia.",
+      "Outro detalhe pensado para a durabilidade a longo prazo é a grade traseira removível. Em qualquer secador usado com frequência, fios soltos, poeira e fiapos de toalha vão se acumulando nas aletas de sucção traseiras, o que costuma abafar o motor e provocar superaquecimento precoce. No Style, basta girar e puxar a tampa da grade para limpar a tela em poucos segundos com um pano seco ou uma escovinha macia. Manter essa entrada desobstruída assegura que o fluxo de ar continue sempre potente e que o aparelho dure por muitos anos sem perder rendimento.",
+      "Um último cuidado: este anúncio avaliado corresponde à versão de 127V (110V) do Taiff Style 2000W. Por ser um equipamento de padrão profissional de 2000W, ele não é bivolt automático e deve ser ligado exclusivamente em tomadas de 127V compatíveis. Além disso, a embalagem original acompanha apenas o bico direcionador de ar fino — caso você tenha cabelos cacheados ou crespos e pretenda secar com difusor volumador, será necessário adquirir um difusor universal separadamente. Antes de finalizar a sua compra, confirme sempre a voltagem da tomada do seu banheiro ou quarto na página do anúncio para receber o modelo ideal para a sua casa."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca Fabricante",
+        "valor": "Taiff"
+      },
+      {
+        "chave": "Linha do Produto",
+        "valor": "Linha Taiff em Casa / Série Style"
+      },
+      {
+        "chave": "Modelo de Referência",
+        "valor": "Style Black 2000W (Código de fábrica 333)"
+      },
+      {
+        "chave": "Categoria do Produto",
+        "valor": "Saúde & Beleza / Cuidados Pessoais"
+      },
+      {
+        "chave": "Tensão Elétrica de Alimentação",
+        "valor": "127V ~ 60 Hz (monofásico, plugue padrão NBR 14136)"
+      },
+      {
+        "chave": "Potência Elétrica Nominal",
+        "valor": "2000 W, segundo a Taiff"
+      },
+      {
+        "chave": "Tipo de Motor Integrado",
+        "valor": "Motor AC Profissional de alta vazão e rotação contínua"
+      },
+      {
+        "chave": "Controle de Velocidades e Temperaturas",
+        "valor": "Chave seletora com 5 combinações de temperaturas e velocidades"
+      },
+      {
+        "chave": "Botão de Jato de Ar Frio",
+        "valor": "Sim (função Cold Shot instantânea para fixação de penteados)"
+      },
+      {
+        "chave": "Comprimento do Cabo de Energia",
+        "valor": "1,80 metro de extensão com isolamento flexível"
+      },
+      {
+        "chave": "Sistema de Limpeza e Manutenção",
+        "valor": "Grade traseira removível para higienização rápida de poeira e fios"
+      },
+      {
+        "chave": "Acessórios Inclusos no Pacote",
+        "valor": "01 Bico direcionador de ar com novo design ergonômico"
+      },
+      {
+        "chave": "Certificação e Segurança",
+        "valor": "Certificação compulsória Inmetro n.º 218.066/21"
+      },
+      {
+        "chave": "Peso Líquido do Aparelho",
+        "valor": "Aproximadamente 688 g (com cabo e bocal), segundo a fabricante"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "01 Secador Taiff Style 2000W 127V Preto, 01 Bico direcionador de ar, 01 Manual de Instruções e Termo de Garantia"
+      },
+      {
+        "chave": "Garantia Oficial do Fabricante",
+        "valor": "06 meses de garantia de fábrica pela Taiff"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor AC profissional de 2000W que proporciona alta vazão de ar contínua e temperatura estável, secando os fios com rapidez sem exigir esforço excessivo",
+      "Chave seletora com 5 combinações práticas entre temperaturas e velocidades, adaptando o fluxo térmico tanto para cabelos finos e sensíveis quanto para mechas volumosas",
+      "Botão frontal de jato de ar frio instantâneo que resfria rapidamente as mechas, fechando as cutículas dos fios para reduzir o frizz e dar acabamento brilhante",
+      "Peso bem equilibrado de cerca de 688g e empunhadura anatômica que evitam a fadiga do punho e do ombro durante escovas mais demoradas",
+      "Bico direcionador de ar com formato alongado que canaliza o fluxo com exatidão sobre a escova, facilitando o alisamento e a modelagem das pontas",
+      "Grade traseira removível com encaixe simples que permite higienizar periodicamente resíduos de poeira e fios soltos, preservando a vida útil do motor",
+      "Cabo elétrico flexível de 1,80 metro que oferece boa liberdade de movimento entre a tomada da parede e o espelho da bancada"
+    ],
+    "pontos_atencao": [
+      "Aparelho monofásico operando exclusivamente em 127V, não sendo bivolt, o que exige atenção na hora da compra e cuidado ao viajar para cidades com tensão de 220V",
+      "Não acompanha bico difusor de cachos na embalagem original, sendo necessário adquirir o acessório separadamente para finalização de cabelos ondulados ou crespos",
+      "Por contar com um motor AC profissional potente de 2000W, o ruído gerado na velocidade máxima é expressivo e característico de equipamentos de alta vazão",
+      "O cabo de 1,80 metro é ótimo para banheiros e quartos residenciais, mas é mais curto do que os modelos profissionais de salão da marca, que costumam ter 3 metros"
+    ],
+    "para_quem_e": "Para quem quer a agilidade e a durabilidade de um secador com motor AC profissional de 2000W no conforto de casa, valoriza a rapidez na secagem matinal ou pós-treino e procura um aparelho ergonômico, confiável e com botão de ar frio para modelar o cabelo sem complicação.",
+    "para_quem_nao_e": "Para quem precisa de um modelo bivolt automático para viagens frequentes sem se preocupar com a rede elétrica local, busca um secador ultracompacto com cabo dobrável para levar na bolsa de academia, ou faz questão de difusor para cachos já incluído na embalagem."
   }
 ];
 
