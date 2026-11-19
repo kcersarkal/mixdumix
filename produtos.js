@@ -6637,6 +6637,116 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer a agilidade e a durabilidade de um secador com motor AC profissional de 2000W no conforto de casa, valoriza a rapidez na secagem matinal ou pós-treino e procura um aparelho ergonômico, confiável e com botão de ar frio para modelar o cabelo sem complicação.",
     "para_quem_nao_e": "Para quem precisa de um modelo bivolt automático para viagens frequentes sem se preocupar com a rede elétrica local, busca um secador ultracompacto com cabo dobrável para levar na bolsa de academia, ou faz questão de difusor para cachos já incluído na embalagem."
+  },
+  {
+    "asin": "B0784CLYGQ",
+    "id": "conjunto-de-potes-hermeticos-electrolux-plastico-10-pecas",
+    "titulo": "Conjunto de Potes Herméticos de Plástico Electrolux com 10 Peças (Livre de BPA)",
+    "subtitulo": "Chega de potes sem tampa e cheiro de geladeira na comida: organize marmitas, frutas e mantimentos com vedação dupla e marcador de data",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/conjunto-de-potes-hermeticos-electrolux-plastico-10-pecas.jpg",
+    "data_revisao": "2026-11-19",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Conjunto de Potes Herméticos Electrolux com 10 peças é a solução definitiva para quem cansou daquela gaveta caótica cheia de recipientes manchados e sem par. Fabricados em polipropileno 100% livre de BPA, esses potes contam com vedação hermética por borracha dupla que barra a entrada de ar, mantendo legumes crocantes, frutas frescas e refeições prontas saborosas por muito mais tempo na geladeira sem espalhar odores. Com tamanhos inteligentes que vão de 350 ml a 3 litros, tampas Easy-Open fáceis de abrir e compatibilidade com freezer, micro-ondas e lava-louças, é a escolha prática para transformar a organização da sua cozinha com a confiabilidade de uma das marcas líderes no Brasil.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0784CLYGQ?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele armário da cozinha que parece um quebra-cabeça sem solução, onde você procura uma tampa por dez minutos e só encontra recipientes deformados, engordurados ou sem par? Ou aquela decepção clássica de abrir a geladeira e notar que o cheiro forte de uma cebola picada ou de um tempero tomou conta da fruta e até da sobremesa? Pior ainda é preparar a marmita com carinho para levar ao trabalho e descobrir que a tampa frouxa vazou caldo no fundo da mochila durante o trajeto de ônibus ou metrô.",
+      "É para resolver esse estresse diário de uma vez por todas que o Conjunto de Potes Herméticos Electrolux se destaca. Diferente de potes comuns de supermercado que empenam logo nas primeiras lavagens, este kit foi projetado com um sistema de vedação hermética de borracha dupla nas tampas. Esse anel duplo cria um bloqueio de ar eficiente que não apenas impede o vazamento de líquidos e odores desagradáveis pela geladeira, mas também retarda o processo de oxidação natural dos alimentos, mantendo folhas verdes estalando de frescas e sobras de refeições com sabor preservado por dias.",
+      "Na rotina prática, a variedade de tamanhos e formatos faz toda a diferença. Com 10 unidades que variam de pequenos recipientes de 350 ml até um pote generoso de 3 litros, você encontra o espaço exato para cada necessidade: temperos verdes picados, porções individuais de salada de frutas, arroz e feijão cozidos para a semana inteira ou pedaços grandes de melancia e melão. Além disso, as tampas contam com a tecnologia Easy-Open, permitindo puxar a borda de fechamento sem exigir força excessiva nos dedos nem risco de quebrar unhas, mesmo quando o pote acabou de sair do congelamento.",
+      "Construídos em polipropileno de alta densidade e atóxico, os recipientes são certificados como 100% livres de bisfenol A (BPA Free), segundo a Electrolux. Isso significa que você pode aquecer a comida no micro-ondas ou guardar papinhas de bebê sem qualquer preocupação com a migração de substâncias químicas prejudiciais à saúde. Outro recurso engenhoso na tampa é o marcador giratório de data: basta girar o seletor para o dia em que o alimento foi preparado para ter um controle visual imediato do prazo de validade, evitando o desperdício de comida esquecida no fundo da prateleira.",
+      "Para manter os potes bonitos e garantir que a vedação de borracha continue impecável por anos, alguns cuidados básicos são recomendados no dia a dia. Ao aquecer refeições no micro-ondas, lembre-se de sempre destravar ou apenas apoiar a tampa levemente inclinada sobre o pote, permitindo que o vapor escape livremente sem criar pressão interna. Na hora da lavagem, o conjunto pode ir tranquilamente à lava-louças — de preferência no cesto superior, onde a temperatura da água é mais suave —, e na pia tradicional deve-se usar o lado macio da esponja amarela com detergente neutro para não riscar o acabamento transparente.",
+      "Um último cuidado: confira no anúncio da Amazon as especificações completas das 10 peças incluídas para garantir que a proporção entre os potes menores (ideais para molhos e guarnições) e os potes maiores (perfeitos para lotes de grãos e massas) atenda exatamente ao volume das suas preparações semanais. O kit é padronizado com acabamento em tons de branco e cinza translúcido, combinando facilmente com qualquer estilo de cozinha e facilitando a visualização rápida do conteúdo antes mesmo de abrir."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca Fabricante",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Linha do Produto",
+        "valor": "Acessórios e Utilidades Domésticas Electrolux"
+      },
+      {
+        "chave": "Modelo / Código de Referência",
+        "valor": "A07671401 / 41029853"
+      },
+      {
+        "chave": "Quantidade de Peças",
+        "valor": "10 potes com 10 tampas herméticas (kit completo com 10 unidades)"
+      },
+      {
+        "chave": "Material de Composição",
+        "valor": "Polipropileno (PP) virgem de grau alimentício, livre de BPA (BPA Free)"
+      },
+      {
+        "chave": "Sistema de Vedação",
+        "valor": "Borracha dupla integrada na tampa com vedação hermética antivazamento"
+      },
+      {
+        "chave": "Tecnologia da Tampa",
+        "valor": "Tampas Easy-Open com abas ergonômicas e fechamento por pressão suave"
+      },
+      {
+        "chave": "Marcador de Validade",
+        "valor": "Seletor manual giratório na tampa para registro do dia de armazenamento"
+      },
+      {
+        "chave": "Distribuição das Capacidades",
+        "valor": "3 potes de 350 ml, 1 pote de 500 ml, 2 potes de 650 ml, 1 pote de 800 ml, 1 pote de 900 ml, 1 pote de 1,6 L e 1 pote de 3,0 L, segundo a Electrolux"
+      },
+      {
+        "chave": "Formatos dos Potes",
+        "valor": "Combinação de formatos retangulares e quadrados modulares e empilháveis"
+      },
+      {
+        "chave": "Compatibilidade Térmica",
+        "valor": "Apto para freezer (até -20 °C), micro-ondas (com tampa destravada) e lava-louças"
+      },
+      {
+        "chave": "Cor e Acabamento",
+        "valor": "Corpo translúcido para fácil visualização do conteúdo com detalhes em branco e cinza"
+      },
+      {
+        "chave": "Código EAN-13",
+        "valor": "7896584066623"
+      },
+      {
+        "chave": "Dimensões Embalado (A x L x P)",
+        "valor": "Aproximadamente 20,5 x 28,5 x 20,5 cm"
+      },
+      {
+        "chave": "Peso Total Aproximado",
+        "valor": "Cerca de 1,2 kg na embalagem original, segundo a fabricante"
+      },
+      {
+        "chave": "Garantia Oficial do Fabricante",
+        "valor": "03 meses de garantia de fábrica pela Electrolux Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Vedação hermética com borracha dupla que isola o alimento contra o ar, conservando o frescor por muito mais tempo e impedindo vazamento de líquidos e odores na geladeira",
+      "Kit variado com 10 potes e capacidades de 350 ml a 3 litros, cobrindo desde pequenos temperos e molhos até grandes lotes de feijão, arroz e frutas volumosas",
+      "Material seguro 100% livre de BPA em polipropileno de alta durabilidade, ideal para contato com alimentos sem riscos à saúde da família",
+      "Marcador de data giratório na tampa que permite sinalizar com exatidão o dia de congelamento ou preparo, evitando desperdício de refeições esquecidas",
+      "Tampa Easy-Open com abas ergonômicas que eliminam a dificuldade habitual de abrir potes herméticos, mesmo recém-saídos do freezer",
+      "Versatilidade total de uso: seguro para freezer, micro-ondas para aquecimento rápido de marmitas e higienização prática em máquina de lavar louças",
+      "Design modular e empilhável que economiza espaço valioso dentro dos armários de cozinha e nas prateleiras da geladeira"
+    ],
+    "pontos_atencao": [
+      "Fabricados em plástico polipropileno e não em vidro refratário, o que significa que molhos intensamente coloridos (como extrato de tomate ou açafrão) podem deixar pigmentação residual com o tempo se aquecidos repetidamente",
+      "Ao utilizar no micro-ondas, é fundamental deixar a tampa destravada ou apenas apoiada sobre o recipiente para evitar acúmulo de pressão e deformação pelo vapor quente",
+      "Não é compatível com fornos convencionais a gás ou elétricos, fornos elétricos de bancada nem tostadeiras",
+      "Exige limpeza com o lado macio da esponja e produtos não abrasivos para preservar a transparência do plástico e a integridade da borracha de vedação"
+    ],
+    "para_quem_e": "Para quem busca acabar com a desordem de potes sem tampa na cozinha, deseja conservar marmitas e hortaliças frescas por mais dias sem misturar cheiros na geladeira e quer um conjunto durável, livre de BPA e com marcador de data de uma marca líder.",
+    "para_quem_nao_e": "Para quem prefere potes exclusivamente de vidro refratário pesados para ir direto ao forno convencional, ou necessita de recipientes individuais com divisórias internas para separar ingredientes na mesma marmita."
   }
 ];
 
