@@ -6747,6 +6747,104 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca acabar com a desordem de potes sem tampa na cozinha, deseja conservar marmitas e hortaliças frescas por mais dias sem misturar cheiros na geladeira e quer um conjunto durável, livre de BPA e com marcador de data de uma marca líder.",
     "para_quem_nao_e": "Para quem prefere potes exclusivamente de vidro refratário pesados para ir direto ao forno convencional, ou necessita de recipientes individuais com divisórias internas para separar ingredientes na mesma marmita."
+  },
+  {
+    "asin": "B08KW1KR5H",
+    "id": "caixa-de-som-bluetooth-jbl-go-3-preta-a-prova-dagua-ip67",
+    "titulo": "Caixa de Som Bluetooth Portátil JBL Go 3 À Prova D'Água IP67 (Preto, 4.2W RMS)",
+    "subtitulo": "Som surpreendentemente encorpado no tamanho de uma barra de sabonete para levar do chuveiro à beira da piscina sem medo",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/caixa-de-som-bluetooth-jbl-go-3-preta-a-prova-dagua-ip67.jpg",
+    "data_revisao": "2026-11-20",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Quem já tentou ouvir música ou podcast no alto-falante do celular enquanto cozinha, toma banho ou arruma a casa sabe como o som soa estridente, sem peso e quase inaudível contra o barulho da água. A JBL Go 3 resolve essa frustração de um jeito impressionante: com 4,2 W RMS reais e o tradicional padrão JBL Pro Sound, ela entrega médios cristalinos e graves presentes que não se esperariam de um aparelho com apenas 209 gramas. O acabamento em tecido reforçado com proteção IP67 permite que ela tome respingos fortes de água doce, areia da praia ou poeira da trilha sem engasgar, enquanto o Bluetooth 5.1 garante conexão estável com o smartphone. É a escolha definitiva para quem busca uma caixa de som ultracompacta para o dia a dia pessoal, com recarga moderna por USB-C e a confiabilidade de uma das maiores referências mundiais em áudio.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B08KW1KR5H?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você coloca a sua playlist favorita no celular, entra no banho ou começa a lavar a louça e, em poucos segundos, percebe que o som do aparelho simplesmente se perde no meio do barulho da água. Tentar aumentar o volume no máximo costuma apenas distorcer as vozes e produzir aquele som fino e irritante. E carregar uma caixa de som grande e pesada para cada cômodo da casa ou na mochila do passeio acaba não sendo nada prático.",
+      "É nesse cenário de praticidade que a JBL Go 3 brilha. Medindo cerca de 8,7 por 7,5 centímetros e pesando apenas 209 gramas, ela cabe confortavelmente na palma da mão ou no bolso lateral da mochila, mas entrega uma acústica surpreendente. A fabricante reformulou completamente o projeto acústico frente às gerações anteriores, adotando um transdutor oval de 43 x 47 mm (1,5 polegada) calibrado para extrair graves com impacto e preservar a clareza dos médios e agudos, evitando aquele aspecto de \"som abafado\" típico de caixinhas genéricas.",
+      "No dia a dia, a integração com a sua rotina é imediata. A alça de tecido integrada permite pendurar a caixinha em ganchos no banheiro, no guidão da bicicleta ou até em mosquetões na mochila durante caminhadas ao ar livre. Os botões de controle na parte superior possuem relevo emborrachado para pausar faixas, avançar músicas ou ajustar o volume sem precisar pegar o celular molhado. A conexão sem fio utiliza Bluetooth 5.1, mantendo um alcance estável e sem cortes até mesmo através de paredes de alvenaria simples em ambientes residenciais.",
+      "A robustez da construção é um dos seus pontos mais celebrados. Segundo a JBL e as especificações oficiais da norma internacional, o modelo conta com certificação IP67 completa. Isso significa que ela não é apenas resistente a chuviscos leves, mas suporta poeira total e imersão temporária em até 1 metro de água doce por até 30 minutos. Em análises de imprensa especializada, como a do Canaltech e notas do Tecnoblog, a Go 3 foi amplamente elogiada pelo salto de pressão sonora para 4,2 W RMS e pela adoção definitiva da porta de carregamento USB-C, que aposenta de vez os antigos cabos Micro-USB e permite recarregar a bateria de 750 mAh em cerca de 2,5 horas usando o mesmo carregador padrão do seu celular.",
+      "Para extrair a máxima longevidade da sua JBL Go 3, vale uma dica de uso real: embora ela seja resistente a mergulhos acidentais na piscina ou água doce, a classificação IP67 não foi feita para uso contínuo submerso nem para jatos d'água sob alta pressão. Caso ela entre em contato com areia da praia ou água salgada do mar, enxágue-a suavemente em água corrente da torneira e espere secar completamente antes de conectar o cabo USB-C na lateral. Como em qualquer alto-falante ultracompacto, tocar volumes próximos de 100% em faixas com graves muito densos drenará a bateria mais rapidamente do que as 5 horas nominais estimadas pela marca para volumes moderados.",
+      "Um último cuidado: por ser um dos produtos mais copiados do mercado global de áudio, certifique-se de adquirir a versão autêntica com o código de modelo JBL Go 3 na cor preta homologada e com distribuição oficial no Brasil. Confira no anúncio que se trata do produto original JBL com a porta USB-C emborrachada e acabamento têxtil de alta densidade."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "JBL (Harman) / JBL Go 3 (JBLGO3BLK)"
+      },
+      {
+        "chave": "Potência de Saída Contínua",
+        "valor": "4,2 W RMS reais, segundo a fabricante"
+      },
+      {
+        "chave": "Transdutor Acústico (Alto-falante)",
+        "valor": "43 x 47 mm (1,5 polegada) JBL Pro Sound"
+      },
+      {
+        "chave": "Resposta de Frequência Dinâmica",
+        "valor": "110 Hz a 20 kHz"
+      },
+      {
+        "chave": "Relação Sinal-Ruído",
+        "valor": "> 85 dB"
+      },
+      {
+        "chave": "Conectividade Sem Fio",
+        "valor": "Bluetooth versão 5.1 (perfis A2DP 1.3 e AVRCP 1.6)"
+      },
+      {
+        "chave": "Grau de Proteção contra Água e Poeira",
+        "valor": "Certificação IP67 (resistente à poeira e submersão em água doce até 1 metro por 30 minutos)"
+      },
+      {
+        "chave": "Bateria e Autonomia",
+        "valor": "Polímero de íon de lítio 2,775 Wh (3,7V / 750 mAh), até 5 horas de reprodução contínua (varia conforme o volume)"
+      },
+      {
+        "chave": "Tempo e Conexão de Carregamento",
+        "valor": "Aproximadamente 2,5 horas via conector moderno USB-C (5 V / 1 A)"
+      },
+      {
+        "chave": "Dimensões Físicas (L x A x P)",
+        "valor": "8,75 x 7,5 x 4,13 cm"
+      },
+      {
+        "chave": "Peso Líquido do Aparelho",
+        "valor": "Aproximadamente 209 gramas"
+      },
+      {
+        "chave": "Itens Inclusos na Embalagem",
+        "valor": "01 Caixa de Som JBL Go 3, 01 Cabo USB Tipo C para carregamento, Guia de Início Rápido e Ficha de Segurança"
+      },
+      {
+        "chave": "Garantia Oficial do Fabricante",
+        "valor": "12 meses de garantia de fábrica pela Harman do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Áudio JBL Pro Sound de 4,2 W RMS com médios nítidos e graves presentes para o formato ultracompacto, superando com facilidade o som estridente de alto-falantes de celular",
+      "Certificação de proteção IP67 à prova d'água e resistente à poeira, permitindo uso tranquilo no box do chuveiro, na beira da piscina, na praia ou em acampamentos",
+      "Corpo ultraleve de apenas 209 gramas e formato anatômico com alça de transporte integrada, cabendo facilmente no bolso de uma bermuda ou pendurada na mochila",
+      "Conexão Bluetooth 5.1 veloz e estável, com emparelhamento instantâneo e excelente alcance sem engasgos com smartphones Android e iPhones",
+      "Carregamento contemporâneo via entrada USB-C universal, dispensando cabos proprietários ou o obsoleto padrão Micro-USB",
+      "Botões físicos emborrachados em alto relevo que facilitam o controle de reprodução, pausa e volume mesmo com as mãos molhadas",
+      "Construção externa resistente com tecido reforçado de alta durabilidade e base com filetes de borracha antiderrapante que evitam que a caixa vibre e se mova na bancada"
+    ],
+    "pontos_atencao": [
+      "A autonomia da bateria é de até 5 horas com volume moderado, o que é excelente para passeios diários ou banho, mas pode ser curto para dias inteiros longe de uma tomada se tocada no volume máximo",
+      "Não possui microfone integrado para atender chamadas telefônicas no modo viva-voz (função de speakerphone ausente nesta geração)",
+      "Não conta com entrada auxiliar P2 (3,5 mm) nem leitor de cartão de memória MicroSD, funcionando exclusivamente por transmissão Bluetooth",
+      "Não suporta o pareamento estéreo sem fio PartyBoost entre múltiplas caixas JBL, sendo projetada como um dispositivo de áudio pessoal individual"
+    ],
+    "para_quem_e": "Para quem deseja levar sua música, podcasts e vídeos com som encorpado e potente para o banho, cozinha, escritório ou passeios ao ar livre, valoriza a conveniência de um aparelho ultraleve com alça e busca a resistência à prova d'água IP67 de uma marca líder mundial em áudio.",
+    "para_quem_nao_e": "Para quem precisa de uma caixa de som de alta potência para animar festas e churrascos com dezenas de pessoas em ambientes abertos, exige microfone integrado para chamadas de viva-voz no trabalho ou busca bateria com mais de 10 a 15 horas de duração ininterrupta para viagens longas sem recarga."
   }
 ];
 
