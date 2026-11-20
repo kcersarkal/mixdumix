@@ -6845,6 +6845,112 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem deseja levar sua música, podcasts e vídeos com som encorpado e potente para o banho, cozinha, escritório ou passeios ao ar livre, valoriza a conveniência de um aparelho ultraleve com alça e busca a resistência à prova d'água IP67 de uma marca líder mundial em áudio.",
     "para_quem_nao_e": "Para quem precisa de uma caixa de som de alta potência para animar festas e churrascos com dezenas de pessoas em ambientes abertos, exige microfone integrado para chamadas de viva-voz no trabalho ou busca bateria com mais de 10 a 15 horas de duração ininterrupta para viagens longas sem recarga."
+  },
+  {
+    "asin": "B08L6YHZ75",
+    "id": "escova-secadora-britania-soft-bec07r-1300w-bivolt",
+    "titulo": "Escova Secadora Britânia Soft 4 em 1 BEC07R 1300W Bivolt (Rosa)",
+    "subtitulo": "Seca, alisa e dá volume de salão na metade do tempo sem cansar o braço e com chave seletora bivolt para levar na mala de viagem sem sustos",
+    "categoria": "Saúde & Beleza",
+    "imagem": "assets/produtos/escova-secadora-britania-soft-bec07r-1300w-bivolt.jpg",
+    "data_revisao": "2026-11-20",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Quem costuma lavar o cabelo antes de sair sabe a maratona que é equilibrar um secador pesado em uma mão e uma escova redonda na outra, torcendo os braços e gastando quase uma hora na frente do espelho para ainda sair com a raiz úmida ou pontas cheias de frizz. A Britânia Soft BEC07R resolve essa dor combinando a força de um secador de até 1300W com a tração de uma escova oval em uma peça só. Com tubo revestido em cerâmica, emissão de íons Tourmaline e emissor de luz Infrared, ela alinha os fios enquanto seca, fechando as cutículas e entregando aquele balanço polido de escova feita no salão. Seu grande trunfo frente à maioria das concorrentes da categoria é ser bivolt manual real por chave seletora, garantindo que você viaje para qualquer canto do Brasil sem medo de queimar o aparelho ou ficar sem pentear o cabelo no hotel.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B08L6YHZ75?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você acaba de sair do banho, olha no relógio e percebe que tem menos de meia hora para se arrumar. A ideia de passar longos minutos segurando um secador convencional de quase 1 kg em uma mão, equilibrando a escova redonda na outra e tentando puxar as mechas de trás da cabeça é daquelas que desanimam qualquer um, resultando muitas vezes em braços doloridos e fios com frizz por secagem incompleta.",
+      "A proposta da Britânia Soft BEC07R é exatamente encurtar esse ritual diário pela metade, dispensando o malabarismo entre dois aparelhos. Ao reunir o fluxo térmico de secagem e a tração da modelagem em um único corpo ergonômico, ela permite que você deslize a escova suavemente da raiz até as pontas com uma mão livre para direcionar as mechas, alcançando a nuca e a parte superior da cabeça sem torções desconfortáveis.",
+      "O segredo do seu acabamento está no design oval aliado à tecnologia do tambor. Diferente de cilindros redondos comuns, a curvatura achatada do formato oval serve para duas funções distintas: as laterais mais largas alisam e esticam a mecha na raiz promovendo volume imediato, enquanto as bordas arredondadas curvam as pontas para dentro ou para fora conforme a sua preferência. As cerdas mistas combinam cerdas flexíveis de nylon com pontas protetoras arredondadas — que massageiam o couro cabeludo sem arranhar — e tufos densos que aderem firmemente aos fios para pentear sem puxar os nós com agressividade.",
+      "No aspecto térmico, o modelo traz um conjunto de proteções desenhado para preservar a saúde da fibra capilar. Segundo a Britânia, o tubo conta com revestimento de cerâmica que distribui o calor uniformemente pelos 1300W de potência (em 220V, ou 1200W na rede 127V), evitando picos de alta temperatura em pontos isolados. Somado a isso, os emissores de Tourmaline Íons liberam cargas negativas que neutralizam a eletricidade estática dos cabelos, enquanto a tecnologia de Luz Infrared ajuda a evaporar a umidade de dentro da fibra para fora, mantendo a hidratação natural e reduzindo o ressecamento das pontas.",
+      "Para obter o melhor resultado no dia a dia, vale uma dica de uso real compartilhada por especialistas em beleza: nunca use a escova com o cabelo pingando de água logo após o chuveiro. Retire o excesso de umidade pressionando uma toalha de algodão macia, desembarace os fios com um pente largo e aplique um bom protetor térmico antes de começar. Trabalhar com o cabelo cerca de 70% a 80% seco faz a escovação render muito mais rápido e protege as cerdas de deformações precoces. Na hora de guardar, espere a escova esfriar completamente e limpe os fios soltos do cabeçote com a mão ou auxílio de um palito para manter as saídas de ar sempre desobstruídas.",
+      "Um último cuidado: o modelo BEC07R é bivolt com chave seletora manual embutida na base inferior do cabo. Antes de plugar na tomada pela primeira vez, verifique atentamente se a chavinha está posicionada em 127V ou 220V correspondente à voltagem da sua região, evitando ligar o produto em tensão incorreta. Confira também no anúncio oficial a especificação do modelo BEC07R na cor rosa para garantir que está recebendo a versão com luz infravermelha e cordão giratório de 1,80 metro."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Linha",
+        "valor": "Britânia / Soft"
+      },
+      {
+        "chave": "Modelo e Código de Referência",
+        "valor": "BEC07R (Referência de fábrica: BRI-BEC07R-R)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1300W em tensão 220V / 1200W em tensão 127V, segundo a Britânia"
+      },
+      {
+        "chave": "Voltagem / Alimentação",
+        "valor": "Bivolt manual (chave seletora na base do aparelho para 127V e 220V)"
+      },
+      {
+        "chave": "Funções do Aparelho (4 em 1)",
+        "valor": "Seca, alisa, modela e dá volume"
+      },
+      {
+        "chave": "Formato do Cabeçote",
+        "valor": "Design oval ergonômico (base plana para alisar e curvaturas para modelar pontas)"
+      },
+      {
+        "chave": "Revestimento do Tubo Térmico",
+        "valor": "Cerâmica de alta condutividade térmica com aquecimento homogêneo"
+      },
+      {
+        "chave": "Tecnologias de Cuidado Capilar",
+        "valor": "Luz Infrared (infravermelha secadora interna) e Tourmaline Íons (antifrizz)"
+      },
+      {
+        "chave": "Ajustes de Funcionamento",
+        "valor": "3 níveis de temperatura e 2 opções de velocidade de fluxo de ar"
+      },
+      {
+        "chave": "Tipo de Cerdas",
+        "valor": "Cerdas mistas com pontas arredondadas e tufos de tração suave (Tecnologia Natural Care)"
+      },
+      {
+        "chave": "Segurança e Manuseio",
+        "valor": "Ponta fria superior (cool tip) isolada termicamente para apoio dos dedos"
+      },
+      {
+        "chave": "Cabo de Energia",
+        "valor": "Cordão elétrico giratório 360° com 1,80 metro de comprimento"
+      },
+      {
+        "chave": "Dimensões do Produto (L x A x P)",
+        "valor": "Aproximadamente 40,5 cm x 10,7 cm x 8,4 cm"
+      },
+      {
+        "chave": "Peso Líquido do Aparelho",
+        "valor": "Aproximadamente 550 gramas"
+      },
+      {
+        "chave": "Garantia Oficial do Fabricante",
+        "valor": "12 meses (360 dias) de garantia oficial pela Britânia Eletrodomésticos"
+      }
+    ],
+    "pontos_fortes": [
+      "Praticidade 4 em 1 que seca, alisa, modela e encorpa a raiz com apenas uma mão, economizando tempo considerável na rotina matinal",
+      "Excelente potência de até 1300W com fluxo de ar vigoroso, secando cabelos longos ou densos com muito mais agilidade",
+      "Chave seletora bivolt manual (127V / 220V) na base, um diferencial raro e valioso para quem viaja frequentemente pelo Brasil",
+      "Combinação de tubo cerâmico com luz Infrared e Tourmaline Íons, que ajuda a selar as cutículas e reduzir visivelmente o frizz e a eletricidade estática",
+      "Formato oval ergonômico com cerdas de pontas emborrachadas, permitindo atingir rente à raiz sem machucar o couro cabeludo",
+      "Cordão de alimentação giratório em 360° com 1,80 m, garantindo total liberdade de movimento dos braços sem fios embaraçados",
+      "Ponta superior fria que serve de apoio firme para a outra mão enquanto modela franjas e pontas"
+    ],
+    "pontos_atencao": [
+      "A rotação é totalmente manual, exigindo que você gire o punho para enrolar as mechas (não é uma escova rotativa motorizada)",
+      "Por ser bivolt manual, requer conferir e girar a chave seletora antes de ligar na tomada, correndo risco de dano se conectada em 220V na posição 127V",
+      "O cabeçote é fixo e não desmontável, o que ocupa mais espaço no armazenamento em comparação a modelos com pontas destacáveis",
+      "O nível sonoro na velocidade e temperatura máximas é equivalente ao de um secador convencional de 1300W"
+    ],
+    "para_quem_e": "Para quem deseja ter cabelos secos, alinhados e modelados com rapidez em um único passo no conforto de casa, valoriza a liberdade de um cabo giratório longo e precisa de uma escova bivolt confiável para levar na mala para qualquer cidade sem medo da voltagem do hotel.",
+    "para_quem_nao_e": "Para quem procura uma escova motorizada que gire sozinha (rotativa automática), necessita de bocais intercambiáveis destacáveis para viagens ultracompactas ou prefere um aparelho completamente silencioso para usar de madrugada sem acordar a casa."
   }
 ];
 
