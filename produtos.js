@@ -6951,6 +6951,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem deseja ter cabelos secos, alinhados e modelados com rapidez em um único passo no conforto de casa, valoriza a liberdade de um cabo giratório longo e precisa de uma escova bivolt confiável para levar na mala para qualquer cidade sem medo da voltagem do hotel.",
     "para_quem_nao_e": "Para quem procura uma escova motorizada que gire sozinha (rotativa automática), necessita de bocais intercambiáveis destacáveis para viagens ultracompactas ou prefere um aparelho completamente silencioso para usar de madrugada sem acordar a casa."
+  },
+  {
+    "asin": "B09NRYKGB6",
+    "id": "air-fryer-electrolux-grand-efficient-4l-eaf30-127v",
+    "titulo": "Air Fryer Electrolux por Rita Lobo 4L Grand Efficient 1400W (EAF30, Grafite, 127V)",
+    "subtitulo": "Cesto espaçoso de 4 litros para a família toda, 1400W de potência e o selo da chef Rita Lobo para dourar refeições sem fumaça nem óleo na bancada",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/air-fryer-electrolux-grand-efficient-4l-eaf30-127v.jpg",
+    "data_revisao": "2026-11-21",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Chegar cansado em casa à noite e ainda ter que enfrentar respingos de gordura no fogão ou ligar um forno imenso só para fazer duas porções de batata ou frango é uma rotina que ninguém quer. A Electrolux Grand Efficient EAF30, assinada pela chef Rita Lobo, resolve esse dilema com um cesto útil de 4 litros (e cuba de 4,7L) que acomoda alimentos em camada única, garantindo crocância por fora e suculência por dentro sem empilhar nada. Seus 1400W entregam calor rápido com circulação de ar eficiente, enquanto o acabamento grafite com botões em inox traz elegância discreta para a cozinha. Para quem procura praticidade diária com comandos analógicos descomplicados e antiaderente fácil de lavar, ela é uma das opções mais equilibradas da categoria.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09NRYKGB6?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você chega em casa com fome depois de um dia corrido, olha para a pia e só de imaginar o cheiro de óleo impregnando as cortinas, a névoa de fumaça pela casa e aquela frigideira engordurada para arear dá vontade de desistir do jantar. Por outro lado, ligar o forno a gás convencional leva quase vinte minutos só para pré-aquecer, esquenta a cozinha inteira e consome um tempo precioso que você poderia estar aproveitando para descansar.",
+      "É nessa brecha que a Air Fryer Electrolux Grand Efficient 4L EAF30 faz toda a diferença no dia a dia. Com capacidade útil de 4 litros no cesto interno (e cuba total de 4,7 litros), ela supera aquela limitação clássica das fritadeiras de 3 litros onde os alimentos precisam ser amontoados e acabam ficando cozidos no meio em vez de crocantes. Aqui há área de fundo suficiente para distribuir medalhões de carne, legumes picados, coxas de frango ou uma fornada generosa de pães de queijo em camada única, permitindo que o fluxo térmico envolva cada pedaço de forma homogênea.",
+      "No dia a dia, a operação é direta e sem firulas eletrônicas que complicam a vida de quem só quer cozinhar. São dois botões mecânicos giratórios robustos com acabamento cromado: um ajusta a temperatura de 80°C até 200°C e o outro programa o timer sonoro de até 30 minutos. Para quem tem dúvida do ponto certo, o topo plano do aparelho conta com uma serigrafia visual de receitas rápidas recomendando o tempo e a temperatura ideais para preparos clássicos como batatas fritas, carnes, frangos, legumes e peixes.",
+      "A potência de 1400W foi dimensionada na medida exata para atingir a temperatura desejada em poucos minutos com consumo elétrico controlado de cerca de 1,01 kW/h, segundo os dados de engenharia da Electrolux. Na prática, a tecnologia de circulação de ar em alta velocidade faz com que pães de queijo fiquem estufados e dourados em cerca de 10 minutos e batatas fiquem sequinhas sem precisar adicionar uma única gota de óleo, reduzindo calorias e facilitando uma alimentação mais balanceada.",
+      "Na hora de limpar, o cesto e a cuba contam com revestimento antiaderente que dispensa esfregação pesada: basta deixar esfriar por alguns minutos, passar uma esponja macia com detergente neutro e enxaguar em água corrente. Para conservar a camada protetora por anos, evite usar garfos ou pegadores de metal diretamente no cesto, preferindo utensílios de silicone, e sacuda o cesto suavemente na metade do tempo programado para dourar todos os lados por igual.",
+      "Um último cuidado: este anúncio específico corresponde à versão com tensão de 127V (não é bivolt) e potência de 1400W com tomada de três pinos de 20A (pinos mais grossos de 4,8 mm), comum em eletrodomésticos de aquecimento. Antes de confirmar a compra, verifique se a voltagem das tomadas da sua bancada é compatível e se o anúncio indica a versão Grand Efficient 4L Grafite (EAF30) homologada com distribuição oficial no Brasil."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Electrolux do Brasil"
+      },
+      {
+        "chave": "Linha e Modelo",
+        "valor": "Grand Airfryer Efficient por Rita Lobo (EAF30)"
+      },
+      {
+        "chave": "Tensão Elétrica e Frequência",
+        "valor": "127V ~ 60 Hz (Não é bivolt)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1400 W"
+      },
+      {
+        "chave": "Código Comercial e EAN",
+        "valor": "5210AABR404 / 7896347181686"
+      },
+      {
+        "chave": "Capacidade do Cesto Útil",
+        "valor": "4,0 Litros"
+      },
+      {
+        "chave": "Capacidade Total da Cuba",
+        "valor": "4,7 Litros"
+      },
+      {
+        "chave": "Controle de Temperatura",
+        "valor": "Ajustável de 80°C a 200°C"
+      },
+      {
+        "chave": "Timer e Aviso Sonoro",
+        "valor": "Mecânico de até 30 minutos com campainha sonora e desligamento automático"
+      },
+      {
+        "chave": "Revestimento Interno",
+        "valor": "Cesto e cuba removíveis com revestimento antiaderente"
+      },
+      {
+        "chave": "Sinalização e Luz Piloto",
+        "valor": "Indicadores luminosos de funcionamento e aquecimento"
+      },
+      {
+        "chave": "Consumo Médio de Energia",
+        "valor": "Aproximadamente 1,01 kW/h, segundo a fabricante"
+      },
+      {
+        "chave": "Cabo Elétrico e Plugue",
+        "valor": "1,0 metro com plugue padrão ABNT de 3 pinos (20A)"
+      },
+      {
+        "chave": "Dimensões Físicas (A x L x P)",
+        "valor": "32,5 x 39,4 x 29,0 cm (profundidade com puxador)"
+      },
+      {
+        "chave": "Peso Líquido do Aparelho",
+        "valor": "Aproximadamente 5,5 kg"
+      },
+      {
+        "chave": "Cor e Acabamento",
+        "valor": "Grafite (Cinza escuro) com detalhes em preto e seletores cromados"
+      },
+      {
+        "chave": "Garantia Oficial de Fábrica",
+        "valor": "12 meses (360 dias) pela Electrolux do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Cesto útil de 4 litros com cuba de 4,7L que comporta porções familiares sem empilhar nem compactar os alimentos",
+      "Potência de 1400W com circulação de ar eficiente, aquecendo rapidamente e entregando textura crocante com mínimo ou nenhum óleo",
+      "Controles mecânicos rotativos fáceis de operar, dispensando menus complexos ou telas touchscreen sensíveis a gordura",
+      "Guia ilustrado com 8 sugestões de tempo e temperatura no topo da fritadeira para facilitar o preparo imediato",
+      "Cesto removível com antiaderente de qualidade que solta as gorduras com facilidade e limpa rápido com esponja macia",
+      "Desligamento automático com campainha sonora ao término do timer, garantindo segurança total contra queima de receitas",
+      "Acabamento elegante na cor grafite com detalhes metálicos, harmonizando com cozinhas modernas e bancadas de inox"
+    ],
+    "pontos_atencao": [
+      "O timer tem limite de 30 minutos contínuos, exigindo girar novamente o seletor em preparos mais longos como peças inteiras de carne",
+      "Não é bivolt (versão 127V), necessitando atenção com a rede elétrica e exigindo tomada padrão de 20A com pinos mais grossos",
+      "O cabo de alimentação tem 1,0 metro de extensão, demandando uma tomada livre bem próxima da bancada de trabalho",
+      "Não possui visor transparente nem luz interna para acompanhar o cozimento sem puxar a cuba"
+    ],
+    "para_quem_e": "Para casais ou famílias pequenas e médias que procuram uma air fryer robusta e espaçosa de 4 litros para o almoço e jantar do dia a dia, valorizam comandos manuais simples e sem complicação e querem a confiabilidade e o suporte de peças de uma marca tradicional como a Electrolux.",
+    "para_quem_nao_e": "Para quem faz questão de painel 100% digital com receitas pré-programadas em um toque, precisa de um cesto gigante estilo forno de 12 litros para assar frango inteiro de 3 kg de uma só vez ou procura um modelo bivolt para transporte constante."
   }
 ];
 
