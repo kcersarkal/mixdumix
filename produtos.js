@@ -1,10 +1,3 @@
-// =============================================================================
-// MIX DU MIX • BASE DE PRODUTOS INFORMATIVOS & GUIAS DE COMPRA
-// =============================================================================
-// Este arquivo armazena os produtos analisados editorialmente para o portal.
-// As atualizações são adicionadas conforme novos links são enviados e analisados.
-// =============================================================================
-
 window.PRODUTOS_INFORMATIVOS = [
   {
     "asin": "B0GMY41LM8",
@@ -7065,6 +7058,112 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para casais ou famílias pequenas e médias que procuram uma air fryer robusta e espaçosa de 4 litros para o almoço e jantar do dia a dia, valorizam comandos manuais simples e sem complicação e querem a confiabilidade e o suporte de peças de uma marca tradicional como a Electrolux.",
     "para_quem_nao_e": "Para quem faz questão de painel 100% digital com receitas pré-programadas em um toque, precisa de um cesto gigante estilo forno de 12 litros para assar frango inteiro de 3 kg de uma só vez ou procura um modelo bivolt para transporte constante."
+  },
+  {
+    "asin": "B083ZFFC5Q",
+    "id": "micro-ondas-electrolux-20l-mto30",
+    "titulo": "Micro-ondas Electrolux 20L Branco com Função Tira Odor (MTO30)",
+    "subtitulo": "Compacto para qualquer bancada, função tira odor que elimina cheiro de comida e tecla mudo para aquecer refeições em silêncio a qualquer hora",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/micro-ondas-electrolux-20l-mto30.jpg",
+    "data_revisao": "2026-11-21",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Se você tem uma cozinha com espaço reduzido ou quer aposentar aquele aparelho antigo que deixa a casa inteira impregnada com cheiro de pipoca ou peixe, o Electrolux MTO30 é uma das soluções mais equilibradas do mercado. Com capacidade de 20 litros na medida exata para o prato de refeição do dia a dia, ele se destaca pela função Tira Odor que renova o ar da câmara interna, pela tecla Mudo que silencia os bipes da madrugada e pelos menus automáticos de descongelar e prato pronto. Um eletrodoméstico direto, confiável e eficiente com selo Procel A para quem busca descomplicar a rotina sem ocupar metade da bancada.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B083ZFFC5Q?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Você já deve ter passado por aquela situação desagradável: alguém esquentou peixe no almoço ou estourou uma pipoca à noite e, dias depois, qualquer xícara de leite aquecida no micro-ondas parece carregar o mesmo cheiro residual. Em cozinhas de apartamentos ou casas com espaço compacto, o incômodo com odores e barulho de bipes repetitivos é uma das principais queixas ao usar um eletrodoméstico desse tipo.",
+      "É exatamente para resolver esses incômodos que o Micro-ondas Electrolux 20L MTO30 foi pensado. O grande atrativo do modelo é a tecla Tira Odor, um recurso que aciona o sistema de ventilação interna para circular o ar e dispersar os vapores aromáticos que costumam ficar presos nas paredes internas após o preparo de refeições gordurosas ou muito condimentadas.",
+      "No dia a dia, ele se adapta à rotina real de quem precisa de rapidez. O painel digital conta com a tecla prática Início +30s para esquentar comida sem ter que digitar números, além de menus dedicados como o Menu Dia a Dia (arroz, macarrão, batata), Menu Kids (pipoca, bolo de caneca e brigadeiro) e Menu Light. Para descongelar carnes, frangos, peixes ou aquele feijão guardado no freezer, basta acionar a tecla de descongelamento por porção ou peso, garantindo que o alimento descongele de maneira homogênea sem cozinhar as pontas.",
+      "Outro benefício indispensável para quem mora com a família ou dorme em horários diferentes é a Função Mudo: ao pressionar a tecla 0 por quatro segundos, os bipes de acionamento e o aviso estridente de fim de ciclo são desativados por completo. Além disso, segundo a Electrolux, o modelo opera com consumo de 1300W e conta com classificação energética Procel A, assegurando eficiência térmica com baixo impacto na conta de luz.",
+      "Para conservar o aparelho sempre limpo, a recomendação prática é usar recipientes com tampas apropriadas para micro-ondas durante os aquecimentos e passar um pano macio umedecido em água e sabão neutro logo após o uso. Se você preparar alimentos de aroma muito forte, acione a função Tira Odor imediatamente após retirar a travessa e deixe a porta entreaberta por alguns minutos para acelerar a troca de ar.",
+      "Um último cuidado: este modelo conta com versões específicas de voltagem em 127V ou 220V (não é bivolt) e requer tomada padrão ABNT de 3 pinos adequada à potência de bancada. Antes de fechar o pedido, confira no anúncio se a voltagem selecionada é a mesma das tomadas da sua cozinha para garantir uma instalação segura e sem imprevistos."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "MTO30 (Micro-ondas de Bancada 20L)"
+      },
+      {
+        "chave": "Capacidade Total",
+        "valor": "20 Litros"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (também fabricado em 220V - confira no anúncio)"
+      },
+      {
+        "chave": "Potência Consumida",
+        "valor": "1300 W, segundo a Electrolux"
+      },
+      {
+        "chave": "Eficiência Energética",
+        "valor": "Classificação Procel Selo A"
+      },
+      {
+        "chave": "Frequência de Operação",
+        "valor": "60 Hz"
+      },
+      {
+        "chave": "Tipo de Painel",
+        "valor": "Digital com teclado numérico e botões de atalho"
+      },
+      {
+        "chave": "Funções Especiais",
+        "valor": "Tira Odor, Manter Aquecido, Função Mudo (tecla 0 por 4s) e Trava de Segurança"
+      },
+      {
+        "chave": "Menus Pré-programados",
+        "valor": "Menu Dia a Dia, Menu Kids, Menu Light e Menu Descongelar (carne, frango, peixe e feijão)"
+      },
+      {
+        "chave": "Prato Giratório",
+        "valor": "Vidro temperado com diâmetro aproximado de 27 cm"
+      },
+      {
+        "chave": "Acabamento Interno e Externo",
+        "valor": "Gabinete branco com porta branca e puxador integrado"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "26,25 x 45,5 x 34,8 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "Aproximadamente 11,1 kg"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses oficial pela Electrolux do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Função Tira Odor eficiente que circula o ar interno e dispersa cheiros fortes de peixe, gordura ou pipoca",
+      "Função Mudo acionada ao segurar o zero por 4 segundos, eliminando bipes sonoros para lanches silenciosos à noite",
+      "Dimensões compactas (26,25 cm de altura) ideais para cozinhas pequenas, bancadas estreitas ou nichos padrão",
+      "Menu Descongelar prático para carnes, aves, peixes e feijão com tempo e potência ajustados automaticamente",
+      "Classificação energética Procel A que garante economia no consumo elétrico diário",
+      "Trava de segurança no painel para impedir acionamentos acidentais por crianças ou toques involuntários",
+      "Tecla Início +30s que agiliza o aquecimento rápido de café, leite e pratos com apenas um clique"
+    ],
+    "pontos_atencao": [
+      "Capacidade interna de 20 litros indicada para pratos individuais e travessas médias, não comportando refratários grandes de família",
+      "Não possui função grill ou dourador, atuando apenas com ondas eletromagnéticas convencionais",
+      "Não é bivolt, exigindo atenção para escolher entre a versão 127V ou 220V compatível com sua tomada",
+      "A cavidade interna exige tampa plástica em preparos com molho para evitar respingos na pintura branca"
+    ],
+    "para_quem_e": "Para pessoas que moram sozinhas, casais ou famílias pequenas que buscam um micro-ondas confiável, compacto e econômico para aquecer e descongelar refeições diárias sem complicar o espaço da bancada e sem sofrer com cheiro acumulado na cozinha.",
+    "para_quem_nao_e": "Para famílias numerosas que precisam preparar assados em grandes travessas retangulares, para quem exige função grill para gratinar pratos ou para quem procura um aparelho bivolt para transportar com frequência."
   }
 ];
 
