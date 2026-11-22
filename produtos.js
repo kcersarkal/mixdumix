@@ -7164,6 +7164,112 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para pessoas que moram sozinhas, casais ou famílias pequenas que buscam um micro-ondas confiável, compacto e econômico para aquecer e descongelar refeições diárias sem complicar o espaço da bancada e sem sofrer com cheiro acumulado na cozinha.",
     "para_quem_nao_e": "Para famílias numerosas que precisam preparar assados em grandes travessas retangulares, para quem exige função grill para gratinar pratos ou para quem procura um aparelho bivolt para transportar com frequência."
+  },
+  {
+    "asin": "B07659Y78D",
+    "id": "espremedor-de-frutas-mondial-turbo-citrus-e-01-127v",
+    "titulo": "Espremedor de Frutas Mondial Turbo Citrus E-01 1,25L (Branco, 25W, 127V)",
+    "subtitulo": "Como preparar suco natural de laranja ou limão em segundos para a família inteira sem cansar o braço e sem bagunça na pia",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/espremedor-de-frutas-mondial-turbo-citrus-e-01.jpg",
+    "data_revisao": "2026-11-22",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "Para quem quer incluir suco de laranja ou limonada fresca na rotina sem o trabalho braçal de espremedor manual e sem gastar fortunas em extratores industriais barulhentos. O Mondial Turbo Citrus E-01 resolve a tarefa com agilidade pelo acionamento automático por pressão, dupla rotação que espreme até a polpa e uma jarra generosa de 1,25 litro que vai direto à mesa.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07659Y78D?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele desejo de tomar um copo de suco de laranja fresquinho ou servir uma jarra gelada no almoço de domingo, mas que você acaba deixando de lado só de pensar no esforço de espremer tudo na mão, sujar as pontas dos dedos e ainda ter que caçar sementes com a colher? Espremedores manuais cansam o punho rapidamente e aparelhos grandes demais ocupam espaço precioso na bancada da cozinha.",
+      "O Mondial Turbo Citrus E-01 se destaca justamente pela simplicidade prática: ele foi desenhado para quem precisa de velocidade sem complicação. Com capacidade de 1,25 litro, a jarra translúcida permite fazer até quatro copos cheios de uma só vez, suficiente para servir a família sem a necessidade de esvaziar e enxaguar o reservatório no meio do processo.",
+      "No uso diário, o funcionamento é intuitivo: basta cortar a laranja ou o limão ao meio e pressionar levemente a fruta contra a castanha. O aparelho liga sozinho ao toque e para imediatamente quando você solta. Ele traz dupla rotação alternada, ou seja, a cada pressão a rotação inverte entre os sentidos horário e anti-horário, extraindo todo o caldo e polpa sem que você precise forçar a casca.",
+      "Segundo a Mondial, o motor consome apenas 25W de potência, operando de maneira econômica e silenciosa em comparação com liquidificadores ou centrífugas pesadas. Uma dica de uso valiosa é não aplicar força excessiva contra o cone: a própria rotação alternada combinada à leve pressão do fruto se encarrega de extrair todo o suco, permitindo que a peneira superior retenha caroços e bagaços maiores para deixar o líquido uniforme.",
+      "Na hora de guardar e limpar, todas as peças de contato — o cone duplo, a peneira de retenção e a jarra — são totalmente desacopláveis da base motora, permitindo uma lavagem rápida em água corrente ou na lava-louças. O conjunto acompanha tampa protetora transparente para evitar acúmulo de poeira no armário e conta com canal guarda-fio na base para manter sua bancada organizada.",
+      "Um último cuidado: este anúncio corresponde à versão de 127V (110V) com acabamento branco. Como este eletroportátil não é bivolt automático, certifique-se de escolher a voltagem compatível com as tomadas da sua residência antes de concluir o pedido para evitar o risco de queima do motor ou perda de rendimento."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "Turbo Citrus (E-01)"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Branco com detalhes em laranja e jarra translúcida"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (não é bivolt)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "25 W"
+      },
+      {
+        "chave": "Consumo de Energia",
+        "valor": "0,025 kW/h (segundo a fabricante)"
+      },
+      {
+        "chave": "Capacidade da Jarra",
+        "valor": "1,25 Litros (rende até 4 copos grandes)"
+      },
+      {
+        "chave": "Tipo de Acionamento",
+        "valor": "Automático por pressão (ao encostar a fruta)"
+      },
+      {
+        "chave": "Sistema de Rotação",
+        "valor": "Dupla rotação alternada (horário e anti-horário)"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Cone 2 em 1 (laranja e limão), peneira para bagaço/sementes e tampa de proteção"
+      },
+      {
+        "chave": "Material",
+        "valor": "Polipropileno (PP) de alta densidade e acrílico transparente sanitário"
+      },
+      {
+        "chave": "Comprimento do Cabo",
+        "valor": "Aproximadamente 1,50 m com compartimento guarda-fio na base"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "22 x 24 x 17,5 cm"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "Aproximadamente 745 g"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses oficial pela Mondial do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Acionamento automático inteligente que liga o motor ao menor toque da fruta sobre a castanha",
+      "Sistema de dupla rotação alternada que aproveita o máximo do suco sem precisar esmagar a casca",
+      "Jarra com capacidade ampla de 1,25 litro com bico dosador que pode ser levada diretamente à mesa",
+      "Cone multiúso 2 em 1 com formato anatômico adaptado tanto para laranjas grandes quanto para limões",
+      "Peneira superior eficiente que retém caroços e o excesso de bagaço para um suco mais leve",
+      "Desmontagem completa e simples que agiliza a higienização das peças em água corrente",
+      "Base compacta com canal guarda-fio e tampa contra poeira para fácil armazenamento nos armários"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt automático, sendo fundamental confirmar a voltagem (127V ou 220V) compatível com a sua cozinha",
+      "Motor com potência de 25W projetado para uso doméstico contínuo moderado, não indicado para comércio ou bancadas industriais",
+      "A jarra em acrílico translúcido requer esponja macia na lavagem para não riscar ao longo do tempo",
+      "Pressão excessiva das mãos pode frear o motor momentaneamente, devendo-se aplicar força moderada"
+    ],
+    "para_quem_e": "Para quem busca praticidade diária e quer saborear sucos naturais frescos de laranja ou limão com rapidez, sem cansaço nos braços e com facilidade para limpar e guardar.",
+    "para_quem_nao_e": "Para lanchonetes, bares ou restaurantes que exigem extratores industriais pesados com carcaça de metal para dezenas de litros por hora, ou para quem procura um aparelho bivolt."
   }
 ];
 
