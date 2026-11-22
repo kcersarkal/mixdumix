@@ -7270,6 +7270,112 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem busca praticidade diária e quer saborear sucos naturais frescos de laranja ou limão com rapidez, sem cansaço nos braços e com facilidade para limpar e guardar.",
     "para_quem_nao_e": "Para lanchonetes, bares ou restaurantes que exigem extratores industriais pesados com carcaça de metal para dezenas de litros por hora, ou para quem procura um aparelho bivolt."
+  },
+  {
+    "asin": "B08BXBFCTN",
+    "id": "batedeira-pratica-mondial-b-44-b-400w-3-6l-110v",
+    "titulo": "Batedeira Prática Mondial B-44-B 400W com Tigela de 3,6L (Preto, 110V)",
+    "subtitulo": "Como preparar bolos fofos, tortas e claras em neve no ponto certo sem esforço braçal e com a versatilidade de usar na base ou na mão",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/batedeira-pratica-mondial-b-44-b-400w-3-6l-110v.jpg",
+    "data_revisao": "2026-11-22",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem ama o aroma de bolo caseiro saindo do forno, mas quer fugir do cansaço de bater massas e claras manualmente com garfo ou batedor de arame. A Mondial Prática B-44-B entrega o equilíbrio ideal entre potência e facilidade de manuseio: seu motor de 400W trabalha com 3 velocidades mais função turbo, a tigela espaçosa de 3,6 litros comporta receitas para a família inteira e o corpo desacoplável oferece a liberdade de usar o aparelho fixo na bancada ou portátil direto na tigela que você preferir.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B08BXBFCTN?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele desejo de preparar um bolo fofinho de cenoura com chocolate no fim de tarde ou montar uma sobremesa caprichada de domingo, mas que você acaba adiando só de lembrar do cansaço nos braços para bater a massa no garfo até ficar homogênea? Tentar bater massas na mão costuma deixar pelotas de farinha, enquanto apelar para o liquidificador muitas vezes deixa a massa pesada e embatumada por quebrar a aeração natural dos ovos.",
+      "A Batedeira Prática Mondial B-44-B foi projetada exatamente para descomplicar essas preparações do cotidiano com máxima versatilidade. Seu grande diferencial de usabilidade é o design 2 em 1: você pode utilizá-la encaixada na base plástica com a tigela giratória para trabalhar enquanto organiza os outros ingredientes na pia, ou simplesmente soltar o corpo motor com um toque para usá-la como batedeira de mão, alcançando o fundo de qualquer vasilha ou refratário com total liberdade de movimento.",
+      "No dia a dia, a tigela com capacidade de 3,6 litros oferece espaço de sobra para receitas completas de bolos médios e grandes, tortas doces, recheios de tortas salgadas, mousses e glacês, sem o risco de transbordar ou espirrar massa para fora. O conjunto acompanha um par de batedores tradicionais em aço cromado, desenvolvidos para misturar os ingredientes das bordas até o centro com eficiência e suavidade.",
+      "Segundo a Mondial, o aparelho conta com 400W de potência e painel seletor com 3 velocidades complementadas pelo botão Turbo. Na prática, essa combinação permite um controle gradual essencial para a confeitaria: a velocidade inicial mistura pós delicados sem criar nuvens de poeira pela cozinha, as intermediárias incorporam líquidos e cremes com homogeneidade, e o modo Turbo entrega a aceleração necessária para transformar claras em neve firmes e picos de chantilly em poucos minutos.",
+      "Uma dica prática valiosa para o dia a dia: ao adicionar ingredientes secos leves, como farinha de trigo, cacau em pó ou amido, mantenha a batedeira na velocidade 1 até a farinha absorver os líquidos antes de subir a velocidade. Na hora da higienização, o botão ejetor superior libera os batedores instantaneamente sem sujar suas mãos de massa, facilitando a lavagem em água corrente. Vale lembrar que a base motora nunca deve ser colocada sob água ou imersa, bastando um pano levemente umedecido para mantê-la limpa.",
+      "Um último cuidado: a Batedeira Mondial B-44-B não é bivolt automático, existindo nas versões de 110V (127V) e 220V com plugue padrão brasileiro de 10A (2 pinos). Além disso, por se tratar de um modelo prático com batedores tradicionais, ela é indicada para massas leves e médias de confeitaria; para massas densas e pesadas de pão caseiro que exigem sova prolongada, o recomendado pelo fabricante é recorrer a uma batedeira planetária com gancho específico. Antes de concluir seu pedido, confirme no anúncio se a voltagem selecionada corresponde à rede elétrica da sua cozinha."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Mondial"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "B-44-B (Batedeira Prática Preto)"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "110V / 127V (também fabricada em 220V - confira no anúncio)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "400 W, segundo a Mondial"
+      },
+      {
+        "chave": "Capacidade da Tigela",
+        "valor": "3,6 Litros"
+      },
+      {
+        "chave": "Quantidade de Tigelas",
+        "valor": "1 tigela exclusiva em polipropileno resistente"
+      },
+      {
+        "chave": "Velocidades",
+        "valor": "3 velocidades + Função Turbo"
+      },
+      {
+        "chave": "Tipo de Batedores",
+        "valor": "1 par de batedores em aço cromado para massas leves e médias"
+      },
+      {
+        "chave": "Sistema de Operação",
+        "valor": "2 em 1 (uso fixo acoplado à base ou portátil avulso como batedeira de mão)"
+      },
+      {
+        "chave": "Recursos Adicionais",
+        "valor": "Botão ejetor para remoção rápida dos batedores e sistema de fixação anatômico"
+      },
+      {
+        "chave": "Comprimento do Cabo",
+        "valor": "1,50 m"
+      },
+      {
+        "chave": "Tipo de Tomada",
+        "valor": "Padrão nacional 10A (2 pinos)"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "33 x 21 x 27 cm, segundo a fabricante"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "Aproximadamente 1,80 kg"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses oficial pela Mondial do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 400W com 3 velocidades e função Turbo, ideal para massas homogêneas e aeração rápida de claras em neve",
+      "Design versátil 2 em 1 que permite uso acoplado à base giratória ou destacado como batedeira de mão portátil",
+      "Tigela espaçosa com capacidade de 3,6 litros, comportando receitas familiares completas de bolos e tortas sem respingos",
+      "Batedores em aço cromado de alta durabilidade que alcançam das bordas até o centro para uma mistura uniforme",
+      "Botão ejetor prático que solta os batedores ao simples clique, evitando sujeira nas mãos",
+      "Cabo elétrico longo de 1,50 metro que oferece excelente alcance e mobilidade nas tomadas da bancada",
+      "Estrutura leve e compacta de fácil desmontagem e armazenamento rápido em armários de cozinha"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt automático, sendo imprescindível conferir no anúncio a voltagem (110V ou 220V) da sua casa",
+      "Desenvolvida para massas leves e médias de confeitaria, não sendo indicada para sovas pesadas de pão artesanal",
+      "A tigela plástica gira por arraste mecânico conforme o movimento da massa, sem motor dedicado na base",
+      "A carcaça plástica da base motora requer limpeza apenas com pano úmido, nunca devendo ser imersa em água"
+    ],
+    "para_quem_e": "Para quem deseja preparar bolos caseiros fofos, tortas, recheios, mousses e sobremesas com praticidade e rapidez, aproveitando a versatilidade de bater na bancada ou direto na tigela que preferir sem cansar os braços.",
+    "para_quem_nao_e": "Para padarias, confeitarias industriais ou para quem precisa sovar massas muito densas e pesadas de pães caseiros com frequência, situações que demandam uma batedeira planetária de alta capacidade com gancho para sova."
   }
 ];
 
