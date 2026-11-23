@@ -7490,6 +7490,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem precisa de um aspirador potente e versátil para lidar tanto com a poeira diária quanto com líquidos derramados e limpezas pesadas da casa, oficina ou carro, sem abrir mão de um tamanho compacto e fácil de guardar.",
     "para_quem_nao_e": "Para quem procura um aparelho ultra silencioso com bateria sem fio, ou para estabelecimentos industriais e lava-rápidos que demandam reservatórios gigantes de 20 a 50 litros para uso contínuo o dia todo."
+  },
+  {
+    "asin": "B07CKCWNRC",
+    "id": "liquidificador-mondial-turbo-full-l-900-fb-900w-127v",
+    "titulo": "Liquidificador Mondial Turbo Full Black L-900 FB 900W com Filtro (Preto, 127V)",
+    "subtitulo": "Como preparar sucos sem sementes, vitaminas cremosas e massas encorpadas sem travar o motor nem sujar peneiras",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/liquidificador-mondial-turbo-full-l-900-fb-900w-127v.jpg",
+    "data_revisao": "2026-11-23",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem busca um liquidificador robusto, potente e de grande capacidade para atender a rotina da família inteira sem complicações. O Mondial Turbo L-900 FB reúne 900W de potência, jarra espaçosa de 2,7 litros totais (1,75L útil) em material livre de BPA e um prático filtro em inox que separa bagaços e sementes automaticamente. Com 5 velocidades, lâminas serrilhadas em aço inox e função autolimpeza, é uma das escolhas mais equilibradas para bater desde sucos verdes e vitaminas com gelo até massas pesadas de tortas salgadas.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07CKCWNRC?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando você decide fazer uma vitamina rápida pela manhã ou um suco de fruta congelada e o liquidificador antigo começa a fazer um barulho engasgado, solta cheiro de queimado e deixa metade dos pedaços de fruta intactos no fundo? Ou pior: ter que parar o preparo a cada dez segundos, pegar uma colher para empurrar os ingredientes e depois ainda ter que sujar peneiras e mais três recipientes para tirar sementes de maracujá ou bagaço de laranja da jarra? Esse tipo de atrito na cozinha faz com que muita gente simplesmente desista de preparar bebidas caseiras saudáveis no dia a dia.",
+      "O Liquidificador Mondial Turbo Full Black L-900 FB foi projetado para eliminar esses gargalos da rotina doméstica. Com motor de 900W de potência nominal, ele entrega torque vigoroso para triturar cubos de gelo, polpas densas e vegetais fibrosos com extrema rapidez, sem que você precise forçar as lâminas. Seu design na cor preta com detalhes discretos confere um visual moderno à bancada, combinando com cozinhas de todos os estilos.",
+      "No dia a dia, a capacidade de volume é um dos seus pontos mais celebrados. O copo conta com 2,7 litros de capacidade total (com 1,75 litro de capacidade útil recomendada), o que permite bater uma receita inteira de torta salgada, bolo de cenoura, massa de pão de queijo ou suco natural para toda a família em uma única etapa, sem o risco de transbordamento. O seletor giratório oferece 5 velocidades progressivas além da função Pulsar/Turbo, permitindo dosar a rotação exata para apenas misturar ingredientes leves ou liquidificar massas pesadas com uniformidade.",
+      "Outro grande destaque prático é o filtro interno removível em aço inoxidável. Basta encaixar o filtro no centro do copo antes de colocar as frutas: a polpa e o líquido passam pelas microperfurações enquanto sementes e bagaços mais grossos ficam retidos no compartimento central, permitindo servir o suco direto nos copos sem precisar usar coador avulso. Segundo a Mondial, o copo é fabricado em San Cristal ultrarresistente, material livre de Bisfenol-A (BPA Free) que não transfere nem absorve odores de receitas salgadas — como molhos de alho ou tomate — para as sobremesas doces preparadas a seguir.",
+      "Para manter o aparelho sempre impecável e prolongar a durabilidade das vedações, uma dica de ouro de uso é colocar sempre os ingredientes líquidos em primeiro lugar na jarra, adicionando pós, frutas e cubos de gelo por cima; essa ordem reduz o atrito inicial sobre o eixo e acelera a formação do vórtice de corte. E na hora de higienizar, dispense esponjas abrasivas perto do conjunto cortante: basta colocar água morna até a metade do copo com duas gotas de detergente neutro e acionar a função Autolimpeza no botão pulsar por alguns segundos para que o movimento da água remova todos os resíduos sem colocar as mãos em risco.",
+      "Um último cuidado: este modelo específico (L-900 FB) opera na tensão elétrica de 127V e não possui chave seletora bivolt automática. Antes de finalizar o seu pedido, confira a voltagem das tomadas da sua cozinha para garantir que sejam de 127V (110V), evitando acidentes elétricos ou danos imediatos ao motor por sobretensão."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Mondial Eletrodomésticos"
+      },
+      {
+        "chave": "Linha e Modelo",
+        "valor": "Turbo Full Black (L-900 FB / L-900-FB)"
+      },
+      {
+        "chave": "Tensão Elétrica / Voltagem",
+        "valor": "127V ~ 60 Hz (Não é bivolt)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "900 W"
+      },
+      {
+        "chave": "Capacidade Total do Copo",
+        "valor": "2,7 Litros"
+      },
+      {
+        "chave": "Capacidade Útil Recomendada",
+        "valor": "1,75 Litro"
+      },
+      {
+        "chave": "Material do Copo",
+        "valor": "San Cristal transparente de alta resistência (BPA Free e sem absorção de cheiro)"
+      },
+      {
+        "chave": "Velocidades de Operação",
+        "valor": "5 velocidades progressivas + Função Pulsar / Gelo"
+      },
+      {
+        "chave": "Função Autolimpeza",
+        "valor": "Sim, acionada pelo seletor de pulsar"
+      },
+      {
+        "chave": "Lâminas",
+        "valor": "Conjunto integrado de lâminas em aço inoxidável com bordas serrilhadas"
+      },
+      {
+        "chave": "Filtro Coador Incluso",
+        "valor": "Sim, filtro cilíndrico removível com tela microperfurada para separar sementes e bagaço"
+      },
+      {
+        "chave": "Tampa e Dosador",
+        "valor": "Tampa com vedação e sobretampa dosadora graduada de 40 ml removível"
+      },
+      {
+        "chave": "Recursos de Segurança e Base",
+        "valor": "Sistema de encaixe rápido seguro, pés de borracha antiderrapantes e guarda-fio integrado"
+      },
+      {
+        "chave": "Dimensões do Aparelho (A x L x P)",
+        "valor": "26,0 x 34,8 x 19,0 cm, segundo a fabricante"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "Aproximadamente 2,50 kg"
+      },
+      {
+        "chave": "Cor Predominante",
+        "valor": "Preto (Full Black) com copo transparente"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses oficial pela Mondial do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Motor potente de 900W que tritura gelo, frutas congeladas, sementes e massas densas com facilidade",
+      "Jarra ampla de 2,7 litros totais (1,75L útil) ideal para preparar refeições familiares e porções generosas de uma vez só",
+      "Filtro separador em inox que permite fazer sucos de maracujá, melancia ou couve sem precisar de coador ou peneira manual",
+      "Copo em San Cristal resistente a impactos leves e riscos, livre de BPA e que não absorve cheiros nem manchas",
+      "5 velocidades bem espaçadas que dão controle fino de textura para mousses, vitaminas, molhos e massas de torta",
+      "Tampa inteligente com sobretampa dosadora de 40 ml que permite acrescentar ingredientes com o motor em funcionamento",
+      "Função autolimpeza rápida que remove resíduos embaixo das lâminas com água e detergente em poucos segundos"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt, sendo imprescindível conferir se a rede elétrica do local é de 127V no momento da compra",
+      "Em potências máximas (velocidades 4 e 5), o ruído é perceptível e característico de motores fortes de 900W",
+      "O conjunto de lâminas é fixo no fundo do copo, exigindo cuidado na lavagem manual e recomendando o uso da autolimpeza",
+      "O copo San Cristal não deve receber líquidos em ponto de fervura direta para preservar a vida útil do material"
+    ],
+    "para_quem_e": "Para famílias ou pessoas que preparam vitaminas diárias, sucos naturais e massas de tortas ou bolos com frequência e precisam de um liquidificador potente de 900W, com jarra grande de 2,7L e filtro de sementes prático que elimina o uso de peneira.",
+    "para_quem_nao_e": "Para quem mora sozinho e busca um copo portátil individual para levar à academia, para quem exige copo de vidro temperado espesso ou procura um aparelho compacto para bancadas minúsculas."
   }
 ];
 
