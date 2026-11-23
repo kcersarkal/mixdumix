@@ -7376,6 +7376,120 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem deseja preparar bolos caseiros fofos, tortas, recheios, mousses e sobremesas com praticidade e rapidez, aproveitando a versatilidade de bater na bancada ou direto na tigela que preferir sem cansar os braços.",
     "para_quem_nao_e": "Para padarias, confeitarias industriais ou para quem precisa sovar massas muito densas e pesadas de pães caseiros com frequência, situações que demandam uma batedeira planetária de alta capacidade com gancho para sova."
+  },
+  {
+    "asin": "B076BB1XPG",
+    "id": "aspirador-po-agua-electrolux-awd01-1400w-5l-127v",
+    "titulo": "Aspirador de Pó e Água Electrolux AWD01 1400W 5L (Preto, 127V)",
+    "subtitulo": "Como aspirar poeira pesada, pelos e poças de líquidos derramados sem esforço, com alta potência de sucção e a versatilidade da função sopro",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/aspirador-po-agua-electrolux-awd01-1400w-5l-127v.jpg",
+    "data_revisao": "2026-11-23",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem quer resolver acidentes com líquidos derramados, faxinas completas e sujeiras pesadas sem depender de rodo ou pano de chão. O Electrolux AWD01 une a potência de 1400W à versatilidade de sugar sólidos e líquidos em um barril compacto com 5 litros de capacidade útil. Leve, fácil de manobrar com rodízios 360° e equipado com função sopro e conjunto completo de bocais, é a escolha certeira para quem busca a robustez de um aspirador profissional sem ocupar metade da área de serviço.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B076BB1XPG?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe quando um copo de água, suco ou refrigerante esparrama pelo piso da sala, um vaso de plantas vira molhando a terra ou a máquina de lavar transborda um palmo de água pela lavanderia? Pegar o rodo, vários panos de chão e um balde vira uma maratona cansativa que só espalha a sujeira e exige torcer pano molhado repetidas vezes com as mãos. Além disso, aspiradores verticais comuns não podem entrar em contato com umidade sob risco de danificar o motor de imediato.",
+      "O Aspirador de Pó e Água Electrolux AWD01 foi desenvolvido exatamente para resolver essas situações sem complicações. Projetado para aspirar tanto detritos sólidos quanto poças d'água com segurança, ele traz a eficiência de um barril multiuso em um formato compacto pensado para quem mora em casas ou apartamentos e não dispõe de espaço para guardar tambores industriais pesados. Com peso de aproximadamente 3,4 kg e rodízios que giram 360 graus na base, ele acompanha seus passos pela casa com agilidade sem tombar nas curvas.",
+      "No uso diário, a versatilidade chama a atenção: você limpa tapetes com facilidade, remove pelos de animais do sofá com o bocal específico para estofados, alcança trilhos de janelas e frestas de móveis com o bocal fino e ainda puxa água derramada do piso frio sem precisar de um único pano. Segundo a Electrolux, seu motor entrega 1400W de potência com consumo estimado em 1,25 kWh, gerando fluxo de ar vigoroso para sugar resíduos pesados e desobstruir pequenas retenções em pias.",
+      "Outro recurso muito prático é a função sopro: basta encaixar a mangueira flexível na saída de ar traseira para varrer folhas secas de calçadas e varandas, soprar poeira acumulada em teclados e cantos inacessíveis ou até mesmo inflar colchões de ar e boias de piscina sem esforço de bombear manualmente. O reservatório conta com capacidade útil de 5 litros para líquidos (com sistema inteligente de boia que interrompe a sucção automaticamente quando atinge o nível máximo) e comporta sacos coletores de 3 litros para pó fino.",
+      "Para tirar o melhor proveito do aparelho no cotidiano, vale uma recomendação prática fundamental: ao aspirar água ou líquidos derramados, retire sempre o saco de papel coletor e verifique se o filtro de espuma protetor está devidamente encaixado no motor. Após sugar líquidos, esvazie o tambor, lave o reservatório e deixe secar antes de colocar um novo saco para sólidos, evitando odores e preservando a filtragem dupla por muito mais tempo.",
+      "Um último cuidado: o Electrolux AWD01 não é bivolt automático, estando disponível no mercado nas versões de 127V (código comercial 3011AHBR411) e 220V com plugue padrão brasileiro de 10A (2 pinos). Por ser um modelo de tambor de alta rotação focado em sucção vigorosa, seu nível de ruído situa-se na faixa de 94 dB, algo comum nessa categoria multiuso. Antes de concluir seu pedido, confirme no anúncio se a voltagem selecionada corresponde à tomada onde você pretende utilizá-lo."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Electrolux"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "AWD01 (Aspirador de Pó e Água Hidrolux)"
+      },
+      {
+        "chave": "Tensão / Voltagem",
+        "valor": "127V (também fabricado em 220V - confira no anúncio)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1400 W, segundo a Electrolux"
+      },
+      {
+        "chave": "Tipo de Aspirador",
+        "valor": "Água e Pó (Multiuso)"
+      },
+      {
+        "chave": "Capacidade para Líquidos",
+        "valor": "5,0 Litros"
+      },
+      {
+        "chave": "Capacidade do Saco Coletor de Pó",
+        "valor": "3,0 Litros"
+      },
+      {
+        "chave": "Capacidade Total do Barril",
+        "valor": "12 Litros"
+      },
+      {
+        "chave": "Sistema de Filtragem",
+        "valor": "Dupla filtragem (filtro do motor em espuma + saco descartável para pó)"
+      },
+      {
+        "chave": "Recursos e Funções",
+        "valor": "Sucção de pó e líquidos, função sopro e interrupção inteligente de sucção com boia"
+      },
+      {
+        "chave": "Raio de Ação / Alcance Total",
+        "valor": "5,9 metros (cabo elétrico de 3,4 m + mangueira de 1,2 m e tubos)"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "2 tubos prolongadores, bocal para pisos, bocal para cantos e frestas, bocal para estofados e mangueira flexível"
+      },
+      {
+        "chave": "Nível de Ruído",
+        "valor": "94 dB (127V), segundo dados da fabricante"
+      },
+      {
+        "chave": "Mobilidade",
+        "valor": "4 rodas com giro 360° e alça ergonômica de transporte"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x P)",
+        "valor": "44,7 x 33 x 33 cm, segundo a fabricante"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "Aproximadamente 3,4 kg"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "12 meses oficial pela Electrolux do Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Potência de 1400W com alto poder de sucção para poeira pesada, pelos, detritos sólidos e líquidos derramados",
+      "Dupla função água e pó que substitui o trabalho com rodos e panos de chão em emergências domésticas",
+      "Função sopro prática na saída traseira, útil para varrer folhas, desobstruir cantos e inflar colchões ou boias",
+      "Formato compacto de barril com 5 litros úteis e peso de apenas 3,4 kg, fácil de guardar em armários e áreas de serviço",
+      "Rodízios com rotação 360 graus e alça anatômica que facilitam a condução por diferentes cômodos sem travar",
+      "Kit completo com bocal para pisos, cantos/frestas e estofados, além de 2 tubos prolongadores para maior alcance",
+      "Sistema de interrupção inteligente com boia que bloqueia a sucção ao atingir o volume máximo de líquidos"
+    ],
+    "pontos_atencao": [
+      "Não é bivolt automático, sendo necessário selecionar entre 127V e 220V no momento da compra",
+      "Nível de ruído de 94 dB característico de motores potentes de tambor, mais sonoro que aspiradores convencionais de baixa potência",
+      "O cabo elétrico possui 3,4 metros de extensão, podendo exigir tomada mais próxima ou extensão em cômodos amplos",
+      "Exige remover o saco de papel coletor antes de sugar líquidos para evitar rasgos e danos ao elemento filtrante"
+    ],
+    "para_quem_e": "Para quem precisa de um aspirador potente e versátil para lidar tanto com a poeira diária quanto com líquidos derramados e limpezas pesadas da casa, oficina ou carro, sem abrir mão de um tamanho compacto e fácil de guardar.",
+    "para_quem_nao_e": "Para quem procura um aparelho ultra silencioso com bateria sem fio, ou para estabelecimentos industriais e lava-rápidos que demandam reservatórios gigantes de 20 a 50 litros para uso contínuo o dia todo."
   }
 ];
 
