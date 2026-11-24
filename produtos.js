@@ -7706,6 +7706,107 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer desamassar roupas com agilidade e perfeição — especialmente camisas sociais, calças jeans e peças pesadas de algodão —, valoriza a robustez de um ferro metálico tradicional e deseja fugir de vazamentos, depósitos de calcário e manutenções frequentes dos ferros a vapor.",
     "para_quem_nao_e": "Para quem não abre mão do vapor contínuo com jato vertical direto na tomada para passar roupas no cabide, ou para quem procura um aparelho com desligamento eletrônico automático por sensor de movimento."
+  },
+  {
+    "asin": "B07KJ2TDMR",
+    "id": "roteador-mesh-tp-link-deco-m4-ac1200-2-unidades",
+    "titulo": "Roteador Mesh Wi-Fi TP-Link Deco M4 AC1200 Gigabit Dual-Band (Kit com 2 Unidades, Bivolt)",
+    "subtitulo": "Você anda pela casa inteira com uma única rede Wi-Fi estável, sem zonas mortas e sem precisar trocar de sinal",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/roteador-mesh-tp-link-deco-m4-ac1200-2-unidades.jpg",
+    "data_revisao": "2026-11-24",
+    "tempo_leitura": "6 min de leitura",
+    "veredito_resumo": "O kit com 2 unidades do TP-Link Deco M4 é uma escolha certeira para acabar com cômodos sem sinal em apartamentos médios, casas amplas ou sobrados. Operando no padrão AC1200 com portas Gigabit, roaming contínuo e configuração guiada pelo aplicativo Deco, ele substitui com folga repetidores de tomada comuns e entrega cobertura de até 260 m² segundo a fabricante.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07KJ2TDMR?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela irritação de assistir a uma série na sala com o sinal perfeito, mas basta caminhar até o quarto do fundo ou subir para o segundo andar para a chamada de vídeo travar e o celular ficar agarrado num Wi-Fi fraco? Quem já tentou resolver isso com repetidores baratos de tomada sabe que, muitas vezes, a velocidade cai pela metade e você ainda ganha duas redes diferentes para ficar trocando manualmente.",
+      "O sistema Mesh TP-Link Deco M4 com 2 torres resolve exatamente esse problema criando uma única rede inteligente com o mesmo nome (SSID) e a mesma senha pela casa inteira. Conforme você circula pelos ambientes, o sistema faz a troca automática entre as unidades sem interromper a chamada ou o streaming — e, segundo a TP-Link Brasil, o kit com dois módulos alcança até 260 m² de cobertura.",
+      "No dia a dia, você quase esquece que existem dois aparelhos trabalhando juntos. As torres têm visual cilíndrico discreto em branco fosco, combinando fácil com a estante da sala ou o escritório sem aquele emaranhado de antenas externas aparentes. Toda a instalação é guiada passo a passo pelo aplicativo Deco no celular: em poucos minutos você cria a rede, configura perfis de Controle dos Pais com limites de horário ou filtro de conteúdo para crianças e até prioriza dispositivos de trabalho ou jogos via QoS.",
+      "Do ponto de vista técnico, as análises de portais especializados como Tecnoblog e Canaltech destacam um detalhe crucial que faz diferença na prática: cada unidade traz duas portas Ethernet Gigabit (10/100/1000 Mbps) com detecção automática de WAN/LAN. Isso significa que ele não cria gargalo em planos de internet fibra acima de 100 Mbps, entregando velocidade AC1200 dual-band de até 867 Mbps em 5 GHz e 300 Mbps em 2,4 GHz, com suporte para até 100 dispositivos conectados simultaneamente, MU-MIMO e Beamforming, segundo a TP-Link.",
+      "Uma dica prática de posicionamento faz toda a diferença no desempenho: evite esconder a segunda torre atrás de armários fechados ou em um cômodo onde o sinal da primeira já chega quase morto. O ideal é deixá-la em um ponto intermediário, com menos paredes grossas entre as duas unidades — e, se você tiver ponto de cabo de rede entre os cômodos, ligar os dois Decos por cabo (backhaul cabeado) extrai o máximo da banda contratada. Vale observar também que, como uma das portas da torre principal recebe o cabo do modem da operadora, resta apenas uma porta Ethernet livre nela; quem usa vários PCs ou consoles cabeados no mesmo ponto pode precisar de um switch simples.",
+      "Um último cuidado: confirme no anúncio que está escolhendo o kit com 2 unidades (há versões do Deco M4 vendidas individualmente ou em pack de 3 torres). As fontes de alimentação já são bivolt automático (100–240 V) e a embalagem traz 2 unidades Deco M4, 2 fontes de energia e 1 cabo Ethernet RJ45 — se quiser ligar a segunda torre por cabo também, lembre de separar um cabo de rede extra."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "TP-Link Brasil"
+      },
+      {
+        "chave": "Modelo e Versão",
+        "valor": "Deco M4 — Kit com 2 Unidades (AC1200 Dual-Band Mesh)"
+      },
+      {
+        "chave": "Padrão e Velocidade Wi-Fi",
+        "valor": "Wi-Fi 5 (IEEE 802.11ac/n/a 5 GHz até 867 Mbps; 802.11n/b/g 2,4 GHz até 300 Mbps)"
+      },
+      {
+        "chave": "Área de Cobertura Estimada",
+        "valor": "Até 260 m² (kit com 2 unidades), segundo a TP-Link"
+      },
+      {
+        "chave": "Capacidade de Dispositivos",
+        "valor": "Suporta até 100 dispositivos conectados simultaneamente, segundo a fabricante"
+      },
+      {
+        "chave": "Tecnologias Wireless",
+        "valor": "TP-Link Mesh (Roaming Contínuo com SSID único), MU-MIMO e Beamforming"
+      },
+      {
+        "chave": "Portas Ethernet por Unidade",
+        "valor": "2 portas Gigabit (10/100/1000 Mbps) com detecção automática WAN/LAN"
+      },
+      {
+        "chave": "Antenas e Processamento",
+        "valor": "2 antenas internas de banda dupla por unidade; CPU Qualcomm"
+      },
+      {
+        "chave": "Modos de Operação",
+        "valor": "Modo Roteador e Modo Ponto de Acesso (Access Point)"
+      },
+      {
+        "chave": "Gestão e Segurança",
+        "valor": "Aplicativo Deco (Android/iOS), Controle dos Pais, QoS, WPA-PSK/WPA2-PSK, Firewall SPI e compatibilidade com Alexa"
+      },
+      {
+        "chave": "Alimentação Elétrica",
+        "valor": "Bivolt automático (Entrada: 100–240 V ~ 50/60 Hz, 0,3 A; Saída: 12 V ⎓ 1 A)"
+      },
+      {
+        "chave": "Dimensões por Unidade (A x L x P)",
+        "valor": "190,5 × 90,7 × 90,7 mm, segundo a TP-Link"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "2 unidades Deco M4, 2 adaptadores de energia, 1 cabo Ethernet RJ45 e guia de instalação rápida"
+      },
+      {
+        "chave": "Garantia Oficial no Brasil",
+        "valor": "5 anos pela TP-Link Brasil (3 meses legais + garantia contratual com nota fiscal)"
+      }
+    ],
+    "pontos_fortes": [
+      "Rede Wi-Fi única com roaming contínuo, eliminando pontos cegos sem obrigar o celular a trocar de rede manualmente pela casa",
+      "Cobertura de até 260 m² com o kit de 2 torres e suporte para até 100 dispositivos simultâneos, segundo a TP-Link",
+      "Portas Gigabit Ethernet (10/100/1000 Mbps) em todas as conexões físicas, aproveitando planos de internet fibra acima de 100 Mbps",
+      "Configuração passo a passo muito simples pelo aplicativo Deco, com Controle dos Pais e priorização de tráfego (QoS) integrados",
+      "Expansível a qualquer momento com outros modelos da família TP-Link Deco caso você mude para um imóvel maior",
+      "Garantia oficial de 5 anos pela TP-Link no Brasil e fontes de energia bivolt automático"
+    ],
+    "pontos_atencao": [
+      "Opera no padrão Wi-Fi 5 (AC1200), não trazendo Wi-Fi 6 para quem busca velocidades máximas em planos próximos de 1 Gbps",
+      "Cada torre possui apenas 2 portas Ethernet — como a principal usa uma para o modem, resta apenas 1 porta livre nela para cabo",
+      "Sem cabo de rede ligando as duas unidades, paredes grossas ou grande distância entre as torres podem reduzir a velocidade na ponta",
+      "Não possui porta USB integrada para compartilhamento direto de HD externo ou impressora na rede"
+    ],
+    "para_quem_e": "Para quem mora em apartamento médio, casa ampla ou sobrado, sofre com sinal fraco nos quartos ou no andar superior e quer uma rede Wi-Fi estável, unificada e fácil de configurar para planos de internet fibra.",
+    "para_quem_nao_e": "Para quem já assina planos próximos de 1 Gbps e possui muitos aparelhos Wi-Fi 6 exigindo velocidade máxima sem fio, ou precisa de várias portas Ethernet livres diretamente no roteador principal sem usar switch."
   }
 ];
 
