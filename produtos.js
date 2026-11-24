@@ -7604,6 +7604,108 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias ou pessoas que preparam vitaminas diárias, sucos naturais e massas de tortas ou bolos com frequência e precisam de um liquidificador potente de 900W, com jarra grande de 2,7L e filtro de sementes prático que elimina o uso de peneira.",
     "para_quem_nao_e": "Para quem mora sozinho e busca um copo portátil individual para levar à academia, para quem exige copo de vidro temperado espesso ou procura um aparelho compacto para bancadas minúsculas."
+  },
+  {
+    "asin": "B07613Y23B",
+    "id": "ferro-de-passar-a-seco-black-decker-vfa-1100w-127v",
+    "titulo": "Ferro de Passar a Seco Tradicional Black+Decker VFA1110 (Preto/Metálico, 1100W, 127V)",
+    "subtitulo": "Por que o clássico ferro metálico a seco continua sendo o favorito para desamassar camisas de algodão, jeans e peças pesadas sem vazamentos nem complicações",
+    "categoria": "Casa & Eletro",
+    "imagem": "assets/produtos/ferro-de-passar-a-seco-black-decker-vfa-1100w-127v.jpg",
+    "data_revisao": "2026-11-24",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "Para quem busca máxima eficiência ao desamassar tecidos difíceis, robustez comprovada e quer fugir dos constantes vazamentos, entupimentos e manutenções chatas dos ferros a vapor comuns. O tradicional Black+Decker VFA1110 (o famoso ferro de metal 'The Classic') combina 1100W de potência, base espessa em liga de alumínio polido de altíssima retenção térmica e controle frontal com 7 níveis de temperatura específicos para cada tecido. Com borda poupa-botões em toda a extensão lateral e estrutura metálica de alta durabilidade, é a escolha definitiva para quem valoriza praticidade, alinhamento impecável de vincos e longevidade de anos no lar.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07613Y23B?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Quem já precisou passar uma camisa social de algodão ou uma calça jeans grossa com um ferro a vapor genérico certamente conhece a frustração: você desliza a base várias vezes sobre o mesmo vinco, o tecido continua amassado, e para piorar, o reservatório resolve pingar água suja de calcário ou descarregar um jato irregular que molha e mancha a roupa bem na hora de sair de casa. Sem contar aqueles modelos levinhos de plástico que quebram a ponta na primeira queda ou cuja base antiaderente começa a descascar e grudar nas fibras sintéticas após poucos meses de uso. Se o seu objetivo é apenas esticar a roupa rápido e com perfeição, todo esse excesso de botões e reservatórios muitas vezes só atrapalha.",
+      "É exatamente por descomplicar essa rotina que o Ferro de Passar a Seco Black+Decker VFA1110 permanece como uma lenda viva nas casas brasileiras há mais de seis décadas. Ao contrário dos modelos modernos cheios de engrenagens plásticas frágeis, o VFA aposta em uma construção puramente mecânica e metálica, combinando corpo cromado reforçado, empunhadura preta anatômica e uma base maciça em liga de alumínio polido. Como não utiliza reservatório de água, ele elimina de vez qualquer risco de gotejamento indesejado, corrosão interna ou depósitos de minerais que mancham tecidos claros.",
+      "No uso diário, a distribuição equilibrada de calor e o peso próprio do aparelho fazem quase todo o esforço por você. Com 1100W de potência na versão de 127V, ele atinge o ponto de aquecimento com notável velocidade e mantém a caloria estável por toda a extensão da base. O seletor giratório frontal conta com 7 níveis graduados e traz gravado o guia direto de tecidos — desde peças delicadas como seda e lã até tecidos encorpados como algodão puro e linho pesado —, permitindo ajustar a temperatura exata sem precisar consultar manuais. Outro recurso genial é o rebaixo poupa-botões contínuo em ambas as laterais da base, que permite contornar camisas e polos sem prender nem danificar os aviamentos.",
+      "Segundo a Black+Decker, o VFA proporciona uma das maiores temperaturas operacionais da categoria, trabalhando entre 190°C e 220°C nas regulagens máximas. Em testes comparativos independentes de bancada realizados por laboratórios de eletroportáteis como a Harpyja, o modelo se destaca justamente pela alta densidade térmica e retenção de calor da sua chapa de alumínio polido: enquanto modelos comuns esfriam rapidamente ao tocar em tecidos úmidos ou grossos, o VFA sustenta a caloria constante, alinhando colarinhos, punhos e barras de jeans em uma única passada firme. Para completar, a marca oferece 2 anos oficiais de garantia de fábrica, um prazo duas vezes maior do que o padrão comum de mercado.",
+      "Para extrair a máxima performance sem sustos, um hábito simples faz toda a diferença: se você for passar tecidos de algodão muito secos e engelhados, use um borrifador manual com água aromatizada para umedecer levemente as fibras antes de deslizar a chapa quente. Por esquentar com bastante intensidade, comece a sessão de passadoria pelas roupas mais finas e sensíveis em temperaturas baixas e deixe as peças pesadas para o final. A limpeza da base de alumínio não exige produtos químicos agressivos: quando o ferro estiver morno e desconectado da tomada, basta passar um pano úmido macio com detergente neutro para mantê-lo espelhado e deslizando com suavidade.",
+      "Um último cuidado: este anúncio refere-se especificamente à versão com tensão elétrica de 127V (1100W de potência nominal) e não possui chave de conversão bivolt. Antes de concluir a compra, verifique atentamente se a voltagem das tomadas da sua área de serviço ou lavanderia é compatível com 127V (110V), garantindo o funcionamento seguro e com potência plena desde o primeiro dia de uso."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "BLACK+DECKER do Brasil"
+      },
+      {
+        "chave": "Linha e Modelo",
+        "valor": "The Classic VFA (Modelo VFA1110TM2 / VFA1110)"
+      },
+      {
+        "chave": "Tipo de Operação",
+        "valor": "Ferro de passar roupas a seco tradicional (sem reservatório de água)"
+      },
+      {
+        "chave": "Tensão Elétrica / Voltagem",
+        "valor": "127V ~ 60 Hz (Não é bivolt)"
+      },
+      {
+        "chave": "Potência Nominal",
+        "valor": "1100 W (versão 127V)"
+      },
+      {
+        "chave": "Material da Base",
+        "valor": "Liga de alumínio polido de alta condutividade e retenção térmica"
+      },
+      {
+        "chave": "Controle de Temperatura",
+        "valor": "Seletor rotativo frontal com 7 níveis ajustáveis para cada tipo de tecido"
+      },
+      {
+        "chave": "Faixa de Temperatura",
+        "valor": "Atinge entre 190°C e 220°C nas graduações máximas, segundo a fabricante"
+      },
+      {
+        "chave": "Estrutura do Corpo",
+        "valor": "Carenagem metálica com acabamento cromado e detalhes em preto"
+      },
+      {
+        "chave": "Recurso Poupa-Botões",
+        "valor": "Canaletas laterais contínuas em toda a extensão da base para contornar botões"
+      },
+      {
+        "chave": "Cabo Elétrico",
+        "valor": "Cabo anatômico com giro 360° articulado e suporte traseiro estável"
+      },
+      {
+        "chave": "Dimensões do Produto (A x L x C)",
+        "valor": "12,0 x 12,0 x 24,0 cm, segundo a fabricante"
+      },
+      {
+        "chave": "Peso Líquido",
+        "valor": "Aproximadamente 780 g (0,78 kg)"
+      },
+      {
+        "chave": "Garantia de Fábrica",
+        "valor": "2 anos (24 meses) de garantia oficial pela Black+Decker Brasil"
+      }
+    ],
+    "pontos_fortes": [
+      "Atinge temperaturas elevadas rapidamente (até 220°C segundo a fabricante), desamassando jeans, sarja e linho com facilidade",
+      "Base maciça em liga de alumínio polido que retém a caloria e desliza de maneira uniforme sem resfriar no meio da passada",
+      "Construção metálica reforçada com acabamento cromado clássico, reconhecida pela durabilidade lendária de muitos anos",
+      "Sem água, sem vazamentos: operação 100% a seco livre de entupimentos de calcário ou gotejamento de água sobre roupas limpas",
+      "Seletor frontal com 7 níveis de calor e guia de tecidos impresso no próprio aparelho para ajustes rápidos e intuitivos",
+      "Canaleta poupa-botões em toda a borda lateral que preserva camisas sociais e facilita o acabamento ao redor de botões",
+      "Garantia oficial de 2 anos pelo fabricante, o dobro do prazo praticado pela maioria dos concorrentes de entrada"
+    ],
+    "pontos_atencao": [
+      "Não possui função de vapor integrado nem borrifador, exigindo o uso de spray avulso em tecidos muito ressecados",
+      "Não é bivolt automático, sendo necessário conferir se a rede da residência é de 127V antes de fechar o pedido",
+      "Por atingir temperaturas bem elevadas e ter carenagem de metal, exige atenção redobrada no manuseio para evitar encostar na chapa quente",
+      "Não conta com sistema de desligamento automático eletrônico, demandando atenção do usuário ao finalizar o uso"
+    ],
+    "para_quem_e": "Para quem quer desamassar roupas com agilidade e perfeição — especialmente camisas sociais, calças jeans e peças pesadas de algodão —, valoriza a robustez de um ferro metálico tradicional e deseja fugir de vazamentos, depósitos de calcário e manutenções frequentes dos ferros a vapor.",
+    "para_quem_nao_e": "Para quem não abre mão do vapor contínuo com jato vertical direto na tomada para passar roupas no cabide, ou para quem procura um aparelho com desligamento eletrônico automático por sensor de movimento."
   }
 ];
 
