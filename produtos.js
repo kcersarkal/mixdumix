@@ -7807,6 +7807,103 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora em apartamento médio, casa ampla ou sobrado, sofre com sinal fraco nos quartos ou no andar superior e quer uma rede Wi-Fi estável, unificada e fácil de configurar para planos de internet fibra.",
     "para_quem_nao_e": "Para quem já assina planos próximos de 1 Gbps e possui muitos aparelhos Wi-Fi 6 exigindo velocidade máxima sem fio, ou precisa de várias portas Ethernet livres diretamente no roteador principal sem usar switch."
+  },
+  {
+    "asin": "B093HBXB54",
+    "id": "cafeteira-oster-inox-compacta-0-75l-ocaf300-127v",
+    "titulo": "Cafeteira Elétrica Oster Inox Compacta 0,75L OCAF300 (Preto/Inox, 600W, 127V)",
+    "subtitulo": "Café fresco passado rápido até nas bancadas mais apertadas, sem gastar com filtro de papel",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/cafeteira-oster-inox-compacta-0-75l-ocaf300-127v.jpg",
+    "data_revisao": "2026-11-25",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Oster Inox Compacta OCAF300 foi pensada para quem mora sozinho, em casal ou quer montar um cantinho do café no escritório sem perder metade da bancada. Com apenas 14 cm de largura, acabamento em aço escovado, jarra de vidro de 0,75 litro (até 19 cafezinhos de 40 ml, segundo a Oster), placa aquecedora e filtro permanente lavável, ela entrega café quente na medida certa do dia a dia com praticidade e visual caprichado.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B093HBXB54?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela correria da manhã em que você só quer passar um café fresco antes de sair ou começar o trabalho, mas a bancada da cozinha já mal tem espaço para a tábua de corte? Em apartamentos compactos e escritórios menores, cafeteiras gigantes acabam virando um trambolho que ninguém sabe onde encaixar, e esquentar água no fogão todo dia para um coador improvisado nem sempre combina com a pressa da rotina.",
+      "É justamente nesse espaço estreito que a Cafeteira Oster Inox Compacta (modelo OCAF300) se destaca. Com apenas 14 cm de largura por 25,5 cm de altura e 22 cm de profundidade, segundo a Oster, ela cabe com folga ao lado do micro-ondas, em nichos pequenos ou na mesa de apoio do home office. Apesar do porte enxuto, o painel frontal em aço inoxidável escovado foge daquele visual todo de plástico simples e dá um ar mais elegante à cozinha.",
+      "Na prática do dia a dia, o funcionamento é direto ao ponto: basta colocar água filtrada no reservatório com marcador lateral de nível, dosar o pó no filtro permanente que já acompanha o aparelho e acionar a chave Liga/Desliga com luz indicadora. Esse filtro é plástico, removível e lavável, o que evita ter de sair correndo atrás de filtro de papel descartável quando o pacote acaba — e, se você preferir uma bebida mais limpa sem nenhum resíduo no fundo da xícara, o manual da Oster confirma que também é possível usar filtro de papel junto ao cesto.",
+      "A jarra de vidro tem capacidade de 0,75 litro — equivalente a até 19 cafezinhos de 40 ml, segundo a fabricante — e conta com sistema corta-pingos no suporte do filtro. Na rotina, isso significa que você pode tirar a jarra da base no meio da extração para servir a primeira xícara com calma, sem pingar café na placa quente (a Oster apenas orienta recolocar a jarra em até 30 segundos enquanto a água ainda estiver passando). Com 600 W de potência e consumo informado de 0,6 kWh pela marca, o preparo é ágil sem pesar na instalação elétrica, e a base aquecedora mantém o café quentinho enquanto a chave permanecer ligada.",
+      "Alguns cuidados de uso fazem diferença na durabilidade do conjunto. Antes da estreia, o manual oficial da Oster recomenda fazer cerca de 5 ciclos completos apenas com água até o nível máximo para eliminar qualquer cheiro de produto novo. Use sempre água filtrada no reservatório, evite deixar a jarra vazia sobre a placa aquecedora ligada para não provocar trincas no vidro e lembre-se de lavar o filtro permanente apenas à mão com detergente neutro — já o suporte fixo do filtro deve ser limpo apenas com pano úmido, sem mergulhar a cafeteira na água.",
+      "Um último cuidado: no anúncio da Amazon correspondente ao código OCAF300-127, o produto aparece às vezes descrito de forma resumida como 0,7L, embora a ficha técnica oficial da Oster especifique 0,75L para a mesma linha OCAF300. Mais importante ainda é checar a voltagem antes de fechar a compra: esta versão é exclusiva para 127V (não é bivolt) — caso a sua cozinha ou escritório utilize tomadas de 220V, selecione a variante OCAF300-220 na página do produto."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Oster (JCS Brasil Eletrodomésticos / Newell Brands)"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "OCAF300 (versão 127V: OCAF300-127; existe também a versão OCAF300-220)"
+      },
+      {
+        "chave": "Capacidade do Reservatório e Jarra",
+        "valor": "0,75 litro (até 19 cafezinhos de 40 ml, segundo a Oster)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "600 W, segundo a Oster"
+      },
+      {
+        "chave": "Consumo Elétrico Informado",
+        "valor": "0,6 kWh, segundo a ficha técnica oficial da Oster"
+      },
+      {
+        "chave": "Tensão (Voltagem)",
+        "valor": "127V na versão OCAF300-127 (não é bivolt)"
+      },
+      {
+        "chave": "Material e Acabamento",
+        "valor": "Corpo preto com detalhes em aço inoxidável escovado e jarra de vidro"
+      },
+      {
+        "chave": "Sistema de Filtragem",
+        "valor": "Filtro permanente removível e lavável (também aceita filtro de papel no conjunto)"
+      },
+      {
+        "chave": "Recursos Práticos",
+        "valor": "Sistema corta-pingos, placa aquecedora (manter aquecido), marcador de nível de água e botão Liga/Desliga luminoso"
+      },
+      {
+        "chave": "Dimensões (L x A x P)",
+        "valor": "14,0 × 25,5 × 22,0 cm (140 × 255 × 220 mm), segundo a Oster"
+      },
+      {
+        "chave": "Peso",
+        "valor": "1,2 kg (1,4 kg com embalagem), segundo a Oster"
+      },
+      {
+        "chave": "Certificação e Segurança",
+        "valor": "Selo de Segurança OCP SGS / Inmetro (uso doméstico interno)"
+      },
+      {
+        "chave": "Garantia Oficial no Brasil",
+        "valor": "12 meses pela Oster (90 dias legais + 270 dias do fabricante; peças de vidro e plástico como jarra e filtro não são cobertas contra quebras)"
+      }
+    ],
+    "pontos_fortes": [
+      "Medidas muito compactas (apenas 14 cm de largura), cabendo com facilidade em bancadas pequenas, quitinetes e cantinhos do café no escritório",
+      "Acompanha filtro permanente removível e lavável, reduzindo gastos recorrentes com filtros de papel descartáveis",
+      "Sistema corta-pingos funcional que permite retirar a jarra para servir a primeira xícara antes do término do preparo",
+      "Placa aquecedora na base para conservar a temperatura do café enquanto a cafeteira permanecer ligada",
+      "Acabamento frontal em aço inoxidável escovado que combina bem com outros eletroportáteis modernos",
+      "Operação simples com chave Liga/Desliga iluminada e visor de nível de água integrado"
+    ],
+    "pontos_atencao": [
+      "Capacidade de 0,75L atende bem 1 a 3 pessoas ou pausas curtas no escritório, mas fica pequena para famílias grandes ou muitas visitas simultâneas",
+      "Não possui timer programável nem desligamento automático após o preparo — é preciso desligar manualmente a chave quando não quiser mais aquecer a jarra",
+      "Filtros permanentes de malha podem deixar passar um pouco de sedimento se você usar café moído muito fino (resolvível combinando com filtro de papel)",
+      "Jarra de vidro exige cuidado contra quedas e choques térmicos, e o modelo OCAF300-127 não é bivolt"
+    ],
+    "para_quem_e": "Para quem mora sozinho, em casal ou quer uma cafeteira compacta para o escritório, valoriza o visual em aço inox, prefere dispensar o filtro de papel no dia a dia e busca preparo simples sem ocupar espaço na bancada.",
+    "para_quem_nao_e": "Para famílias grandes que precisam preparar jarras acima de 1 litro de uma só vez, ou para quem exige cafeteira programável com timer digital, desligamento automático ou jarra térmica de inox."
   }
 ];
 
