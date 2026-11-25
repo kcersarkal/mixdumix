@@ -7904,6 +7904,108 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora sozinho, em casal ou quer uma cafeteira compacta para o escritório, valoriza o visual em aço inox, prefere dispensar o filtro de papel no dia a dia e busca preparo simples sem ocupar espaço na bancada.",
     "para_quem_nao_e": "Para famílias grandes que precisam preparar jarras acima de 1 litro de uma só vez, ou para quem exige cafeteira programável com timer digital, desligamento automático ou jarra térmica de inox."
+  },
+  {
+    "asin": "B0BWVQKSSY",
+    "id": "fone-de-ouvido-jbl-tune-720bt-bluetooth-preto",
+    "titulo": "Fone de Ouvido Over-Ear Bluetooth JBL Tune 720BT (Preto)",
+    "subtitulo": "Até 76 horas de bateria, conchas que envolvem toda a orelha e cabo removível para você esquecer o carregador por semanas.",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/fone-de-ouvido-jbl-tune-720bt-bluetooth-preto.jpg",
+    "data_revisao": "2026-11-25",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O JBL Tune 720BT é um headphone over-ear sem fio pensado para quem passa horas entre músicas, reuniões e estudos e não aguenta mais fones que pedem tomada a cada dois dias ou apertam a cartilagem da orelha. Com até 76 horas de autonomia, Bluetooth 5.3 multiponto, entrada para cabo auxiliar incluso e ajuste de equalização pelo aplicativo oficial, ele entrega praticidade de sobra no dia a dia sem complicar o uso.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0BWVQKSSY?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele incômodo de passar mais de uma hora em reunião ou estudando e sentir a orelha doendo porque a almofada do fone fica pressionando a cartilagem? E, pior ainda, perceber no meio do trajeto de volta para casa que a bateria acabou justo quando você queria ouvir um podcast ou relaxar com música?",
+      "O JBL Tune 720BT resolve esses dois pontos de uma vez só. Por ser um modelo over-ear (circumaural), as conchas acolchoadas envolvem toda a orelha em vez de apoiar por cima dela, distribuindo melhor a pressão ao redor da cabeça. Soma-se a isso uma bateria de íon-lítio de 500 mAh que entrega até 76 horas de reprodução contínua via Bluetooth, segundo a JBL — na prática, quem ouve cerca de duas horas e meia por dia passa praticamente um mês inteiro antes de precisar ligar o cabo USB-C na tomada.",
+      "Na rotina de trabalho e estudo, o que mais facilita a vida é a conexão multiponto com Bluetooth 5.3. Você deixa o headphone pareado ao mesmo tempo no notebook e no celular: está vendo uma aula ou editando algo no computador e o telefone toca? O áudio muda direto para a chamada sem precisar desconectar nada nas configurações. E se você esquecer de carregar antes de sair, apenas 5 minutos na tomada garantem até 3 horas extras de música, segundo a fabricante (a carga completa leva cerca de 2 horas).",
+      "Por dentro, ele usa drivers dinâmicos de 40 mm com a assinatura JBL Pure Bass, resposta de frequência de 20 Hz a 20 kHz e impedância de 32 ohms, segundo a ficha técnica da Harman/JBL. Conforme destacam análises do Canaltech e do TudoCelular, o perfil sonoro valoriza os graves sem embolar vozes, e você pode personalizar tudo no aplicativo gratuito JBL Headphones — vale a pena instalar logo no primeiro dia para escolher um equalizador mais neutro ou ativar o VoiceAware, recurso que permite ouvir um retorno natural da própria voz nas ligações para você não falar alto demais no escritório.",
+      "Outro detalhe bem-vindo é que ele acompanha um cabo de áudio destacável de 1,2 metro na caixa. Se a bateria zerar depois de semanas de uso, ou se você quiser plugar no computador sem Bluetooth ou no entretenimento de bordo de um voo, basta encaixar o fio e continuar ouvindo normalmente. Pesando 220 gramas e com haste dobrável, ele cabe fácil na mochila sem virar um peso extra.",
+      "Um último cuidado: apesar de envolver toda a orelha e ajudar a abafar parte do ambiente por vedação física, o JBL Tune 720BT não possui cancelamento ativo de ruído (ANC), então barulhos intensos de trânsito ou motores ainda passam. Confira também na página do anúncio se você está selecionando exatamente o Tune 720BT na cor Preta (over-ear, maior e com entrada para cabo) e não o irmão menor Tune 520BT, que apoia sobre a orelha."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "JBL (Harman) / Tune 720BT (JBLT720BTBLK - Preto)"
+      },
+      {
+        "chave": "Tipo e Formato",
+        "valor": "Headphone Over-Ear (circumaural, envolve as orelhas) com design dobrável"
+      },
+      {
+        "chave": "Tamanho do Driver",
+        "valor": "Driver dinâmico de 40 mm com tecnologia JBL Pure Bass, segundo a JBL"
+      },
+      {
+        "chave": "Resposta de Frequência",
+        "valor": "20 Hz – 20 kHz, segundo a fabricante"
+      },
+      {
+        "chave": "Impedância e Sensibilidade",
+        "valor": "32 ohms | 101 dB SPL a 1 kHz / 1 mW (SPL máx.: 95 dB), segundo a JBL"
+      },
+      {
+        "chave": "Conectividade Sem Fio",
+        "valor": "Bluetooth 5.3 com conexão multiponto (perfis HFP v1.7.2, AVRCP v1.6.2, A2DP v1.3.2)"
+      },
+      {
+        "chave": "Bateria e Autonomia",
+        "valor": "Íon-lítio 3,7 V / 500 mAh com até 76 horas de reprodução Bluetooth, segundo a JBL"
+      },
+      {
+        "chave": "Carregamento",
+        "valor": "USB Tipo-C (5 V / 1 A); carga completa em 2 horas e carga rápida de 5 min para até 3 horas de uso"
+      },
+      {
+        "chave": "Uso com Fio",
+        "valor": "Acompanha cabo de áudio destacável de 1,2 m para uso cabeado"
+      },
+      {
+        "chave": "Microfone e Aplicativo",
+        "valor": "Microfone integrado (-40 dBV a 1 kHz/Pa) com VoiceAware | Compatível com app JBL Headphones (EQ)"
+      },
+      {
+        "chave": "Dimensões da Concha",
+        "valor": "Interna: 9,3 × 7,6 cm | Externa: 7,0 × 7,0 cm | Profundidade: 4,8 cm, segundo a JBL"
+      },
+      {
+        "chave": "Peso",
+        "valor": "220 gramas, segundo a fabricante"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "1 fone JBL Tune 720BT, 1 cabo USB-C, 1 cabo de áudio removível, guia rápido e cartão de garantia"
+      },
+      {
+        "chave": "Certificação e Garantia no Brasil",
+        "valor": "Homologado pela Anatel | Garantia oficial de 12 meses pela Harman do Brasil (90 dias legais + 275 dias contratuais)"
+      }
+    ],
+    "pontos_fortes": [
+      "Autonomia de até 76 horas via Bluetooth, segundo a JBL, reduzindo drasticamente a frequência de recargas no mês",
+      "Formato over-ear que envolve toda a orelha com almofadas macias, oferecendo mais conforto em sessões longas de estudo ou trabalho do que modelos on-ear",
+      "Conexão Bluetooth 5.3 com suporte multiponto para alternar automaticamente entre computador e celular",
+      "Acompanha cabo de áudio removível de 1,2 m, permitindo continuar usando o fone mesmo se a bateria acabar ou em aparelhos sem Bluetooth",
+      "Carregamento rápido via USB-C em que 5 minutos na tomada rendem até 3 horas extras de áudio, segundo a fabricante",
+      "Compatibilidade com o aplicativo JBL Headphones para ajustar o equalizador ao seu gosto e controlar o retorno de voz VoiceAware em chamadas",
+      "Estrutura leve de 220 gramas e conchas dobráveis fáceis de guardar na mochila"
+    ],
+    "pontos_atencao": [
+      "Não possui cancelamento ativo de ruído (ANC), oferecendo apenas isolamento passivo pelo encaixe das almofadas",
+      "As almofadas com revestimento sintético vedam bem ao redor da orelha, o que pode causar aquecimento após muitas horas seguidas em dias quentes",
+      "Construção predominantemente em plástico, o que ajuda a manter o peso baixo em 220 g, mas passa sensação mais simples que linhas premium",
+      "Não oferece suporte a codecs de áudio Hi-Res sem fio nem vem com estojo rígido de transporte na embalagem"
+    ],
+    "para_quem_e": "Para quem quer um headphone over-ear confortável para trabalhar, estudar e ouvir música com graves presentes, valoriza bateria para semanas inteiras longe da tomada, alterna entre notebook e celular e faz questão de poder usar cabo quando precisar.",
+    "para_quem_nao_e": "Para quem precisa de cancelamento ativo de ruído (ANC) para abafar motores de avião ou ônibus barulhentos, busca acabamento metálico premium com case rígido incluso ou exige codecs sem fio de alta resolução."
   }
 ];
 
