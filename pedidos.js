@@ -2485,5 +2485,14 @@ window.PEDIDOS = [
     ],
     "para_quem_e": "Quem tem uma televisão com tela 4K ou Full HD cujo sistema operacional nativo ficou lento ou desatualizado e quer transformar o aparelho em uma central moderna de entretenimento com respostas rápidas e comandos de voz.",
     "para_quem_nao_e": "Pessoas que já possuem Smart TVs topo de linha recentes com sistema veloz e todos os aplicativos desejados ou quem procura um console robusto dedicado a jogos pesados."
+  },
+  {
+    "id": "B09J6JCT6V",
+    "asin": "B09J6JCT6V",
+    "titulo": "Escova Polvo para Cabelos Cacheados Bella Net, 8 Pontas Flexíveis",
+    "imagem": "https://m.media-amazon.com/images/I/61zsW3WKeML._AC_SL1200_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B09J6JCT6V?tag=mdm0c7-20",
+    "descricao": "A escova é adequada para todos os tipos de cabelos.. Possui cerdas flexíveis e separadas que destacam facilmente a escova sem puxar e danificar o cabelo.. À prova d'água e fácil de limpar.. Marca: BELLA NET"
   }
 ];
