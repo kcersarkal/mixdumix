@@ -8006,6 +8006,99 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem quer um headphone over-ear confortável para trabalhar, estudar e ouvir música com graves presentes, valoriza bateria para semanas inteiras longe da tomada, alterna entre notebook e celular e faz questão de poder usar cabo quando precisar.",
     "para_quem_nao_e": "Para quem precisa de cancelamento ativo de ruído (ANC) para abafar motores de avião ou ônibus barulhentos, busca acabamento metálico premium com case rígido incluso ou exige codecs sem fio de alta resolução."
+  },
+  {
+    "asin": "B087CT8PWY",
+    "id": "mouse-gamer-logitech-g203-lightsync-preto",
+    "titulo": "Mouse Gamer Logitech G203 LIGHTSYNC RGB (Preto, 8.000 DPI, 6 Botões)",
+    "subtitulo": "Leveza de 85 gramas, clique firme com molas metálicas e precisão de até 8.000 DPI para jogar e trabalhar sem complicação.",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/mouse-gamer-logitech-g203-lightsync-preto.jpg",
+    "data_revisao": "2026-11-26",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "O Logitech G203 LIGHTSYNC Preto é a escolha certa para quem quer um mouse com fio preciso, leve e durável tanto para jogos competitivos quanto para o trabalho no dia a dia, sem precisar investir em modelos cheios de firulas caras. Com sensor ajustável de 200 a 8.000 DPI, taxa de resposta de 1.000 Hz e seis botões programáveis com tensionamento mecânico por molas, ele entrega controle consistente em um formato clássico fácil de acostumar.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B087CT8PWY?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela frustração de tentar mirar rápido em um jogo ou ajustar um recorte preciso em um editor e sentir o cursor falhar, pular pixels ou responder atrasado? E pior ainda quando o clique parece mole demais, fazendo você perder o tempo certo da ação ou cansar os dedos depois de poucas horas na frente do computador.",
+      "O Logitech G203 LIGHTSYNC resolve exatamente isso apostando no essencial bem feito. Ele combina um sensor óptico de nível para jogos, ajustável de 200 a 8.000 DPI segundo a Logitech, com taxa de transmissão USB de 1.000 Hz (1 ms). Na prática, isso quer dizer que cada movimento da sua mão chega à tela praticamente sem atraso perceptível, mantendo o cursor estável seja para movimentos curtos em planilhas e edição de imagens, seja para giros rápidos em partidas online.",
+      "No uso diário, um detalhe que faz bastante diferença é o sistema de tensionamento mecânico com molas de metal nos botões esquerdo e direito. Em vez de um clique frouxo, a resposta fica mais firme, rápida e uniforme de um clique para o outro. Além dos dois botões principais e da roda de rolagem clicável, há um botão dedicado logo abaixo do scroll para alternar a sensibilidade na hora e dois botões laterais no polegar — todos os 6 botões podem ser configurados no software gratuito Logitech G HUB.",
+      "De acordo com análises técnicas do Tecnoblog e do Adrenaline, o formato simétrico herdado de modelos clássicos da marca torna o G203 muito confortável principalmente para quem usa pegada em garra (claw) ou com a ponta dos dedos (fingertip), ajudado pelo peso leve de 85 gramas segundo a fabricante. Uma dica prática de uso: configure dois ou três níveis de DPI no Logitech G HUB e salve na memória interna do mouse (ele armazena até 5 perfis, segundo a Logitech) — por exemplo, um patamar mais baixo para precisão no trabalho e outro mais rápido para jogos — e troque tudo com um toque no botão superior sem precisar abrir programa nenhum depois.",
+      "Para completar, a iluminação RGB LIGHTSYNC traz cerca de 16,8 milhões de cores em ondas personalizáveis que podem até acompanhar o áudio ou o conteúdo da tela, e o cabo USB de 2,1 metros dá folga suficiente mesmo quando o gabinete fica embaixo da mesa. Vale apenas reparar na ergonomia: embora o corpo tenha desenho simétrico, os dois botões extras ficam no lado esquerdo, sendo mais naturais para destros, e mãos muito grandes que apoiam a palma inteira podem achar as dimensões compactas (116,6 × 62,1 × 38,2 mm).",
+      "Um último cuidado: confira na página do produto se você está selecionando exatamente a versão Logitech G203 LIGHTSYNC na cor Preta (código 910-005793), que é um modelo com fio USB — ou seja, não usa pilhas nem precisa recarregar, mas exige uma porta USB livre no computador ou notebook."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Logitech G / G203 LIGHTSYNC (910-005793 - Preto)"
+      },
+      {
+        "chave": "Conectividade e Cabo",
+        "valor": "Com fio USB | Comprimento do cabo: 2,1 m, segundo a Logitech"
+      },
+      {
+        "chave": "Resolução do Sensor",
+        "valor": "200 a 8.000 DPI ajustáveis (até 5 perfis na memória interna via Logitech G HUB)"
+      },
+      {
+        "chave": "Taxa de Transmissão USB (Polling Rate)",
+        "valor": "1.000 Hz (1 ms), segundo a Logitech"
+      },
+      {
+        "chave": "Microprocessador e Dados USB",
+        "valor": "ARM de 32 bits | Formato de dados USB de 16 bits/eixo, segundo a fabricante"
+      },
+      {
+        "chave": "Botões",
+        "valor": "6 botões programáveis (cliques principais com tensionamento mecânico por molas de metal)"
+      },
+      {
+        "chave": "Iluminação",
+        "valor": "RGB LIGHTSYNC personalizável (aprox. 16,8 milhões de cores e efeito onda de cores)"
+      },
+      {
+        "chave": "Dimensões (C × L × A)",
+        "valor": "116,6 × 62,1 × 38,2 mm, segundo a Logitech"
+      },
+      {
+        "chave": "Peso",
+        "valor": "85 gramas (somente o mouse), segundo a fabricante"
+      },
+      {
+        "chave": "Requisitos de Sistema",
+        "valor": "Porta USB | Windows 7 ou posterior, macOS 10.13 ou posterior ou ChromeOS"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "1 mouse Logitech G203 LIGHTSYNC e documentação do usuário"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "Garantia de hardware limitada de 2 anos pela Logitech (com nota fiscal)"
+      }
+    ],
+    "pontos_fortes": [
+      "Sensor preciso de 200 a 8.000 DPI aliado à taxa de resposta de 1.000 Hz (1 ms), garantindo rastreamento estável em jogos e tarefas de precisão",
+      "Sistema de tensionamento por molas de metal nos botões principais que deixa o clique firme, rápido e consistente",
+      "Corpo leve de 85 gramas com formato clássico fácil de controlar por horas sem fadiga no pulso",
+      "Seis botões programáveis e memória interna para salvar até 5 perfis de sensibilidade pelo software Logitech G HUB",
+      "Iluminação RGB LIGHTSYNC personalizável com efeitos dinâmicos de ondas de cores, áudio e tela",
+      "Cabo USB longo de 2,1 metros que alcança gabinetes no chão sem esticar e dispensa pilhas ou recargas"
+    ],
+    "pontos_atencao": [
+      "Tamanho compacto (116,6 mm de comprimento), podendo ficar curto para quem tem mãos muito grandes e usa pegada palm (palma inteira apoiada)",
+      "Apesar do desenho simétrico, os dois botões laterais ficam apenas do lado esquerdo, favorecendo o uso com a mão direita",
+      "Modelo exclusivamente com fio USB, exigindo porta livre e gerando cabo sobre a mesa",
+      "Personalização completa de macros, perfis e efeitos RGB depende da instalação do software Logitech G HUB"
+    ],
+    "para_quem_e": "Para quem procura um mouse gamer e de uso diário leve, preciso e confiável, gosta de formato clássico para pegada claw ou fingertip, quer botões laterais e troca rápida de DPI sem se preocupar com bateria.",
+    "para_quem_nao_e": "Para quem prefere mouse sem fio para deixar a mesa totalmente livre de cabos, tem mãos muito grandes com pegada palm ou procura botões laterais configuráveis para uso com a mão esquerda."
   }
 ];
 
