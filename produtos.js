@@ -8099,6 +8099,107 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem procura um mouse gamer e de uso diário leve, preciso e confiável, gosta de formato clássico para pegada claw ou fingertip, quer botões laterais e troca rápida de DPI sem se preocupar com bateria.",
     "para_quem_nao_e": "Para quem prefere mouse sem fio para deixar a mesa totalmente livre de cabos, tem mãos muito grandes com pegada palm ou procura botões laterais configuráveis para uso com a mão esquerda."
+  },
+  {
+    "asin": "B0D5J4JBLK",
+    "id": "cafeteira-eletrica-philco-pcf40a-40-cafezinhos-1-5l-127v",
+    "titulo": "Cafeteira Elétrica Philco PCF40A 40 Cafezinhos 1,5L (Preto, 950W, 127V)",
+    "subtitulo": "Jarra grande de 1,5 litro para passar café para a casa inteira ou para a equipe do escritório de uma só vez",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/cafeteira-eletrica-philco-pcf40a-40-cafezinhos-1-5l-127v.jpg",
+    "data_revisao": "2026-11-26",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Philco PCF40A foi feita para quem precisa de volume no preparo diário sem complicação de painéis digitais. Com reservatório de 1,5 litro para até 40 cafezinhos e 950 W de potência, segundo a fabricante, ela junta filtro permanente removível, sistema corta-pingos e placa aquecedora em uma jarra de vidro graduada que vai direto à mesa.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0D5J4JBLK?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela manhã em que a casa está cheia ou o pessoal do escritório chega quase ao mesmo tempo, e quem usa cafeteira pequena acaba tendo que passar duas ou três jarras seguidas para todo mundo conseguir uma xícara? Quando a rotina aperta, ficar reabastecendo o reservatório e trocando filtro no meio do expediente cansa rápido.",
+      "A Cafeteira Elétrica Philco PCF40A resolve exatamente esse gargalo de volume. Com reservatório de 1,5 litro — rendimento informado de até 40 cafezinhos, segundo a Philco —, você prepara uma quantidade generosa de café de uma só vez, usando a jarra de vidro graduada para levar direto à mesa ou deixar na bancada do café.",
+      "No uso diário, ela aposta na praticidade sem custos extras recorrentes: tanto o filtro permanente quanto o porta-filtro são removíveis, o que dispensa a compra contínua de filtros de papel descartáveis e facilita a lavagem na pia logo após o preparo. O reservatório conta com indicadores de nível de água para você dosar exatamente o que vai consumir, e a caixa já traz uma colher dosadora para ajudar a acertar a proporção de pó.",
+      "Para dar conta de 1,5 litro de água sem demora excessiva, o modelo trabalha com 950 W de potência e consumo informado de 0,95 kW/h, segundo a ficha técnica da Philco. Na prática, o sistema corta-pingos entra em cena quando bate a pressa: basta retirar a jarra durante a extração para servir a primeira xícara, que o fluxo é interrompido sem sujar a base. Depois de pronto, a placa de aquecimento mantém a bebida quente enquanto o aparelho estiver ligado, com uma luz indicadora mostrando quando o circuito está ativo.",
+      "É importante alinhar as expectativas antes da compra: segundo as especificações oficiais da Philco, a PCF40A não conta com display digital nem função timer para programar o horário do café pela manhã. Além disso, como toda jarra de vidro sobre placa aquecedora, vale evitar deixá-la vazia sobre a base ligada por longos períodos e tomar cuidado com choques térmicos na hora de lavar o vidro ainda quente.",
+      "Um último cuidado: confirme a voltagem da sua tomada antes de fechar o pedido. O código deste guia (B0D5J4JBLK, referência 053901080 na Philco) corresponde exclusivamente à versão 127V — o aparelho não é bivolt, e a versão 220V é vendida em opção separada no anúncio. Por ter capacidade de 1,5 litro, vale também conferir as medidas exatas na página do produto para garantir folga embaixo de armários aéreos ao abrir a tampa superior."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Philco"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "PCF40A (referência 127V: 053901080 | EAN 127V: 7891356116285)"
+      },
+      {
+        "chave": "Capacidade do Reservatório",
+        "valor": "1,5 litro (rendimento de até 40 cafezinhos, segundo a Philco)"
+      },
+      {
+        "chave": "Potência",
+        "valor": "950 W, segundo a Philco"
+      },
+      {
+        "chave": "Consumo Elétrico Informado",
+        "valor": "0,95 kW/h, segundo a ficha técnica oficial da Philco"
+      },
+      {
+        "chave": "Tensão (Voltagem)",
+        "valor": "127V nesta versão (não é bivolt; existe variante 220V vendida separadamente)"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto (com detalhes em tom cinza/metálico no corpo)"
+      },
+      {
+        "chave": "Jarra",
+        "valor": "Vidro graduado, removível e própria para ser levada à mesa"
+      },
+      {
+        "chave": "Sistema de Filtragem",
+        "valor": "Filtro permanente e porta-filtro removíveis (dispensa filtro de papel)"
+      },
+      {
+        "chave": "Recursos Práticos",
+        "valor": "Sistema corta-pingos, placa de aquecimento, indicadores de nível de água e luz indicadora de funcionamento"
+      },
+      {
+        "chave": "Timer e Display Digital",
+        "valor": "Não possui função timer nem display digital, segundo a Philco"
+      },
+      {
+        "chave": "Acessórios Inclusos",
+        "valor": "Colher dosadora e filtro permanente removível"
+      },
+      {
+        "chave": "Dimensões e Peso",
+        "valor": "Confira as medidas exatas no anúncio antes da compra"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "12 meses (360 dias), segundo a Philco"
+      }
+    ],
+    "pontos_fortes": [
+      "Reservatório amplo de 1,5 litro que prepara até 40 cafezinhos em um único ciclo, ideal para famílias maiores ou escritórios",
+      "Potência de 950 W adequada para aquecer volumes maiores com agilidade",
+      "Filtro permanente e porta-filtro removíveis que dispensam filtro de papel e facilitam a limpeza diária",
+      "Sistema corta-pingos que permite retirar a jarra durante o preparo para servir a primeira xícara sem pingar na base",
+      "Jarra de vidro graduada que vai direto à mesa e placa aquecedora para manter o café quente após o preparo",
+      "Acompanha colher dosadora e conta com indicadores de nível de água e luz indicadora de funcionamento"
+    ],
+    "pontos_atencao": [
+      "Não possui timer programável, display digital nem desligamento automático programado, exigindo acionamento manual",
+      "Não é bivolt: exige atenção redobrada para escolher corretamente entre a versão 127V e a 220V no anúncio",
+      "Jarra de vidro exige cuidado contra quedas e choques térmicos durante o uso e a lavagem",
+      "Por comportar 1,5 litro, ocupa mais altura e espaço na bancada do que cafeteiras compactas de 600 ml a 750 ml"
+    ],
+    "para_quem_e": "Para famílias médias e grandes, anfitriões ou pequenos escritórios que precisam passar bastante café de uma vez só, preferem a economia do filtro permanente lavável e querem operação simples no botão.",
+    "para_quem_nao_e": "Para quem mora sozinho e passa apenas uma ou duas xícaras por dia, para quem faz questão de programar o café com timer digital ou para quem busca jarra térmica de aço inox."
   }
 ];
 
