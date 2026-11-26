@@ -2559,10 +2559,90 @@ window.PEDIDOS = [
     "id": "B0HD97JD76",
     "asin": "B0HD97JD76",
     "titulo": "Apice Ativador e Modelador de Cachos Anti-Frizz Essence Cachos 300ml",
-    "imagem": "https://m.media-amazon.com/images/I/61y4nAcjxpL._AC_SL1500_.jpg",
+    "imagem": "assets/pedidos/B0HD97JD76.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0HD97JD76?tag=mdm0c7-20",
-    "descricao": "DEFINIÇÃO ANTI-FRIZZ: Ativador e modelador desenvolvido para realçar cachos ondulados, cacheados, crespos e cabelos em transição, garantindo fios alinhados e com brilho radiante. TECNOLOGIA SUPERWAVE: Fórmula enriquecida com polissacarídeos de sementes de linhaça e chia que oferece definição máxima e mantém o movimento natural da curvatura dos fios. ENRIQUECIDO COM ÓLEO DE COCO: Tecnologia Superwave e óleo de coco nutrem os fios, controlam o frizz e mantêm os cachos macios e definidos. 100% VEGANO E FÓRMULA LIMPA: Produto sem sulfatos, parabenos, óleo mineral, sal, silicones e corantes, com ativos naturais biodegradáveis e liberado para técnicas low e no poo. REFIL ECONÔMICO E SUSTENTÁVEL: Embalagem refil de 300ml com design sustentável para reabastecer seu produto favorito de forma prática e consciente. USO DIÁRIO SEM ENXÁGUE: Finalizador de uso diário com ação condicionante completa que não necessita de enxágue, proporcionando praticidade na rotina de cuidados com os cachos"
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0HD97JD76?tag=mdm0c7-20",
+        "destaque": "Confira versão refil de 300 ml e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "descricao": "Ativador e modelador sem enxágue da Ápice em refil de 300 ml, com óleo de coco e tecnologia SuperWave para definir cachos, controlar o frizz e hidratar sem pesar.",
+    "categoria": "Saúde & Beleza",
+    "subtitulo": "Definição leve e controle de frizz no dia a dia com fórmula vegana em refil de 300 ml, liberada para Low e No Poo",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O Ativador e Modelador de Cachos Anti-Frizz Ápice Cachos Essence na versão refil de 300 ml é uma opção prática e bem equilibrada para quem busca definição natural sem aquele efeito rígido ou pesado nos fios. Com óleo de coco, tecnologia SuperWave à base de linhaça e chia e pH ácido entre 3,0 e 4,0, ele ajuda a alinhar as cutículas, segurar o frizz e manter a maciez em cabelos ondulados, cacheados, crespos e em transição. Além de ser 100% vegano e liberado para técnicas Low e No Poo, o formato em refil reduz o descarte de plástico na rotina de cuidados capilares.",
+    "visao_geral": [
+      "Quem tem cabelo ondulado, cacheado, crespo ou está passando pela transição capilar sabe como é frustrante passar minutos finalizando os fios e, poucas horas depois, ver o frizz tomar conta ou os cachos perderem a forma. Pior ainda é quando você tenta resolver o problema com um creme mais denso e acaba ficando com o cabelo pesado, opaco ou com aspecto endurecido.",
+      "O Ativador e Modelador Anti-Frizz Cachos Essence da Ápice entra justamente nesse meio-termo entre hidratação leve e definição duradoura. Segundo a Ápice Cosméticos, a fórmula combina óleo de coco — rico em lipídios que ajudam a nutrir e reter a umidade — com a tecnologia SuperWave, um complexo vegetal extraído de sementes de linhaça e chia rico em polissacarídeos que auxilia a desenhar a curvatura mantendo o balanço natural.",
+      "Outro detalhe técnico que faz diferença prática no espelho é a faixa de pH entre 3,0 e 4,0 informada pela fabricante. Esse caráter levemente ácido favorece o alinhamento das cutículas capilares após a lavagem, o que se traduz em mais brilho e menos fios arrepiados ao longo do dia, sem exigir enxágue.",
+      "Para tirar o melhor proveito na rotina diária, vale aplicar nos cabelos ainda bem úmidos logo após o banho, dividindo em mechas e enluvando do comprimento às pontas antes de fazer fitagem ou amassar de baixo para cima. Como a fórmula é vegana e livre de sulfatos, parabenos, óleo mineral, silicones, sal e corantes, ela também funciona bem para quem segue as rotinas Low Poo e No Poo — e, se você quiser uma fixação mais firme em dias úmidos, pode combinar com uma gelatina finalizadora por cima.",
+      "Um último cuidado: repare que esta versão de 300 ml corresponde à embalagem refil flexível, pensada para reabastecer o frasco tradicional da linha ou ocupar menos espaço no banheiro, reduzindo o consumo de plástico. Por ter textura de ativador condicionante leve, quem tem fios muito finos ou tendência à oleosidade deve dosar pequenas quantidades por mecha; antes de concluir o pedido, confirme no anúncio que o volume escolhido é o refil de 300 ml da linha Cachos Essence."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Ápice Cosméticos"
+      },
+      {
+        "chave": "Linha",
+        "valor": "Cachos Essence"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Ativador e modelador de cachos sem enxágue com ação condicionante"
+      },
+      {
+        "chave": "Apresentação e Volume",
+        "valor": "Embalagem refil sustentável de 300 ml"
+      },
+      {
+        "chave": "Indicação Capilar",
+        "valor": "Cabelos ondulados, cacheados, crespos e em transição capilar"
+      },
+      {
+        "chave": "Faixa de pH",
+        "valor": "3,0 a 4,0 (segundo a Ápice Cosméticos)"
+      },
+      {
+        "chave": "Ativos Principais",
+        "valor": "Óleo de Coco e Tecnologia SuperWave (polissacarídeos de linhaça e chia)"
+      },
+      {
+        "chave": "Compatibilidade",
+        "valor": "Liberado para técnicas Low Poo e No Poo"
+      },
+      {
+        "chave": "Composição Livre de",
+        "valor": "Sulfatos, parabenos, óleo mineral, sal, silicones e corantes (100% vegano)"
+      },
+      {
+        "chave": "Uso Infantil",
+        "valor": "Liberado para crianças a partir de 3 anos (segundo a Ápice Cosméticos)"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7898652879647"
+      }
+    ],
+    "pontos_fortes": [
+      "Combina óleo de coco e polissacarídeos de linhaça e chia (Tecnologia SuperWave) para definir sem pesar",
+      "pH entre 3,0 e 4,0 que ajuda a selar as cutículas, controlar o frizz e dar brilho aos fios",
+      "Fórmula 100% vegana, livre de sulfatos, parabenos, silicones, óleo mineral, sal e corantes",
+      "Liberado para rotinas Low Poo e No Poo e indicado também para crianças a partir de 3 anos",
+      "Embalagem refil de 300 ml mais econômica e sustentável para repor o frasco principal"
+    ],
+    "pontos_atencao": [
+      "Por vir em sachê refil flexível, pode exigir transferência para um frasco dosador para facilitar o uso no dia a dia",
+      "Entrega fixação leve a moderada; quem busca cachos muito estruturados ou day after prolongado pode precisar combinar com gelatina",
+      "Em cabelos extremamente finos ou com pouca curvatura, o excesso de produto pode pesar se não for bem dosado"
+    ],
+    "para_quem_e": "Pessoas com cabelos ondulados, cacheados, crespos ou em transição que desejam um finalizador diário vegano, liberado para Low e No Poo, capaz de definir e controlar o frizz mantendo leveza e movimento.",
+    "para_quem_nao_e": "Quem procura fixação extrema de gel de alta rigidez em um único produto ou prefere comprar exclusivamente embalagens rígidas com válvula pump em vez do formato refil."
   },
   {
     "id": "B07H124PJL",
