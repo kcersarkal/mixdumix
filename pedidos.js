@@ -2648,9 +2648,89 @@ window.PEDIDOS = [
     "id": "B07H124PJL",
     "asin": "B07H124PJL",
     "titulo": "E.lixir Blend de 7 Óleos - Brilho e Luminosidade - BEAUTYCOLOR - 40ml",
-    "imagem": "https://m.media-amazon.com/images/I/61VQBO1aD4L._AC_SL1500_.jpg",
+    "imagem": "assets/pedidos/B07H124PJL.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B07H124PJL?tag=mdm0c7-20",
-    "descricao": "Nutre profundamente. Ajuda a restaurar a estrutura capilar danificada. Controla o frizz e dá brilho"
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07H124PJL?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "descricao": "Óleo capilar multifuncional com blend de 7 óleos vegetais, Vitamina E, filtro UV e proteção térmica para nutrir, controlar o frizz e devolver brilho aos fios sem pesar.",
+    "categoria": "Saúde & Beleza",
+    "subtitulo": "Brilho intenso, controle do frizz e proteção contra secador e sol em um frasco compacto de 40 ml para levar na bolsa e usar do pré-shampoo à finalização",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O E.lixir Supreme Blend de 7 Óleos da BEAUTYCOLOR (40 ml) é uma solução prática e multifuncional para quem sofre com pontas ressecadas, frizz e falta de luminosidade no dia a dia. Sua fórmula combina uma base leve de silicones condicionantes com sete óleos e extratos vegetais nutritivos, além de Vitamina E, filtro UV e proteção térmica. Com textura fluida de absorção rápida e frasco compacto com válvula pump, ele funciona tanto antes da lavagem quanto nos fios úmidos antes do secador ou nos cabelos secos para alinhar e dar brilho imediato.",
+    "visao_geral": [
+      "Sabe aquele dia em que você lava e finaliza o cabelo com todo cuidado, mas basta sair na rua ou passar o secador para as pontas ficarem arrepiadas, sem brilho e com aspecto áspero? Quando os fios estão ressecados ou expostos ao calor diário de escova e chapinha, só o condicionador no banho muitas vezes não dá conta de manter a maciez e o alinhamento até o fim do dia.",
+      "É exatamente para resolver esse incômodo que o E.lixir Supreme Blend de 7 Óleos da BEAUTYCOLOR foi formulado. Segundo a fabricante, o sérum reúne sete óleos e extratos vegetais — argan, coco, palma (elaeis), macadâmia, oliva, cálamo e mirra — associados ao óleo de girassol, à Vitamina E antioxidante e a silicones de toque leve. Essa combinação ajuda a selar as cutículas, devolver a maleabilidade e criar uma película protetora que preserva a luminosidade dos fios e ajuda a realçar a cor sem deixar aspecto pesado ou oleoso.",
+      "Um dos maiores atrativos do produto é a versatilidade na rotina. Você pode aplicá-lo antes do banho (como pré-shampoo no comprimento e nas pontas para reduzir o ressecamento da lavagem), nos cabelos úmidos para facilitar o desembaraço e garantir proteção térmica antes do secador ou da prancha, ou ainda nos fios já secos, ao longo do dia, para domar o frizz e dar brilho instantâneo.",
+      "Na prática, o segredo para aproveitar o melhor desse óleo está na dosagem: como se trata de um sérum concentrado com válvula pump, duas ou três gotinhas espalhadas primeiro na palma das mãos costumam bastar para comprimentos médios, concentrando a aplicação do meio para as pontas. A presença de filtro UV na fórmula também ajuda a reduzir os danos causados pela exposição solar, enquanto o frasco de 40 ml cabe facilmente no nécessaire ou na bolsa para retoques rápidos.",
+      "Um último cuidado: embora traga óleos vegetais nutritivos, a base da fórmula conta com silicones condicionantes (como Cyclopentasiloxane e Dimethiconol), portanto não é a opção indicada caso você siga uma rotina estritamente livre de silicones (No Poo). Antes de fechar a compra, confira também no anúncio se a volumetria selecionada é realmente o frasco de 40 ml e da versão Blend de 7 Óleos (frasco dourado/âmbar com foco em brilho intenso), já que a linha E.lixir da BEAUTYCOLOR oferece outras variantes como Argan, Queratina e Óleo de Coco."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "BEAUTYCOLOR (BeautyColor Company)"
+      },
+      {
+        "chave": "Linha / Versão",
+        "valor": "E.lixir Supreme — Blend de 7 Óleos (Brilho Intenso / Brilho e Luminosidade)"
+      },
+      {
+        "chave": "Tipo de Produto",
+        "valor": "Óleo / sérum capilar multifuncional sem enxágue"
+      },
+      {
+        "chave": "Volume da Embalagem",
+        "valor": "40 ml (frasco compacto com válvula pump)"
+      },
+      {
+        "chave": "Blend de 7 Óleos",
+        "valor": "Argan, Coco, Palma (Elaeis), Macadâmia, Oliva, Cálamo e Mirra (com base de Óleo de Girassol)"
+      },
+      {
+        "chave": "Ativos Adicionais",
+        "valor": "Vitamina E (Acetato de Tocoferila) e Filtro UV (Ethylhexyl Methoxycinnamate)"
+      },
+      {
+        "chave": "Proteção Térmica",
+        "valor": "Sim (Thermo Proteção indicada para uso com secador, chapinha e modeladores)"
+      },
+      {
+        "chave": "Base da Fórmula",
+        "valor": "Silicones leves condicionantes (Cyclopentasiloxane e Dimethiconol)"
+      },
+      {
+        "chave": "Indicação Capilar",
+        "valor": "Todos os tipos de cabelo, especialmente fios ressecados, opacos, danificados ou com frizz"
+      },
+      {
+        "chave": "Modos de Uso",
+        "valor": "Pré-lavagem (pré-shampoo), em cabelos úmidos (desembaraço e proteção térmica) e em cabelos secos (finalização e brilho)"
+      },
+      {
+        "chave": "Código EAN",
+        "valor": "7896509973838"
+      }
+    ],
+    "pontos_fortes": [
+      "Uso multifuncional 3 em 1: funciona como pré-shampoo, protetor térmico em fios úmidos e finalizador em fios secos",
+      "Combina blend de 7 óleos nutritivos com Vitamina E antioxidante para combater o ressecamento e dar brilho intenso",
+      "Conta com proteção térmica e filtro UV integrados, ajudando a proteger os fios do secador, chapinha e sol",
+      "Textura leve e de rápida absorção que ajuda a controlar o frizz e alinhar as pontas sem pesar quando bem dosado",
+      "Frasco de 40 ml com válvula pump dosadora, prático para controlar gotas e carregar na bolsa ou em viagens"
+    ],
+    "pontos_atencao": [
+      "Contém silicones na composição (Cyclopentasiloxane e Dimethiconol), não sendo indicado para quem segue rotina estritamente livre de silicones",
+      "Em cabelos muito finos ou oleosos, aplicar quantidade excessiva perto da raiz pode deixar os fios pesados",
+      "O frasco de 40 ml é compacto e voltado para praticidade; quem usa diariamente em cabelos muito longos e volumosos pode precisar repor com maior frequência"
+    ],
+    "para_quem_e": "Pessoas com cabelos ressecados, opacos, com frizz ou que usam secador e chapinha com frequência e buscam um óleo finalizador compacto, leve e versátil com proteção térmica e filtro UV.",
+    "para_quem_nao_e": "Quem segue rotinas capilares 100% livres de silicones (No Poo estrito) ou prefere óleos vegetais puros prensados a frio para umectação noturna intensiva."
   }
 ];
