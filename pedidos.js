@@ -2490,10 +2490,70 @@ window.PEDIDOS = [
     "id": "B09J6JCT6V",
     "asin": "B09J6JCT6V",
     "titulo": "Escova Polvo para Cabelos Cacheados Bella Net, 8 Pontas Flexíveis",
-    "imagem": "https://m.media-amazon.com/images/I/61zsW3WKeML._AC_SL1200_.jpg",
+    "imagem": "assets/logo.png",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B09J6JCT6V?tag=mdm0c7-20",
-    "descricao": "A escova é adequada para todos os tipos de cabelos.. Possui cerdas flexíveis e separadas que destacam facilmente a escova sem puxar e danificar o cabelo.. À prova d'água e fácil de limpar.. Marca: BELLA NET"
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B09J6JCT6V?tag=mdm0c7-20",
+        "destaque": "Confira cor disponível, detalhes do modelo e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "descricao": "Escova modelo polvo da Bella Net com 8 pontas flexíveis e independentes, resistente à água e pensada para desembaraçar e definir cachos sem puxar nem quebrar os fios.",
+    "categoria": "Saúde & Beleza",
+    "subtitulo": "Desembarace nós difíceis e faça fitagem com mais conforto graças às 8 hastes flexíveis que acompanham a curvatura natural dos fios",
+    "data_revisao": "Novembro de 2026",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "A Escova Polvo Bella Net com 8 Pontas Flexíveis é uma aliada prática para quem tem cabelos ondulados, cacheados ou crespos e sofre com puxões, quebra e perda de definição na hora de pentear. Suas oito fileiras independentes de cerdas cedem conforme encontram resistência nos nós, reduzindo o atrito e facilitando tanto o desembaraço no banho quanto a fitagem com creme de pentear. Por ser resistente à água e fácil de limpar, encaixa bem na rotina diária de cuidados capilares sem exigir manutenção complicada.",
+    "visao_geral": [
+      "Quem tem cabelo cacheado, crespo ou ondulado conhece bem a cena: basta entrar na etapa de desembaraçar para o pente comum agarrar nos nós, puxar a raiz e deixar vários fios quebrados na mão. Quando a escova é rígida demais, ela força a curvatura natural do cabelo, aumenta o frizz e transforma um momento simples de autocuidado em uma tarefa demorada e cansativa.",
+      "A proposta da Escova Polvo Bella Net é justamente tirar esse peso da sua rotina por meio da estrutura articulada de 8 pontas flexíveis. Como cada fileira de cerdas se movimenta de maneira independente, a escova se molda ao formato da cabeça e acompanha o trajeto dos fios em vez de travar no primeiro emaranhado, ajudando a soltar nós com menos tração.",
+      "Na prática do dia a dia, ela funciona muito bem em dois momentos: durante o banho, aproveitando o deslize do condicionador ou da máscara de hidratação, e na finalização pós-banho, com os fios bem úmidos e creme de pentear. Ao passar a escova pelas mechas separadas, as oito fileiras funcionam como múltiplos dedos alinhando o cabelo em fitas uniformes — uma mão na roda para quem gosta de fitagem rápida e cachos definidos.",
+      "Outro ponto positivo para a rotina de banheiro é que o modelo é à prova d'água e tem estrutura simples de higienizar. Como não possui almofada fechada de borracha, você consegue enxaguar restos de creme, gelatina ou máscara direto embaixo da torneira sem acumular umidade ou mofo por dentro da escova.",
+      "Um último cuidado: para preservar tanto a saúde dos seus fios quanto a durabilidade das cerdas, evite usar a escova polvo com força no cabelo totalmente seco e comece sempre desembaraçando das pontas em direção à raiz. Antes de fechar a compra, confira também no anúncio a cor disponível do lote e se a trava reguladora traseira acompanha esta versão específica da Bella Net."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca",
+        "valor": "Bella Net"
+      },
+      {
+        "chave": "Tipo de Escova",
+        "valor": "Escova desembaraçadora e finalizadora modelo polvo"
+      },
+      {
+        "chave": "Estrutura das Cerdas",
+        "valor": "8 pontas (fileiras) flexíveis e separadas"
+      },
+      {
+        "chave": "Indicação de Uso",
+        "valor": "Todos os tipos de cabelo, com foco em ondulados, cacheados e crespos"
+      },
+      {
+        "chave": "Resistência à Água",
+        "valor": "À prova d'água, própria para uso no banho e lavagem direta"
+      },
+      {
+        "chave": "Cor, Dimensões e Acessórios",
+        "valor": "Confira no anúncio a cor enviada e a presença de presilha reguladora"
+      }
+    ],
+    "pontos_fortes": [
+      "As 8 pontas flexíveis se movimentam de forma independente e reduzem os puxões ao desembaraçar",
+      "Ajuda a alinhar as mechas durante a fitagem, favorecendo a definição de cabelos cacheados e crespos",
+      "Estrutura à prova d'água que permite usar no chuveiro junto com condicionador ou máscara",
+      "Fácil de enxaguar e limpar, sem almofada interna que acumula água ou restos de creme",
+      "Versátil para diferentes curvaturas e comprimentos de cabelo, inclusive uso infantil com fios molhados"
+    ],
+    "pontos_atencao": [
+      "Não é a melhor escolha para escovar cabelos secos à força, pois foi pensada para deslizar com fios úmidos ou com produto",
+      "A firmeza das hastes pode variar conforme a regulagem ou presença da trava traseira — confirme esse detalhe no anúncio",
+      "Cabelos muito curtos ou extremamente finos e lisos podem não aproveitar tanto a separação em oito fileiras"
+    ],
+    "para_quem_e": "Pessoas com cabelos cacheados, crespos, ondulados ou em transição capilar que querem desembaraçar os fios úmidos sem dor e ganhar agilidade na fitagem do dia a dia.",
+    "para_quem_nao_e": "Quem procura uma escova térmica redonda para modelar com secador, uma escova raquete almofadada para pentear fios lisos a seco ou um modelo profissional de cerdas naturais."
   },
   {
     "id": "B0HD97JD76",
