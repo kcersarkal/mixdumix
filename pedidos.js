@@ -2494,5 +2494,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B09J6JCT6V?tag=mdm0c7-20",
     "descricao": "A escova é adequada para todos os tipos de cabelos.. Possui cerdas flexíveis e separadas que destacam facilmente a escova sem puxar e danificar o cabelo.. À prova d'água e fácil de limpar.. Marca: BELLA NET"
+  },
+  {
+    "id": "B0HD97JD76",
+    "asin": "B0HD97JD76",
+    "titulo": "Apice Ativador e Modelador de Cachos Anti-Frizz Essence Cachos 300ml",
+    "imagem": "https://m.media-amazon.com/images/I/61y4nAcjxpL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0HD97JD76?tag=mdm0c7-20",
+    "descricao": "DEFINIÇÃO ANTI-FRIZZ: Ativador e modelador desenvolvido para realçar cachos ondulados, cacheados, crespos e cabelos em transição, garantindo fios alinhados e com brilho radiante. TECNOLOGIA SUPERWAVE: Fórmula enriquecida com polissacarídeos de sementes de linhaça e chia que oferece definição máxima e mantém o movimento natural da curvatura dos fios. ENRIQUECIDO COM ÓLEO DE COCO: Tecnologia Superwave e óleo de coco nutrem os fios, controlam o frizz e mantêm os cachos macios e definidos. 100% VEGANO E FÓRMULA LIMPA: Produto sem sulfatos, parabenos, óleo mineral, sal, silicones e corantes, com ativos naturais biodegradáveis e liberado para técnicas low e no poo. REFIL ECONÔMICO E SUSTENTÁVEL: Embalagem refil de 300ml com design sustentável para reabastecer seu produto favorito de forma prática e consciente. USO DIÁRIO SEM ENXÁGUE: Finalizador de uso diário com ação condicionante completa que não necessita de enxágue, proporcionando praticidade na rotina de cuidados com os cachos"
   }
 ];
