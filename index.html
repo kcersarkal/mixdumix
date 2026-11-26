@@ -2230,7 +2230,7 @@ function renderPedidos() {
             ${heroDesc ? `<p class="pedido-hero-desc">${escapeHtml(heroDesc)}</p>` : ""}
             <div class="pedido-hero-actions">
               <a class="btn-dest-default" style="width:auto;min-width:0;max-width:none;display:inline-flex;align-items:center;gap:8px;padding:12px 24px;border-radius:var(--radius-sm);text-decoration:none;font-weight:700;font-size:14px;" href="?pedido=${escapeHtml(heroId)}" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedido', '${escapeHtml(heroId)}');return false;}">
-                Ler análise
+                Ver produto
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
               </a>
               <button type="button" class="btn-secondary" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;font-size:14px;cursor:pointer;" onclick="compartilharPedidoHero('${escapeHtml(heroId)}', '${escapeHtml(hero.titulo)}', this)">
@@ -2252,7 +2252,7 @@ function renderPedidos() {
     const desc = (p.descricao && p.descricao.trim()) ? p.descricao : "";
 
     return `
-      <article class="article-card" onclick="navigate('pedido', '${escapeHtml(pid)}')" tabindex="0" role="button" aria-label="Ler análise sobre ${escapeHtml(p.titulo)}" onkeydown="if(event.key==='Enter'){navigate('pedido', '${escapeHtml(pid)}');}">
+      <article class="article-card" onclick="navigate('pedido', '${escapeHtml(pid)}')" tabindex="0" role="button" aria-label="Ver produto ${escapeHtml(p.titulo)}" onkeydown="if(event.key==='Enter'){navigate('pedido', '${escapeHtml(pid)}');}">
         <div class="article-card-thumb">
           <span class="article-badge" style="background:var(--primary-light);color:var(--primary);border:1px solid var(--primary-border);font-weight:700;">Pedido</span>
           <img src="${escapeHtml(img)}" onerror="this.onerror=null;this.src='assets/logo.png'" alt="${escapeHtml(p.titulo)}" loading="lazy">
@@ -2263,7 +2263,7 @@ function renderPedidos() {
           <div class="article-card-footer" style="margin-top:auto;">
             <span class="read-label">Pedido da Comunidade</span>
             <span class="btn-read-cta">
-              Ler análise
+              Ver produto
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </span>
           </div>
