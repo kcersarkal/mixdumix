@@ -8302,6 +8302,103 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem mora sozinho, casais ou famílias pequenas que buscam uma air fryer de 4 litros prática para o dia a dia, querem acompanhar o preparo pelo visor sem abrir o cesto e valorizam limpeza rápida com painel simples.",
     "para_quem_nao_e": "Para famílias grandes que precisam de modelos de 6 a 12 litros, para quem exige painel digital com receitas programadas ou para quem precisa de aparelho 220V ou bivolt."
+  },
+  {
+    "asin": "B07K986YLL",
+    "id": "webcam-logitech-c920s-pro-hd-full-hd-1080p",
+    "titulo": "Webcam Full HD Logitech C920s Pro HD (1080p, Tampa de Privacidade, Microfone Estéreo)",
+    "subtitulo": "Imagem nítida em 1080p, correção automática de luz e tampa física de privacidade para encerrar reuniões e aulas sem dor de cabeça.",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/webcam-logitech-c920s-pro-hd-full-hd-1080p.jpg",
+    "data_revisao": "2026-11-27",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Logitech C920s Pro HD é a escolha segura para quem trabalha em home office, faz aulas online ou grava apresentações e cansou da imagem granulada das câmeras embutidas em notebooks. Ela combina gravação Full HD a 30 qps, foco automático com lente de vidro de cinco elementos, microfones estéreo e uma tampa física de privacidade que cobre a lente com um simples movimento quando a chamada termina.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B07K986YLL?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela sensação desconfortável de entrar em uma reunião de trabalho ou aula importante e perceber que a câmera do notebook deixa seu rosto lavado, escuro ou todo quadriculado? Esse é exatamente o problema que faz tanta gente procurar uma webcam dedicada logo nas primeiras semanas de home office.",
+      "A Logitech C920s Pro HD resolve isso sem exigir conhecimento técnico. Basta plugar o cabo USB-A no computador para começar a usar em chamadas no Zoom, Google Meet ou Microsoft Teams, com resolução Full HD 1080p a 30 quadros por segundo (ou HD 720p a 30 qps) e foco automático que mantém o rosto nítido mesmo quando você se mexe na cadeira.",
+      "Um detalhe que faz diferença na rotina é o obturador físico de privacidade que acompanha o modelo — justamente o diferencial que separa a C920s da antiga C920. Em vez de improvisar fita adesiva ou ficar na dúvida se a chamada encerrou mesmo, você só gira a tampa frontal sobre a lente e tem certeza visual de que ninguém está vendo o ambiente.",
+      "Na parte óptica, segundo a Logitech, a câmera usa lente de vidro de cinco elementos com campo de visão diagonal de 78°, enquadramento pensado para mostrar você e parte do escritório sem distorcer os cantos. Para quartos ou escritórios com janela atrás ou luminária fraca, a tecnologia RightLight 2 ajusta exposição e contraste automaticamente, enquanto os dois microfones laterais captam áudio em estéreo com alcance de até 1 metro, segundo a fabricante.",
+      "No review publicado pelo Canaltech, o modelo se destacou pelo bom equilíbrio de cores e pelo avanço na captação de áudio em relação à geração anterior, embora os microfones sensíveis possam captar ruídos externos se a casa estiver movimentada. Uma dica prática de uso: instale o aplicativo gratuito Logi Tune (ou o Logitech Capture) para travar o foco, ajustar o zoom digital de até 1,2x e acertar o balanço de branco antes de reuniões longas — e use um clipe bem apoiado no topo do monitor ou a rosca padrão de 1/4 de polegada caso queira montá-la em um tripé de mesa.",
+      "Um último cuidado: confira na página do produto se o modelo corresponde ao código 960-001257 (versão C920s com tampa de privacidade inclusa) e verifique as portas do seu computador, já que ela vem com cabo fixo USB-A de 1,5 metro, segundo a Logitech — se o seu notebook tiver apenas entradas USB-C, você vai precisar de um adaptador ou hub."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Logitech / C920s HD Pro Webcam (P/N 960-001257 - Preto)"
+      },
+      {
+        "chave": "Resolução de Vídeo",
+        "valor": "Full HD 1080p a 30 qps ou HD 720p a 30 qps, segundo a Logitech"
+      },
+      {
+        "chave": "Lente e Foco",
+        "valor": "Lente de vidro Full HD de cinco elementos com foco automático (autofocus)"
+      },
+      {
+        "chave": "Campo de Visão e Zoom",
+        "valor": "Campo de visão diagonal de 78° | Zoom digital de 1,2x, segundo a fabricante"
+      },
+      {
+        "chave": "Correção de Luz",
+        "valor": "Correção automática de luz HD com tecnologia RightLight 2"
+      },
+      {
+        "chave": "Áudio Integrado",
+        "valor": "Dois microfones estéreo integrados com alcance de até 1 metro, segundo a Logitech"
+      },
+      {
+        "chave": "Privacidade",
+        "valor": "Tampa/obturador físico de privacidade acoplável"
+      },
+      {
+        "chave": "Conexão e Cabo",
+        "valor": "Plug and Play via USB-A | Cabo anexo de 1,5 metro, segundo a Logitech"
+      },
+      {
+        "chave": "Fixação",
+        "valor": "Clipe universal para monitores/notebooks com rosca padrão para tripé (tripé não incluído)"
+      },
+      {
+        "chave": "Compatibilidade",
+        "valor": "Windows 8 ou posterior, macOS 10.10 ou posterior e ChromeOS (com porta USB-A)"
+      },
+      {
+        "chave": "Dimensões e Peso (com clipe)",
+        "valor": "43,3 mm (A) × 94 mm (L) × 71 mm (P) | 162 g, segundo a Logitech"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "1 webcam com cabo USB-A anexo de 1,5 m, alça de proteção de privacidade e documentação"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "Garantia de hardware limitada de 2 anos pela Logitech"
+      }
+    ],
+    "pontos_fortes": [
+      "Vídeo nítido em Full HD 1080p a 30 qps com lente de vidro de cinco elementos e foco automático ágil",
+      "Tampa física de privacidade inclusa para cobrir a lente com praticidade fora das reuniões",
+      "Correção automática de luz RightLight 2 que melhora a visibilidade em ambientes com pouca iluminação",
+      "Dois microfones estéreo integrados que oferecem voz mais clara que a média de notebooks",
+      "Instalação rápida Plug and Play via USB-A e ajustes extras pelos softwares gratuitos Logi Tune e G HUB",
+      "Clipe universal emborrachado com rosca para tripé, adaptando-se bem a monitores finos, telas maiores e suportes de mesa"
+    ],
+    "pontos_atencao": [
+      "Gravação limitada a 30 quadros por segundo mesmo em 720p, não atendendo quem faz questão de 60 fps em lives",
+      "Microfones integrados captam bem o som ao redor, podendo transmitir ruídos de ambientes barulhentos (para gravações profissionais, um microfone dedicado ainda faz diferença)",
+      "Modo de captura de fotos estáticas de 3 MP é modesto e depende de boa iluminação",
+      "Conector USB-A fixo em cabo de 1,5 metro exige adaptador em notebooks modernos que possuem apenas portas USB-C"
+    ],
+    "para_quem_e": "Para quem faz reuniões frequentes de home office, dá ou assiste a aulas online e quer imagem Full HD confiável, instalação sem complicação e tampa física de privacidade.",
+    "para_quem_nao_e": "Para streamers avançados que exigem transmissão em 60 fps nativos, resolução 4K ou qualidade de estúdio sem microfone externo dedicado."
   }
 ];
 
