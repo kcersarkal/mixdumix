@@ -8200,6 +8200,108 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para famílias médias e grandes, anfitriões ou pequenos escritórios que precisam passar bastante café de uma vez só, preferem a economia do filtro permanente lavável e querem operação simples no botão.",
     "para_quem_nao_e": "Para quem mora sozinho e passa apenas uma ou duas xícaras por dia, para quem faz questão de programar o café com timer digital ou para quem busca jarra térmica de aço inox."
+  },
+  {
+    "asin": "B0DY2FPRJD",
+    "id": "air-fryer-philco-4l-redstone-paf40a-127v",
+    "titulo": "Air Fryer Philco 4L Revestimento Redstone PAF40A (Preto, 1500W, 127V)",
+    "subtitulo": "Acompanhe o ponto dos alimentos pelo visor iluminado sem abrir o cesto e lave a cuba em segundos com o revestimento Redstone",
+    "categoria": "Cozinha & Utilidades",
+    "imagem": "assets/produtos/air-fryer-philco-4l-redstone-paf40a-127v.jpg",
+    "data_revisao": "2026-11-27",
+    "tempo_leitura": "5 min de leitura",
+    "veredito_resumo": "A Air Fryer Philco PAF40A é uma opção prática para quem cozinha porções individuais, para casais ou famílias pequenas e quer escapar do ciclo de abrir a gaveta a cada dois minutos ou sofrer na pia raspando gordura grudada. Com cuba de 4 litros, 1500 W de potência e revestimento antiaderente Redstone, segundo a Philco, o grande destaque está no visor transparente com luz interna para vigiar o preparo sem perder calor.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B0DY2FPRJD?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquela cena clássica de preparar pão de queijo, batata ou um corte de frango na fritadeira elétrica e ficar puxando a gaveta toda hora para espiar se já douraram — e cada vez que você abre, o calor escapa e o preparo atrasa? E depois, na hora de lavar, ainda precisa deixar a cuba de molho porque a pele ou o queijo grudou no fundo?",
+      "A Air Fryer Philco PAF40A ataca justamente essas duas chateações da cozinha diária. Na frente da cuba, ela traz um visor transparente (Visor Glass) combinado com iluminação interna: basta dar uma olhada pela janela para saber exatamente quando o alimento chegou na cor certa, sem interromper a circulação de ar quente. Já por dentro, a cuba e o fundo removível contam com o revestimento Redstone da Philco, pensado para ser mais resistente e impedir que a comida grude com facilidade.",
+      "Na rotina de todos os dias, a capacidade de 4 litros cai bem para quem mora sozinho, casais ou famílias de até três pessoas que querem preparar uma refeição rápida sem ocupar metade da bancada. Os comandos são todos mecânicos em dois botões giratórios: você ajusta a temperatura entre 80 °C e 200 °C e gira o timer de até 60 minutos. Quando o tempo acaba, ela avisa e desliga sozinha, permitindo que você tome banho ou adiante outra tarefa sem medo de passar do ponto.",
+      "Segundo a Philco, o modelo entrega 1500 W de potência, um bom fôlego para aquecer rápido uma cuba de 4 litros e deixar os alimentos dourados por fora com menos óleo. Nas medidas divulgadas no varejo oficial (como Lojas Benoit), o aparelho tem 31 cm de altura, 26,5 cm de largura, 31,3 cm de profundidade e pesa cerca de 3,25 kg — leve o bastante para guardar no armário se você tiver pouco espaço fixo. Ela também conta com base antiderrapante, luz indicadora de funcionamento e proteção contra superaquecimento.",
+      "Para fazer o revestimento Redstone durar bem, vale seguir o manual da marca desde o primeiro dia: faça a cura inicial antes de estrear, use apenas espátulas ou pegadores de silicone ou madeira e passe sempre o lado macio da esponja com detergente neutro na pia — ou leve a cuba e o fundo removível direto à lava-louças, já que a Philco confirma a compatibilidade. Uma dica prática de uso: não lote o cesto até a borda e dê uma chacoalhada ou vire os alimentos na metade do timer para o ar circular por igual. Como o cabo elétrico exposto tem 90 cm, segundo a fabricante, também ajuda planejar um cantinho próximo da tomada.",
+      "Um último cuidado: confira a voltagem e o padrão da sua tomada antes de concluir a compra. O código deste guia (B0DY2FPRJD, referência 053801089 na Philco) refere-se à versão 127V — o modelo não é bivolt, e existe a opção 220V vendida separadamente no anúncio. Vale também checar na página do produto os detalhes de plugue da tomada da sua região para evitar surpresas na instalação."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Fabricante",
+        "valor": "Philco"
+      },
+      {
+        "chave": "Modelo",
+        "valor": "PAF40A (referência 127V: 053801089 | EAN 127V: 7891356123931)"
+      },
+      {
+        "chave": "Capacidade da Cuba",
+        "valor": "4 litros, segundo a Philco"
+      },
+      {
+        "chave": "Potência",
+        "valor": "1500 W, segundo a Philco"
+      },
+      {
+        "chave": "Tensão (Voltagem)",
+        "valor": "127V nesta versão (não é bivolt; existe versão 220V vendida separadamente)"
+      },
+      {
+        "chave": "Revestimento Interno",
+        "valor": "Antiaderente Redstone (cuba e fundo removível)"
+      },
+      {
+        "chave": "Controle de Temperatura",
+        "valor": "Ajustável de 80 °C a 200 °C, segundo a Philco"
+      },
+      {
+        "chave": "Timer e Painel",
+        "valor": "Painel mecânico (analógico) com timer de até 60 minutos e desligamento automático"
+      },
+      {
+        "chave": "Visor e Iluminação",
+        "valor": "Visor transparente (Visor Glass) com luz interna para acompanhar o preparo"
+      },
+      {
+        "chave": "Segurança e Praticidade",
+        "valor": "Proteção contra superaquecimento, base antiderrapante, luz indicadora e peças compatíveis com lava-louças"
+      },
+      {
+        "chave": "Comprimento do Cabo",
+        "valor": "90 cm exposto, segundo a Philco"
+      },
+      {
+        "chave": "Cor",
+        "valor": "Preto"
+      },
+      {
+        "chave": "Dimensões e Peso",
+        "valor": "31 cm (A) x 26,5 cm (L) x 31,3 cm (P) | 3,25 kg (confira os detalhes no anúncio)"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "12 meses (360 dias), segundo a Philco"
+      }
+    ],
+    "pontos_fortes": [
+      "Visor transparente (Visor Glass) com luz interna que permite conferir o ponto da receita sem abrir a cuba e perder calor",
+      "Revestimento antiaderente Redstone com cuba e fundo removíveis, facilitando a limpeza à mão ou na lava-louças",
+      "Potência de 1500 W combinada com cesto de 4 litros, oferecendo aquecimento ágil para o tamanho compacto",
+      "Timer de 60 minutos com desligamento automático e controle de temperatura de 80 °C a 200 °C em botões diretos",
+      "Corpo compacto e leve (cerca de 3,25 kg), fácil de acomodar na bancada ou guardar após o uso",
+      "Sistema de proteção contra superaquecimento e base antiderrapante para uso mais seguro no dia a dia"
+    ],
+    "pontos_atencao": [
+      "Painel totalmente analógico: não oferece display digital nem receitas pré-programadas com um toque",
+      "Cabo de alimentação curto (cerca de 90 cm expostos, segundo a Philco), exigindo tomada próxima à bancada",
+      "Não é bivolt: exige atenção na hora da compra para escolher corretamente a versão 127V ou 220V",
+      "Capacidade de 4 litros pode ficar apertada para famílias grandes ou assados inteiros muito volumosos",
+      "O revestimento Redstone pede cuidados básicos (sem esponjas de aço ou talheres metálicos) para preservar a antiaderência"
+    ],
+    "para_quem_e": "Para quem mora sozinho, casais ou famílias pequenas que buscam uma air fryer de 4 litros prática para o dia a dia, querem acompanhar o preparo pelo visor sem abrir o cesto e valorizam limpeza rápida com painel simples.",
+    "para_quem_nao_e": "Para famílias grandes que precisam de modelos de 6 a 12 litros, para quem exige painel digital com receitas programadas ou para quem precisa de aparelho 220V ou bivolt."
   }
 ];
 
