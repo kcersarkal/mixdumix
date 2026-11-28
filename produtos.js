@@ -8399,6 +8399,99 @@ window.PRODUTOS_INFORMATIVOS = [
     ],
     "para_quem_e": "Para quem faz reuniões frequentes de home office, dá ou assiste a aulas online e quer imagem Full HD confiável, instalação sem complicação e tampa física de privacidade.",
     "para_quem_nao_e": "Para streamers avançados que exigem transmissão em 60 fps nativos, resolução 4K ou qualidade de estúdio sem microfone externo dedicado."
+  },
+  {
+    "asin": "B074L9L5KZ",
+    "id": "mouse-sem-fio-logitech-m170",
+    "titulo": "Mouse Sem Fio Logitech M170 (Preto, USB 2,4 GHz, 1.000 DPI)",
+    "subtitulo": "Leve, ambidestro e com pilha para até 12 meses: o mouse sem fio simples para trabalhar no notebook sem depender do touchpad",
+    "categoria": "Tecnologia",
+    "imagem": "assets/produtos/mouse-sem-fio-logitech-m170.jpg",
+    "data_revisao": "2026-11-28",
+    "tempo_leitura": "4 min de leitura",
+    "veredito_resumo": "O Logitech M170 é o mouse sem fio de entrada pensado para quem quer deixar o touchpad do notebook de lado no trabalho, na faculdade ou em casa sem complicação nem fios enrolados na mochila. Segundo a Logitech, ele usa conexão sem fio de 2,4 GHz por receptor USB-A Plug and Play, oferece rastreamento óptico de 1.000 DPI, tem formato compacto ambidestro e alcança até 12 meses de autonomia com apenas uma pilha AA já inclusa.",
+    "links_compra": [
+      {
+        "loja": "Amazon",
+        "url": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=mdm0c7-20",
+        "destaque": "Confira preço, versão e condições de entrega na página do produto",
+        "tipo": "amazon"
+      }
+    ],
+    "visao_geral": [
+      "Sabe aquele momento em que você abre o notebook na mesa da cozinha, na biblioteca ou no escritório improvisado e perde a paciência tentando selecionar células numa planilha ou arrastar arquivos só no touchpad? E quando tenta levar um mouse com fio na mochila, o cabo sempre volta embolado no carregador.",
+      "O Logitech M170 resolve isso apostando no básico bem-feito. Em vez de depender de pareamento Bluetooth ou instalação de drivers, ele traz um minúsculo receptor USB-A Plug and Play de 2,4 GHz: basta encaixar a pecinha no computador para sair usando na hora, com alcance sem fio de até 10 metros, segundo a Logitech — prático tanto para o notebook na sua frente quanto para controlar uma apresentação ou vídeo conectado à TV da sala.",
+      "No dia a dia de quem vive em movimento, o tamanho compacto (97,7 mm de altura por 61,5 mm de largura) e o peso de apenas 69,3 g já com a pilha, segundo a Logitech Brasil, fazem o mouse sumir no bolso da capa do notebook. O formato simétrico e ambidestro se adapta bem tanto a destros quanto a canhotos, e as laterais texturizadas ajudam na firmeza da pegada. Ele já sai da caixa com uma pilha AA pré-instalada que dura até 12 meses, segundo a fabricante, graças ao modo de hibernação automática e ao botão físico de liga/desliga na base.",
+      "Na parte técnica, segundo a Logitech, o sensor óptico entrega resolução de 1.000 DPI (±) com três botões — clique esquerdo, direito e clique na roda de rolagem óptica 2D — e compatibilidade nativa com Windows, macOS, ChromeOS e Linux, além de suporte opcional ao aplicativo Logi Options+ no Windows e macOS. Em guias de compra e análises de mercado (como o Canaltech), o M170 costuma ser lembrado como uma escolha certeira e direta para estudo, escritório e home office, mantendo o foco na praticidade sem tentar competir com mouses silenciosos ou modelos gamers.",
+      "Dois cuidados simples ajudam bastante na rotina: quando terminar o expediente e for guardar o notebook na mochila, desligue a chave na parte de baixo do mouse e encaixe o receptor USB dentro do compartimento da pilha para não correr o risco de perder a pecinha de 1,8 g no fundo da bolsa. E, como acontece com sensores ópticos tradicionais, ele responde bem na maioria das mesas de madeira ou fórmica, mas funciona muito melhor com um mousepad fosco se você trabalha em tampos de vidro ou superfícies muito brilhantes.",
+      "Um último cuidado: confira na página do produto se a cor selecionada corresponde à versão Preto (código de fabricante 910-004940) e verifique se o seu computador ou notebook possui uma porta USB-A livre. Como o M170 funciona exclusivamente via receptor USB de 2,4 GHz e não conta com Bluetooth, notebooks ultrafinos que trazem apenas entradas USB-C vão precisar de um adaptador ou hub."
+    ],
+    "especificacoes": [
+      {
+        "chave": "Marca / Modelo",
+        "valor": "Logitech / M170 (P/N 910-004940 - Preto)"
+      },
+      {
+        "chave": "Conectividade",
+        "valor": "Sem fio de 2,4 GHz via nano receptor USB-A (Plug and Play)"
+      },
+      {
+        "chave": "Alcance Sem Fio",
+        "valor": "Até 10 metros (varia conforme ambiente e condições de uso), segundo a Logitech"
+      },
+      {
+        "chave": "Sensor e Resolução",
+        "valor": "Rastreamento óptico suave | 1.000 DPI (±), segundo a Logitech"
+      },
+      {
+        "chave": "Botões e Rolagem",
+        "valor": "3 botões (esquerdo, direito e botão do meio) | Rolagem linha a linha (volante óptico 2D)"
+      },
+      {
+        "chave": "Alimentação e Autonomia",
+        "valor": "1 pilha AA (pré-instalada/inclusa) | Até 12 meses de duração com botão liga/desliga e hibernação automática, segundo a Logitech"
+      },
+      {
+        "chave": "Design",
+        "valor": "Compacto, simétrico e ambidestro (para destros e canhotos)"
+      },
+      {
+        "chave": "Compatibilidade",
+        "valor": "Windows 10/11 ou posterior, macOS 10.8+, ChromeOS e Linux kernel 2.6+ (requer porta USB-A); suporte opcional ao Logi Options+ (Windows/macOS)"
+      },
+      {
+        "chave": "Dimensões e Peso (Mouse)",
+        "valor": "97,7 mm (A) × 61,5 mm (L) × 35,2 mm (P) | 69,3 g (com pilha), segundo a Logitech Brasil"
+      },
+      {
+        "chave": "Dimensões e Peso (Receptor USB)",
+        "valor": "18,7 mm (A) × 14,4 mm (L) × 6,1 mm (P) | 1,8 g, segundo a Logitech Brasil"
+      },
+      {
+        "chave": "Conteúdo da Embalagem",
+        "valor": "1 mouse sem fio, 1 receptor USB, 1 pilha AA pré-instalada e documentação do usuário"
+      },
+      {
+        "chave": "Garantia Oficial",
+        "valor": "Garantia de hardware limitada de 1 ano pela Logitech"
+      }
+    ],
+    "pontos_fortes": [
+      "Instalação instantânea Plug and Play via receptor USB-A 2,4 GHz com alcance de até 10 metros, segundo a Logitech",
+      "Pilha AA já pré-instalada na caixa com autonomia estimada de até 12 meses e botão físico liga/desliga",
+      "Leve (69,3 g com pilha) e compacto, ideal para carregar na mochila ou pasta de notebook todos os dias",
+      "Formato simétrico e ambidestro, confortável tanto para destros quanto para canhotos",
+      "Compatibilidade ampla e imediata com Windows, macOS, ChromeOS e Linux sem exigir software obrigatório",
+      "Espaço interno junto à pilha para guardar o nano receptor USB com segurança durante viagens"
+    ],
+    "pontos_atencao": [
+      "Não possui conexão Bluetooth: ocupa uma porta USB-A e exige adaptador em notebooks que têm apenas USB-C",
+      "Não é um modelo silencioso (Silent): os cliques e a roda de rolagem produzem o som tradicional de mouse comum",
+      "Tamanho reduzido e perfil baixo favorecem a portabilidade, mas podem cansar quem tem mãos grandes em jornadas longas",
+      "Sensor básico de 1.000 DPI fixos e ausência de botões laterais extras, não sendo indicado para jogos competitivos ou edição gráfica avançada"
+    ],
+    "para_quem_e": "Para quem estuda ou trabalha no notebook ou desktop e quer um mouse sem fio leve, ambidestro, confiável e com bateria de longa duração para tarefas do dia a dia.",
+    "para_quem_nao_e": "Para quem precisa de conexão Bluetooth sem dongle, cliques silenciosos para ambientes compartilhados, ergonomia grande para mãos maiores ou recursos gamers com DPI ajustável."
   }
 ];
 
